@@ -1,0 +1,94 @@
+{
+  "date": "2026-09-10",
+  "label": "FRAMEWORK \u2014 rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "4",
+      "title": "California Powerwalls as a paycheck",
+      "ocr": "Strong",
+      "window": "8\u201311 AM or late morning\u2013afternoon MT",
+      "growth": true,
+      "angle": "Home batteries paid to help the grid during a heatwave",
+      "bullets": [
+        "About 69,000 CA Powerwalls discharged together Sep 9 evening peak",
+        "Combined output topped ~500 MW",
+        "Owners keep backup reserve; programs pay for peak export",
+        "Not in CA? Ask your utility for VPP / on-bill battery"
+      ],
+      "body": "Skip the culture war. Look at the meter.\\n\\nTesla Energy said roughly 69,000 California Powerwall households discharged together during the Sep 9 evening peak. Combined output topped 500 MW.\\n\\nOwners keep a reserve for outages. Programs pay you to export when the grid is stressed. A home battery can be storm backup and a seasonal paycheck.\\n\\nNot in California? Ask your utility for VPP / Power Partner / on-bill battery. Bring the 500 MW headline as proof.\\n\\nFRAMEWORK \u2014 rewrite in your voice before posting.",
+      "links": [
+        "https://www.basenor.com/blogs/news/tesla-vpp-dispatches-500-mw-to-california-grid-during-heatwave"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Suniva $835M South Carolina solar cells",
+      "ocr": "Strong",
+      "window": "8\u201311 AM or early afternoon MT",
+      "growth": false,
+      "angle": "US cell factory \u2192 future panel price independence",
+      "bullets": [
+        "Suniva closed $835M for Laurens County SC cell plant",
+        "~4.5 GW capacity, ~564 jobs, late 2027 target",
+        "With Georgia plant ~5.5 GW US cell capacity",
+        "Ask installer what\u2019s domestic vs import; get warranty entity in writing"
+      ],
+      "body": "Solar on your roof is only as independent as the supply chain behind it.\\n\\nSuniva closed $835M for a Laurens County, SC cell plant: about 4.5 GW, about 564 jobs, late 2027 target. With Georgia, about 5.5 GW US cell capacity.\\n\\nWon\u2019t cut your quote next Tuesday. Over a few cycles it helps stabilize hardware when tariffs and shipping swing.\\n\\nFRAMEWORK \u2014 rewrite in your voice before posting.",
+      "links": [
+        "https://pv-magazine-usa.com/2026/09/09/suniva-raises-835-million-to-drive-4-5-gw-in-new-domestic-cell-capacity/"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "PSE&G $5k home battery + 0% on-bill",
+      "ocr": "Strong",
+      "window": "8\u201311 AM MT",
+      "growth": true,
+      "angle": "Utility cash after federal battery credit closed",
+      "bullets": [
+        "Federal residential battery credit closed for 2026 installs",
+        "PSE&G: $5,000 toward new home battery",
+        "Up to $25,000 remaining at 0% on the utility bill",
+        "Ask your utility for the local equivalent by name"
+      ],
+      "body": "Federal residential battery credit is closed for 2026 installs. Utilities didn\u2019t get the memo.\\n\\nPSE&G GridSmart: $5,000 toward a new home battery plus up to $25,000 at 0% on the bill. No solar required. They can call peak events; you keep the hardware.\\n\\nAsk your utility for the local equivalent. Backup reserve first.\\n\\nFRAMEWORK \u2014 rewrite in your voice before posting.",
+      "links": [
+        "https://pv-magazine-usa.com/2026/08/26/pseg-launches-vpp-pilot-with-5000-home-battery-incentive/"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Rivian Chicago robotaxi tests",
+      "ocr": "OK-Strong",
+      "window": "Late morning\u2013afternoon MT",
+      "growth": false,
+      "angle": "Future ride cost + cheaper autonomy on family EVs",
+      "bullets": [
+        "Rivian collecting data in SF, Miami, Chicago (Uber partnership)",
+        "RAP1 chip testing wrapping in about 6 weeks",
+        "Household stake: ride cost in big cities + cheaper hardware packages"
+      ],
+      "body": "Robotaxi talk usually floats above the kitchen table. This update has a city name and a clock.\\n\\nRivian is collecting robotaxi data in San Francisco, Miami, and Chicago. Custom RAP1 chip testing is wrapping soon.\\n\\nHousehold stake: future ride cost in big cities, and cheaper autonomy hardware on family EVs. Supervised help now; empty seats later.\\n\\nFRAMEWORK \u2014 rewrite in your voice before posting.",
+      "links": [
+        "https://www.thestockobserver.com/2026/09/10/rivian-r2-demand-tops-expectations-as-autonomy-and-robotaxi-plans-advance.html"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Bidirectional EV pilots up to ~$3,200/yr",
+      "ocr": "Strong",
+      "window": "8\u201311 AM or early afternoon MT",
+      "growth": false,
+      "angle": "EV paycheck from pilots \u2014 not a promise",
+      "bullets": [
+        "Some CA pilots: up to about $3,200 per vehicle per year",
+        "Equipment help up to about $13,800 in some lanes",
+        "Ask: approved vehicle/charger, who pays hardware, reserve for tomorrow\u2019s drive"
+      ],
+      "body": "Your car battery can be more than a commute tank.\\n\\nSome California pilots talk up to about $3,200 per vehicle per year exporting EV energy, plus equipment help in some programs. Not guaranteed income.\\n\\nAsk: Is my vehicle and charger approved? Who pays for the gear? What reserve do I keep for tomorrow morning?\\n\\nFRAMEWORK \u2014 rewrite in your voice before posting.",
+      "links": [
+        "https://www.microgridknowledge.com/vehicle-to-grid/article/55400837/in-bidirectional-charging-pilots-ev-drivers-may-earn-up-to-3200-vehicle-year"
+      ]
+    }
+  ]
+}

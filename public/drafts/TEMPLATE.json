@@ -1,0 +1,22 @@
+{
+  "date": "YYYY-MM-DD",
+  "label": "FRAMEWORK \u2014 rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "1",
+      "title": "Title",
+      "ocr": "Strong",
+      "window": "Late morning\u2013afternoon MT",
+      "growth": false,
+      "angle": "One-line angle",
+      "bullets": [
+        "Fact 1",
+        "Fact 2"
+      ],
+      "body": "Full framework draft...",
+      "links": [
+        "https://example.com"
+      ]
+    }
+  ]
+}
