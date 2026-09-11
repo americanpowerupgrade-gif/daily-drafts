@@ -1,0 +1,113 @@
+{
+  "date": "2026-09-11",
+  "label": "FRAMEWORK — rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "1",
+      "title": "Britain £450 plug-in solar / US renter rulebook",
+      "ocr": "Strong",
+      "window": "8–11 AM MT (also late morning)",
+      "growth": true,
+      "angle": "Octopus selling renter plug-in solar; steal CO/NJ portable-solar rules, not a UK plug",
+      "bullets": [
+        "Octopus Energy selling plug-in solar kits from £450 (1×460W) or £650 (2 panels)",
+        "Estimate up to ~£150/yr on two-panel kit; ~5.5yr payback talk with smart export; 800W AC cap",
+        "Colorado HB26-1007: portable solar up to 1,920W; utilities/HOAs limited; HOA rules Jan 1 2027",
+        "NJ Garden State Balcony Solar Act: up to 1,200W; in force Mar 1 2027; landlord/HOA teeth",
+        "US checklist: UL/NRTL listed kit, written permission, outdoor GFCI, daytime loads only"
+      ],
+      "body": "Britain just made solar a renter product.\n\nOctopus Energy is selling plug-in kits that go into a normal outdoor socket. One 460W panel bundle starts at £450. Two panels are £650. No scaffolding. No roof holes. No electrician if you stay under the 800W cap. Track it in the app. Unplug it when the lease ends.\n\nThat is the plot. Not the accent.\n\nOctopus says a two-panel kit can save up to about £150 a year if you actually run the fridge, washer, and TV while the sun is up. Pair export and they talk a 5.5-year payback. It will not run an EV charger or an oven. If the grid dies, it shuts off on purpose so line workers stay alive. Plug-in battery (their Nook Cube) is next year, not this weekend.\n\nUS kitchen-table take for a 38-year-old in a third-floor rental, or a 55+ snowbird in an HOA patio home:\n\nYou will not mail-order a UK three-pin kit and jam it into a Denver GFCI. That is how you pick a fight with a landlord, an insurer, and an inspector.\n\nYou steal the rule.\n\nColorado already wrote it. HB26-1007 is law. Portable-scale solar: listed hardware, anti-islanding so it does not back-feed a dead grid, one system per address, up to 1,920 watts. The utility is not supposed to make you run the old interconnection gauntlet. Unreasonable covenant bans are void. Starting Jan 1, 2027, associations treat this like an energy-efficiency measure they cannot just prohibit.\n\nNew Jersey went further for renters. Governor signed the Garden State Balcony Solar Act. Up to 1,200W, no install permit, no utility approval under the statute, and landlords/HOAs cannot unreasonably block it. Clock starts Mar 1, 2027.\n\nMost of the country is still the old stack: NEC, lease, HOA, insurance. Utah, Virginia, and a handful of others already moved. Do not believe a marketplace listing that says \"plug into the kitchen strip.\"\n\nPractical independence checklist before you spend a dollar:\n\n1) Is the kit UL 3700 / NRTL listed for plug-in PV, not a European balcony special with a travel adapter?\n2) Do you have written landlord or HOA permission, even in states that limit bans?\n3) Dedicated outdoor GFCI, no extension cord through a slider, no wooden-rail death-trap mount.\n4) Daytime loads only. This is fridge/router/TV money. It is not a Powerwall and it is not backup.\n\n35-54 renters and townhome guys: this is the first solar you can actually own. Rooftop is the landlord's asset. A listed plug-in kit is yours. That is the independence product.\n\n55+ line: if you already hate the HOA packet, print HB26-1007 (or your state's equivalent) and ask for reasonable placement rules in writing. Do not pick a war over a railing mount. Patio floor-mount with ballast is how grown-ups start.\n\nFRAMEWORK — rewrite in your voice before posting.",
+      "links": [
+        "https://octopus.energy/press/more-news-press-releases/octopus-to-be-the-first-major-uk-energy-supplier-to-sell-plug-in-solar-to-customers-as-new-rules-come-into-force/",
+        "https://octopus.energy/plug-in-solar-explore/",
+        "https://leg.colorado.gov/bills/hb26-1007",
+        "https://dre.colorado.gov/hb26-1007-summary",
+        "https://pv-magazine-usa.com/2026/09/01/new-jersey-legalizes-plug-in-solar-up-to-1200-w/"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Cybertruck Powershare + Powerwall 3 home backup",
+      "ocr": "Strong",
+      "window": "8–11 AM MT",
+      "growth": false,
+      "angle": "Truck + wall battery can finally share; 3 extra days / ~9 PW of energy; PW3 first",
+      "bullets": [
+        "Tesla: Powerwall 3 + Cybertruck can power the house together (Electrek/Teslarati Sep 10)",
+        "Claim: >3 extra days backup ≈ 9 Powerwalls; CT pack ~123 kWh vs PW 13.5 kWh",
+        "PW2 / Powerwall+ still later this year",
+        "Powerwall homes: Wall Connector only; do not add Powershare Gateway",
+        "~11.5 kW continuous; keep a drive reserve"
+      ],
+      "body": "The truck and the wall battery finally learned to share.\n\nTesla's Cybertruck account said it Thursday: Powerwall 3 and the truck can now power the house together. Claim is more than three extra days of backup. They call it nine extra Powerwalls. The pack math is not marketing fog. Cybertruck holds about 123 kWh. A Powerwall holds 13.5. Nine of those is 121.5. That is the truck's tank, not nine new boxes on the wall.\n\nUntil this week, Powershare could back up a house that had no Powerwall. If you already owned the wall battery, you had to pick one brain. The people who had already spent on Tesla Energy got the worse product. That gap just closed for Powerwall 3.\n\nPowerwall 2 and Powerwall+ are still \"later this year.\" If that is your wall, wait for the app tile. Do not yell at an installer to force it.\n\nKitchen-table read, minus the fan club:\n\nIf you already have Powerwall 3 and a backed-up Wall Connector, this is supposed to be a software path. Tesla's own Powershare page says do not add a Powershare Gateway on a Powerwall system. If a salesperson tries to sell you a Gateway anyway, walk.\n\nIf you do not have a Powerwall, standalone Powershare still needs the Gateway plus Universal Wall Connector. Electrek has seen installs around $4,000. Some owners got horror quotes north of $30,000. Get three bids. Cap draw is about 11.5 kW. That runs a house, not a workshop welder and two dryers.\n\nIndependence rules that actually matter in a Front Range windstorm or a Gulf hurricane:\n\n1) Set a drive reserve so tomorrow's commute still exists.\n2) Critical loads first: fridge, medical, a few lights, internet. Dump the range and the hot tub.\n3) Solar on the backup panel can refill the truck and the wall during an outage if it is wired that way. Confirm it in the single-line drawing, not a vibe.\n4) Do not buy a Cybertruck as a generator substitute. A used Powerwall or a smaller LFP stack is the 55+ product. The truck is the \"I already bought the battery on wheels\" product.\n\n35-54: this is vehicle-to-home you can explain at the table. The car you park at night is three extra days if the wall is already there. That can mean you skip Powerwall #2 and #3.\n\n55+ line: lights that stay on without a gas generator in the driveway. Quiet. No CO. Only if the truck is home. If you drive it to the clinic during a multi-day outage, the wall is what you still have. Size the wall for that truth.\n\nFRAMEWORK — rewrite in your voice before posting.",
+      "links": [
+        "https://electrek.co/2026/09/10/tesla-cybertruck-powershare-powerwall-3-home-backup/",
+        "https://www.teslarati.com/tesla-cybertruck-powershare-powerwall/",
+        "https://www.tesla.com/powershare",
+        "https://energylibrary.tesla.com/docs/Public/More/Powershare/InstallManual/HomeBackup/en-us/GUID-04DE7F20-2290-4489-A9A1-53F639BB85CB.html"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "PG&E ~$17k bidirectional / V2X hardware stack",
+      "ocr": "Strong",
+      "window": "8–11 AM MT",
+      "growth": true,
+      "angle": "Fresh vs Sep 10 $3,200/yr export talk: stacked hardware cash + new approved EV pairs",
+      "bullets": [
+        "PG&E V2X expansion: $2,500 upfront ($3,000 DAC) + $1,500 early adopter (first 250)",
+        "Qualifying dcbel/Wallbox combos: up to $13,000 CEC; early-adopter stack ~$17,000",
+        "New pairs: Leaf, EV9, EV6, EX90, Polestar 3 (+ Ford/Tesla/GM already listed)",
+        "Enroll through June 30, 2027; approved vehicle+charger+aggregator only",
+        "Ask your utility for local V2X/V2H/bidirectional rebate by name"
+      ],
+      "body": "Yesterday's bidirectional post was a maybe-paycheck: up to about $3,200 a year in some California pilots if you export.\n\nThis one is the charger bill.\n\nPG&E expanded Vehicle-to-Everything. More cars. More bidirectional boxes. Real stacked cash if you qualify.\n\nResidential math you can read out loud:\n\n$2,500 up front. $3,000 if you live in a disadvantaged community.\n\nFirst 250 people in: another $1,500.\n\nCertain new dcbel Ara and Wallbox Quasar 2 pairings: up to $13,000 more from a California Energy Commission grant, extra eligibility attached. Electrek's stack for an early adopter is about $17,000.\n\nThat is how a $10k bidirectional wallbox stops being a hobby.\n\nWho just got invited: Nissan Leaf 2018-2025 with a dcbel Ara. Volvo EX90 and Polestar 3, same charger. Kia EV9 (2024 and newer) and EV6 (2025 and newer) with Wallbox Quasar 2. More GM in the chute, including the 2027 Bolt. Ford, Tesla, and other GM were already on the sheet. You do not get to mix and match. Vehicle plus charger plus aggregator have to be the listed combo.\n\nEnrollment window runs through June 30, 2027. Official door is PG&E's V2X page. You will need an electrician with EVITP paper, a permit, and ELRP signup. If you want Hourly Flex Pricing (the \"sell when 4-9 p.m. is ugly\" path), you generally cannot also have rooftop solar on that rate. Backup-only testing still works with solar. Read that twice before you dream of stacking NEM and V2G export.\n\nUS kitchen-table for everyone not on PG&E:\n\nDo not fly to Oakland. Call your utility and ask for the local names: V2X, V2H, bidirectional rebate, REDWDS, vehicle-to-grid pilot. Bring the $17k stack as proof that a serious program writes a hardware check, not a press release.\n\nFour questions before you count money:\n\n1) Is my exact year/model plus charger on an approved list?\n2) Is the cash up-front hardware money, annual export money, or both?\n3) What drive reserve do I keep so Friday's commute still exists?\n4) If I already have solar, which half of the program am I even allowed to join?\n\n35-54: this is the EV paycheck story. The battery in the driveway is a second Powerwall if the wallbox and the tariff exist. The truck payment gets easier when the house is using that pack at 6 p.m. instead of buying peak power.\n\n55+ line: backup first. A Leaf that can keep a fridge and a CPAP alive during a shutoff is independence. The $17k is how some Californians afford the box. If your utility has nothing, do not finance a bidirectional charger on a blog.\n\nFRAMEWORK — rewrite in your voice before posting.",
+      "links": [
+        "https://investor.pgecorp.com/news-events/press-releases/press-release-details/2026/More-California-EV-Owners-Can-Now-Power-Their-Homes-Save-on-Energy-Costs-and-Support-the-Grid-Through-PGEs-Expanded-Vehicle-to-Everything-Program/default.aspx",
+        "https://www.pge.com/en/clean-energy/electric-vehicles/getting-started-with-electric-vehicles/vehicle-to-everything-v2x-pilot-programs.html",
+        "https://electrek.co/2026/09/03/pge-v2x-program-expansion-kia-volvo-nissan-incentives/",
+        "https://chargedevs.com/newswire/pge-expands-its-california-v2x-program/"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Matt Ferrell 2-year battery: $207 bill hit until VPP",
+      "ocr": "Strong",
+      "window": "8–11 AM MT",
+      "growth": false,
+      "angle": "Honest ROI: bill math lost until ConnectedSolutions rented the pack; buy for outages + VPP",
+      "bullets": [
+        "20 kWh Enphase IQ 5P MA: sticker $33,407; net $22,385 after old 30% + $1k state (~$1,119/kWh)",
+        "Last 12 months: battery never cut the bill; ~$207/yr cost from ~16% round-trip under 1-for-1 NEM",
+        "ConnectedSolutions: $1,881 (2024) / $1,634 (2025); net ~$1,550/yr after haircut",
+        "10 outages / 26 months / 51 minutes total; he would buy again for resilience",
+        "Shop tariff + VPP first; 2026 installs may not get his 30% federal math"
+      ],
+      "body": "A YouTuber did the homework most sales decks skip.\n\nMatt Ferrell published his two-year home-battery numbers on Sep 8. Not a lab. His Massachusetts house. 20 kWh of Enphase IQ 5P on the garage wall. He paid for it. Net $22,385 after the old 30% federal credit and a $1,000 state kick-in. About $1,119 for every kWh hanging there.\n\nThen he ran a year of bills twice. Once with the battery. Once with the battery deleted.\n\nThe battery did not save a dollar on the electric bill. Not once.\n\nIt cost him about $207 a year. Why? He has basically 1-for-1 net metering. The grid is a free, nearly perfect \"battery.\" Every kWh he stuffed into his own pack lost about 16% as heat. He paid more than double retail to store sunshine he already owned.\n\nSo why is this not an anti-battery rant?\n\nBecause the utility rented the pack.\n\nConnectedSolutions called it about 40 summer afternoons, 2-3 hours around 5 p.m. Enphase passed 100% of the utility money through (Tesla often takes a cut). He earned $1,881 in 2024 and $1,634 in 2025. Same kWh out the door both years. 2025 paid less because events ran longer, and the program pays average kilowatts, not kilowatt-hours. He has zero say in that.\n\nNet: about $1,550 a year after the $207 haircut, for five years unless they let him re-enroll. If the VPP dies, the hardware recovers maybe 20% over 25 years and then bleeds $200 a year. If it renews, maybe it pays back around year 15. Fuzzy.\n\nHe would still buy it tomorrow.\n\nOutage log: 10 events in 26 months. 51 minutes total. Longest 11 minutes. They often did not notice. That is the product he actually bought. Resilience, not an IRR.\n\nUS kitchen-table filter after the federal residential credit closed:\n\n1) What is your export credit? If it is 1-for-1, a battery will not beat the grid on bill math. If it is generation-only or ugly TOU, the battery can start winning before any VPP.\n2) What will the utility pay to rent it? Get ConnectedSolutions / DSGS / Power Partner / Wattsmart numbers in writing. That check is the ROI in a lot of states.\n3) What reserve do you keep? His 20% means 16 kWh usable. Backup is the point. Empty packs are not independence.\n4) Do not let a salesperson use 2024 federal-credit math on a 2026 install. His $22k net assumed 30% off. Many 2026 installs do not get that.\n\n35-54: this is the \"show me the spreadsheet\" post. Buy a battery because you hate dark fridges and you have a VPP or a nasty peak rate. Do not buy it because a slide said \"payback in 7 years\" with a dead tax credit.\n\n55+ line: 51 minutes of outages is not why you spend $22k. You spend it for the night it is 14 hours and the CPAP plus the insulin fridge. If you cannot say that out loud, wait. If you can, the VPP stipend is gravy, not the meal.\n\nFRAMEWORK — rewrite in your voice before posting.",
+      "links": [
+        "https://undecided.tech/how-my-home-battery-really-performed-2-years-later/"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "National Drive Electric Month starts today",
+      "ocr": "Strong",
+      "window": "8–11 AM MT (plan weekend events)",
+      "growth": false,
+      "angle": "Sep 11–Oct 12 ride-and-drives: sit in a used EV, ask Level 1 / insurance / winter; CO weekend list",
+      "bullets": [
+        "NDEM 2026: Fri Sep 11 through Sun Oct 12; map at driveelectricmonth.org",
+        "~157 listed events; kickoffs include Raleigh NC and Moscow ID today",
+        "CO near-term: Pueblo Sat Sep 12; Crestone + Brighton Sun Sep 13; Denver mid-month",
+        "Practical ask: used Bolt/Leaf/Model 3, overnight home plug, insurance, winter tires, real commute",
+        "Skip cheerleading; keys, seat, three questions, compare to last month's gas"
+      ],
+      "body": "Today starts National Drive Electric Month.\n\nThat is a calendar, not a conversion altar.\n\nSep 11 through Oct 12. Local libraries, co-op parking lots, football tailgates, farmers markets. Official map: driveelectricmonth.org. Plug In America and a pile of local clubs put it on. Some events have test drives. A lot of them have actual owners standing next to the car they make payments on.\n\nThat last part is the product.\n\nDo not go to be inspired. Go to run a kitchen-table audit in a parking lot.\n\nScript for a 40-year-old who still thinks EVs are a coastal toy:\n\n1) Sit in a three-year-old Bolt, Leaf, Niro, or Model 3, not just the new $70k thing on a turntable.\n2) Ask the owner: where do you plug in at home, 120-volt overnight or a wallbox, and what did the electrician bill?\n3) Ask insurance and tires out loud. Winter is a real spec in Colorado and the Upper Midwest.\n4) Ask the commute. Miles per day, not the brochure range. If they road-trip, where do they actually stop.\n5) If they have a truck or a 3-row, ask towing and child seats, not 0-60.\n\nOwner surveys in the Plug In America release say the vast majority of EV drivers plan to stay electric and feel safe. Fine. Believe the person in front of you more than a percentage.\n\nColorado, this weekend is not theoretical:\n\nPueblo EV Experience, Saturday Sep 12.\n\nCrestone Energy Fair showcase and Brighton (Adams County Festival Latino + EV), Sunday Sep 13.\n\nDenver: Volts & Vino on Sep 16, Montbello ride-and-drive Sep 19.\n\nLater: Lakewood Sep 26, United Power in Longmont Sep 26, Lafayette Oct 3, Electrify Longmont Oct 4, Englewood women's night Oct 7.\n\nIf you are not in Colorado, type your city into the official list. Enfield, North Carolina is doing its first-ever showcase on Sep 19 because they sat through a multi-day outage and want neighbors to see a car that can keep a fridge alive. Bemidji's co-op on Oct 1 is pairing rides with charger rebates and off-peak rates. Those are independence events wearing a festival wristband.\n\n35-54: take the teenager. Let them sit in the used one. The second car is how families actually switch, not the $90k halo.\n\n55+ line: you are allowed to ask about charging at the clinic, the church lot, and the grocery run. If nobody can answer without an app sermon, leave. The right owner will talk in minutes and dollars.\n\nNo cheerleading. No culture war. Keys, seat, three questions, go home and run the payment against last month's gas receipts.\n\nFRAMEWORK — rewrite in your voice before posting.",
+      "links": [
+        "https://driveelectricmonth.org/index",
+        "https://driveelectricmonth.org/events-list",
+        "https://www.prweb.com/releases/experience-cost-saving-evs-firsthand-at-national-drive-electric-month-events-starting-sept-11-302873533.html"
+      ]
+    }
+  ]
+}
