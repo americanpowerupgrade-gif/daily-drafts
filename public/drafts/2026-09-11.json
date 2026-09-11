@@ -4,190 +4,188 @@
   "drafts": [
     {
       "id": "1",
-      "title": "Google funds PG&E home VPP \u2014 $5k\u2013$10k heat-pump help",
+      "title": "Illinois will pay about $300 per kWh to put your battery on a scheduled VPP",
       "ocr": "Strong",
-      "window": "Fri evening 8 PM\u2013midnight MT (also weekend late morning)",
+      "window": "Fri evening / Sat morning. National Midwest angle.",
       "growth": true,
-      "angle": "Big tech paying into neighborhood batteries/heat pumps so AI load doesn\u2019t own your bill",
+      "angle": "ComEd / Ameren Illinois storage rebate tied to Scheduled Dispatch VPP under the Clean and Reliable Grid Affordability Act. This is NOT California's Powerwall heatwave VPP and NOT Google/PG&E SHARE. Ki",
       "bullets": [
-        "PG&E + Rewiring America + Google SHARE VPP in Alameda & Santa Clara counties",
-        "Enroll ~21,000 existing Tesla/Sunrun/Renew Home devices; ~12 MW target",
-        "Google-funded discounts: $5,000 off battery-enabled Carrier heat pump; first 25 get $10,000",
-        "Pitch: hyperscalers offset data-center demand with home flexible load \u2014 downward pressure on rates for everyone"
+        "Illinois CRGA path: residential/small commercial ESS rebate about $300/kWh of nameplate through 2029 (steps down later), with ongoing capacity-style compensation often cited around at least $10/kW of average dispatch.",
+        "Catch that honesty requires: rebate eligibility is tied to enrolling in the utility Scheduled Dispatch VPP (ComEd program approved; customer availability widely described as ramping toward 2027). Equipment needs to be dispatch-ready (UL 1741 SB / IEEE 1547-style compliance language in installer guides).",
+        "Ameren Illinois DER bulletin (2026): as of June 1, 2026, ESS rebate eligibility linked to SD VPP participation; summer weekday afternoon dispatch windows expected for BTM systems.",
+        "ComEd solar-on-hourly messaging: solar customers on hourly supply often cited ~30% supply-cost savings vs fixed rate before battery peak shifting."
       ],
-      "body": "Google is writing a check so Bay Area homes can help the grid \u2014 and keep bills from eating AI load growth.\n\nPG&E, Rewiring America, and Google just launched SHARE: a virtual power plant built from regular houses. Home batteries. Smart devices. New battery-enabled heat pumps that store energy and use it when the grid is stressed \u2014 without freezing your living room.\n\nThe kitchen-table part:\n\nThey\u2019re lining up nearly 21,000 devices people already own (Tesla, Sunrun, Renew Home). Google is funding discounts on Carrier\u2019s battery heat-pump system \u2014 $5,000 off for eligible homes in Alameda and Santa Clara counties, and $10,000 for the first 25 who sign up.\n\nThis is the opposite of \u201cdata centers steal your power and leave you the bill.\u201d\n\nIt\u2019s a test of a better deal: the companies building the load help pay for neighborhood flexibility that lowers stress on the wires \u2014 for the people who enrolled and, if it works, for everyone else on the rate.\n\nYou\u2019re in Grand Junction, not San Jose. Steal the idea, not the ZIP code. Ask your co-op or utility: when the next data center or plant shows up, who\u2019s funding home batteries and smart heat so families aren\u2019t the shock absorber?\n\nFRAMEWORK \u2014 rewrite in your voice before posting.",
+      "body": "California already got the viral battery-for-the-grid clip this week. Skip it. You already covered it.\n\nHere is a different story, and it has a price tag a Midwestern family can use.\n\nIllinois is attaching real rebate cash to home batteries that agree to help on hot afternoons. Installer and utility write-ups put the upfront storage rebate around $300 per kilowatt-hour of battery capacity for qualifying residential and small commercial systems, with ongoing pay for making capacity available. The trade is clear: you join a scheduled virtual power plant. The utility can call on your battery in peak windows. You keep backup reserve rules in the fine print. You usually need the right inverter stack and an hourly or eligible supply rate.\n\nThat is not a TED Talk. That is a worksheet.\n\nFor a 55+ household in ComEd or Ameren territory:\n\n1) Ask the installer for the rebate math on a smaller \"essentials\" battery first (fridge, medical devices, lights, router), not only the max upsell.\n2) Read the dispatch window. Summer weekday late afternoon is the usual story. Know what stays reserved for your house.\n3) Price insurance and interconnection the same week. A rebate that looks huge on a flyer can shrink if the install quote is soft.\n\n35-54 families: this is how clean energy pays you twice. Store cheap midday power. Collect the rebate. Help the grid so the region needs fewer panic peakers.\n\nPro battery. Pro solar pair. Pro reading the contract before you celebrate.\n\nFRAMEWORK \u2014 rewrite in your voice before posting.",
       "links": [
-        "https://investor.pgecorp.com/news-events/press-releases/press-release-details/2026/PGE-Rewiring-America-and-Google-Launch-First-of-its-Kind-Virtual-Power-Plant-to-Help-Lower-Costs-for-All-Customers/default.aspx",
-        "https://pv-magazine-usa.com/2026/09/04/pge-and-rewiring-america-announce-google-funded-virtual-power-plant-program/",
-        "https://energyshare.rewiringamerica.org/"
+        "https://redstarelectric.net/virtual-power-plants/",
+        "https://www.anzarenewables.com/blog/ill-energy-storage-virtual-power-plant-program/",
+        "https://www.ameren.com/-/media/files/account/service-options/renewables/illinois/bulletins/2026-04.ashx"
       ]
     },
     {
       "id": "2",
-      "title": "Roanoke schools: solar + batteries = bill cuts + storm shelters",
+      "title": "Colorado medical + wildfire customers: Xcel PSPS battery rebate up to $10,000",
       "ocr": "Strong",
-      "window": "Weekend late morning / Fri evening",
+      "window": "Weekday morning MT. Pair carefully with Framework 3.",
       "growth": true,
-      "angle": "School solar microgrids save tax dollars and keep shelters lit \u2014 grandma/kids independence",
+      "angle": "Xcel Colorado Backup Battery / PSPS rebate page updated Sep 1, 2026: up to $10,000 for qualifying medical-program customers in Tier 2/3 wildfire risk areas. Independence and outage safety, not a healt",
       "bullets": [
-        "Virginia\u2019s first K-12 solar+battery microgrids at Patrick Henry & William Fleming HS",
-        "1 MW solar + 4 MWh batteries each; schools double as emergency shelters",
-        "District solar already on track for $22M+ electric savings / big roof-cost avoidance over 35 years",
-        "No upfront district cost on microgrid piece \u2014 state grant + private match"
+        "Xcel Energy Colorado: rebate up to $10,000 toward permanent whole-home BESS and/or portable BESS for customers who meet ALL of: Xcel CO electric customer, enrolled in Medical Certification or Colorado Medical Exemption Program, live in Tier 2 or Tier 3 wildfire risk area.",
+        "Budget tracker on the utility page (updated 9/01/2026) showed early allocation still open (example snapshot cited ~7% of 2026 budget allocated - re-check live page before post).",
+        "Rebate check timing: typically 4-6 weeks after Permission to Operate; can assign check to installer.",
+        "Distinct from Xcel Renewable Battery Connect (often funding-limited / closed cycles) and from the separate Colorado 10% state battery tax credit (Framework 3)."
       ],
-      "body": "A Virginia school district just made solar-and-batteries feel like common sense for kids and grandparents.\n\nRoanoke City Public Schools already leads Virginia on school rooftop solar \u2014 nearly 9.4 MW planned or in place across dozens of roofs. The bill math is the hook: more than $22 million lower electric costs over 35 years, plus tens of millions avoided in roof work because installs come with new roofs.\n\nNow they\u2019re first in the state to add real batteries: solar-plus-storage microgrids at both high schools, which also serve as official emergency shelters. Each site: about 1 MW of solar and 4 MWh of batteries. When the grid dies, critical loads stay up \u2014 kitchens, lights, the rooms families actually use in a storm.\n\nState emergency grant + private solar partner. School board isn\u2019t inventing a bond fight to prove a point. They\u2019re cutting operating costs and keeping the shelter online.\n\nIf your district still pays full freight for diesel generators and summer AC bills, send them this. Schools are where clean energy stops being a slogan and starts being a lower tax bill and a warm gym when the ice storm hits.\n\nFRAMEWORK \u2014 rewrite in your voice before posting.",
+      "body": "If you are on a medical rate in Colorado and you live in a higher wildfire-risk zip, stop scrolling past the utility PDF.\n\nXcel has a Public Safety Power Shutoff battery rebate that can go up to $10,000 for qualifying households. Permanent whole-home battery, portable battery, or both under the program rules. The eligibility stack is strict on purpose: medical program enrollment plus Tier 2 or Tier 3 wildfire risk. That is not everyone. For the people inside that box, it is one of the strongest independence offers on the Front Range right now.\n\nKitchen-table order:\n\n1) Confirm you are on the Medical Certification Program or Colorado Medical Exemption Program.\n2) Confirm your address is Tier 2 or Tier 3 on Xcel's wildfire map.\n3) Call an installer who has already submitted CO-PSPS Battery Rebate applications in the Solar Portal. Do not be the guinea pig for a brand-new office.\n4) Decide essentials vs whole-home. CPAP, oxygen concentrator, fridge, and lights are a different quote than \"island the HVAC.\"\n\nThis is clean energy as dignity. Keep grandma's medical gear up when the utility cuts a line to stop a fire. No politics. No gadget flex. A check that can make the battery affordable.\n\nFRAMEWORK \u2014 rewrite in your voice before posting.",
       "links": [
-        "https://www.canarymedia.com/articles/solar/virginia-school-district-solar-battery-microgrids",
-        "https://cardinalnews.org/2026/02/26/roanoke-school-division-receives-grant-for-solar-powered-microgrid/"
+        "https://co.my.xcelenergy.com/s/outage-safety/wildfires/power-shutoffs/backup-battery-rebate"
       ]
     },
     {
       "id": "3",
-      "title": "Suniva $835M \u2014 US solar cells in South Carolina",
+      "title": "Colorado's 10% home-battery tax credit clocks out December 31, 2026",
       "ocr": "Strong",
-      "window": "8\u201311 AM MT / Fri evening",
-      "growth": true,
-      "angle": "American-made cells = more supply, jobs, less \u201cpanels only come from overseas\u201d excuse",
+      "window": "Weekend home-project scrollers.",
+      "growth": false,
+      "angle": "State battery storage tax credit timing. Calendar CTA for CO homeowners considering storage in 2026. Stack talk only if honest about Xcel rebate funding windows. Not a Matt Ferrell ROI rehash.",
       "bullets": [
-        "$835M raise for 4.5 GW cell plant in Laurens County, SC",
-        "~564 manufacturing jobs; online late 2027, full ramp 2028",
-        "Total US capacity to 5.5 GW with existing Georgia plant",
-        "Household take: more domestic cells \u2192 healthier solar supply for roofs and community projects"
+        "Colorado offers a 10% state tax credit on qualifying home battery storage systems through Dec 31, 2026 (installer/tax guides; no announced extension as of early Sep write-ups).",
+        "Stacking conversation often includes limited utility rebates when open (Xcel Renewable Battery Connect historically ~$350/kW up to $5,000 when funded) plus any remaining federal treatment for storage. Verify current federal residential status with a tax pro before promising 30%.",
+        "Point: the state clock is a hard date. Waiting for \"next year\" can mean losing the 10% slice."
       ],
-      "body": "American solar just got a factory-sized vote of confidence.\n\nSuniva locked in $835 million to build a 4.5 GW solar-cell plant in Laurens County, South Carolina \u2014 hundreds of manufacturing jobs, late-2027 open, full ramp in 2028. Stack it with their Georgia plant and they\u2019re aiming for 5.5 GW of U.S.-made cells.\n\nWhy a family in Grand Junction cares:\n\nEvery time someone says \u201cwe can\u2019t do solar here because everything\u2019s imported,\u201d point at the Upstate. More domestic cell capacity is how installers stop waiting on overseas queues \u2014 and how rooftop and community solar keep getting cheaper to quote.\n\nThis isn\u2019t a stock tip. It\u2019s a jobs-and-supply story that makes the next Powerwall-and-panels conversation with your neighbor less fragile.\n\nMade-here cells don\u2019t finish the job alone. They do kill the excuse that solar is only someone else\u2019s industry.\n\nFRAMEWORK \u2014 rewrite in your voice before posting.",
+      "body": "Colorado put a date on the calendar for home batteries.\n\nThe state's 10% tax credit on qualifying battery storage runs through December 31, 2026. After that, unless lawmakers extend it, that slice is gone. Utility rebates open and close on their own funding clocks. Federal rules keep shifting. What you can control is whether you get a real quote before the state credit expires.\n\nFor a 60-year-old homeowner with solar already on the roof: this is the year to price the battery as a bill and backup tool, not a science project. Ask for:\n\n1) Installed price with and without the state credit assumed.\n2) Whether any utility battery program is actually open in your zip today (not last year's flyer).\n3) A smaller essentials battery option if the full-house quote makes your stomach drop.\n\nClean energy wins when families act on a deadline that is real. December 31 is real.\n\nFRAMEWORK \u2014 rewrite in your voice before posting.",
       "links": [
-        "https://pv-magazine-usa.com/2026/09/09/suniva-raises-835-million-to-drive-4-5-gw-in-new-domestic-cell-capacity/",
-        "https://solarbuildermag.com/pv-modules/suniva-locks-in-funding-for-4-5-gw-manufacturing-expansion/"
+        "https://harnessoursun.com/colorado-battery-storage-tax-credit-2026/"
       ]
     },
     {
       "id": "4",
-      "title": "BYD cold-weather charge: 20%\u219297% in 12 min at \u221230\u00b0C",
+      "title": "Utah Wattsmart: $1,000 or $2,000 to enroll your solar battery",
       "ocr": "Strong",
-      "window": "Fri evening / weekend",
-      "growth": true,
-      "angle": "Winter range anxiety is the real EV blocker for older drivers \u2014 tech is catching up",
+      "window": "Weekend. Intermountain audience + national \"ask your utility\" CTA.",
+      "growth": false,
+      "angle": "Rocky Mountain Power Wattsmart Battery program (Utah; similar framing ID/WY). Upfront enrollment incentive capped around $1,000 under 10 kW or $2,000 at 10 kW+ after mid-2026 program updates. National",
       "bullets": [
-        "Denza Z9GT demo: after 24h at \u221230\u00b0C, 20% to 97% in ~12 minutes",
-        "Second-gen Blade + Flash Charging; only ~3 min slower than room-temp run",
-        "China already rolling dense flash-charge network",
-        "US take: cold mornings shouldn\u2019t be the reason grandma keeps the gas SUV"
+        "RMP Wattsmart Battery: enroll solar-backed battery; utility helps manage it for the grid; upfront enrollment incentive + ongoing bill credits.",
+        "Utah changes effective June 15, 2026: residential enrollment incentives commonly summarized as $1,000 for single-battery systems under 10 kW and $2,000 for 10 kW+ (caps per household; equipment-cost caps may apply).",
+        "Existing solar customers adding a battery can still enroll under program rules without automatically losing customer-generation treatment (confirm on current RMP FAQ)."
       ],
-      "body": "The EV excuse that still lands at the kitchen table: \u201cIt won\u2019t charge when it\u2019s freezing.\u201d\n\nBYD just put that fear on ice \u2014 literally. After a full day parked at \u221230\u00b0C, their Denza demo jumped from about 20% to 97% in roughly 12 minutes with second-gen Blade battery and Flash Charging. Only a few minutes off the room-temperature run.\n\nYou don\u2019t need the brand badge. You need the plot:\n\nCold-weather charging used to be the deal-breaker for a lot of older drivers and mountain-town families. Battery chemistry + preheat + faster plugs are closing that gap. China is already blanketing cities with those stations. The U.S. will feel it when dealers stop shrugging about January mornings.\n\nIf someone you love still won\u2019t go electric because of a Colorado cold snap, show them the clock, not a lecture.\n\nFRAMEWORK \u2014 rewrite in your voice before posting.",
+      "body": "If you already have rooftop solar in Rocky Mountain Power country, the missing piece is often the battery, and the utility will pay you to bring it online the smart way.\n\nWattsmart Battery is the plain-English version: you install an eligible battery with your solar, you enroll, you get an upfront enrollment check in the $1,000 to $2,000 range depending on system size under the mid-2026 Utah rules, and you earn ongoing bill credits while the utility can tap capacity when the grid is tight. You still keep backup settings. You still own the hardware.\n\nKitchen-table for a family that already hates summer peak rates:\n\n1) Get the solar+battery quote as one project if you do not have storage yet.\n2) Ask the installer to run Wattsmart enrollment paperwork, not \"we will figure incentives later.\"\n3) Size for essentials first if cash is tight. A smaller battery that actually enrolls beats a giant quote that stalls.\n\nThis is how clean energy compounds: panels make power, battery holds it, utility pays you to be a grown-up grid citizen.\n\nFRAMEWORK \u2014 rewrite in your voice before posting.",
       "links": [
-        "https://x.com/i/trending/2097449620955865417"
+        "https://www.rockymountainpower.net/savings-energy-choices/wattsmart-battery-program.html/",
+        "https://www.rockymountainpower.net/content/dam/pcorp/documents/en/rockymountainpower/savings-energy-choices/wattsmart-batteries/UT_Wattsmart_Battery_Program_Change_Notice_5-1-2026.pdf"
       ]
     },
     {
       "id": "5",
-      "title": "98-year-old Larry\u2019s Model Y \u2014 independence, not gadgets",
+      "title": "Ohio permitted 149 MW of solar and 149 MW of battery on a reclaimed mine",
       "ocr": "Strong",
-      "window": "Weekend / late morning",
-      "growth": true,
-      "angle": "EVs + assisted driving as aging-in-place tools for older households",
+      "window": "Weekday late morning.",
+      "growth": false,
+      "angle": "OPSB Aug 20, 2026 approval: Hamden Energy, Vinton County, 149 MW PV + 149 MW / 596 MWh BESS on previously mined land. Brownfield, not farm-vs-solar fight. Grid capacity under rising load. Extremely pr",
       "bullets": [
-        "98-year-old Larry: first car was a 1931 Model A; now Model Y with supervised FSD",
-        "Other seniors reporting high share of assisted miles for errands",
-        "Frame carefully: driver still responsible; independence + safer routine trips",
-        "Fits Brian\u2019s older-household lane \u2014 money and staying mobile"
+        "Ohio Power Siting Board: certificate for Hamden Energy LLC hybrid facility in Clinton Township, Vinton County.",
+        "149 MW solar + co-located 149 MW / 596 MWh battery; ~945 acres inside a 1,336-acre project area on previously mined land (no agricultural land loss framed in OPSB release).",
+        "~300 construction jobs, 11 long-term ops jobs; construction targeted to start later in 2026, in service ~2029.",
+        "Setbacks and decommissioning bond required."
       ],
-      "body": "A 98-year-old named Larry learned to drive on a 1931 Ford Model A. Now he\u2019s running errands in a Tesla Model Y with supervised Full Self-Driving helping on the boring miles.\n\nThat\u2019s not a robotaxi sci-fi post.\n\nThat\u2019s an independence story.\n\nFor a lot of older households, the real fear isn\u2019t \u201cwill I look cool in an EV.\u201d It\u2019s \u201ccan I still get to the pharmacy and church when night driving gets harder.\u201d Assisted driving done honestly \u2014 eyes still on the road, hands ready \u2014 is how some families keep the keys without pretending aging doesn\u2019t happen.\n\nElectric also means charging at home overnight instead of winter gas-station trips. Quiet cabin. Fewer oil changes for kids who already do enough caregiving.\n\nDon\u2019t oversell autonomy. Do tell the truth: for some seniors, the right EV setup is a dignity tool, not a gadget flex.\n\nFRAMEWORK \u2014 rewrite in your voice before posting.",
+      "body": "Everybody argues about solar on farmland. Ohio just permitted a different picture.\n\nHamden Energy won approval for 149 megawatts of solar and 149 megawatts of battery storage on reclaimed mine land in Vinton County. Almost a gigawatt-hour class battery paired with the panels. Hundreds of construction jobs. A brownfield that already took the hit a generation ago now earning its keep as clean capacity.\n\nWhy a household in any state should care:\n\nData centers and heat pumps and EVs are pulling more power. Somebody has to build the supply. The grown-up path is solar where the land is already scarred, plus batteries that shift midday sun into evening peak, so your bill is not the only shock absorber.\n\nPro renewables without a culture war. Mine land to megawatts. That is the post.\n\nFRAMEWORK \u2014 rewrite in your voice before posting.",
       "links": [
-        "https://x.com/i/trending/2097720517872496673"
+        "https://opsb.ohio.gov/news/opsb-approves-energy-projects-in-carroll-vinton-and-clinton-and-fayette-counties",
+        "https://dis.puc.state.oh.us/DocumentRecord.aspx?DocID=7da69140-007b-428d-b93e-ca1bbc54e452"
       ]
     },
     {
       "id": "6",
-      "title": "UK grid delays could add ~\u00a3100 to family bills",
-      "ocr": "OK",
-      "window": "Weekday late morning",
-      "growth": false,
-      "angle": "Pro-renewables: build the wires so cheap wind/solar actually reach homes",
+      "title": "Australia put balcony solar on the ministers' table. Colorado and New Jersey alr",
+      "ocr": "Strong",
+      "window": "Fri evening renter crowd.",
+      "growth": true,
+      "angle": "ABC News Sep 11, 2026: Australian energy ministers agreed to pathways for safe plug-in / balcony solar; timeline pressure by December. US steal-the-rulebook: Colorado HB26-1007 and New Jersey balcony ",
       "bullets": [
-        "UK National Audit Office: constraint costs risk rising hard by 2030",
-        "~\u00a3100 extra per household cited if grid upgrades lag",
-        "50 of 56 Clean Power projects may miss targets without faster wires",
-        "US parallel: same fight \u2014 renewables are cheap; bottlenecks make bills expensive"
+        "ABC (Sep 11): ministers agreed to explore safe deployment of plug-in solar nationwide; report-back by end of year; Solar Citizens pushing July next year legality; UK legalized last month; NZ flagged within 12 months.",
+        "Colorado HB26-1007: portable-scale solar protections, HOA/utility limits, effective mid-2026 path; devices at or under 391W get extra slack; associations treat as energy-efficiency measure on/after Jan 1, 2027.",
+        "New Jersey Garden State Balcony Solar Act: up to 1,200W, landlord/HOA limits, in force Mar 1, 2027 (pv magazine USA).",
+        "US product still needs NRTL/UL-style listing, outdoor GFCI, written permission. Do not mail-order a foreign plug."
       ],
-      "body": "Britain\u2019s problem isn\u2019t that wind and solar got \u201ctoo successful.\u201d\n\nIt\u2019s that the wires didn\u2019t keep up.\n\nA National Audit Office warning: if the big grid upgrade program slips, constraint costs \u2014 paying clean plants to switch off while burning backup elsewhere \u2014 could pile onto household bills. One figure floating around: on the order of \u00a3100 a year for a typical home if the bottleneck wins.\n\nThat\u2019s a pro-clean-energy story if you tell it straight.\n\nCheap generation stuck behind old pipes is how skeptics get to say \u201crenewables raise rates.\u201d The fix isn\u2019t fewer turbines. It\u2019s building the highways so power from windy and sunny places actually reaches kitchens.\n\nSame movie in the American West and Midwest. If your co-op is fighting transmission while your bill climbs, ask which projects unlock lower-cost renewable power for your meter \u2014 not which press release sounds greener.\n\nFRAMEWORK \u2014 rewrite in your voice before posting.",
+      "body": "Australia just admitted the quiet part out loud: if you rent, rooftop solar was never your asset.\n\nEnergy ministers there agreed to work out how plug-in balcony solar can be deployed safely. Deadline talk points at the next ministers meeting by December. Britain already put kits on a shelf. New Zealand is lining up. Renters and apartment dwellers are the point of the policy.\n\nThe United States is not starting from zero. Colorado already passed portable-scale solar rules. New Jersey put a balcony solar act on the calendar for 2027. Other states are moving. The plot is not \"buy a UK kit and force it into a Denver outlet.\" The plot is print the statute, get written permission, use listed hardware on a dedicated outdoor GFCI, and run daytime loads you actually own.\n\n35-54 renters: this is the first solar you can take when the lease ends.\n55+ patio HOA households: ask for reasonable placement in writing. Do not pick a railing war on day one.\n\nClean energy for people who do not own the roof. That is the independence product.\n\nFRAMEWORK \u2014 rewrite in your voice before posting.",
       "links": [
-        "https://x.com/i/trending/2098336318132781135"
+        "https://www.abc.net.au/news/2026-09-11/balcony-solar-to-become-legal-in-australia/107144234",
+        "https://leg.colorado.gov/bills/hb26-1007",
+        "https://pv-magazine-usa.com/2026/09/01/new-jersey-legalizes-plug-in-solar-up-to-1200-w/"
       ]
     },
     {
       "id": "7",
-      "title": "Ireland: home solar/insulation retrofits vs bill shock",
-      "ocr": "OK",
-      "window": "Weekend",
-      "growth": false,
-      "angle": "When rates spike, the durable move is solar + efficiency \u2014 not just switching suppliers",
+      "title": "A Manassas bill hit $281. Data centers are a kitchen-table story",
+      "ocr": "Strong",
+      "window": "Weekday afternoon. Do not stack with Framework 8 as twin rage.",
+      "growth": true,
+      "angle": "Consumer Reports: John Steinbach, Manassas VA, ~$100 to $281. Bloomberg: data centers ~40% of VA electricity in 2024; price spikes in dense markets. Constructive close: VA GS-5 large-load class / PA l",
       "bullets": [
-        "Ireland among Europe\u2019s highest electricity rates; fresh hikes in the news",
-        "Minister points to retrofit schemes \u2014 insulation, solar, windows \u2014 savings talk up to ~\u20ac1,600/yr",
-        "Critics: upfront cost still hard even with grants",
-        "US take: same tension \u2014 grants help, but families need honest payback math"
+        "CR: Steinbach ~40-year Manassas homeowner; Jan 2026 bill $281 vs ~$100 prior month.",
+        "VA: nearly 600 data centers; Bloomberg analysis ~40% of state electricity use in 2024; high-concentration areas saw large multi-year price jumps in that reporting.",
+        "VA SCC: new GS-5 rate class for 25 MW+ customers effective Jan 1, 2027 with high minimum demand-cost responsibility (85% T&D / 60% generation style terms in coverage).",
+        "PA PUC advanced large-load tariff guidance aiming to keep upgrade costs on the big customer."
       ],
-      "body": "Ireland\u2019s electricity prices are brutal. The political advice landed as: retrofit your home \u2014 insulation, better windows, solar \u2014 and you might claw back serious money every year.\n\nSome households heard \u201cup to about \u20ac1,600 a year.\u201d Others heard \u201cI don\u2019t have \u20ac20\u201345k sitting around even after grants.\u201d\n\nBoth reactions are real.\n\nThe clean-energy lesson for American families:\n\nWhen rates jump, shopping suppliers is a Band-Aid. Solar-plus-efficiency is the long fix \u2014 if the financing matches real people, not brochure people. Ask your utility and state energy office for the on-bill or low-interest path, not just the shiny rebate flyer.\n\nPro solar doesn\u2019t mean pretending every attic is ready tomorrow. It means refusing to leave families stuck with forever-high kWh prices and no tools.\n\nFRAMEWORK \u2014 rewrite in your voice before posting.",
+      "body": "John Steinbach did not buy a new hot tub. His Manassas electric bill jumped from about $100 to $281.\n\nConsumer Reports put a face on what a lot of families feel near Data Center Alley. Servers need power around the clock. Somebody pays for the wires and the peakers. Too often that somebody has been the household ratepayer.\n\nHere is the pro-clean, pro-family version of the ending:\n\n1) Big loads should pay for the upgrades they trigger. Virginia's new large-customer rate class and Pennsylvania's large-load guidance are early attempts to say that out loud.\n2) The supply side has to be clean and firm: solar, wind, batteries, and advanced nuclear so growth does not automatically mean dirtier peaks and higher bills.\n3) At home, the hedge is still boring and real: efficiency, solar where you can, a battery if the math works, and a utility that publishes honest rate cases.\n\nNo culture war. No server-farm conspiracy board. A $281 bill and a demand that families stop being the shock absorber.\n\nFRAMEWORK \u2014 rewrite in your voice before posting.",
       "links": [
-        "https://x.com/i/trending/2098177100586893761"
+        "https://www.consumerreports.org/data-centers/ai-data-centers-impact-on-electric-bills-water-and-more-a1040338678/",
+        "https://www.scc.virginia.gov/about-the-scc/newsreleases/release/scc-issues-order-on-dev-biennial-review-2025/scc-rules-in-dev-biennial-review-case.html"
       ]
     },
     {
       "id": "8",
-      "title": "Duke Florida neighborhood battery \u2014 1,500 homes backed up",
+      "title": "Google's $15B Finland AI build is shopping firm clean power, including nuclear t",
       "ocr": "Strong",
-      "window": "Fri evening / storm season mindset",
-      "growth": true,
-      "angle": "Utility-scale neighborhood batteries as community backup \u2014 not just rich-home Powerwalls",
+      "window": "Sunday explainer or weekday late morning.",
+      "growth": false,
+      "angle": "TLDR/CNBC Sep 9-11: Google at least $15B in Finnish AI infrastructure through 2028; 22-year power deal with Fortum; exploring business models that could support new reactors at Loviisa. Kitchen table:",
       "bullets": [
-        "Duke Energy Florida 11 MW Trenton lithium site (Gilchrist County)",
-        "Microgrid upgrade: backup for ~1,500 customers up to ~4 hours",
-        "Auto-islands on outage \u2014 neighborhood generator without diesel for every porch",
-        "Ask your co-op/muni when shared batteries show up for renters too"
+        "Google: at least $15 billion in Finland AI infrastructure through 2028 (CNBC / TLDR Hardware Sep 11 digest).",
+        "22-year power agreement with Fortum; exploring models that could support new nuclear at Fortum's Loviisa site.",
+        "Pocketbook bridge: when big tech buys long-term clean firm power, that is a vote for a grid that can grow without only building gas peakers on the family tab."
       ],
-      "body": "Not every family can write a Powerwall check this year.\n\nThat\u2019s why neighborhood batteries matter.\n\nDuke Energy Florida just upgraded its 11 MW Trenton lithium site west of Gainesville into a real microgrid. About 1,500 nearby customers can get up to four hours of backup when the feeder dies. The battery islands itself automatically \u2014 a community generator that doesn\u2019t need a gas can on every porch.\n\nStorm season math is simple: lights, fridge, CPAP, phone charge. If the utility parks storage where the wires actually fail, renters and fixed-income households aren\u2019t left out of the clean backup story.\n\nIf your co-op only talks \u201cbuy your own home battery,\u201d ask when the shared ones show up. Clean energy that only works for people who already have equity isn\u2019t the win.\n\nFRAMEWORK \u2014 rewrite in your voice before posting.",
+      "body": "AI buildings do not sleep. Your rate case should not be their unlimited credit card.\n\nGoogle just tied a massive Finland compute build (at least $15 billion through 2028 on the public numbers) to a long power deal with utility Fortum, and it is openly exploring paths that could support new nuclear at an existing Finnish site. That is not a science fair. That is a company that needs 24/7 electrons choosing firm clean supply on a multi-decade clock.\n\nWhy a 55-year-old in Colorado should care:\n\nIf the only answer to new load is \"spread it across households,\" bills climb. If the answer is long-term clean power purchase deals, batteries, renewables, and advanced nuclear at scale, there is a path where growth does not automatically punish grandma's AC in July.\n\nStay kitchen-table. No reactor lecture. No politics. More firm clean megawatts is how America runs AI and still keeps families whole.\n\nFRAMEWORK \u2014 rewrite in your voice before posting.",
       "links": [
-        "https://news.duke-energy.com/releases/duke-energy-florida-launches-its-second-battery-facility-capable-of-providing-backup-power-for-customers",
-        "https://www.microgridknowledge.com/microgrids/utility/news/55402511/duke-energy-floridas-trenton-lithium-battery-facility-gets-a-microgrid-upgrade"
+        "https://www.cnbc.com/2026/09/09/google-finland-ai-infrastructure-investment.html"
       ]
     },
     {
       "id": "9",
-      "title": "Battery boom is here \u2014 cheaper cells help home + EV buyers",
-      "ocr": "OK",
-      "window": "Weekday late morning",
+      "title": "Old EV batteries are still working on the Texas grid",
+      "ocr": "Strong",
+      "window": "Sat morning.",
       "growth": false,
-      "angle": "Global battery scale \u2192 lower sticker on EVs and home storage (pro batteries, skip China-panic)",
+      "angle": "B2U Sep 9, 2026: Bexar Martinez 28 MWh repurposed EV batteries serving ERCOT; ~50 MWh in Texas; ~100 MWh CA+TX; 5,000+ packs. Extremely pro EV circular storage. Zero overlap with Cybercab/robotaxi fam",
       "bullets": [
-        "Canary/BNEF-style charting: batteries now center stage for EVs + grid",
-        "Li-ion ~93% cheaper than 2010; ~36% cheaper than 2020",
-        "Grid storage deployments grew ~19\u00d7 from 2020\u20132025 globally",
-        "Household take: scale = lower driveway stickers \u2014 skip the trade-war sermon"
+        "Solar Power World Sep 9: Bexar Martinez BESS near San Antonio delivering 28 MWh to ERCOT in CPS territory; B2U at ~50 MWh repurposed in Texas; targeting 50+ MWh more in ERCOT in six months.",
+        ">5,000 repurposed EV batteries; ~100 MWh across CA and TX; domestic-content ITC bonus / third-party financed per company claims in coverage.",
+        "Waymo-B2U supply agreement earlier in 2026 reinforces second-life path at fleet scale (optional supporting link)."
       ],
-      "body": "The quiet story under every EV and home-battery sale: packs got cheaper because the world finally scaled factories.\n\nCanary Media\u2019s Dan McCarthy put numbers on it this week. Lithium-ion batteries in 2025 were about 93% cheaper than in 2010 \u2014 and still ~36% cheaper than five years earlier. Grid storage deployments exploded nearly 19\u00d7 from 2020 to 2025.\n\nYes, China built most of that capacity. Pocketbook take for a Colorado driveway:\n\nScale is why used EVs and home storage quotes keep drifting down. More kWh for less money is how a normal family gets off gasoline and diesel generators \u2014 not a press conference.\n\nBe glad the learning curve is steep. Ask your installer what today\u2019s kWh price is versus two years ago. That delta is the real headline.\n\nFRAMEWORK \u2014 rewrite in your voice before posting.",
+      "body": "People ask what happens when an EV battery is done with the road.\n\nTexas has a live answer: it keeps working.\n\nB2U brought another project online near San Antonio built from repurposed EV packs. Twenty-eight megawatt-hours serving ERCOT. About 50 megawatt-hours of second-life storage in Texas already, roughly 100 across Texas and California, from more than five thousand packs that still have useful life.\n\nClean energy compounding:\n\n1) The car years cut gasoline.\n2) The second life soaks up cheap solar and wind and gives it back when the grid is tight.\n3) Families on that grid get a more flexible system without pretending every battery must be brand-new forever.\n\nPro EV. Pro storage. Pro using every useful kilowatt-hour twice.\n\nFRAMEWORK \u2014 rewrite in your voice before posting.",
       "links": [
-        "https://www.canarymedia.com/articles/batteries/the-battery-era-is-here-and-china-is-supplying-it"
+        "https://www.solarpowerworldonline.com/2026/09/repurposed-ev-batteries-now-delivering-28-mwh-of-grid-services-to-ercot/",
+        "https://arstechnica.com/science/2026/06/used-waymo-robotaxi-batteries-become-backup-storage-for-power-grids/"
       ]
     },
     {
       "id": "10",
-      "title": "Cybercab vs Uber \u2014 cheaper electric miles in Austin",
-      "ocr": "OK",
-      "window": "Fri evening",
+      "title": "Germany permitted a 15,000-ton LFP plant. VW already bought every ton for 10 yea",
+      "ocr": "Strong",
+      "window": "Weekend deep-scroll.",
       "growth": false,
-      "angle": "Robotaxi cost narrative as mobility bill relief \u2014 pro EV future without ownership lecture",
+      "angle": "IBU-tec / PowerCo LFP cathode material plant approval (Battery-News / EQS early Sep 2026). US kitchen table: more non-China LFP supply helps home-battery and EV quotes over time. Not Suniva. Not Canar",
       "bullets": [
-        "Tesla Cybercab rides starting in Austin alongside Model Y robotaxi fleet",
-        "Early fare chatter: electric robotaxi miles undercutting traditional ride-hail",
-        "ARK-style $0.25/mi long-run talk vs Uber-like $1.50/mi today",
-        "For non-drivers/older folks: eventual cheaper on-demand electric mobility"
+        "German authorities permitted IBU-tec LFP production scale in the 15,000-ton class (confirm exact permitted tonnage from Battery-News Sep 11 / company EQS Sep 7 before post).",
+        "Volkswagen PowerCo offtake reported as locking multi-year volume (coverage: on the order of a decade of output).",
+        "Pocketbook: LFP chemistry is the workhorse for many home batteries and standard-range EVs. More diversified supply is how quotes stop being a hostage story."
       ],
-      "body": "Austin riders are already screenshotting Cybercab fares next to Uber for the same hop \u2014 and the electric robotaxi often looks cheaper, with no tip dance and no awkward small talk.\n\nTake the early demos with a grain of salt. Fleets are small. Geofences are real.\n\nBut the direction matters for families and older folks who don\u2019t want another car payment: electric miles without owning the metal. If robotaxis land near that \u201cquarters per mile\u201d dream some analysts sketch, a lot of household budgets change \u2014 kids\u2019 rides, medical appointments, nights you shouldn\u2019t be driving.\n\nPro EV doesn\u2019t only mean \u201cbuy a Model Y.\u201d It also means cheaper clean mobility showing up when you tap an app.\n\nWatch the receipts, not the keynotes.\n\nFRAMEWORK \u2014 rewrite in your voice before posting.",
+      "body": "Your home battery quote and your next EV payment both care about one boring word: cathode.\n\nGermany just moved a lithium iron phosphate plant forward in the 15,000-ton class, and Volkswagen's battery arm has been reported as locking years of that output. That is not a European trivia night. LFP is the chemistry showing up in a lot of home storage and everyday EVs because it is tough and cost-sensible.\n\nWhen more of that supply comes online outside a single-country bottleneck, families win slowly and quietly: more installers stocking packs, less panic pricing, more \"yes we can install next month.\"\n\nStay kitchen-table. No commodity-trader voice. More LFP capacity is pro-family clean energy infrastructure.\n\nFRAMEWORK \u2014 rewrite in your voice before posting.",
       "links": [
-        "https://x.com/i/trending/2097496859694543089",
-        "https://x.com/i/trending/2097538626879898071"
+        "https://battery-news.de/en/2026/09/11/ibu-tec-receives-approval-for-lfp-production-in-bitterfeld-wolfen/",
+        "https://www.eqs-news.com/news/corporate/ibu-tec-receives-important-permit-from-the-state-administrative-office-another-milestone-in-the-construction-of-europes-largest-lfp-production-plant/e0d9608b-24e4-4751-a0ff-59ee0e41dd4d_en"
       ]
     }
   ],
-  "note": "Deep dig Fri afternoon: Gmail + X news. Replaces morning five for Chrome. Avoid rehash of Powershare/PG&E $17k V2X/Matt Ferrell."
+  "note": "REDO after reviewing Brian's posted posts. Avoids rehash. Fun posts ignored."
 }
