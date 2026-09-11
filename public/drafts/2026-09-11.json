@@ -1,113 +1,193 @@
 {
   "date": "2026-09-11",
-  "label": "FRAMEWORK — rewrite in your voice before posting",
+  "label": "FRAMEWORK \u2014 rewrite in your voice before posting",
   "drafts": [
     {
       "id": "1",
-      "title": "Britain £450 plug-in solar / US renter rulebook",
+      "title": "Google funds PG&E home VPP \u2014 $5k\u2013$10k heat-pump help",
       "ocr": "Strong",
-      "window": "8–11 AM MT (also late morning)",
+      "window": "Fri evening 8 PM\u2013midnight MT (also weekend late morning)",
       "growth": true,
-      "angle": "Octopus selling renter plug-in solar; steal CO/NJ portable-solar rules, not a UK plug",
+      "angle": "Big tech paying into neighborhood batteries/heat pumps so AI load doesn\u2019t own your bill",
       "bullets": [
-        "Octopus Energy selling plug-in solar kits from £450 (1×460W) or £650 (2 panels)",
-        "Estimate up to ~£150/yr on two-panel kit; ~5.5yr payback talk with smart export; 800W AC cap",
-        "Colorado HB26-1007: portable solar up to 1,920W; utilities/HOAs limited; HOA rules Jan 1 2027",
-        "NJ Garden State Balcony Solar Act: up to 1,200W; in force Mar 1 2027; landlord/HOA teeth",
-        "US checklist: UL/NRTL listed kit, written permission, outdoor GFCI, daytime loads only"
+        "PG&E + Rewiring America + Google SHARE VPP in Alameda & Santa Clara counties",
+        "Enroll ~21,000 existing Tesla/Sunrun/Renew Home devices; ~12 MW target",
+        "Google-funded discounts: $5,000 off battery-enabled Carrier heat pump; first 25 get $10,000",
+        "Pitch: hyperscalers offset data-center demand with home flexible load \u2014 downward pressure on rates for everyone"
       ],
-      "body": "Britain just made solar a renter product.\n\nOctopus Energy is selling plug-in kits that go into a normal outdoor socket. One 460W panel bundle starts at £450. Two panels are £650. No scaffolding. No roof holes. No electrician if you stay under the 800W cap. Track it in the app. Unplug it when the lease ends.\n\nThat is the plot. Not the accent.\n\nOctopus says a two-panel kit can save up to about £150 a year if you actually run the fridge, washer, and TV while the sun is up. Pair export and they talk a 5.5-year payback. It will not run an EV charger or an oven. If the grid dies, it shuts off on purpose so line workers stay alive. Plug-in battery (their Nook Cube) is next year, not this weekend.\n\nUS kitchen-table take for a 38-year-old in a third-floor rental, or a 55+ snowbird in an HOA patio home:\n\nYou will not mail-order a UK three-pin kit and jam it into a Denver GFCI. That is how you pick a fight with a landlord, an insurer, and an inspector.\n\nYou steal the rule.\n\nColorado already wrote it. HB26-1007 is law. Portable-scale solar: listed hardware, anti-islanding so it does not back-feed a dead grid, one system per address, up to 1,920 watts. The utility is not supposed to make you run the old interconnection gauntlet. Unreasonable covenant bans are void. Starting Jan 1, 2027, associations treat this like an energy-efficiency measure they cannot just prohibit.\n\nNew Jersey went further for renters. Governor signed the Garden State Balcony Solar Act. Up to 1,200W, no install permit, no utility approval under the statute, and landlords/HOAs cannot unreasonably block it. Clock starts Mar 1, 2027.\n\nMost of the country is still the old stack: NEC, lease, HOA, insurance. Utah, Virginia, and a handful of others already moved. Do not believe a marketplace listing that says \"plug into the kitchen strip.\"\n\nPractical independence checklist before you spend a dollar:\n\n1) Is the kit UL 3700 / NRTL listed for plug-in PV, not a European balcony special with a travel adapter?\n2) Do you have written landlord or HOA permission, even in states that limit bans?\n3) Dedicated outdoor GFCI, no extension cord through a slider, no wooden-rail death-trap mount.\n4) Daytime loads only. This is fridge/router/TV money. It is not a Powerwall and it is not backup.\n\n35-54 renters and townhome guys: this is the first solar you can actually own. Rooftop is the landlord's asset. A listed plug-in kit is yours. That is the independence product.\n\n55+ line: if you already hate the HOA packet, print HB26-1007 (or your state's equivalent) and ask for reasonable placement rules in writing. Do not pick a war over a railing mount. Patio floor-mount with ballast is how grown-ups start.\n\nFRAMEWORK — rewrite in your voice before posting.",
+      "body": "Google is writing a check so Bay Area homes can help the grid \u2014 and keep bills from eating AI load growth.\n\nPG&E, Rewiring America, and Google just launched SHARE: a virtual power plant built from regular houses. Home batteries. Smart devices. New battery-enabled heat pumps that store energy and use it when the grid is stressed \u2014 without freezing your living room.\n\nThe kitchen-table part:\n\nThey\u2019re lining up nearly 21,000 devices people already own (Tesla, Sunrun, Renew Home). Google is funding discounts on Carrier\u2019s battery heat-pump system \u2014 $5,000 off for eligible homes in Alameda and Santa Clara counties, and $10,000 for the first 25 who sign up.\n\nThis is the opposite of \u201cdata centers steal your power and leave you the bill.\u201d\n\nIt\u2019s a test of a better deal: the companies building the load help pay for neighborhood flexibility that lowers stress on the wires \u2014 for the people who enrolled and, if it works, for everyone else on the rate.\n\nYou\u2019re in Grand Junction, not San Jose. Steal the idea, not the ZIP code. Ask your co-op or utility: when the next data center or plant shows up, who\u2019s funding home batteries and smart heat so families aren\u2019t the shock absorber?\n\nFRAMEWORK \u2014 rewrite in your voice before posting.",
       "links": [
-        "https://octopus.energy/press/more-news-press-releases/octopus-to-be-the-first-major-uk-energy-supplier-to-sell-plug-in-solar-to-customers-as-new-rules-come-into-force/",
-        "https://octopus.energy/plug-in-solar-explore/",
-        "https://leg.colorado.gov/bills/hb26-1007",
-        "https://dre.colorado.gov/hb26-1007-summary",
-        "https://pv-magazine-usa.com/2026/09/01/new-jersey-legalizes-plug-in-solar-up-to-1200-w/"
+        "https://investor.pgecorp.com/news-events/press-releases/press-release-details/2026/PGE-Rewiring-America-and-Google-Launch-First-of-its-Kind-Virtual-Power-Plant-to-Help-Lower-Costs-for-All-Customers/default.aspx",
+        "https://pv-magazine-usa.com/2026/09/04/pge-and-rewiring-america-announce-google-funded-virtual-power-plant-program/",
+        "https://energyshare.rewiringamerica.org/"
       ]
     },
     {
       "id": "2",
-      "title": "Cybertruck Powershare + Powerwall 3 home backup",
+      "title": "Roanoke schools: solar + batteries = bill cuts + storm shelters",
       "ocr": "Strong",
-      "window": "8–11 AM MT",
-      "growth": false,
-      "angle": "Truck + wall battery can finally share; 3 extra days / ~9 PW of energy; PW3 first",
+      "window": "Weekend late morning / Fri evening",
+      "growth": true,
+      "angle": "School solar microgrids save tax dollars and keep shelters lit \u2014 grandma/kids independence",
       "bullets": [
-        "Tesla: Powerwall 3 + Cybertruck can power the house together (Electrek/Teslarati Sep 10)",
-        "Claim: >3 extra days backup ≈ 9 Powerwalls; CT pack ~123 kWh vs PW 13.5 kWh",
-        "PW2 / Powerwall+ still later this year",
-        "Powerwall homes: Wall Connector only; do not add Powershare Gateway",
-        "~11.5 kW continuous; keep a drive reserve"
+        "Virginia\u2019s first K-12 solar+battery microgrids at Patrick Henry & William Fleming HS",
+        "1 MW solar + 4 MWh batteries each; schools double as emergency shelters",
+        "District solar already on track for $22M+ electric savings / big roof-cost avoidance over 35 years",
+        "No upfront district cost on microgrid piece \u2014 state grant + private match"
       ],
-      "body": "The truck and the wall battery finally learned to share.\n\nTesla's Cybertruck account said it Thursday: Powerwall 3 and the truck can now power the house together. Claim is more than three extra days of backup. They call it nine extra Powerwalls. The pack math is not marketing fog. Cybertruck holds about 123 kWh. A Powerwall holds 13.5. Nine of those is 121.5. That is the truck's tank, not nine new boxes on the wall.\n\nUntil this week, Powershare could back up a house that had no Powerwall. If you already owned the wall battery, you had to pick one brain. The people who had already spent on Tesla Energy got the worse product. That gap just closed for Powerwall 3.\n\nPowerwall 2 and Powerwall+ are still \"later this year.\" If that is your wall, wait for the app tile. Do not yell at an installer to force it.\n\nKitchen-table read, minus the fan club:\n\nIf you already have Powerwall 3 and a backed-up Wall Connector, this is supposed to be a software path. Tesla's own Powershare page says do not add a Powershare Gateway on a Powerwall system. If a salesperson tries to sell you a Gateway anyway, walk.\n\nIf you do not have a Powerwall, standalone Powershare still needs the Gateway plus Universal Wall Connector. Electrek has seen installs around $4,000. Some owners got horror quotes north of $30,000. Get three bids. Cap draw is about 11.5 kW. That runs a house, not a workshop welder and two dryers.\n\nIndependence rules that actually matter in a Front Range windstorm or a Gulf hurricane:\n\n1) Set a drive reserve so tomorrow's commute still exists.\n2) Critical loads first: fridge, medical, a few lights, internet. Dump the range and the hot tub.\n3) Solar on the backup panel can refill the truck and the wall during an outage if it is wired that way. Confirm it in the single-line drawing, not a vibe.\n4) Do not buy a Cybertruck as a generator substitute. A used Powerwall or a smaller LFP stack is the 55+ product. The truck is the \"I already bought the battery on wheels\" product.\n\n35-54: this is vehicle-to-home you can explain at the table. The car you park at night is three extra days if the wall is already there. That can mean you skip Powerwall #2 and #3.\n\n55+ line: lights that stay on without a gas generator in the driveway. Quiet. No CO. Only if the truck is home. If you drive it to the clinic during a multi-day outage, the wall is what you still have. Size the wall for that truth.\n\nFRAMEWORK — rewrite in your voice before posting.",
+      "body": "A Virginia school district just made solar-and-batteries feel like common sense for kids and grandparents.\n\nRoanoke City Public Schools already leads Virginia on school rooftop solar \u2014 nearly 9.4 MW planned or in place across dozens of roofs. The bill math is the hook: more than $22 million lower electric costs over 35 years, plus tens of millions avoided in roof work because installs come with new roofs.\n\nNow they\u2019re first in the state to add real batteries: solar-plus-storage microgrids at both high schools, which also serve as official emergency shelters. Each site: about 1 MW of solar and 4 MWh of batteries. When the grid dies, critical loads stay up \u2014 kitchens, lights, the rooms families actually use in a storm.\n\nState emergency grant + private solar partner. School board isn\u2019t inventing a bond fight to prove a point. They\u2019re cutting operating costs and keeping the shelter online.\n\nIf your district still pays full freight for diesel generators and summer AC bills, send them this. Schools are where clean energy stops being a slogan and starts being a lower tax bill and a warm gym when the ice storm hits.\n\nFRAMEWORK \u2014 rewrite in your voice before posting.",
       "links": [
-        "https://electrek.co/2026/09/10/tesla-cybertruck-powershare-powerwall-3-home-backup/",
-        "https://www.teslarati.com/tesla-cybertruck-powershare-powerwall/",
-        "https://www.tesla.com/powershare",
-        "https://energylibrary.tesla.com/docs/Public/More/Powershare/InstallManual/HomeBackup/en-us/GUID-04DE7F20-2290-4489-A9A1-53F639BB85CB.html"
+        "https://www.canarymedia.com/articles/solar/virginia-school-district-solar-battery-microgrids",
+        "https://cardinalnews.org/2026/02/26/roanoke-school-division-receives-grant-for-solar-powered-microgrid/"
       ]
     },
     {
       "id": "3",
-      "title": "PG&E ~$17k bidirectional / V2X hardware stack",
+      "title": "Suniva $835M \u2014 US solar cells in South Carolina",
       "ocr": "Strong",
-      "window": "8–11 AM MT",
+      "window": "8\u201311 AM MT / Fri evening",
       "growth": true,
-      "angle": "Fresh vs Sep 10 $3,200/yr export talk: stacked hardware cash + new approved EV pairs",
+      "angle": "American-made cells = more supply, jobs, less \u201cpanels only come from overseas\u201d excuse",
       "bullets": [
-        "PG&E V2X expansion: $2,500 upfront ($3,000 DAC) + $1,500 early adopter (first 250)",
-        "Qualifying dcbel/Wallbox combos: up to $13,000 CEC; early-adopter stack ~$17,000",
-        "New pairs: Leaf, EV9, EV6, EX90, Polestar 3 (+ Ford/Tesla/GM already listed)",
-        "Enroll through June 30, 2027; approved vehicle+charger+aggregator only",
-        "Ask your utility for local V2X/V2H/bidirectional rebate by name"
+        "$835M raise for 4.5 GW cell plant in Laurens County, SC",
+        "~564 manufacturing jobs; online late 2027, full ramp 2028",
+        "Total US capacity to 5.5 GW with existing Georgia plant",
+        "Household take: more domestic cells \u2192 healthier solar supply for roofs and community projects"
       ],
-      "body": "Yesterday's bidirectional post was a maybe-paycheck: up to about $3,200 a year in some California pilots if you export.\n\nThis one is the charger bill.\n\nPG&E expanded Vehicle-to-Everything. More cars. More bidirectional boxes. Real stacked cash if you qualify.\n\nResidential math you can read out loud:\n\n$2,500 up front. $3,000 if you live in a disadvantaged community.\n\nFirst 250 people in: another $1,500.\n\nCertain new dcbel Ara and Wallbox Quasar 2 pairings: up to $13,000 more from a California Energy Commission grant, extra eligibility attached. Electrek's stack for an early adopter is about $17,000.\n\nThat is how a $10k bidirectional wallbox stops being a hobby.\n\nWho just got invited: Nissan Leaf 2018-2025 with a dcbel Ara. Volvo EX90 and Polestar 3, same charger. Kia EV9 (2024 and newer) and EV6 (2025 and newer) with Wallbox Quasar 2. More GM in the chute, including the 2027 Bolt. Ford, Tesla, and other GM were already on the sheet. You do not get to mix and match. Vehicle plus charger plus aggregator have to be the listed combo.\n\nEnrollment window runs through June 30, 2027. Official door is PG&E's V2X page. You will need an electrician with EVITP paper, a permit, and ELRP signup. If you want Hourly Flex Pricing (the \"sell when 4-9 p.m. is ugly\" path), you generally cannot also have rooftop solar on that rate. Backup-only testing still works with solar. Read that twice before you dream of stacking NEM and V2G export.\n\nUS kitchen-table for everyone not on PG&E:\n\nDo not fly to Oakland. Call your utility and ask for the local names: V2X, V2H, bidirectional rebate, REDWDS, vehicle-to-grid pilot. Bring the $17k stack as proof that a serious program writes a hardware check, not a press release.\n\nFour questions before you count money:\n\n1) Is my exact year/model plus charger on an approved list?\n2) Is the cash up-front hardware money, annual export money, or both?\n3) What drive reserve do I keep so Friday's commute still exists?\n4) If I already have solar, which half of the program am I even allowed to join?\n\n35-54: this is the EV paycheck story. The battery in the driveway is a second Powerwall if the wallbox and the tariff exist. The truck payment gets easier when the house is using that pack at 6 p.m. instead of buying peak power.\n\n55+ line: backup first. A Leaf that can keep a fridge and a CPAP alive during a shutoff is independence. The $17k is how some Californians afford the box. If your utility has nothing, do not finance a bidirectional charger on a blog.\n\nFRAMEWORK — rewrite in your voice before posting.",
+      "body": "American solar just got a factory-sized vote of confidence.\n\nSuniva locked in $835 million to build a 4.5 GW solar-cell plant in Laurens County, South Carolina \u2014 hundreds of manufacturing jobs, late-2027 open, full ramp in 2028. Stack it with their Georgia plant and they\u2019re aiming for 5.5 GW of U.S.-made cells.\n\nWhy a family in Grand Junction cares:\n\nEvery time someone says \u201cwe can\u2019t do solar here because everything\u2019s imported,\u201d point at the Upstate. More domestic cell capacity is how installers stop waiting on overseas queues \u2014 and how rooftop and community solar keep getting cheaper to quote.\n\nThis isn\u2019t a stock tip. It\u2019s a jobs-and-supply story that makes the next Powerwall-and-panels conversation with your neighbor less fragile.\n\nMade-here cells don\u2019t finish the job alone. They do kill the excuse that solar is only someone else\u2019s industry.\n\nFRAMEWORK \u2014 rewrite in your voice before posting.",
       "links": [
-        "https://investor.pgecorp.com/news-events/press-releases/press-release-details/2026/More-California-EV-Owners-Can-Now-Power-Their-Homes-Save-on-Energy-Costs-and-Support-the-Grid-Through-PGEs-Expanded-Vehicle-to-Everything-Program/default.aspx",
-        "https://www.pge.com/en/clean-energy/electric-vehicles/getting-started-with-electric-vehicles/vehicle-to-everything-v2x-pilot-programs.html",
-        "https://electrek.co/2026/09/03/pge-v2x-program-expansion-kia-volvo-nissan-incentives/",
-        "https://chargedevs.com/newswire/pge-expands-its-california-v2x-program/"
+        "https://pv-magazine-usa.com/2026/09/09/suniva-raises-835-million-to-drive-4-5-gw-in-new-domestic-cell-capacity/",
+        "https://solarbuildermag.com/pv-modules/suniva-locks-in-funding-for-4-5-gw-manufacturing-expansion/"
       ]
     },
     {
       "id": "4",
-      "title": "Matt Ferrell 2-year battery: $207 bill hit until VPP",
+      "title": "BYD cold-weather charge: 20%\u219297% in 12 min at \u221230\u00b0C",
       "ocr": "Strong",
-      "window": "8–11 AM MT",
-      "growth": false,
-      "angle": "Honest ROI: bill math lost until ConnectedSolutions rented the pack; buy for outages + VPP",
+      "window": "Fri evening / weekend",
+      "growth": true,
+      "angle": "Winter range anxiety is the real EV blocker for older drivers \u2014 tech is catching up",
       "bullets": [
-        "20 kWh Enphase IQ 5P MA: sticker $33,407; net $22,385 after old 30% + $1k state (~$1,119/kWh)",
-        "Last 12 months: battery never cut the bill; ~$207/yr cost from ~16% round-trip under 1-for-1 NEM",
-        "ConnectedSolutions: $1,881 (2024) / $1,634 (2025); net ~$1,550/yr after haircut",
-        "10 outages / 26 months / 51 minutes total; he would buy again for resilience",
-        "Shop tariff + VPP first; 2026 installs may not get his 30% federal math"
+        "Denza Z9GT demo: after 24h at \u221230\u00b0C, 20% to 97% in ~12 minutes",
+        "Second-gen Blade + Flash Charging; only ~3 min slower than room-temp run",
+        "China already rolling dense flash-charge network",
+        "US take: cold mornings shouldn\u2019t be the reason grandma keeps the gas SUV"
       ],
-      "body": "A YouTuber did the homework most sales decks skip.\n\nMatt Ferrell published his two-year home-battery numbers on Sep 8. Not a lab. His Massachusetts house. 20 kWh of Enphase IQ 5P on the garage wall. He paid for it. Net $22,385 after the old 30% federal credit and a $1,000 state kick-in. About $1,119 for every kWh hanging there.\n\nThen he ran a year of bills twice. Once with the battery. Once with the battery deleted.\n\nThe battery did not save a dollar on the electric bill. Not once.\n\nIt cost him about $207 a year. Why? He has basically 1-for-1 net metering. The grid is a free, nearly perfect \"battery.\" Every kWh he stuffed into his own pack lost about 16% as heat. He paid more than double retail to store sunshine he already owned.\n\nSo why is this not an anti-battery rant?\n\nBecause the utility rented the pack.\n\nConnectedSolutions called it about 40 summer afternoons, 2-3 hours around 5 p.m. Enphase passed 100% of the utility money through (Tesla often takes a cut). He earned $1,881 in 2024 and $1,634 in 2025. Same kWh out the door both years. 2025 paid less because events ran longer, and the program pays average kilowatts, not kilowatt-hours. He has zero say in that.\n\nNet: about $1,550 a year after the $207 haircut, for five years unless they let him re-enroll. If the VPP dies, the hardware recovers maybe 20% over 25 years and then bleeds $200 a year. If it renews, maybe it pays back around year 15. Fuzzy.\n\nHe would still buy it tomorrow.\n\nOutage log: 10 events in 26 months. 51 minutes total. Longest 11 minutes. They often did not notice. That is the product he actually bought. Resilience, not an IRR.\n\nUS kitchen-table filter after the federal residential credit closed:\n\n1) What is your export credit? If it is 1-for-1, a battery will not beat the grid on bill math. If it is generation-only or ugly TOU, the battery can start winning before any VPP.\n2) What will the utility pay to rent it? Get ConnectedSolutions / DSGS / Power Partner / Wattsmart numbers in writing. That check is the ROI in a lot of states.\n3) What reserve do you keep? His 20% means 16 kWh usable. Backup is the point. Empty packs are not independence.\n4) Do not let a salesperson use 2024 federal-credit math on a 2026 install. His $22k net assumed 30% off. Many 2026 installs do not get that.\n\n35-54: this is the \"show me the spreadsheet\" post. Buy a battery because you hate dark fridges and you have a VPP or a nasty peak rate. Do not buy it because a slide said \"payback in 7 years\" with a dead tax credit.\n\n55+ line: 51 minutes of outages is not why you spend $22k. You spend it for the night it is 14 hours and the CPAP plus the insulin fridge. If you cannot say that out loud, wait. If you can, the VPP stipend is gravy, not the meal.\n\nFRAMEWORK — rewrite in your voice before posting.",
+      "body": "The EV excuse that still lands at the kitchen table: \u201cIt won\u2019t charge when it\u2019s freezing.\u201d\n\nBYD just put that fear on ice \u2014 literally. After a full day parked at \u221230\u00b0C, their Denza demo jumped from about 20% to 97% in roughly 12 minutes with second-gen Blade battery and Flash Charging. Only a few minutes off the room-temperature run.\n\nYou don\u2019t need the brand badge. You need the plot:\n\nCold-weather charging used to be the deal-breaker for a lot of older drivers and mountain-town families. Battery chemistry + preheat + faster plugs are closing that gap. China is already blanketing cities with those stations. The U.S. will feel it when dealers stop shrugging about January mornings.\n\nIf someone you love still won\u2019t go electric because of a Colorado cold snap, show them the clock, not a lecture.\n\nFRAMEWORK \u2014 rewrite in your voice before posting.",
       "links": [
-        "https://undecided.tech/how-my-home-battery-really-performed-2-years-later/"
+        "https://x.com/i/trending/2097449620955865417"
       ]
     },
     {
       "id": "5",
-      "title": "National Drive Electric Month starts today",
+      "title": "98-year-old Larry\u2019s Model Y \u2014 independence, not gadgets",
       "ocr": "Strong",
-      "window": "8–11 AM MT (plan weekend events)",
-      "growth": false,
-      "angle": "Sep 11–Oct 12 ride-and-drives: sit in a used EV, ask Level 1 / insurance / winter; CO weekend list",
+      "window": "Weekend / late morning",
+      "growth": true,
+      "angle": "EVs + assisted driving as aging-in-place tools for older households",
       "bullets": [
-        "NDEM 2026: Fri Sep 11 through Sun Oct 12; map at driveelectricmonth.org",
-        "~157 listed events; kickoffs include Raleigh NC and Moscow ID today",
-        "CO near-term: Pueblo Sat Sep 12; Crestone + Brighton Sun Sep 13; Denver mid-month",
-        "Practical ask: used Bolt/Leaf/Model 3, overnight home plug, insurance, winter tires, real commute",
-        "Skip cheerleading; keys, seat, three questions, compare to last month's gas"
+        "98-year-old Larry: first car was a 1931 Model A; now Model Y with supervised FSD",
+        "Other seniors reporting high share of assisted miles for errands",
+        "Frame carefully: driver still responsible; independence + safer routine trips",
+        "Fits Brian\u2019s older-household lane \u2014 money and staying mobile"
       ],
-      "body": "Today starts National Drive Electric Month.\n\nThat is a calendar, not a conversion altar.\n\nSep 11 through Oct 12. Local libraries, co-op parking lots, football tailgates, farmers markets. Official map: driveelectricmonth.org. Plug In America and a pile of local clubs put it on. Some events have test drives. A lot of them have actual owners standing next to the car they make payments on.\n\nThat last part is the product.\n\nDo not go to be inspired. Go to run a kitchen-table audit in a parking lot.\n\nScript for a 40-year-old who still thinks EVs are a coastal toy:\n\n1) Sit in a three-year-old Bolt, Leaf, Niro, or Model 3, not just the new $70k thing on a turntable.\n2) Ask the owner: where do you plug in at home, 120-volt overnight or a wallbox, and what did the electrician bill?\n3) Ask insurance and tires out loud. Winter is a real spec in Colorado and the Upper Midwest.\n4) Ask the commute. Miles per day, not the brochure range. If they road-trip, where do they actually stop.\n5) If they have a truck or a 3-row, ask towing and child seats, not 0-60.\n\nOwner surveys in the Plug In America release say the vast majority of EV drivers plan to stay electric and feel safe. Fine. Believe the person in front of you more than a percentage.\n\nColorado, this weekend is not theoretical:\n\nPueblo EV Experience, Saturday Sep 12.\n\nCrestone Energy Fair showcase and Brighton (Adams County Festival Latino + EV), Sunday Sep 13.\n\nDenver: Volts & Vino on Sep 16, Montbello ride-and-drive Sep 19.\n\nLater: Lakewood Sep 26, United Power in Longmont Sep 26, Lafayette Oct 3, Electrify Longmont Oct 4, Englewood women's night Oct 7.\n\nIf you are not in Colorado, type your city into the official list. Enfield, North Carolina is doing its first-ever showcase on Sep 19 because they sat through a multi-day outage and want neighbors to see a car that can keep a fridge alive. Bemidji's co-op on Oct 1 is pairing rides with charger rebates and off-peak rates. Those are independence events wearing a festival wristband.\n\n35-54: take the teenager. Let them sit in the used one. The second car is how families actually switch, not the $90k halo.\n\n55+ line: you are allowed to ask about charging at the clinic, the church lot, and the grocery run. If nobody can answer without an app sermon, leave. The right owner will talk in minutes and dollars.\n\nNo cheerleading. No culture war. Keys, seat, three questions, go home and run the payment against last month's gas receipts.\n\nFRAMEWORK — rewrite in your voice before posting.",
+      "body": "A 98-year-old named Larry learned to drive on a 1931 Ford Model A. Now he\u2019s running errands in a Tesla Model Y with supervised Full Self-Driving helping on the boring miles.\n\nThat\u2019s not a robotaxi sci-fi post.\n\nThat\u2019s an independence story.\n\nFor a lot of older households, the real fear isn\u2019t \u201cwill I look cool in an EV.\u201d It\u2019s \u201ccan I still get to the pharmacy and church when night driving gets harder.\u201d Assisted driving done honestly \u2014 eyes still on the road, hands ready \u2014 is how some families keep the keys without pretending aging doesn\u2019t happen.\n\nElectric also means charging at home overnight instead of winter gas-station trips. Quiet cabin. Fewer oil changes for kids who already do enough caregiving.\n\nDon\u2019t oversell autonomy. Do tell the truth: for some seniors, the right EV setup is a dignity tool, not a gadget flex.\n\nFRAMEWORK \u2014 rewrite in your voice before posting.",
       "links": [
-        "https://driveelectricmonth.org/index",
-        "https://driveelectricmonth.org/events-list",
-        "https://www.prweb.com/releases/experience-cost-saving-evs-firsthand-at-national-drive-electric-month-events-starting-sept-11-302873533.html"
+        "https://x.com/i/trending/2097720517872496673"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "UK grid delays could add ~\u00a3100 to family bills",
+      "ocr": "OK",
+      "window": "Weekday late morning",
+      "growth": false,
+      "angle": "Pro-renewables: build the wires so cheap wind/solar actually reach homes",
+      "bullets": [
+        "UK National Audit Office: constraint costs risk rising hard by 2030",
+        "~\u00a3100 extra per household cited if grid upgrades lag",
+        "50 of 56 Clean Power projects may miss targets without faster wires",
+        "US parallel: same fight \u2014 renewables are cheap; bottlenecks make bills expensive"
+      ],
+      "body": "Britain\u2019s problem isn\u2019t that wind and solar got \u201ctoo successful.\u201d\n\nIt\u2019s that the wires didn\u2019t keep up.\n\nA National Audit Office warning: if the big grid upgrade program slips, constraint costs \u2014 paying clean plants to switch off while burning backup elsewhere \u2014 could pile onto household bills. One figure floating around: on the order of \u00a3100 a year for a typical home if the bottleneck wins.\n\nThat\u2019s a pro-clean-energy story if you tell it straight.\n\nCheap generation stuck behind old pipes is how skeptics get to say \u201crenewables raise rates.\u201d The fix isn\u2019t fewer turbines. It\u2019s building the highways so power from windy and sunny places actually reaches kitchens.\n\nSame movie in the American West and Midwest. If your co-op is fighting transmission while your bill climbs, ask which projects unlock lower-cost renewable power for your meter \u2014 not which press release sounds greener.\n\nFRAMEWORK \u2014 rewrite in your voice before posting.",
+      "links": [
+        "https://x.com/i/trending/2098336318132781135"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Ireland: home solar/insulation retrofits vs bill shock",
+      "ocr": "OK",
+      "window": "Weekend",
+      "growth": false,
+      "angle": "When rates spike, the durable move is solar + efficiency \u2014 not just switching suppliers",
+      "bullets": [
+        "Ireland among Europe\u2019s highest electricity rates; fresh hikes in the news",
+        "Minister points to retrofit schemes \u2014 insulation, solar, windows \u2014 savings talk up to ~\u20ac1,600/yr",
+        "Critics: upfront cost still hard even with grants",
+        "US take: same tension \u2014 grants help, but families need honest payback math"
+      ],
+      "body": "Ireland\u2019s electricity prices are brutal. The political advice landed as: retrofit your home \u2014 insulation, better windows, solar \u2014 and you might claw back serious money every year.\n\nSome households heard \u201cup to about \u20ac1,600 a year.\u201d Others heard \u201cI don\u2019t have \u20ac20\u201345k sitting around even after grants.\u201d\n\nBoth reactions are real.\n\nThe clean-energy lesson for American families:\n\nWhen rates jump, shopping suppliers is a Band-Aid. Solar-plus-efficiency is the long fix \u2014 if the financing matches real people, not brochure people. Ask your utility and state energy office for the on-bill or low-interest path, not just the shiny rebate flyer.\n\nPro solar doesn\u2019t mean pretending every attic is ready tomorrow. It means refusing to leave families stuck with forever-high kWh prices and no tools.\n\nFRAMEWORK \u2014 rewrite in your voice before posting.",
+      "links": [
+        "https://x.com/i/trending/2098177100586893761"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Duke Florida neighborhood battery \u2014 1,500 homes backed up",
+      "ocr": "Strong",
+      "window": "Fri evening / storm season mindset",
+      "growth": true,
+      "angle": "Utility-scale neighborhood batteries as community backup \u2014 not just rich-home Powerwalls",
+      "bullets": [
+        "Duke Energy Florida 11 MW Trenton lithium site (Gilchrist County)",
+        "Microgrid upgrade: backup for ~1,500 customers up to ~4 hours",
+        "Auto-islands on outage \u2014 neighborhood generator without diesel for every porch",
+        "Ask your co-op/muni when shared batteries show up for renters too"
+      ],
+      "body": "Not every family can write a Powerwall check this year.\n\nThat\u2019s why neighborhood batteries matter.\n\nDuke Energy Florida just upgraded its 11 MW Trenton lithium site west of Gainesville into a real microgrid. About 1,500 nearby customers can get up to four hours of backup when the feeder dies. The battery islands itself automatically \u2014 a community generator that doesn\u2019t need a gas can on every porch.\n\nStorm season math is simple: lights, fridge, CPAP, phone charge. If the utility parks storage where the wires actually fail, renters and fixed-income households aren\u2019t left out of the clean backup story.\n\nIf your co-op only talks \u201cbuy your own home battery,\u201d ask when the shared ones show up. Clean energy that only works for people who already have equity isn\u2019t the win.\n\nFRAMEWORK \u2014 rewrite in your voice before posting.",
+      "links": [
+        "https://news.duke-energy.com/releases/duke-energy-florida-launches-its-second-battery-facility-capable-of-providing-backup-power-for-customers",
+        "https://www.microgridknowledge.com/microgrids/utility/news/55402511/duke-energy-floridas-trenton-lithium-battery-facility-gets-a-microgrid-upgrade"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Battery boom is here \u2014 cheaper cells help home + EV buyers",
+      "ocr": "OK",
+      "window": "Weekday late morning",
+      "growth": false,
+      "angle": "Global battery scale \u2192 lower sticker on EVs and home storage (pro batteries, skip China-panic)",
+      "bullets": [
+        "Canary/BNEF-style charting: batteries now center stage for EVs + grid",
+        "Li-ion ~93% cheaper than 2010; ~36% cheaper than 2020",
+        "Grid storage deployments grew ~19\u00d7 from 2020\u20132025 globally",
+        "Household take: scale = lower driveway stickers \u2014 skip the trade-war sermon"
+      ],
+      "body": "The quiet story under every EV and home-battery sale: packs got cheaper because the world finally scaled factories.\n\nCanary Media\u2019s Dan McCarthy put numbers on it this week. Lithium-ion batteries in 2025 were about 93% cheaper than in 2010 \u2014 and still ~36% cheaper than five years earlier. Grid storage deployments exploded nearly 19\u00d7 from 2020 to 2025.\n\nYes, China built most of that capacity. Pocketbook take for a Colorado driveway:\n\nScale is why used EVs and home storage quotes keep drifting down. More kWh for less money is how a normal family gets off gasoline and diesel generators \u2014 not a press conference.\n\nBe glad the learning curve is steep. Ask your installer what today\u2019s kWh price is versus two years ago. That delta is the real headline.\n\nFRAMEWORK \u2014 rewrite in your voice before posting.",
+      "links": [
+        "https://www.canarymedia.com/articles/batteries/the-battery-era-is-here-and-china-is-supplying-it"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Cybercab vs Uber \u2014 cheaper electric miles in Austin",
+      "ocr": "OK",
+      "window": "Fri evening",
+      "growth": false,
+      "angle": "Robotaxi cost narrative as mobility bill relief \u2014 pro EV future without ownership lecture",
+      "bullets": [
+        "Tesla Cybercab rides starting in Austin alongside Model Y robotaxi fleet",
+        "Early fare chatter: electric robotaxi miles undercutting traditional ride-hail",
+        "ARK-style $0.25/mi long-run talk vs Uber-like $1.50/mi today",
+        "For non-drivers/older folks: eventual cheaper on-demand electric mobility"
+      ],
+      "body": "Austin riders are already screenshotting Cybercab fares next to Uber for the same hop \u2014 and the electric robotaxi often looks cheaper, with no tip dance and no awkward small talk.\n\nTake the early demos with a grain of salt. Fleets are small. Geofences are real.\n\nBut the direction matters for families and older folks who don\u2019t want another car payment: electric miles without owning the metal. If robotaxis land near that \u201cquarters per mile\u201d dream some analysts sketch, a lot of household budgets change \u2014 kids\u2019 rides, medical appointments, nights you shouldn\u2019t be driving.\n\nPro EV doesn\u2019t only mean \u201cbuy a Model Y.\u201d It also means cheaper clean mobility showing up when you tap an app.\n\nWatch the receipts, not the keynotes.\n\nFRAMEWORK \u2014 rewrite in your voice before posting.",
+      "links": [
+        "https://x.com/i/trending/2097496859694543089",
+        "https://x.com/i/trending/2097538626879898071"
       ]
     }
-  ]
+  ],
+  "note": "Deep dig Fri afternoon: Gmail + X news. Replaces morning five for Chrome. Avoid rehash of Powershare/PG&E $17k V2X/Matt Ferrell."
 }
