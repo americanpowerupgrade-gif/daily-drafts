@@ -1,0 +1,168 @@
+{
+  "date": "2026-09-14",
+  "label": "FRAMEWORK — rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "1",
+      "title": "New York pays you twice for a home battery. Upfront cut, then a summer check.",
+      "ocr": "Strong",
+      "window": "8-11 AM MT Monday (also late morning)",
+      "growth": true,
+      "angle": "NYSERDA residential storage still stacks an upfront price cut (~$200/kWh standard, up to ~$450/kWh inclusive) with summer utility dynamic-load pay (~$150-$250/yr). Federal homeowner storage credit is gone. Kitchen-table: if you are in NY and solar-ready or battery-curious, the state still has a double lever most states lost.",
+      "bullets": [
+        "NYSERDA Residential & Retail Energy Storage: standard ~$200/kWh usable; Inclusive Storage Incentive (ISI) up to ~$450/kWh for priority census tracts / income / affordable housing. Cap ~25 kWh per home.",
+        "Installer math examples (Kasselman, citing NYSERDA): Enphase IQ Battery 10C ~$2,000 standard / ~$4,500 inclusive; Powerwall 3 13.5 kWh ~$2,700 / ~$6,075; program max two-battery inclusive path up to ~$11,250.",
+        "Incentive is a contract price reduction (not a tax-season credit). Rate locks when the application goes in; first-come blocks can step down.",
+        "Summer DLM / ConnectedSolutions-style pay: ~$50 per average kW delivered; National Grid NY cites ~$250/yr average; NYSEG/RG&E and O&R run similar May-Sep seasons with opt-out per event and a backup reserve.",
+        "Federal Residential Clean Energy Credit for homeowner batteries ended for property placed in service after Dec 31, 2025 (IRS). Utility/state cash is the remaining lever."
+      ],
+      "body": "New York is still paying households twice for a home battery.\n\nFirst check: NYSERDA cuts the install price on usable kilowatt-hours. Standard tier is about $200 per kWh. Inclusive Storage Incentive addresses (priority census tracts, income paths, some affordable housing) can land closer to $450 per kWh. On a common Enphase 10C that is roughly $2,000 versus $4,500 off. On a Powerwall 3 at 13.5 kWh, about $2,700 versus a bit over $6,000. Two batteries in the inclusive lane can stack toward the program ceiling near $11,250. It shows up on the contract. You do not wait for tax season.\n\nSecond check: your utility borrows a slice of that battery on hot summer days and pays you for it. Think May through September. National Grid New York has talked about roughly $250 a year on average for ConnectedSolutions-style participation. NYSEG, RG&E, and Orange & Rockland run the same idea with opt-out per event and a reserve left for your house. Skip a day and you just earn less. No sermon required.\n\nUS kitchen-table take for a 45-year-old Upstate or Hudson Valley homeowner, or a 60-year-old who already has panels and is waiting on backup:\n\nThe federal homeowner storage credit is gone for systems placed in service after 2025. New York still has a double lever. Calendars and maps matter. Rates lock when the application goes in. If your address is in a priority tract, ask for the inclusive number in writing before you wire the deposit.\n\nIndependence checklist:\n\n1) Confirm utility territory and whether DLM enrollment is required for the incentive.\n2) Check ISI map / income path before you accept the standard tier.\n3) Get usable kWh and the exact NYSERDA dollars on the quote, not a vague \"rebates available.\"\n4) Ask what reserve stays in the battery during events and how opt-out works in the app.\n5) Size for fridge, router, medical devices, and a few lights first. Do not buy a showroom wall to chase a max rebate.\n\n35-54 line: a few thousand off the contract plus a summer check is how a middle-class NY household replaces a dead federal credit.\n\n55+ line: backup for heat and medical devices is the product. The double pay is how you buy it without draining the emergency fund.\n\nFRAMEWORK — rewrite in your voice before posting.",
+      "links": [
+        "https://kasselmansolar.com/articles/new-york-pays-you-twice-for-a-home-battery/",
+        "https://www.nyserda.ny.gov/All-Programs/Energy-Storage-Program",
+        "https://www.irs.gov/credits-deductions/residential-clean-energy-credit"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Minnesota still has battery rebate money: $250/kWh up to $7,000 (outside Xcel).",
+      "ocr": "Strong",
+      "window": "8-11 AM MT Monday (also late morning)",
+      "growth": true,
+      "angle": "Minnesota Commerce Energy Storage Incentive still pays $250 per kWh (max $7,000) for solar-paired batteries up to 50 kWh outside Xcel territory. Funds are first-come. Recent Sep 2026 coverage cites about $1.4M still in the pot; official page showed ~$1.05M as of Apr 30, 2026. Xcel customers use a separate utility path. Federal credit gone. Kitchen-table: if you already have solar in non-Xcel Minnesota, the calendar is the rebate.",
+      "bullets": [
+        "MN Dept of Commerce (official): outside Xcel, $250/kWh up to $7,000 for on-site storage paired with solar; systems ≤50 kWh; first-come, first-served.",
+        "Official page note (cite carefully): non-Xcel funds remaining listed ~$1,050,115 as of April 30, 2026. Sep 2026 local/coverage (Echo Press, KIMT, The Cool Down) puts remaining nearer ~$1.4M. Use \"funds still available / first come\" and link official + recent coverage.",
+        "Simple size math: 10 kWh ≈ $2,500; 20 kWh ≈ $5,000; ~28 kWh hits the $7,000 cap.",
+        "Commerce estimates installs often $15,000-$25,000 before incentive; one incentive per property address; battery new, installed on/after Aug 1, 2024 rules on program page.",
+        "Xcel separate: ~$175/kWh (income-qualified often listed ~$370/kWh) capped ~$5,000 for solar-plus-storage (The Solar Book / program explainers). Do not mix the two pots.",
+        "Federal 25D homeowner storage credit ended after Dec 31, 2025. State cash is the lever left."
+      ],
+      "body": "Minnesota still has real money on the table for a home battery if you live outside Xcel territory.\n\nThe state Commerce program pays $250 for every kilowatt-hour of eligible battery capacity, capped at $7,000, for solar-paired systems up to 50 kWh. A 10 kWh pack is about $2,500 off. A 20 kWh pack is about $5,000. Around 28 kWh you hit the ceiling. Funds are first-come. Recent September coverage still talks about roughly $1.4 million left in the pot. The official page last printed about $1.05 million remaining as of April 30, 2026. Either way the message is the same: the money is finite. Waiting for a perfect weather weekend is how households miss it.\n\nThis is not an ownership sermon. It is a pocketbook tool for people who already made midday solar and then buy expensive evening power, or who want a fridge and medical devices to stay up when the neighborhood blinks. Commerce itself has said installs commonly land in the $15,000 to $25,000 range before the check. The rebate is a dent, not free.\n\nIf you are on Xcel, stop. You are in a different lane. Xcel runs its own solar-plus-storage equipment incentive (commonly listed around $175/kWh, with a higher income-qualified rate, and a $5,000-style cap in program explainers). Mixing the two programs in your head is how you call the wrong office and lose a week.\n\nUS kitchen-table take for a 48-year-old with panels in Rochester or Duluth territory, or a 62-year-old who wants quiet backup without a gas generator:\n\nThe federal homeowner storage credit is gone. Minnesota still has a first-come check. Confirm you are outside Xcel. Confirm the battery is paired with on-site solar (community solar garden subscriptions do not count). Get the application in before the pot thins.\n\nIndependence checklist:\n\n1) Look up your utility by address. Outside Xcel = Commerce program. Inside Xcel = Xcel path.\n2) Confirm solar is on-site or already in interconnection, not just a garden subscription.\n3) Ask for usable kWh and the exact incentive dollars on the quote.\n4) Ask what panel upgrades, permits, and interconnection fees are not covered.\n5) Size for evening load and outage essentials first. Do not buy a wall to max the $7,000 if a smaller pack covers the house.\n\n35-54 line: $2,500 to $7,000 off a battery after the federal credit died is how a Minnesota solar home finishes the job.\n\n55+ line: backup for heat and medical devices is the product. First-come money is how you buy it without draining the emergency fund.\n\nFRAMEWORK — rewrite in your voice before posting.",
+      "links": [
+        "https://mn.gov/commerce/energy/consumer/energy-programs/on-site-energy-storage-systems.jsp",
+        "https://www.thecooldown.com/green-home/minnesota-solar-battery-rebates-incentive-program/",
+        "https://thesolarbook.com/minnesota-solar-incentives/"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Tesla holds ~52% of US EVs in a smaller market. Shop the driveway, not the headlines.",
+      "ocr": "Strong",
+      "window": "8-11 AM MT Monday (also afternoon)",
+      "growth": true,
+      "angle": "Motor Intelligence via Sep 2026 coverage: Tesla ~52% of US EV sales YTD through August (was ~43% same period 2025). Broader US EV sales down ~30%; Tesla US sales down ~16%. Cox July monitor had Tesla near ~55% in that month with Model Y a huge slice. Kitchen-table: the credit cliff thinned the lot. Families still shopping should compare out-the-door payment, used inventory, and real charging access, not brand tribal posts.",
+      "bullets": [
+        "Basenor / Motor Intelligence framing (updated Sep 13, 2026): Tesla ~52% US EV share through Aug 2026 vs ~43% prior-year period; Cox estimates sometimes near ~55%.",
+        "Market-wide US EV sales roughly -30% YoY through Aug; Tesla US roughly -16% in that framing (lost less share by declining less).",
+        "Q4 2025 after Sep 30, 2025 federal EV credit cliff: Tesla share spike cited near 59% while EV penetration of total US sales fell sharply in that quarter's reporting.",
+        "Cox Automotive EV Market Monitor July 2026: Tesla volume leader; Model Y alone a very large share of new EV sales that month.",
+        "Pocketbook take: fewer subsidized rivals on the lot can mean less negotiating cover. Used EVs and non-Tesla entries still matter for budget shoppers (without rehashing Saturday's under-$30k LIVE post as the hook)."
+      ],
+      "body": "Tesla is back over half of US electric-vehicle sales. That is not a victory lap for your driveway. It is a shopping warning.\n\nCoverage citing Motor Intelligence puts Tesla around 52% of US EV sales through August 2026, up from about 43% in the same stretch of 2025. The wider EV market is down hard, on the order of 30%. Tesla's own US volume is down too, just less. When the federal EV tax credit ended at the end of September 2025, a lot of \"almost competitive\" stickers lost their $7,500 crutch. Share went up because the pie got smaller.\n\nCox's summer monitor still had Tesla as the volume leader, with the Model Y doing an outsized share of new EV sales in July. Fine for Tesla. For a family in Grand Junction or Phoenix writing a check, the question is simpler: what is the monthly payment, what is insurance, where do you charge at night, and what happens on a road trip.\n\nUS kitchen-table take for a 40-year-old replacing a paid-off SUV, or a 58-year-old who will not finance for seven years:\n\nDo not buy a headline. Buy a total cost. If fewer brands are discounting to chase the old credit, you need to work used inventory, employer charging, and utility EV rates harder. Independence is a car you can afford to keep charged without drama.\n\nIndependence checklist:\n\n1) Out-the-door price and payment with taxes and destination, not MSRP screenshots.\n2) Home or workplace charging plan in writing before you sign.\n3) Insurance quote on the exact VIN trim.\n4) Compare one non-Tesla and one used option even if you prefer new Tesla.\n5) Ignore tribal comment sections. Your grocery budget does not care who won the share chart.\n\n35-54 line: a 52% share number is a market map. Your payment is the product.\n\n55+ line: fewer dealers chasing the old credit means you shop patiently and protect cash.\n\nFRAMEWORK — rewrite in your voice before posting.",
+      "links": [
+        "https://www.basenor.com/blogs/news/teslas-us-ev-market-share-5-numbers-that-tell-the-story",
+        "https://www.coxautoinc.com/insights/ev-market-monitor-july-2026/",
+        "https://seekingalpha.com/news/4642309-tesla-regains-majority-of-us-ev-market-as-rivals-retreat-wsj"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Australia's feed-in pennies prove the US point: store the solar or buy it back expensive.",
+      "ocr": "Strong",
+      "window": "8-11 AM MT Monday",
+      "growth": false,
+      "angle": "Energy Matters (Aug 2026): Aussie feed-in tariffs roughly 3-10c/kWh while buying grid power runs ~28-45c/kWh. Same 10 kWh surplus earns ~60c exported vs ~$3 avoided if stored. US lesson for solar households: net metering and export credits are not the whole story. Evening self-use and a right-sized battery beat chasing a headline export rate.",
+      "bullets": [
+        "Energy Matters: FiTs commonly ~3-10c/kWh in 2026 vs retail buy ~28-45c/kWh (about 3x to 8x more value to self-consume).",
+        "Simple daily math in the piece: 10 kWh surplus at ~6c export ≈ 60c; same 10 kWh avoiding ~30c grid buy ≈ $3.",
+        "Right-sized ~10-14 kWh batteries after Aussie federal rebate often cited in ~5-8 year payback window when evening load is real.",
+        "US parallel: federal residential storage credit ended after 2025; many US utilities already push TOU peaks in late afternoon/evening. Export or net-meter credits do not automatically beat storing for the peak window.",
+        "Brian lane fit: pocketbook independence for families with rooftop solar already installed (Enphase-era homes included)."
+      ],
+      "body": "Australia just published the kitchen-table math a lot of US solar owners feel but have not written down.\n\nExport credits there are often a few cents per kilowatt-hour. Buying power from the grid is often twenty-eight to forty-five cents. Energy Matters walks a simple day: ten kilowatt-hours of leftover midday solar. Sell it for about six cents each and you pocket roughly sixty cents. Store it and use it that evening instead of buying thirty-cent power and you avoid about three dollars. Same sunshine. Different wallet outcome.\n\nThat is not an Australia-only story. It is a US household story with different labels. Net metering, export credits, and \"free weekends\" still help. They are not magic. If your utility bills hard in the dinner-hour window, the valuable kilowatt-hour is the one you do not buy at peak, not the one you sold cheap at noon.\n\nUS kitchen-table take for a 50-year-old with panels already on the roof, or a 62-year-old watching the bill creep:\n\nDo not shop electricity plans on the export headline alone. Ask what you pay from 4 to 9 pm. Ask how many evening kilowatt-hours you actually use. A right-sized battery is a tool for that gap. An oversized wall is a brochure.\n\nIndependence checklist:\n\n1) Pull twelve months of usage if you can. Circle evening and overnight kWh.\n2) Write down your peak rate and any export or net-meter credit in cents.\n3) Ask the installer to model self-consumption, not just \"system size.\"\n4) Keep a reserve for outages if medical devices or well pumps matter.\n5) Stack any state or utility battery cash after the federal credit disappeared. Do not assume 2024 math still applies.\n\n35-54 line: the gap between sell-low and buy-high is the whole battery conversation.\n\n55+ line: independence is keeping the fridge and CPAP up when the neighborhood blinks, funded by evening kilowatt-hours you already made at noon.\n\nFRAMEWORK — rewrite in your voice before posting.",
+      "links": [
+        "https://www.energymatters.com.au/renewable-news/solar-feed-in-tariff-vs-home-battery-2026/",
+        "https://www.irs.gov/credits-deductions/residential-clean-energy-credit"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Europe's ~€17,900 Dacia Spring (Slovenia-built) / US payment + home-charge lesson",
+      "ocr": "Strong",
+      "window": "8-11 AM MT Monday (also afternoon for EV shoppers)",
+      "growth": false,
+      "angle": "New Dacia Spring starts around €17,900 in Europe, built in Novo Mesto, Slovenia (not a China import). 27.5 kWh LFP, ~250 km WLTP, 60 kW / 80 hp. Optional DC 50 kW does 15-80% in about 28 minutes. V2L on the fast-charge pack. Belgium TCO analysis: Spring ~€19,500 vs Sandero petrol ~€21,350 over 5 years at home €0.30/kWh; public €0.55/kWh mostly erases the edge. 75% of existing Spring owners charge at home, ~34 km/day. Soft-pedal vs BYD Spain LIVE (different car/market). US lesson: global floor + home charge math. Shop used/lease payment, not brand fight.",
+      "bullets": [
+        "Newmobility.news (Sep 8, 2026): new Spring Europe start ~€17,900; built Renault Group Novo Mesto, Slovenia; RGEV platform; length ~3.85 m.",
+        "Pack: 27.5 kWh usable LFP; ~250 km WLTP; single 60 kW / 80 hp motor; 0-100 in 12.1s; top 130 km/h; quoted ~12.7 kWh/100 km.",
+        "Charging: standard 6.6 kW AC; optional fast pack adds 11 kW AC + 50 kW DC (15-80% ~28 min) and V2L.",
+        "TCO illustration (Belgium / Flanders assumptions in the piece): Spring ~€19,500 over 5 yrs vs Sandero ~€21,350 at home €0.30/kWh; public €0.55/kWh erases most of the advantage.",
+        "Dacia: 75% of existing Spring owners charge at home; average ~34 km/day. Prior Spring sold 210,000+ since 2021; Europe A-segment EV leader in 2025 channels cited in coverage.",
+        "Soft-pedal: do not rehash Sunday BYD Dolphin Surf Spain ~€12.6k LIVE as the headline. Different car, different market board."
+      ],
+      "body": "Europe just put a grown-up city EV near Sandero money.\n\nThe new Dacia Spring is expected to start around €17,900. It is built in Slovenia at Renault Group's Novo Mesto plant, not shipped in as a China tariff lottery. The recipe is honest: a 27.5 kilowatt-hour lithium-iron-phosphate pack, about 250 kilometers of WLTP range, an 80-horsepower motor. Optional fast charge can do fifteen to eighty percent in about twenty-eight minutes. The fast pack also adds vehicle-to-load so the car can run a lamp, an e-bike charger, or a coffee maker at a campsite.\n\nThe interesting fight is not against another EV badge. It is against Dacia's own petrol Sandero. A Belgium analysis walked five years and about 75,000 kilometers. With home electricity around thirty euro-cents per kilowatt-hour, Spring landed near €19,500 total cost of ownership. The petrol Sandero landed nearer €21,350. Plug mostly at public rates around fifty-five cents and the EV edge mostly disappears. Dacia says three-quarters of existing Spring owners already charge at home and drive about thirty-four kilometers a day. That is the profile where a small battery wins.\n\nThis is not a US inventory ad. You cannot walk into Grand Junction and buy that exact sticker. The kitchen-table lesson is the same one families keep ignoring: global price floors move, and home charging is the silent half of the payment. Argue payments, insurance, and where you plug overnight. Do not argue brand tribes.\n\nUS kitchen-table take for a 42-year-old comparing a used hatchback to a gas crossover, or a 60-year-old who only needs town miles:\n\nShop the payment and the plug. A clean used EV under your real weekly miles, with a battery health report, often beats waiting for a perfect new American MSRP speech. If you cannot charge at home or work, the overseas \"cheap EV\" math will not save you either.\n\nIndependence checklist:\n\n1) Write down real weekly miles before you look at range charts.\n2) Price home or workplace charging on your actual rate plan.\n3) Get insurance on the exact VIN trim.\n4) Compare one used option and one new lease with residual in writing.\n5) Soft-pedal brand wars. Your grocery budget does not care who won Europe's A-segment chart.\n\n35-54 line: €17,900 overseas is a signal that \"EVs are only for rich people\" keeps getting harder to say.\n\n55+ line: you do not need that exact car. You need the same math: small battery, honest local range, plug at home.\n\nFRAMEWORK — rewrite in your voice before posting.",
+      "links": [
+        "https://newmobility.news/en/2026/09/08/new-e17900-dacia-spring-brings-ev-costs-into-sandero-territory/"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "TerraPower Natrium targets UK power by 2034 under £100/MWh (SMR pocketbook timeline)",
+      "ocr": "Strong",
+      "window": "8-11 AM MT Monday (also late morning)",
+      "growth": false,
+      "angle": "Reuters Sep 7, 2026: Gates-backed TerraPower says UK electricity from Natrium by 2034 is \"very possible\" (first market outside the US). US Wyoming plant targeted ~2031. Natrium: 345 MW baseload + storage boost to 500 MW for more than five hours; HALEU fuel; cost expected under £100/MWh (~$135). Meta US agreement for up to 8 reactors. Soft-pedal Navy Indiana LIVE (different story). US kitchen-table: SMRs are multi-year bill and reliability tools, not overnight miracles. Watch Wyoming progress.",
+      "bullets": [
+        "Reuters (Sep 7, 2026): CEO Chris Levesque; Britain first market outside US; 2034 UK electricity \"very possible\"; Wyoming first plant due ~2031.",
+        "Natrium: sodium-cooled; 345 MW baseload; integrated storage can boost to 500 MW for >5 hours; HALEU fuel (US and UK building domestic supply after Russia commercial lock).",
+        "Cost signal: electricity expected under £100/MWh (~$135 at cited FX).",
+        "UK Advanced Nuclear Framework supports privately funded advanced projects; Natrium in Generic Design Assessment; UK subsidiary likely Liverpool area near regulator; site not chosen yet.",
+        "US: Meta agreement to develop up to eight reactors. Soft-pedal Sunday Navy Indiana microreactor 2028 LIVE (different program, different timeline)."
+      ],
+      "body": "A US advanced reactor company just put a price and a calendar on British power.\n\nTerraPower, the Bill Gates-backed developer, told Reuters its Natrium design could be making electricity in the UK by 2034. That would be its first market outside the United States. The first US plant is under construction in Wyoming and is aimed at around 2031. CEO Chris Levesque called 2034 UK power \"very possible.\"\n\nWhat is Natrium in plain English? Each reactor makes about 345 megawatts of steady power. Built-in storage can push output to about 500 megawatts for more than five hours when the grid is hungry. It runs on HALEU fuel. The company expects the power price under £100 per megawatt-hour, roughly $135. In the US it already has a deal with Meta to develop up to eight reactors.\n\nThis is not a \"nuclear tomorrow morning\" story. It is a multi-year infrastructure story with a bill signal attached. Families do not buy reactors. They buy whether the lights and heat stay affordable when data centers and weather stress the wires. Advanced nuclear and storage hybrids are one of the tools utilities and countries are lining up for the 2030s. Wyoming progress is the US proof point to watch. UK timelines are the overseas calendar.\n\nSoft-pedal: this is not Sunday's Navy Indiana microreactor post. Different project. Different customer. Different year.\n\nUS kitchen-table take for a 45-year-old watching the electric bill, or a 65-year-old who wants the grid to outlast the next heat wave:\n\nTreat SMR headlines as bill insurance timelines, not lottery tickets. Ask what your utility is actually building or contracting for the next decade. Ask what happens to rates if large new loads arrive before new firm power does. Patience plus verification beats cheerleading.\n\nIndependence checklist:\n\n1) Separate \"under construction now\" (Wyoming) from \"target date overseas\" (UK 2034).\n2) Read the price signal (£100/MWh) as a competitiveness claim, not a household rebate.\n3) Watch fuel supply (HALEU) the same way you watch gasoline refining: no fuel, no megawatts.\n4) Do not confuse a tech company offtake deal with your monthly statement changing next quarter.\n5) Keep household tools in parallel: right-sized battery, TOU habits, efficient heat, an EV you can charge overnight.\n\n35-54 line: under £100/MWh is a wholesale signal. Your job is still the payment and the backup plan at home.\n\n55+ line: big firm power takes years. Quiet home backup and a sane rate plan are what you control this winter.\n\nFRAMEWORK — rewrite in your voice before posting.",
+      "links": [
+        "https://www.reuters.com/business/energy/gates-backed-terrapower-targets-british-nuclear-power-plant-start-by-2034-2026-09-07/"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Arizona does not \"rebate\" the box. APS and SRP pay you for discharging.",
+      "ocr": "Strong",
+      "window": "8-11 AM MT Monday (Southwest heat / bill audience)",
+      "growth": false,
+      "angle": "Arizona's main residential storage money is performance pay, not an ownership rebate. APS Storage Rewards pilot: $110/kW per event season. SRP Battery Partner: $55/kW twice a year (The Solar Book checked Jul 2026). You get paid when the utility calls your battery, not just for buying it. Ask reserve for outages. Federal credit gone. Performance income is the lever in AZ.",
+      "bullets": [
+        "The Solar Book incentives 2026 (checked Jul 2026): APS Storage Rewards pilot $110/kW per event season; SRP Battery Partner $55/kW twice a year; both open now in that sweep.",
+        "Structure matter: these are not $/kWh ownership rebates like Minnesota or California SGIP. Payment is for average kilowatts delivered when the utility calls.",
+        "Cadence is the product: \"$110/kW\" without \"per event season\" is meaningless; \"$55/kW twice a year\" is a different product from a one-time check.",
+        "Kitchen-table risk: if the utility can drain too deep, you lose the backup you bought the battery for. Ask reserve, event length, opt-out, and early-exit rules before you enroll.",
+        "Federal residential storage credit ended after Dec 31, 2025. In Arizona, repeating performance pay is often what is left on the table.",
+        "Verify with utility: cite Solar Book + tell Brian to confirm current APS Storage Rewards / SRP Battery Partner pages before live (primary fetch optional same morning)."
+      ],
+      "body": "Arizona will not hand you a giant sticker rebate for owning a home battery. It will pay you if that battery shows up when the utility needs it.\n\nAPS Storage Rewards (pilot language in 2026 program roundups) pays about $110 per kilowatt of average contribution across an event season. SRP Battery Partner pays about $55 per kilowatt, twice a year. The Solar Book checked those figures against primary sources in July 2026 and still listed both as open. That is not the same product as Minnesota's $250 per kilowatt-hour ownership check. Arizona is renting a slice of your battery on peak days and cutting you a performance check.\n\nWhy the distinction matters at the kitchen table:\n\nIf you only hear \"$110 per kW,\" you might think you are getting a rebate. You are getting a job description. How often can they call? How deep can they discharge? What stays in the tank for your own outage? Those answers decide whether the program funds independence or quietly sells it.\n\nThe federal homeowner storage credit is gone for systems placed in service after 2025. In Arizona, repeating utility pay is often the remaining lever. That can still pencil for a Phoenix or Mesa household that already wants backup for heat waves and wants the battery to earn its keep in summer. It does not pencil if you need a full tank every night for medical devices and the contract does not protect a reserve.\n\nUS kitchen-table take for a 46-year-old APS customer shopping storage, or a 63-year-old SRP customer who lost power in monsoon season:\n\nAsk for the participation agreement in plain English. Ask what average kW they assume for your battery size. Ask what reserve stays home. Then decide. Backup is the product. The check is how some households make the math close.\n\nIndependence checklist:\n\n1) Confirm APS vs SRP. Different programs. Different cadence.\n2) Get dollars, season definition, and assumed kW in writing.\n3) Ask reserve percentage during events and overnight.\n4) Ask opt-out and early-exit rules before you enroll.\n5) Right-size the battery for fridge, router, medical devices, and a few lights. Do not buy a showroom wall to chase a theoretical seasonal check.\n\n35-54 line: Arizona pays for discharge, not for owning a pretty box. Read the cadence.\n\n55+ line: quiet backup first. Performance pay second. Never the other way around.\n\nFRAMEWORK — rewrite in your voice before posting.",
+      "links": [
+        "https://thesolarbook.com/battery-storage-incentives-2026/"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Rocket Money Rowan: $15/mo AI that texts you about subscriptions and bill hikes",
+      "ocr": "Strong",
+      "window": "8-11 AM MT Monday (also late morning)",
+      "growth": false,
+      "angle": "FinTech Global Sep 3, 2026: Rocket Money launches Rowan, an AI agent that texts you about unused free trials, recurring charge hikes, and forgotten subscriptions. Cancel subs and negotiate rates by text. Premium+ is $15/mo and includes Rowan plus zero-fee bill negotiation. Built with Anthropic on a decade of Rocket Money data. Kitchen-table everyday AI money independence for 45- and 60-year-olds. Not an AGI sermon. Gmail this morning was weak (TLDR Roadster fun-skip; Axios health HOTs-skip), so this is the AI pocketbook pick.",
+      "bullets": [
+        "FinTech Global (Sep 3, 2026): Rowan AI via text; monitors finances; flags unused free trials nearing bill date, recurring charge increases, forgotten subscriptions.",
+        "Users can text Rowan to cancel subscriptions and negotiate lower rates; also budgets, recategorize transactions, reminders, refunds for late/bad service in advanced cases.",
+        "Premium+ tier: $15/month includes Rowan + zero-fee bill negotiation + more features over time.",
+        "Built with Anthropic; Rocket Money cites ~decade of subscription/bill data feeding the agent; described as self-improving on unusual cases.",
+        "Lane fit: everyday AI that protects cash for families and older households. Skip AGI / politics / health digests from this morning's Gmail."
+      ],
+      "body": "Most \"AI for money\" talk is fog. This one is a text thread that watches your recurring charges.\n\nRocket Money launched Rowan, an AI assistant that works over text message. It watches for the boring leaks that hit 45-year-olds and 60-year-olds hardest: a free trial that is about to convert, a streaming price that quietly jumped, a gym or software sub you forgot after the pandemic. You can text it to cancel a subscription or chase a lower rate. The company put Rowan in a Premium+ plan at $15 a month that also includes zero-fee bill negotiation.\n\nBuilt with Anthropic, using about a decade of Rocket Money's own subscription and bill data. That is not sci-fi. That is a call center with better memory, sitting in your pocket.\n\nWhy it belongs in the @UpgradeAmerican lane:\n\nIndependence is not only solar and cars. It is noticing when the household leak is $12 here and $29 there until the grocery budget feels tight for no dramatic reason. Everyday AI that texts you before the charge hits is the practical version of \"AI helps families,\" not a TED Talk about robots taking over.\n\nUS kitchen-table take:\n\nFifteen dollars a month is real money. It only wins if Rowan actually catches more than it costs, or saves you hours you would not spend digging through statements. Try it the same way you try a new utility rate: one billing cycle, written goals, cancel if it is theater.\n\nIndependence checklist:\n\n1) List every recurring charge once on paper or a notes app before you buy any AI helper.\n2) Decide a monthly \"leak budget\" you refuse to exceed.\n3) If you try Rowan or any similar tool, track cancels and negotiated savings for 30 days.\n4) Never hand over credentials you do not understand. Read what the app can authorize.\n5) Pair bill hygiene with the energy lane: TOU habits, right-sized battery, EV home charging. Small leaks stack.\n\n35-54 line: AI that texts you about a price hike is more useful than AI that writes a poem about your budget.\n\n55+ line: forgotten subscriptions are silent roommates. A $15 tool only helps if it evicts them faster than it costs.\n\nFRAMEWORK — rewrite in your voice before posting.",
+      "links": [
+        "https://fintech.global/2026/09/03/rocket-money-launches-ai-agent-to-manage-finances/"
+      ]
+    }
+  ]
+}
