@@ -1,0 +1,174 @@
+{
+  "date": "2026-09-15",
+  "label": "FRAMEWORK — rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "1",
+      "title": "CT ESS: decade performance pay ($30/$130 + $300/kW)",
+      "ocr": "Strong",
+      "window": "8-11 AM MT Tuesday (also late morning). Program-change and paycheck posts travel on weekdays.",
+      "growth": true,
+      "angle": "After Apr 1 2026 Construct 5, CT Energy Storage Solutions shifts toward enrollment dollars plus ten years of Active Dispatch performance pay. Kitchen-table for CT homeowners with solar/battery: the check is what your battery delivers on event days, not a one-page rebate map.",
+      "bullets": [
+        "Enrollment incentive (new structure): residential standard ~$30/kWh; Grid-Edge ~$130/kWh (more outage-prone addresses on Eversource/UI maps).",
+        "Performance: standard residential $300/kW average contribution years 1-10; underserved $450/kW; low-income $550/kW (program tables).",
+        "Example on program page for a 20 kW / 30 kWh home: new design enrollment ~$900 or ~$3,900 Grid-Edge; performance path illustrated at ~$18,000 standard / ~$27,000 underserved / ~$33,000 low-income over the decade (depends on real average kW during events).",
+        "Roughly ~50 summer + ~5 winter Active Dispatch events. New enrollments: Active Dispatch only (Passive Dispatch closed for newly approved customers).",
+        "Federal Residential Clean Energy Credit for homeowner storage ended for property placed in service after Dec 31, 2025 (IRS). State/utility performance cash is the lever left."
+      ],
+      "body": "Connecticut is not handing you another vague \"rebate available\" line on a sales sheet.\n\nStarting with enrollments on or after April 1, 2026, Energy Storage Solutions puts more of the money on PERFORMANCE. You get a smaller enrollment check up front. Then for about a decade your battery can earn seasonal pay when it shows up for Active Dispatch events.\n\nEnrollment math in plain English: standard residential is about $30 per usable kWh. Grid-Edge addresses (homes that blink more often on the utility maps) sit nearer $130 per kWh. On a 30 kWh pack that is roughly $900 versus about $3,900 if you truly qualify as Grid-Edge. Ask for the map check in writing before you wire a deposit.\n\nPerformance math: standard residential is listed at $300 per average kW you actually deliver during events, years 1 through 10. Underserved community path: $450/kW. Low-income path: $550/kW. The program page walks a 20 kW / 30 kWh example where the decade performance path can land around $18,000 standard, higher if you qualify underserved or low-income. That is not a guarantee. It is average kW during events from inverter data, not the nameplate sticker on the box. Opt out a lot and you earn less.\n\nEvent rhythm: think roughly fifty summer calls and about five winter calls. New customers are Active Dispatch only. You keep more control day to day. The program pays when your battery helps on the expensive peaks.\n\nUS kitchen-table take for a 45-year-old in Hartford County with panels, or a 62-year-old who wants quiet backup without draining the emergency fund:\n\nThe federal homeowner storage credit is gone after 2025. Connecticut is still paying households who enroll and perform. This is not a fifty-state incentives collage. It is one utility program with a ten-year paycheck if your battery shows up.\n\nIndependence checklist:\n\n1) Confirm Eversource or UI territory and whether your address is Grid-Edge on the official map.\n2) Ask the Eligible Contractor for enrollment dollars AND the performance path on the same quote.\n3) Get usable kWh, average kW assumptions, and opt-out rules in writing.\n4) Size for fridge, router, medical devices, and a few lights first. Do not buy a showroom wall to chase a decade table.\n5) Remember: performance is average contribution during events, not hope.\n\n35-54 line: $30 or $130 per kWh to start, then $300-class pay per average kW for ten years, is how a CT solar home replaces a dead federal credit with a working paycheck.\n\n55+ line: backup for heat and medical devices is the product. Decade performance pay is how you buy it without draining savings.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://energystoragect.com/program-changes-for-april-1-2026/",
+        "https://energystoragect.com/",
+        "https://www.irs.gov/credits-deductions/residential-clean-energy-credit"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "AZ APS $110/kW + SRP $55/kW x2 season checks",
+      "ocr": "Strong",
+      "window": "8-11 AM MT Tuesday (also late morning). Desert bill pain travels with weekday coffee scrolls.",
+      "growth": true,
+      "angle": "Desert peak evenings. A battery already on the wall can earn a season check if enrolled. APS Storage Rewards and SRP Battery Partner pay for PERFORMANCE, not an upfront rebate. Federal homeowner storage credit gone. Soft-pedal Mon's state incentives table.",
+      "bullets": [
+        "APS Storage Rewards (BYOD pilot): May 1-Oct 31, up to 60 conservation days, typical windows 4-10pm, 1-4 hours. Earn $110 per average kW your battery provides across the season. Bill credit labeled BYOD Storage Rewards after season end. Powerwall, Enphase IQ, SolarEdge, and others listed eligible.",
+        "APS example math on page: ~2.11 kW season average × $110 ≈ $232 bill credit; opt-outs count as 0 kW in the average.",
+        "SRP Battery Partner (official): $55 per kW of average extra capacity, paid twice yearly (summer + winter seasons) as bill credits. Often summarized ~$110/kW per year in two installments. Pilot through Apr 30, 2030; capped ~5,000 customers. Partners include Tesla and FranklinWH on SRP pages.",
+        "Both are performance / VPP-style. Not a one-time state rebate check. Battery can still keep a reserve; opt-out lowers the credit.",
+        "Federal Residential Clean Energy Credit for homeowner storage ended after Dec 31, 2025 (IRS)."
+      ],
+      "body": "Arizona evenings are expensive for the grid. That is exactly when a home battery can earn a season check if you enroll.\n\nIf you are on APS: Storage Rewards runs May 1 through October 31. Up to about 60 conservation days. Typical windows land between 4pm and 10pm. You earn $110 for every average kilowatt your battery delivers across the season. Skip days and that average drops. Credits show up on the APS bill as BYOD Storage Rewards after the season, usually within a billing cycle or two. Powerwall, Enphase, SolarEdge, and several others are on the eligible list. You can opt out of a single event without leaving the program. Opt-outs just count as zero for that day in the average.\n\nIf you are on SRP: Battery Partner pays $55 per kilowatt of average extra capacity your battery contributes during high-demand events, twice a year (after summer and after winter) as bill credits. Many explainers summarize that as about $110 per kW per year split in two. Official SRP framing: join and earn $55 per kW in incentives twice a year. Pilot capped around 5,000 customers and approved through April 30, 2030. Check Tesla or FranklinWH enrollment paths if that is your pack.\n\nThis is not another fifty-state rebate collage. It is desert peak pay for a battery you already own or are about to size honestly.\n\nUS kitchen-table take for a 48-year-old in Phoenix with panels and a Powerwall, or a 60-year-old in Mesa who wants the fridge up when the AC neighborhood browns out:\n\nThe federal homeowner storage credit is gone. APS and SRP still pay for evening performance. Confirm which utility owns your meter before you trust a Facebook number. Ask what reserve stays in the battery during events.\n\nIndependence checklist:\n\n1) APS or SRP? Different programs. Do not mix the apps.\n2) Confirm your battery model is on the eligible list and has Permission to Operate.\n3) Ask how reserve / backup settings affect the season average.\n4) Plan major loads off the peak window when you can. The battery is not a free AC pass.\n5) Get the bill-credit timing in writing (end of season, not overnight).\n\n35-54 line: $110 per average kW on APS for the summer season, or $55/kW twice a year on SRP, is how a Valley household turns a wall box into a paycheck.\n\n55+ line: evening backup is the product. Season credits are how the battery helps pay for itself after the federal credit died.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://www.aps.com/en/About/Sustainability-and-Innovation/Technology-and-Innovation/Storage-Rewards",
+        "https://www.srpnet.com/energy-savings-rebates/home/residential-solar/battery-partner",
+        "https://www.irs.gov/credits-deductions/residential-clean-energy-credit"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Home ~$11 vs IONNA ~$0.39/kWh road-trip",
+      "ocr": "Strong",
+      "window": "8-11 AM MT Tuesday (also late morning). Pocketbook charging math travels on weekdays.",
+      "growth": true,
+      "angle": "Public fast charge is for trips. Daily independence is overnight power at the house. Shop the driveway charger and the rate plan before you fall in love with a highway logo.",
+      "bullets": [
+        "Electric Choice (updated Sep 2026): US average residential ~18.34¢/kWh → about $11 for a 60 kWh full charge at home. Roughly 5-7¢ per mile vs gas often ~13-15¢/mi. Home ~3x cheaper than typical DC fast in their framing (~$33 / ~55¢/kWh for 60 kWh).",
+        "Qmerit 2026: home ~$694/yr at national miles (~13,489) vs exclusive DCFC ~$0.53/kWh ≈ ~$2,043/yr. Home full charge on ~72 kWh pack ~$13 at $0.18/kWh.",
+        "IONNA Rechargery (Forbes Jun 2026 / ionna.com framing): often ~$0.38-$0.39/kWh + tax, up to ~400 kW, no idle fees in that coverage. Fine for road trips. Not the daily budget.",
+        "Federal 30C residential charger credit: Electric Choice notes expired June 30, 2026 for installations after that date. Mention carefully. State/utility charger rebates may still exist.",
+        "Pocketbook: Level 2 home install commonly hundreds to low thousands before any rebate. Plan the outlet before the car payment."
+      ],
+      "body": "The cheapest mile in an EV is almost never the highway charger with the bright logo.\n\nAt the US average home rate near 18 cents a kilowatt-hour, a 60 kWh fill is about $11. That is roughly five to seven cents a mile for many cars. Gas at everyday prices often lands nearer thirteen to fifteen cents a mile. Electric Choice puts a typical home fill near $11 and a DC fast fill nearer $33 for the same 60 kWh. Qmerit’s 2026 national-miles math is even blunter: about $694 a year charging at home versus about $2,043 if you lived on DC fast at roughly 53 cents a kWh.\n\nRoad trips are different. Networks like IONNA advertise Rechargery stops around 38 to 39 cents a kWh plus tax, high power, and (in recent coverage) no idle fees. That is travel money. It is not your Tuesday commute plan.\n\nUS kitchen-table take for a 42-year-old comparing a car payment, or a 58-year-old who hates surprise fuel stops:\n\nIndependence is a wall outlet plan before the car. Ask three numbers before you sign: home rate (or off-peak TOU), Level 2 install ballpark, and what a road-trip fast-charge fill costs on the routes you actually drive. The federal home charger credit (30C) is treated as expired after June 30, 2026 in current explainers. Check your utility for any local rebate that is still alive.\n\nIndependence checklist:\n\n1) Pull last 12 months of electric rates. Note any off-peak overnight plan.\n2) Get a Level 2 install quote (panel, run length, permit) before the dealer deposit.\n3) Budget public fast charge only for trips. Do not model your monthly fuel line on $0.39-$0.53/kWh.\n4) Compare home ¢/mi to your current gas ¢/mi with real local prices.\n5) If you rent, confirm parking access and landlord rules before you buy the car around a charger you cannot install.\n\n35-54 line: ~$11 at home versus highway prices near forty cents a kWh is why the driveway beats the logo.\n\n55+ line: predictable overnight charging is independence. Public fast charge is the road-trip tool, not the budget.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://www.electricchoice.com/ev-charging-costs/",
+        "https://qmerit.com/blog/comparing-long-term-cost-analysis-of-ev-home-charging-vs-public-charging/",
+        "https://www.forbes.com/sites/anthonykarcz/2026/06/27/ionna-expands-in-florida-brings-gas-station-reliability-to-ev-charging/",
+        "https://www.ionna.com/rechargeries/find-a-rechargery/"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Used EV prices firming (+5.1% / under-$20k +9.4%)",
+      "ocr": "Strong",
+      "window": "8-11 AM MT Tuesday (also late morning). Used-lot money posts travel on weekdays.",
+      "growth": false,
+      "angle": "Demand showed up. Recurrent Q3 2026: same make/model used EV prices +5.1% Jan-Jun; under-$20k bucket +9.4% in H1. Cox: July used EV sales +10.1% YoY. Do NOT lead with Saturday's under-$30k LIVE hook. Patient shopper checklist: battery health, title, insurance quote, home charge plan.",
+      "bullets": [
+        "Recurrent Q3 2026: across 108 make-model-year combos, volume-weighted used EV prices +5.1% January to June. Under-$20k cohort +9.4%; higher-priced buckets flatter or down.",
+        "Recurrent/Axios examples often cited: 2023 Bolt EV roughly ~$17.7k → ~$21.2k (~+20% in that snapshot); off-lease wave continues into 2026-27.",
+        "Cox Automotive July 2026 EV Market Monitor: 36,810 used EV sales, +10.1% YoY, +7.9% MoM; used share ~2.4% of used market that month. New EV still weak in broader 2026 framing.",
+        "March-era Cox/CarBuzz framing still widely cited: roughly 44% of used EV sales under $25k (cite as earlier-year snapshot, not the lead hook).",
+        "Shopper tools: battery health / State of Health report, clean title, insurance quote on the VIN before deposit, Level 1 vs Level 2 home plan."
+      ],
+      "body": "Used EV prices stopped only falling. At the affordable end, they firmed because buyers showed up.\n\nRecurrent’s Q3 2026 work compared the same make, model, and year from January to June across more than a hundred combinations. Prices were up about 5.1% on a volume-weighted basis. The under-$20,000 slice jumped about 9.4%. That is the opposite of the endless depreciation story shoppers heard for years. Cox counted about 36,810 used EV sales in July, up 10.1% from a year earlier. New EV sales are still soft in the bigger 2026 picture. The secondary lot is where household budgets are voting.\n\nThat does not mean \"buy tonight before it vanishes.\" Firming prices mean the screaming bargain headline can age in a week. Shop patiently. The checklist matters more than the viral price screenshot.\n\nUS kitchen-table take for a 40-year-old stretching a payment, or a 55-year-old who wants lower fuel drama without a new-car payment:\n\nAsk for battery health in writing. Confirm title status. Get an insurance quote on that exact VIN before you put money down. Decide Level 1 outlet versus Level 2 install before the dealer closes. Off-lease supply is still coming. You can walk away from a soft pitch.\n\nIndependence checklist:\n\n1) Battery State of Health report (not just \"one owner, low miles\").\n2) Title / salvage / flood check.\n3) Insurance quote on the VIN from at least two carriers.\n4) Home charging plan (outlet access, landlord, or install quote).\n5) Compare out-the-door used payment to your real gas+repair line for 12 months.\n\n35-54 line: +5% overall and nearly +10% under $20k means the cheap end found demand. Buy the health report, not the panic.\n\n55+ line: a fair used EV with a proven battery and a home outlet plan beats a headline you cannot verify.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://www.recurrentauto.com/research/used-electric-vehicle-buying-report",
+        "https://www.thecooldown.com/green-business/used-ev-sales-jump-in-july-as-prices-drop/",
+        "https://www.cnbc.com/2026/07/31/used-ev-prices.html",
+        "https://www.coxautoinc.com/insights/ev-market-monitor-july-2026/"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "AU FiT pennies vs evening self-consume",
+      "ocr": "Strong",
+      "window": "8-11 AM MT Tuesday (also late morning). Bill-math explainers travel mid-morning.",
+      "growth": false,
+      "angle": "Energy Matters 2026: FiT roughly 3-10c/kWh vs buy 28-45c. 10 kWh surplus ≈ 60c export vs ~$3 avoided if stored. US lesson after federal storage credit ended: TOU peaks and evening self-use beat exporting cheap midday power. (Mon draft unused as LIVE.)",
+      "bullets": [
+        "Energy Matters (Aug 2026): Australian feed-in tariffs commonly ~3-10c/kWh; retail buy often ~28-45c/kWh. Self-use worth roughly 3x to 8x export per kWh.",
+        "Example: 10 kWh midday surplus at ~6c FiT ≈ 60c export; same 10 kWh stored and used at night at ~30c avoided ≈ $3.00.",
+        "Right-sized 10-14 kWh battery after AU rebate often cited in 5-8 year payback range (local program context). Use as overseas lesson, not a US rebate claim.",
+        "US parallel: federal Residential Clean Energy Credit for homeowner batteries ended for systems placed in service after Dec 31, 2025 (IRS). Remaining levers = TOU, utility performance programs, state/utility cash where they still exist, and evening self-consumption.",
+        "Soft-pedal Mon LIVE NY/MN rebate posts and Mon incentives table. This is the export-vs-evening math, not a state map."
+      ],
+      "body": "Australia’s solar homes already learned the hard version of the bill lesson. Export pays pennies. Evening power costs dollars.\n\nEnergy Matters puts common feed-in tariffs around 3 to 10 cents a kilowatt-hour in 2026, while buying power from the grid often runs 28 to 45 cents. Same electron, wildly different price tag. Their simple day: 10 kWh of surplus exported at about 6 cents earns roughly 60 cents. Store that 10 kWh and use it after dark at about 30 cents avoided and you keep about $3.00. That gap is why a battery stopped being a hobby purchase down under.\n\nUS kitchen-table take after the federal homeowner storage credit died for systems placed in service after 2025:\n\nYou may not get an Australian-style federal battery rebate. You still face the same shape of problem if your utility pays little for midday export and charges a lot for dinner-time power. Time-of-use peaks, evening self-use, and any utility performance program that still pays are the tools. A battery is a bill tool when it moves cheap midday electrons into expensive evening hours. It is not a lawn ornament.\n\nIndependence checklist:\n\n1) Pull your export credit (if any) and your peak evening rate. Write both on one sticky note.\n2) Estimate kWh you buy after 4pm on workdays.\n3) Ask whether a battery plus TOU beats a bigger solar-only array for YOUR load shape.\n4) If a state or utility still pays performance (CT, AZ, and others), stack that math separately. Do not invent a federal storage credit that is gone.\n5) Size for evening essentials first.\n\n35-54 line: 60 cents to export versus about $3 to self-use the same 10 kWh is the whole argument in one afternoon.\n\n55+ line: dinner-time power is what hurts. Storing your own midday surplus is how older households cut that line without a politics speech.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://www.energymatters.com.au/renewable-news/solar-feed-in-tariff-vs-home-battery-2026/",
+        "https://www.irs.gov/credits-deductions/residential-clean-energy-credit"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Zurich AU FSD insurance cut / US VIN quote",
+      "ocr": "Strong",
+      "window": "8-11 AM MT Tuesday (also late morning). Insurance sticker-shock posts travel with weekday scrolls.",
+      "growth": false,
+      "angle": "Carba / Drive Sep 14: Zurich Australia now rates FSD (Supervised) as a factor on InsureMyTesla (Model 3/Y). One published quote example saved about A$118 (≈5%) for a subscriber vs no FSD. US kitchen-table: insurance can make or break the EV payment. Quote the VIN. Compare carriers. Do not assume Autopilot/FSD discounts exist in your state. Soft on Autopilot politics.",
+      "bullets": [
+        "Zurich Australian Insurance: first AU insurer to use FSD (Supervised) as a rating factor on InsureMyTesla; says second globally. Applies to eligible Model 3 and Model Y with the software present.",
+        "Drive-obtained quote example (35-year-old man, Chatswood NSW, Model 3 Long Range RWD): A$2,357 without FSD; A$2,239 with monthly FSD subscription (save A$118 / ~5%); A$2,329 with outright FSD purchase (save A$28 / ~1.2%). Zurich did not publish a single national discount percent.",
+        "Zurich cites Tesla data claiming far fewer collisions vs other EVs (company figure). Feature presence is rated; engagement is not separately proven in the AU product description.",
+        "US context from same reporting: Tesla Insurance and Lemonade have US products that price FSD miles differently in limited states. Most US households still shop ordinary carriers with no FSD line item.",
+        "Pocketbook rule: insurance quote on the exact VIN before deposit; compare at least two carriers; never assume a software badge equals a lower premium in your ZIP."
+      ],
+      "body": "Insurance is part of the car payment. Ignore it and the \"cheap EV\" math lies to you.\n\nIn Australia, Zurich just started treating Tesla Full Self-Driving (Supervised) as a rating factor on its InsureMyTesla product for eligible Model 3 and Model Y cars. It is the first Australian insurer to do that. One quote pulled by Drive for a 35-year-old in Chatswood on a Model 3 Long Range showed about A$2,357 a year without FSD versus A$2,239 with a monthly FSD subscription. That is roughly A$118, or about 5%, for that one profile. Outright FSD ownership saved much less in that same example. Zurich did not publish a single nationwide percent off. Your age, ZIP-equivalent, and claims history still matter more than a software badge.\n\nUS kitchen-table take (pocketbook only):\n\nDo not import the Australia headline into your driveway as a promise. Some US products (Tesla Insurance, Lemonade in limited states) experiment with FSD-linked pricing. Plenty of carriers do not. Before you put a deposit on any EV, get an insurance quote on that VIN. Run two carriers. Ask whether Autopilot, FSD, or any driver-assist package changes the premium in YOUR state. If the quote shocks you, walk. The payment is payment plus insurance plus charging.\n\nIndependence checklist:\n\n1) Quote insurance on the exact VIN before deposit.\n2) Compare at least two carriers (captive brand insurance vs independent).\n3) Ask what discounts actually apply in writing. Do not assume FSD equals savings.\n4) Recheck if you add teenage drivers or a different ZIP.\n5) Keep the soft-skills: this is money, not a tech tribal fight.\n\n35-54 line: a 5% cut on one Australian quote is a headline. Your US binder is the real number. Get it first.\n\n55+ line: fixed-income households feel insurance spikes first. Quote before you fall in love with the car.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://eletric-vehicles.com/tesla/zurich-cuts-tesla-premiums-in-australia-for-cars-with-fsd/",
+        "https://www.tesla.com/insurance (US shoppers: check local availability)"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "New England wind crossed 2 GW / bill tools",
+      "ocr": "Strong",
+      "window": "8-11 AM MT Tuesday (also late morning). Regional bill-context posts travel mid-morning.",
+      "growth": false,
+      "angle": "Concord Monitor (Sep 11, via Canary digest context): ISO-New England saw slightly more than 2,000 MW of wind around 8:30pm, first time the six-state region crossed that mark (~30% above prior Oct records; Revolution Wind / Vineyard Wind context). US lesson: when wind shows up at dinner time it can displace expensive peaker juice. Households still need bill tools (TOU, battery, efficiency) because wholesale wins do not auto-cut every residential bill. Soft-pedal standing \"solar>wind 2025\" avoid.",
+      "bullets": [
+        "Concord Monitor / David Brooks Sep 11, 2026: around 8:30pm Thursday, ISO-New England recorded slightly more than 2,000 MW (2 GW) from wind. First time the region topped that symbolic point.",
+        "About 30% higher than records from October of the prior year. Coverage ties the step-up to Revolution Wind coming online after Vineyard Wind’s delayed start.",
+        "2 GW is framed as roughly one-seventh to one-tenth of regional demand depending on season.",
+        "Household caveat: wholesale mix shifts ≠ automatic cut on every family bill. TOU plans, efficiency, and batteries (where they pencil) remain the kitchen-table levers.",
+        "Soft-pedal politics in source copy. Keep pocketbook voice."
+      ],
+      "body": "One Thursday evening, New England’s wind fleet pushed past 2 gigawatts on the grid for the first time.\n\nConcord Monitor, citing ISO-New England, puts the moment around 8:30pm. A bit over 2,000 megawatts. Roughly 30% above the records from October a year earlier. Dinner time matters. That is when many households cook, charge, and run AC. When wind shows up in that window, it can crowd out the expensive peaker plants that usually fill the gap. That is wholesale bill context for the region. It is not a magic rebate on your kitchen table.\n\nUS kitchen-table take for a 50-year-old in Massachusetts or a 63-year-old in New Hampshire watching the utility email:\n\nCelebrate the record if you want. Then open your own tools. Time-of-use rates. A right-sized battery if your evening peaks hurt. Weatherization and load shifting you can actually stick with. Wholesale wind at 8:30pm does not automatically rewrite every residential tariff overnight.\n\nIndependence checklist:\n\n1) Check whether your utility offers a TOU or peak-rebate plan you can live with.\n2) Look at your 4pm-9pm kWh for a typical workday.\n3) If you already have solar, ask whether evening self-use or a utility battery program beats exporting midday pennies.\n4) Do not wait for a regional record to fix a high fixed charge. Call about rate class and budget billing.\n5) Keep the lane: this is bill context, not a culture fight.\n\n35-54 line: 2 GW at dinner time is real grid help. Your bill still needs a plan you control.\n\n55+ line: older households feel peak evening rates first. TOU and backup tools matter more than a headline megawatt count.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://www.concordmonitor.com/2026/09/11/new-england-sets-another-wind-power-record/",
+        "https://www.canarymedia.com/articles/wind/maine-make-wind-power-happen (regional wind context; not the 2 GW primary)"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Balcony/plug-in solar for renters (lease+HOA)",
+      "ocr": "Strong",
+      "window": "8-11 AM MT Tuesday (also late morning). Renter bill posts travel on weekdays.",
+      "growth": false,
+      "angle": "Canary (Kathryn Krawczyk, Sep 11): balcony / plug-in solar called this year’s clean energy superstar in the US. Start of 2026: only Utah explicitly legalized. By reporting time: nine states with laws on the books, three more bills awaiting governors. US lesson for apartment/HOA households: small portable generation + bill awareness; check lease/HOA before buying; not a Powerwall replacement. Limit hype.",
+      "bullets": [
+        "Canary Sep 11, 2026 (Krawczyk): at start of 2026 only Utah had explicitly legalized plug-in / balcony solar; Virginia second in April; Colorado and Northeast states followed. Nine states with laws; three passed bills awaiting signatures at time of writing.",
+        "More than two dozen state legislatures had introduced bills by February 2026 (Canary).",
+        "Related Canary July coverage: limited US vendors; example Bright Saver kits discussed around 180W / 360W class with membership pricing that moved through the year. Treat kit prices as illustrative, verify before anyone buys.",
+        "Practical caveats: lease, HOA, balcony load limits, electrical code, and utility interconnection rules still apply. Not a whole-home battery substitute.",
+        "Pocketbook frame: shave daytime plug loads (router, lights, fridge share) and build bill literacy. Independence for people without a roof they own."
+      ],
+      "body": "Not everyone owns a roof. That should not mean zero options.\n\nCanary Media’s Kathryn Krawczyk called balcony / plug-in solar this year’s clean energy superstar in the US. At the start of 2026, Utah was basically alone in clearly legalizing the plug-in idea. By mid-September reporting, nine states had laws on the books and three more bills were sitting on governors’ desks. Virginia moved in April. Colorado and several Northeast states followed. More than two dozen legislatures had floated bills earlier in the year. The map is moving because people are hunting for any honest way to cut a high power bill.\n\nKeep the hype limited. You still cannot treat this like a German supermarket impulse buy in every US city. Vendor choice is thin. Codes differ. A couple of hundred watts on a railing is not a Powerwall. It will not run the whole apartment through a heat wave. It can offset small daytime loads and teach you what your outlets actually cost.\n\nUS kitchen-table take for a 38-year-old renter, or a 60-year-old in an HOA who cannot put panels on a shared roof:\n\nRead the lease and the HOA rules before you click buy. Ask about weight limits, railing rules, and whether plug-in generation is allowed. If your state just legalized it, confirm the effective date and any watt cap. Track your bill for a month with and without the kit if you proceed. Independence here means a smaller grid draw and a clearer bill, not a fantasy off-grid cabin on the third floor.\n\nIndependence checklist:\n\n1) Confirm state legality and any watt / outlet rules.\n2) Get landlord or HOA permission in writing.\n3) Check balcony structural / mounting guidance. Safety first.\n4) Buy certified gear from a vendor that states US code compliance. Avoid mystery imports.\n5) Measure: which daytime loads can this actually offset? Do not expect whole-home backup.\n\n35-54 line: nine states and counting means renters finally get a legal on-ramp. Permission and watt caps still decide the paycheck.\n\n55+ line: small plug-in solar is bill awareness you can hang on a railing. It is not a substitute for medical-device backup planning.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://www.canarymedia.com/articles/balcony-solar/clean-energy-plug-in-solar-panels",
+        "https://www.canarymedia.com/articles/solar/balcony-solar-for-sale-us",
+        "https://www.canarymedia.com/articles/balcony-solar/california-lawmakers-pass-bill-oking-balcony-solar"
+      ]
+    }
+  ],
+  "note": "From 2026-09-15-article-pack.md. Growth: CT ESS + AZ APS/SRP + home vs IONNA. Avoided Mon LIVE. Draft-only."
+}
