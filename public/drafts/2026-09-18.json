@@ -1,0 +1,108 @@
+{
+  "date": "2026-09-18",
+  "label": "FRAMEWORK — rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "1",
+      "title": "Kia EV6 Light LR ~$369 effective monthly",
+      "ocr": "Strong",
+      "window": "11 AM-2 PM MT Friday (secondary Fri evening ~8 PM-midnight).",
+      "growth": true,
+      "angle": "Factory / CarsDirect Sep 18: 2026 EV6 Light Long Range RWD about $369/mo for 36 months with $3,999 due (effective ~$470-$480 before tax). AWD Light LR about $419. Also 0% APR up to 60 months or cash+APR paths. Soft-pedal EV3 Thu pack and Bolt LIVE. Kitchen-table: amortize drive-off, then insurance + plug.",
+      "bullets": [
+        "CarsDirect (updated Sep 18, 2026): EV6 Light Long Range RWD lease ~$369/mo, 36 mo, $3,999 due; effective cost ~$480/mo before taxes and fees; expires ~Sep 30, 2026.",
+        "Light Long Range AWD ~$419/mo, 36 mo, $3,999 due; effective ~$530/mo.",
+        "Electrek manufacturer table (updated ~Sep 13): same factory line ~$369 / avg monthly cost ~$470; MSRP on that line ~$42,745.",
+        "Financing path: 0% APR up to 60 months on some EV6 offers (CarsDirect); or up to ~$5,000 cash + APR combo paths.",
+        "Soft-pedal Thu EV3 Wind $349 twin and Tue Bolt LIVE."
+      ],
+      "body": "The EV6 is still in the \"real payment\" conversation for September.\n\nCarsDirect still shows a Light Long Range RWD lease around $369 a month for 36 months with about $3,999 due at signing. Once you average the drive-off, you are nearer $470 to $480 a month before tax. There is also a 0% APR finance path on some offers if lease math is not your style.\n\nThat is not a brand war. That is a stack: payment, insurance, weekday plug.\n\nUS kitchen-table take for a 40-year-old commuting crossover replacement, or a 58-year-old who wants a hatch that can road-trip:\n\n1) Get the out-the-door sheet for the exact Light Long Range VIN, not a brochure monthly.\n2) Divide the due-at-signing by the months, then add the payment. That is your real lease number.\n3) Quote insurance on that VIN before you sign (Brian already posted the insurance warning Thu. Keep it one line here).\n4) Map home Level 2, workplace, or a real apartment plan if you rent.\n\n35-54 line: a mid-$300s EV6 lease with honest effective monthly is the kind of number Premium timelines save and repost.\n\n55+ line: 0% or a clear lease only help if insurance and the plug plan keep your independence.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://www.carsdirect.com/kia/ev6/prices-deals",
+        "https://electrek.co/best-electric-vehicle-leases/",
+        "https://www.kia.com/us/en/ev6 (confirm local)"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "House Ratepayer Protection Act 417-3 / data-center bills",
+      "ocr": "Strong",
+      "window": "11 AM-2 PM MT Friday.",
+      "growth": true,
+      "angle": "Sep 16 House passed the Ratepayer Protection Act 417-3. States must consider standards so loads over 100 MW cover full incremental generation, transmission, and distribution upgrades, with financial assurances before build and cost recovery if a big load walks. Kitchen-table: AI growth is fine if families are not the piggy bank. Soft-pedal politics sermon. Soft-pedal SK nuclear standing.",
+      "bullets": [
+        "Utility Dive (Sep 17, 2026): House passed Ratepayer Protection Act 417-3 on Sep 16 to limit data-center cost shifts onto existing customers.",
+        "Bill directs states to consider standards for computational / large loads above 100 MW so they cover \"full, incremental\" upgrade costs; financial assurances before upgrades; recovery if a large load exits early.",
+        "ClearView / Utility Dive: bill largely reinforces a transition already underway; only ~13 states still lack large-load tariffs as of mid-2026; Senate path uncertain before midterms.",
+        "Co-sponsors called out in coverage include Rep. Gabe Evans (R-Colo.) and Rep. Kathy Castor (D-Fla.). Household frame: ask your PUC what large-load rules already exist.",
+        "Soft-pedal climate politics; keep it bills and fairness."
+      ],
+      "body": "AI data centers use power like small cities. That can be fine. What is not fine is quietly sliding the grid bill onto every kitchen table.\n\nThe House just passed the Ratepayer Protection Act 417 to 3. The idea is simple: states should consider rules so big loads over 100 megawatts pay the full extra cost of the wires and power they need, put money up before the upgrades start, and still cover costs if they cancel later.\n\nThis is not anti-AI. This is \"do not make Grandma subsidize a warehouse full of GPUs.\"\n\nUS kitchen-table take:\n\n1) Screenshot your last electric bill. Note the delivery and generation lines.\n2) Ask your state utility commission (or your co-op board) what large-load tariff already exists for data centers.\n3) If your utility is asking for a rate hike, ask how much of the new spend is for big new loads vs ordinary reliability.\n4) Save and share tools that show residential rates in your ZIP. Knowledge is the first protection.\n\n35-54 line: Premium timelines care about who pays for AI power. This vote is a saveable money story, not a culture war.\n\n55+ line: fixed-income households feel rate creep first. Ask who pays for the upgrade.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://www.utilitydive.com/news/house-passes-ratepayer-protection-bill-data-centers/830658/",
+        "https://rollcall.com/2026/09/16/bill-aimed-at-voter-anger-over-data-centers-passes-house/"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Mass heat-pump winter rates deeper Nov 1",
+      "ocr": "Strong",
+      "window": "11 AM-2 PM MT Friday.",
+      "growth": true,
+      "angle": "Canary Sep 17: National Grid and Unitil cut winter transmission charges further (to ~2.0 and ~1.5 cents/kWh) starting Nov 1 for heat-pump homes. Last winter saved >$37M statewide. Extra ~$16-$21/mo at 600 kWh on top of existing discounts. Xcel MN electric heating rate and Maine pilot mean other states are watching. Kitchen-table: operating cost beats brochure. Soft-pedal Mass Save twin standing; this is rate design, not rebates.",
+      "bullets": [
+        "Canary Media (Sep 17, 2026): MA regulators approved deeper winter heat-pump rates for National Grid and Unitil effective Nov 1.",
+        "National Grid transmission charge for heat-pump rate: from ~$0.055/kWh down to ~$0.02/kWh; Unitil from ~$0.042 to ~$0.015/kWh (on top of existing distribution discounts).",
+        "Last winter's seasonal rates saved heat-pump households >$37 million total; >65,000 households expected to benefit from the deeper cut; Switchbox pegs ~$9.8M extra savings this winter for National Grid + Unitil customers vs last year.",
+        "At ~600 kWh/mo, extra bill drop ~$16-$21/mo beyond existing discounts.",
+        "MA still the only state requiring major utilities to offer heat-pump rates; Xcel (MN) has an electric heating rate; Central Maine Power ran a pilot; Switchbox pushing NY and RI."
+      ],
+      "body": "Buying a heat pump is only half the math. The other half is what your utility charges you to run it in January.\n\nMassachusetts just approved deeper winter rates for heat-pump homes at National Grid and Unitil starting November 1. Transmission charges drop toward about 2 cents and 1.5 cents a kilowatt-hour. Last winter's program already saved households more than $37 million. This round can add roughly $16 to $21 a month for a home using about 600 kWh, on top of the discounts that already exist.\n\nUS kitchen-table take if you are outside Massachusetts:\n\n1) Call your utility and ask: \"Do you have a seasonal or electric-heating rate for heat pumps?\"\n2) If you are in Minnesota, ask about Xcel's electric heating rate. If you are in Maine, ask what followed the Central Maine Power pilot.\n3) Get the all-in winter operating cost in writing before you replace a furnace.\n4) Pair the rate question with weatherization. A cheap rate on a leaky house still hurts.\n\n35-54 line: this is a bill story, not a climate lecture. Save it if you are shopping heat vs gas this fall.\n\n55+ line: independence in winter means knowing the rate class, not just the rebate poster.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://www.canarymedia.com/articles/heat-pumps/massachusetts-increase-winter-heat-pump-rates",
+        "https://www.mass.gov/info-details/residential-electric-seasonal-heat-pump-rates"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Kia Niro EV Wind ~$289 factory cheapest rung",
+      "ocr": "Strong",
+      "window": "11 AM-2 PM MT Friday.",
+      "growth": true,
+      "angle": "Electrek manufacturer table: Niro EV Wind ~$289/mo for 36 months with $3,999 due; average monthly cost ~$392; MSRP ~$41,195; expires ~Sep 30. Soft-pedal Wed unused Niro leftover if Brian already sat on ~$269 dealer lines; this frame is the factory ladder + effective monthly. Soft-pedal Bolt LIVE.",
+      "bullets": [
+        "Electrek EV Lease Guide manufacturer table (updated Sep 2026): Kia Niro EV Wind ~$289/mo, 36 mo, $3,999 due, 10k mi/yr, avg monthly cost ~$392, MSRP ~$41,195, expires ~9/30/26.",
+        "Electrek still flags Niro as among the least expensive 2026 EV factory leases on that board.",
+        "Dealer examples in same guide can print lower advertised monthlies (verify locally; some lines expire earlier).",
+        "Soft-pedal Bolt LIVE and Thu EV3 / Ioniq 5 packs. This is the compact hatch payment rung.",
+        "Compare Niro vs EV6 vs used Bolt on payment+insurance+plug, not vibes."
+      ],
+      "body": "If you want the lowest national factory lease rung that is still a real EV, start with the Niro EV Wind sheet.\n\nElectrek's September manufacturer table still shows about $289 a month for 36 months with $3,999 due. Average that drive-off and you are nearer $392 a month before tax. That is still one of the cheapest factory lines on the board.\n\nHeadline monthlies lie. Effective monthly plus insurance plus plug is the truth.\n\nUS kitchen-table checklist:\n\n1) Ask for the Niro Wind factory program in writing for your ZIP.\n2) Compute effective monthly (payment + drive-off / months).\n3) Quote insurance on that VIN.\n4) If you rent, map a plug before you fall in love with the payment.\n\n35-54 line: Premium timelines save \"cheapest honest lease\" posts when the math is clean.\n\n55+ line: a compact EV payment only helps if you can charge without drama.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://electrek.co/best-electric-vehicle-leases/",
+        "https://www.kia.com/us/en/niro-ev (confirm local)"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Used EV days-to-sell / lease-return checklist",
+      "ocr": "Strong",
+      "window": "11 AM-2 PM MT Friday (secondary Fri evening).",
+      "growth": true,
+      "angle": "Recurrent Q3 2026: fastest-selling 2023 used EVs include Bolt EV (~12 days on lot), Lightning (~12.5), EV6 (~14.5). More than half of used EV inventory under $30k in their framing; up to ~500,000 lease returns projected in 2026. Soft-pedal Tue LIVE price-firming (+5.1% / under-$20k +9.4%) numbers as the hook. New frame: speed-to-sell + lease-return supply + checklist.",
+      "bullets": [
+        "Recurrent Used EV Market Report Q3 2026: 2023 Chevy Bolt EV median ~12 days to sell; F-150 Lightning ~12.5; Kia EV6 ~14.5; Bolt EUV ~15 (vs ~6 weeks for average used car).",
+        "Recurrent: as many as ~500,000 EV lease returns projected in 2026 (and higher in 2027) as 2023-2025 leases mature.",
+        "Cox (via Recurrent): used EVs reached ~2.8% of total used market in April; days' supply fell to ~32.",
+        "Soft-pedal Tue pack/LIVE \"prices up 5.1% / under-$20k +9.4%\" as the primary hook. You can nod that affordable used EVs are firm without reprinting that frame.",
+        "Soft-pedal Bolt new-lease LIVE; this is used inventory speed."
+      ],
+      "body": "New EV headlines get the airtime. Used lots are where a lot of families actually win.\n\nRecurrent's Q3 2026 report says a 2023 Bolt EV is moving in about 12 days. A used Lightning and EV6 are in that same fast lane. Average used cars still sit closer to six weeks. Lease returns are pouring in as 2023-2025 leases end. That is inventory a household can actually touch.\n\nUS kitchen-table used-EV checklist:\n\n1) Get a battery health report or Recurrent-style range reality check, not just the window sticker.\n2) Quote insurance on the exact VIN before you fall in love.\n3) Map Level 2 at home or a real apartment plan.\n4) Budget one road-trip on public DC so the app and the rate are not a surprise.\n5) If a car sits 12 days, expect less haggling room. Move fast on paperwork, not emotions.\n\n35-54 line: \"used EV sold in 12 days\" is a Premium save when you teach the checklist.\n\n55+ line: a nearly-new lease return can beat a stressed new payment if insurance cooperates.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://www.recurrentauto.com/research/used-electric-vehicle-buying-report",
+        "https://electrek.co/best-electric-vehicle-leases/ (for new-vs-used payment context)"
+      ]
+    }
+  ],
+  "note": "From 2026-09-18.md five (article pack AP1/2/3/4/8). Growth: EV6+Niro ladder + Ratepayer 417-3. Soft-pedal Thu LIVE. Draft-only. X-Assistant PWA (CoS left desk)."
+}
