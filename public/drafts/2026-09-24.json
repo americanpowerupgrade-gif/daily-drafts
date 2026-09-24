@@ -1,0 +1,110 @@
+{
+  "date": "2026-09-24",
+  "label": "FRAMEWORK - rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "1",
+      "title": "Colorado Inclusive Community Solar 2026: Xcel ≥50 MW and 51% income-qualified.",
+      "ocr": "Strong",
+      "window": "Thursday ~10 AM MT (heatmap). Late morning-afternoon OK. Soft-pedal \"post at 8am.\"",
+      "growth": true,
+      "angle": "SB24-207 Inclusive Community Solar is live in 2026. Xcel (500k+ customers) must offer at least 50 MW in 2026 and 2027; ≥51% of each project for income-qualified subscribers. Renters subscribe via third-party orgs and get utility bill credits. Local Grand Junction lane without rehashing personal solar-offset LIVE. Soft-pedal Illinois Shines (Wed), Maryland CS (Tue), CPS San Antonio LIVE, NJ twin (Framework 2).",
+      "bullets": [
+        "Colorado SB24-207 creates Inclusive Community Solar starting Jan 1, 2026 (Governor signed; CCSA summary).",
+        "Investor-owned utilities with more than 500,000 customers (Xcel) must make at least 50 MW available annually in 2026 and 2027.",
+        "At least 51% of each inclusive project reserved for income-qualified subscribers.",
+        "Customers can subscribe without rooftop panels; credits appear on the utility bill through subscriber organizations.",
+        "Soft-pedal personal GJ solar-offset LIVE and battery/VPP maps; this is renter/shared access, not \"my roof covers half.\""
+      ],
+      "body": "If you rent in Colorado, shared solar is no longer a maybe on a brochure.\n\nSenate Bill 24-207 launched Inclusive Community Solar in 2026. For a big utility like Xcel, that means at least 50 megawatts a year in 2026 and 2027, with at least 51% of each project held for income-qualified households. You subscribe through a subscriber organization. Credits show up on the utility bill. No panels on your balcony required.\n\nKitchen-table checklist for a 45-year-old renter on the Western Slope, or a 67-year-old who owns a shaded roof:\n\n1) Ask Xcel (or your CO utility) which Inclusive Community Solar offers are open this month.\n2) Confirm income-qualification paperwork before you chase a \"limited capacity\" email.\n3) Put the electric account name and the subscription name side by side.\n4) Read move-out and cancellation rules while you still have daylight patience.\n5) Soft-pedal battery add-ons unless you already want backup for medical devices or outages.\n\n35-54 line: Premium saves Colorado \"50 MW / 51% IQ\" enrollment steps.\n\n55+ line: bill credits only protect independence if they land on the account you pay.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://communitysolaraccess.org/news/governor-jared-polis-signs-law-to-modernize-colorado-community-solar-launching-new-era-in-clean-energy-access",
+        "https://leg.colorado.gov/bills/SB24-207",
+        "https://co.my.xcelenergy.com/s/renewable/developers/community-solar-gardens"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "New Jersey community solar: ≥15% bill-credit savings written into law.",
+      "ocr": "Strong",
+      "window": "Thursday ~10 AM MT (heatmap). Late morning OK. Soft-pedal \"post at 8am.\"",
+      "growth": true,
+      "angle": "NJ permanent community solar + expansion toward about 3.25 GW total capacity; each project ≥51% LMI; subscribers guaranteed ≥15% of bill-credit value. Soft-pedal Illinois Solar for All (Wed), Maryland CS (Tue), CPS San Antonio LIVE, CO twin (Framework 1 leads local). Kitchen-table: renters can get a written savings floor, not a vague \"up to.\"",
+      "bullets": [
+        "New Jersey made community solar permanent in 2023; 2025 legislation adds about 3 GW, bringing total available program capacity to about 3.25 GW (pv magazine USA / ILSR summary).",
+        "Each community solar project must commit at least 51% of capacity to low- and moderate-income participants.",
+        "Subscribers must be guaranteed savings of at least 15% of the value of bill credits.",
+        "ILSR recent quarter: New Jersey was fastest-growing tracked state (+16%, +35 MW).",
+        "Soft-pedal Illinois Shines / Solar for All (Wed), Maryland consolidated billing (Tue), CPS San Antonio LIVE."
+      ],
+      "body": "\"Up to\" savings is marketing. A written floor is a kitchen-table tool.\n\nNew Jersey's community solar rules do something renters in many states still lack: a legal guarantee that subscribers save at least 15% of the value of their bill credits, plus a requirement that each project reserve at least 51% of capacity for lower-income households. Lawmakers also expanded the program toward about 3.25 gigawatts of total available capacity.\n\nUS take for a 38-year-old renter in a garden apartment, or a 62-year-old on a fixed income:\n\n1) Ask whether your state (or utility) has a minimum savings guarantee in writing.\n2) Confirm the electric bill is in your name before you subscribe.\n3) Read cancellation, move, and fee language before you e-sign.\n4) Compare the subscription fee against the credit line for three sample months, not one sunny month.\n5) If you are in Colorado, cross-check Inclusive Community Solar openings instead of assuming NJ rules apply.\n\n35-54 line: Premium timelines save \"15% floor vs up-to\" screenshots.\n\n55+ line: shared solar only helps if the credit lands on YOUR bill and the contract lets you leave cleanly.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://pv-magazine-usa.com/2026/06/04/top-ten-community-solar-states-show-the-power-of-program-design/",
+        "https://ilsr.org/article/energy-democracy/community-solar-tracker/",
+        "https://communitysolaraccess.org/"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "UK cloudy rooftop solar still cuts ~£400+ a year. Cloud is not the veto.",
+      "ocr": "Strong",
+      "window": "Thursday ~10 AM MT (heatmap). Late morning OK. Soft-pedal \"post at 8am.\"",
+      "growth": true,
+      "angle": "Guardian / Recharge Renewable: even cloudiest GB regions ~£450/yr from a typical 4 kW south-facing system (50% self-use); bright south ~£571-£618; install ~£7,000 VAT-free. Soft-pedal Wed UK Segen+Zopa finance twin. Kitchen-table US roof-model take: cloud is not a veto; shade and roof direction are.",
+      "bullets": [
+        "Recharge Renewable analysis for The Guardian (Sep 1, 2026): cloudiest regions still ~£450/yr average household bill cut from a typical 4 kW system; Glasgow area ~£440; Manchester/NW ~£463.",
+        "Brighter south England: Brighton ~£571; Southampton ~£618.",
+        "Assumed 50% of generation used on site; no battery in the model. More daytime load (WFH, daytime EV) raises the save.",
+        "Typical 4 kW install about £7,000 after VAT zero-rating for solar upgrades.",
+        "Soft-pedal Wed UK Segen+Zopa 9.9% APR solar-finance twin; this post is bill-cut geography, not loan APR."
+      ],
+      "body": "Cloud is not a veto on rooftop solar. Shade and roof direction are.\n\nA UK solar firm ran the numbers for The Guardian. Even in the cloudiest British regions, a typical 4 kilowatt south-facing system still looks like about £450 a year off the average household electricity bill when you use half the power at home. Glasgow-area modeling landed near £440. Manchester-area near £463. Brighter southern cities climbed into the high £500s and low £600s.\n\nThat is not a finished bill, and it is not a Colorado quote. It is a sticky-note lesson for a 40-year-old homeowner shopping panels, or a 58-year-old who thinks \"we get too many clouds\" ends the conversation:\n\n1) Ask for modeled annual kilowatt-hours on YOUR roof azimuth and shade, not a national average.\n2) Write down how much daytime power you already use (work-from-home, laundry, EV daytime plug).\n3) Compare that self-use value to the all-in install quote, including electrical panel work.\n4) If you rent, skip the roof talk and check community solar or a landlord panel plan instead.\n5) Confirm incentives and netting rules for your utility before you sign.\n\n35-54 line: Premium timelines save \"cloud vs shade\" math, not climate sermons.\n\n55+ line: a few hundred pounds (or the US dollar twin) only helps independence if the roof and the loan fit your house.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://www.theguardian.com/environment/2026/sep/01/households-uk-cloudy-regions-save-400-a-year-rooftop-solar-panels",
+        "https://www.ofgem.gov.uk/information-consumers/energy-advice-households/buying-solar-panels"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Revolution Wind: 65 turbines up; RI household save still ~$0.32-$3.42/mo.",
+      "ocr": "Strong",
+      "window": "Thursday ~10 AM MT (heatmap). Late morning-afternoon OK. Soft-pedal \"post at 8am.\"",
+      "growth": true,
+      "angle": "Uprise RI Sep 21: all 65 turbines installed Sep 18; 704 MW project; RI Energy 400 MW at 9.8425¢/kWh for 20 years. Power Advisory for RI OER: hundreds of millions over 20 years, but first full-year household savings only about 32¢ to $3.42/mo by usage. Soft-pedal Sat \"704 MW bill certainty\" twin and Wed Vineyard Wind leftover by stressing \"savings pending / read the cents.\"",
+      "bullets": [
+        "Final of 65 turbines installed Sep 18, 2026; full commercial operation expected later in 2026; some power already delivered since March during construction.",
+        "704 MW total; Rhode Island Energy contracted for 400 MW; Connecticut utilities 304 MW.",
+        "Fixed PPA price 9.8425¢/kWh for 20 years (energy + RECs + transmission in the contract stack).",
+        "RI residential price-to-compare was 11.092¢/kWh through Sep 30; winter supply proposal 17.029¢/kWh Oct-Mar (pending PUC as of Sep 20 reporting).",
+        "Power Advisory / RI OER: ~$374M direct customer savings + ~$139M wholesale-price benefit over 20 years; first-year household monthly save roughly $0.32-$3.42 depending on kWh use."
+      ],
+      "body": "Turbines finished is not the same as your bill dropping tomorrow.\n\nRevolution Wind planted its 65th turbine on September 18. The farm is about 704 megawatts. Rhode Island Energy locked 400 megawatts at a fixed 9.8425 cents per kilowatt-hour for twenty years. State analysis still projects hundreds of millions in customer benefits over that term. Zoom into one house in year one and the modeled monthly save is modest: roughly thirty-two cents to about three dollars and forty-two cents, depending on how much power you use.\n\nKitchen-table literacy for a 44-year-old New England ratepayer, or any US household reading \"billions saved\" headlines:\n\n1) Separate project milestones (turbines up) from commercial operation and from your supply line.\n2) Ask for the cents-per-kilowatt-hour math, not only the billion-dollar press total.\n3) Compare the contracted wind price to your utility's price-to-compare and winter supply filing.\n4) Soft-pedal Vineyard Wind / Empire / CVOW twins unless you are adding a new number.\n5) If you are outside New England, use this as a template for reading YOUR state's next big project claim.\n\n35-54 line: Premium saves \"headline billions vs monthly cents\" screenshots.\n\n55+ line: modest monthly help still matters if it is real, automatic, and not a one-time rebate circus.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://upriseri.com/article/final-turbine-up-at-revolution-wind-bill-savings-later/",
+        "https://energy.ri.gov/",
+        "https://www.boem.gov/"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Kia EV3: $1,500 customer cash plus a Wind lease you must amortize.",
+      "ocr": "Strong",
+      "window": "Thursday ~10 AM MT (heatmap). Late morning OK. Soft-pedal \"post at 8am.\"",
+      "growth": true,
+      "angle": "Electrek Sep 21: 2027 EV3 starts $29,890 (Light); Wind FWD lease $349/mo 24 mo or $359/mo 36 mo with $3,999 due (~$515 effective on 24-mo path per Electrek); $1,500 customer cash on all trims; 0.90% APR up to 48 mo. Soft-pedal Mon EV3 Wind twin and Wed Model 3 / Ioniq 9 lease ladders by leading with the new cash + effective math. ONE EV only today.",
+      "bullets": [
+        "2027 Kia EV3 Light FWD starts $29,890 (plus ~$1,495 destination); Wind FWD $34,990 with up to 321 miles EPA range.",
+        "Advertised Wind FWD lease: $349/mo for 24 months or $359/mo for 36 months, both with $3,999 due at signing (Electrek Sep 21, 2026).",
+        "Electrek effective cost on the 24-month Wind FWD path about $515/mo once due is amortized; still under their Bolt LT effective ~$561 example.",
+        "$1,500 customer cash on all 2027 EV3 models; 0.90% APR financing up to 48 months also listed.",
+        "Soft-pedal Mon EV3 pack twin, Tue Bolt, Wed Model 3 / Ioniq 9, and Manheim used-price wave. Confirm live Kia regional offers + insurance + plug before signing."
+      ],
+      "body": "A $349 monthly is not your payment until the due is on the sticky note.\n\nKia just refreshed EV3 offers. The Wind front-wheel-drive lease still shows about $349 a month for 24 months with $3,999 due, or $359 for 36 months with the same due. Electrek amortizes the short lease near $515 a month before tax. On top of that, Kia is advertising $1,500 customer cash across the lineup, and cheap APR if you buy instead of lease.\n\nUS kitchen-table stack for a 40-year-old compact-SUV shopper, or a 59-year-old leaving a gas crossover:\n\n1) Get the out-the-door sheet on the exact VIN, including the $1,500 cash as a signed line item.\n2) Divide due-at-signing by months, then add the payment. That is the real lease number.\n3) Quote insurance on that VIN before you fall in love with the monthly.\n4) Map Level 2 at home, work, or a real apartment plan.\n5) Soft-pedal day-after-day lease ladders; pick one car and finish the stack.\n\n35-54 line: Premium saves \"cash + amortize due\" math on an entry EV SUV.\n\n55+ line: a mid-$500s effective lease only helps if insurance and the plug keep you independent.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://electrek.co/2026/09/21/kia-ev3-offers-1500-customer-cash-discount/",
+        "https://www.kia.com/us/en/ev3",
+        "https://electrek.co/best-electric-vehicle-leases/"
+      ]
+    }
+  ]
+}
