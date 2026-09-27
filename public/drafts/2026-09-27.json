@@ -10,9 +10,9 @@
       "growth": true,
       "angle": "Photo + price + human moment format (IONNA Fruita winner). California signed apartment/public charging bills (AB 1820 apartments, SB 969 faster public chargers, SB 1283 permits cover trenching/canopies). Lead with Brian's own per-kWh price; keep California as one line. No governor name, no politics.",
       "bullets": [],
-      "body": "FRAMEWORK / rewrite-before-post - do not paste blindly for OCR\n\n$0.__ per kWh at [charger brand/town ___]. [photo: me plugged in]\nBought my first EV at 62. Home charging is cheap. Public charging is where the bill jumps.\nCalifornia just made it easier to put chargers at apartments, where renters actually sleep.\nWhat do you pay per kWh away from home?\n\n(~288 chars. Tag the charger brand in the photo post.)\n\nOptional reply: California's AB 1820 cuts permit barriers for apartment chargers. https://solarbuildermag.com/policy/gov-newsom-signs-suite-of-solar-forward-ev-charging-bills-for-california/\n\nBest window: Sunday 8-9 AM MT.",
+      "body": "FRAMEWORK / rewrite-before-post - do not paste blindly for OCR\n\n$0.__ per kWh at [charger brand/town ___]. [photo: me plugged in]\nBought my first EV at 62. Home charging is cheap. Public charging is where the bill jumps.\nCalifornia just capped permit fees for apartment chargers at $500, starting July 2027. Renters sleep there.\nWhat do you pay per kWh away from home?\n\n(~288 chars. Tag the charger brand in the photo post.)\n\nOptional reply: https://www.gov.ca.gov/2026/09/20/governor-gavin-newsom-signs-legislation-to-accelerate-californias-ev-future-expand-consumer-choice-and-strengthen-energy-independence/\n\nBest window: Sunday 8-9 AM MT.",
       "links": [
-        "https://solarbuildermag.com/policy/gov-newsom-signs-suite-of-solar-forward-ev-charging-bills-for-california/"
+        "https://www.gov.ca.gov/2026/09/20/governor-gavin-newsom-signs-legislation-to-accelerate-californias-ev-future-expand-consumer-choice-and-strengthen-energy-independence/"
       ]
     },
     {
@@ -23,9 +23,9 @@
       "growth": true,
       "angle": "Nine states have signed plug-in/balcony solar laws (CO, CT, MD, NH, NJ, ME, UT, VT, VA); Bright Saver kit under $300; ~1,200W caps. Renter and fixed-income path. Photo of his own outlet/patio.",
       "bullets": [],
-      "body": "FRAMEWORK / rewrite-before-post - do not paste blindly for OCR\n\nUnder $300 for a plug-in solar kit. [photo: my patio/balcony outlet ___]\nNine states now let you plug small panels into a regular outlet. No roof needed.\nFor renters and folks on fixed incomes, that's a real start. Just check the lease first.\nWould you try one?\n\n(~261 chars.)\n\nOptional reply: State-by-state list: https://www.pv-tech.org/the-us-plug-in-solar-divide-a-state-by-state-race-to-unlock-the-market/\n\nBest window: Sunday ~2 PM MT.",
+      "body": "FRAMEWORK / rewrite-before-post - do not paste blindly for OCR\n\nAbout $300 gets a starter plug-in solar kit (180W, Bright Saver members). [photo: my patio outlet ___]\nNine states have signed plug-in solar laws, most up to 1,200W. Colorado's one of them, starting 2027. No roof needed.\nFor renters and fixed incomes, it's a start. Check the lease first.\nWould you try one?\n\n(~261 chars.)\n\nOptional reply: https://pv-tech.org/the-us-plug-in-solar-divide-a-state-by-state-race-to-unlock-the-market/\n\nBest window: Sunday ~2 PM MT.",
       "links": [
-        "https://www.pv-tech.org/the-us-plug-in-solar-divide-a-state-by-state-race-to-unlock-the-market/"
+        "https://pv-tech.org/the-us-plug-in-solar-divide-a-state-by-state-race-to-unlock-the-market/"
       ]
     },
     {
@@ -36,8 +36,10 @@
       "growth": true,
       "angle": "Samsung C&T up to $100M toward Kairos Hermes 2 (~50 MW, Oak Ridge TN, TVA grid, Google power deal). One or two lines of opinion on who pays and the household bill.",
       "bullets": [],
-      "body": "FRAMEWORK / rewrite-before-post - do not paste blindly for OCR\n\n$100 million from Samsung toward a 50 MW reactor in Tennessee built for a Google power deal. [my bill last month: $___]\nGood. Let tech pay for its own power. Just don't put the wire upgrades on retirees' bills.\nWho should pay when data centers show up?\n\n(~250 chars.)\n\nQuote target: A verified energy or nuclear reporter's post on the Kairos-Samsung deal (Canary Media / E&E / Utility Dive type), or Kairos Power's own announcement post if that account is verified. Avoid reactor-fan hype accounts and partisan accounts.\n\nBest window: Sunday ~11 AM MT.",
-      "links": []
+      "body": "FRAMEWORK / rewrite-before-post - do not paste blindly for OCR\n\nSamsung is putting up to $100M (about $70M cash) into a 50 MW reactor in Oak Ridge, TN that will feed the grid for Google. [my bill last month: $___]\nGood. Let tech pay for its own power. Just don't put the wire upgrades on retirees' bills.\nWho should pay when data centers show up?\n\n(~250 chars.)\n\nQuote target: @KairosPower's company post https://x.com/KairosPower/status/2102081279810216013. No verified reporter has posted about the deal yet, so quoting the company is Brian's call.\n\nOptional reply: https://kairospower.com/updates/kairos-power-and-samsung-c-t-agree-to-pursue-strategic-investment-and-collaboration-for-kp-fhr-deployment\n\nBest window: Sunday ~11 AM MT.",
+      "links": [
+        "https://kairospower.com/updates/kairos-power-and-samsung-c-t-agree-to-pursue-strategic-investment-and-collaboration-for-kp-fhr-deployment"
+      ]
     },
     {
       "id": "4",
@@ -47,8 +49,10 @@
       "growth": true,
       "angle": "$100M from Maryland's Strategic Energy Investment Fund offsets the EmPOWER surcharge on residential bills in monthly pieces through 2027. Plus one 1,200W portable solar device per meter, notify utility, no interconnection agreement or utility fee. Who pays: a state energy fund, not a rate increase.",
       "bullets": [],
-      "body": "FRAMEWORK / rewrite-before-post - do not paste blindly for OCR\n\n$100 million to shrink one line on Maryland power bills through 2027. [my surcharge line: $___/mo]\nPaid from a state energy fund, not a rate hike. Renters can also plug in a 1,200W panel, no utility fee.\nWould you want this where you live?\n\n(~239 chars.)\n\nQuote target: A verified energy reporter or Maryland consumer-advocate post on the RELIEF Act or Maryland balcony solar (Canary Media type, or the Maryland Office of People's Counsel if verified). Avoid politician accounts.\n\nBest window: Sunday 11:30 AM MT or after 2 PM MT.",
-      "links": []
+      "body": "FRAMEWORK / rewrite-before-post - do not paste blindly for OCR\n\n$100M from Maryland's state energy fund to knock down one line on 2027 power bills. [my surcharge line: $___/mo]\nNot a rate hike. Same law lets households plug in a balcony solar panel up to 1,200W, no utility fee. Just notify them first.\nWould you want this where you live?\n\n(~239 chars.)\n\nQuote target: Maryland Office of People's Counsel @opcmd (state consumer advocate), or reporter @_DanielleJBrown (Maryland Matters). No politicians.\n\nOptional reply: https://opc.maryland.gov/Portals/0/Utility%20RELIEF%20Act%20FAQs.pdf\n\nBest window: Sunday 11:30 AM MT or after 2 PM MT.",
+      "links": [
+        "https://opc.maryland.gov/Portals/0/Utility%20RELIEF%20Act%20FAQs.pdf"
+      ]
     }
   ]
 }
