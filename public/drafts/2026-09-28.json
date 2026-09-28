@@ -1,0 +1,106 @@
+{
+  "date": "2026-09-28",
+  "label": "FRAMEWORK - rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "1",
+      "title": "Senate snag on Ratepayer Protection: bill is NOT law; watch YOUR state PUC.",
+      "ocr": "Strong",
+      "window": "Monday ~1 PM MT (heatmap strongest; post ~12:30-1). Late morning-afternoon OK. Soft-pedal 8am primary.",
+      "growth": true,
+      "angle": "House passed H.R. 9340 (Ratepayer Protection Act) 417-3 on Sep 16, 2026. Senate unanimous consent blocked Sep 17 by Sen. Martin Heinrich (D-N.M.), who offered his competing GRID Savings Act instead; Sen. Bernie Moreno objected to that too. Soft politics. Pocketbook only: Fed Dallas cited data-center demand already lifting electricity prices +2-6% nationally; mid-Atlantic extra ~$840/year per family over the next two years (Heinrich floor speech). Kitchen-table: the House vote did not cut your bill. Watch YOUR state public utility commission large-load docket. Soft-pedal Kairos LIVE and Google+Georgia Power LIVE.",
+      "bullets": [
+        "House passed H.R. 9340 Ratepayer Protection Act Sep 16, 2026 by 417-3 (House Energy & Commerce readout; Rep. Gabe Evans CO-08 among leads).",
+        "Senate UC blocked Sep 17, 2026: Sen. Martin Heinrich objected to Husted-backed Ratepayer bill; offered GRID Savings Act; Sen. Bernie Moreno objected to that (Roll Call / Senate Energy press).",
+        "House-passed approach: states consider large-load standards (sites over ~100 MW) so those customers pay full incremental grid costs; voluntary/consider framework, not a hard federal mandate.",
+        "Heinrich floor: Fed Dallas finds data-center demand already pushed U.S. electricity prices up about 2-6%; mid-Atlantic cited ~$840 extra per family over next two years.",
+        "Bill is NOT law. Soft-pedal any claim your September bill already dropped because of the House vote."
+      ],
+      "body": "The House voted 417 to 3 so big data centers would pay for their own wires.\nThat felt like a win. Then the Senate hit the brakes.\n\nOn Sep 16 the House passed the Ratepayer Protection Act. On Sep 17 a Senate unanimous-consent try got blocked. A competing bill got blocked too. Soft-pedal the party labels. Soft-pedal the campaign trail. The kitchen-table fact is simpler: the bill is not law yet, and your utility still sets the rates that hit your mailbox.\n\nWhat stuck from the floor debate is the dollar math, not the slogans. The Federal Reserve Bank of Dallas says data-center demand has already pushed electricity prices up about 2 to 6 percent nationally. In the mid-Atlantic, one senator cited about $840 a year extra per family over the next two years. Write that number down. Then ask whether your state already has a large-load tariff, or whether you are still waiting for a docket.\n\nSticky notes for a 45-year-old homeowner, or a 62-year-old on a fixed income in Grand Junction:\n\n1) Search your state PUC site for \"large-load,\" \"data center,\" or \"100 MW\" dockets.\n2) Soft-pedal \"Congress fixed my bill.\" House vote is not a rate order.\n3) Soft-pedal Kairos / Google nuclear twins. This is cost assignment, not reactor brands.\n4) If a hyperscale campus files near you, ask who funds the substation before dirt moves.\n5) Compare Oregon-style contract rules (see Framework 2) to whatever your commission posts.\n\n35-54 line: Premium saves \"417-3 stuck in Senate / watch your PUC / $840 mid-Atlantic cite.\"\n\n55+ line: independence is a bill that does not quietly fund someone else's server farm.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://www.energy.senate.gov/press/dem/heinrich-offers-his-grid-savings-act-to-force-ai-data-centers-to-pay-for-grid-upgrades-highlights-how-husted-backed-bill-falls-short/",
+        "https://energycommerce.house.gov/posts/ratepayer-protection-act-passes-house-with-strong-bipartisan-support",
+        "https://rollcall.com/2026/09/17/ratepayer-bill-aimed-at-data-center-buildout-blocked-in-senate/"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Pacific Power Oregon: Schedule 401 large-load rules so data centers cover their power.",
+      "ocr": "Strong",
+      "window": "Monday ~1 PM MT (pair with Framework 1 who-pays). Late morning-afternoon OK. Soft-pedal 8am primary.",
+      "growth": true,
+      "angle": "OregonLive Sep 23, 2026: Pacific Power signed off on a plan assigning generation, transmission, and open-market power costs for data centers to those customers. Citizens Utility Board says it is stronger long-term than PGE's earlier Schedule 96 deal (PGE: ~30% large-load hike + ~1.3% residential cut). Pacific Power: no immediate residential cut, but full cost of market purchases assigned to large loads; contracts ≥10 years with exit fees / collateral; sites over 100 MW pay 1 cent/kWh toward low-income home repairs and efficiency. Oregon PUC takes it up (docket linked). Soft-pedal House/Senate twin as the only story. Kitchen-table: Oregon is writing the rulebook in real rates while Washington stalls.",
+      "bullets": [
+        "Pacific Power endorsed a proposal this month so data centers cover generation, transmission, and purchased-power costs tied to serving them (OregonLive Sep 23, 2026).",
+        "PGE earlier: ~30% average increase for large-load / data-center customers and about a 1.3% residential rate decrease after Schedule 96 (summer 2026).",
+        "Pacific Power plan: large data centers must sign at least a 10-year power contract; early exit fee; collateral possible so households are not stuck with stranded costs.",
+        "Very large sites over 100 MW must also pay 1 cent per kWh to fund low-income home repairs and energy efficiency in Pacific Power territory.",
+        "Oregon PUC review pending (edocket linked); Meta and Amazon objected earlier, then said they did not object to the final Pacific Power filing; Data Center Coalition still objects. Soft-pedal company drama. Keep the bill frame."
+      ],
+      "body": "Oregon is not waiting on the Senate to decide who pays when the servers show up.\n\nPacific Power just backed a plan that puts data-center power costs on the data centers: generation, transmission, and the juice bought on the open market when demand spikes. Consumer advocates say the long-term guardrails are tougher than the earlier Portland General Electric deal, even though PGE's deal cut residential rates a little right away and Pacific Power's does not.\n\nThe kitchen-table pieces that matter:\n\n- Contracts of at least 10 years, with exit fees and possible collateral, so a campus cannot vanish and leave you holding the bag.\n- Sites over 100 megawatts pay an extra 1 cent per kilowatt-hour toward low-income home repairs and efficiency.\n- New power bought to serve them has to meet Oregon's clean-power rules.\n\nSticky notes for a 48-year-old renter in Prineville, or a 65-year-old in Medford:\n\n1) Ask your utility whether you are under PGE Schedule 96 rules or the Pacific Power large-load proposal.\n2) Write the 1 cent/kWh low-income line down. That is a real program, not a slogan.\n3) Soft-pedal \"your bill already went down.\" Pacific Power's residential cut is not the immediate story.\n4) Soft-pedal federal bill twins as the only news. Pair with Framework 1 only as \"state dollars while Senate stalls.\"\n5) Watch the Oregon PUC calendar on the linked docket.\n\n35-54 line: Premium saves \"10-year contracts + 1 cent/kWh for low-income fixes.\"\n\n55+ line: stranded-cost protection is independence when a campus changes its mind.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://www.oregonlive.com/silicon-forest/2026/09/pacific-power-oks-plan-to-make-sure-data-centers-pay-their-own-way.html",
+        "https://apps.puc.state.or.us/edockets/docket.asp?DocketID=24769"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Revolution Wind: 65 turbines up; Rhode Island household savings still a projection.",
+      "ocr": "Strong",
+      "window": "Monday ~1 PM MT or late morning-afternoon. Soft-pedal 8am primary.",
+      "growth": true,
+      "angle": "UpriseRI: Revolution Wind finished installing all 65 offshore turbines Sep 18, 2026. 704 MW farm; RI Energy holds 20-year PPA for 400 MW at 9.8425 cents/kWh (energy + RECs + transmission); CT holds 304 MW. Commissioning continues; full commercial operation expected later 2026. Power Advisory / RI OER analysis: first full year household savings roughly 32 cents to $3.42/month by usage. Soft-pedal Humboldt ~$1.68 leftover and Vineyard Wind leftovers. Kitchen-table: turbines up ≠ bill cut yet; write the cents, not the press release.",
+      "bullets": [
+        "Final of 65 turbines installed Sep 18, 2026; project is 704 MW; still in commissioning; commercial operation expected later in 2026 (UpriseRI / McKee office).",
+        "Rhode Island Energy: 20-year fixed PPA for 400 MW at 9.8425 cents/kWh covering energy, RECs, and transmission (approved 2019).",
+        "Power Advisory for RI OER: large 20-year customer-savings totals plus wholesale effects; first-year monthly household savings roughly $0.32 to $3.42 depending on usage.",
+        "RI residential \"price to compare\" context from the article era sat near 11 cents/kWh; winter supply proposals were higher. Soft-pedal swapping contract price for your full bundled bill.",
+        "Construction also meant ~125 RI union workers at ProvPort and a cited ~$100 million ProvPort investment; ~1,200 direct construction jobs across RI+CT combined (not permanent ops jobs)."
+      ],
+      "body": "All 65 turbines are standing off Rhode Island.\nThat is a construction win. It is not yet a line on your bill.\n\nRevolution Wind finished the last turbine on Sep 18. The farm is about 704 megawatts. Rhode Island Energy locked a 20-year deal for 400 megawatts at 9.8425 cents per kilowatt-hour for the power, certificates, and transmission. That contract price is not your whole residential rate. Soft-pedal anyone who swaps those numbers.\n\nState analysis still projects the household piece in the first full year after commercial operation at roughly 32 cents to about $3.42 a month, depending on how much you use. Big 20-year totals are real as forecasts. They are not a promise that October's bill drops tomorrow.\n\nSticky notes for a 42-year-old in Providence, or a 68-year-old watching winter supply rates:\n\n1) Write commercial-operation date when the developer posts it. That is when the forecast clock starts.\n2) Compare the 9.84 cent contract to the price-to-compare line, not to your full bundled bill.\n3) Soft-pedal Humboldt / Vineyard twin posts. This is Revolution Wind, Rhode Island cents.\n4) Ask RI Energy how the PPA shows up on a residential statement after COD.\n5) Soft-pedal politics about stop-work orders. Kitchen table wants cents and dates.\n\n35-54 line: Premium saves \"65 turbines up / 32 cents to $3.42 projected.\"\n\n55+ line: modest monthly relief still matters if it is real and on-time.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://upriseri.com/article/final-turbine-up-at-revolution-wind-bill-savings-later/",
+        "https://energy.ri.gov/sites/g/files/xkgbur741/files/2026-04/RI%20Office%20of%20Energy%20Resources%20-%20Assessment%20and%20Analysis%20of%20Revolution%20Wind%20Power%20Purchase%20Agreement%20Presentation.pdf"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "TerraPower Natrium Wyoming: $4B advanced reactor rebids EPC after Bechtel steps back.",
+      "ocr": "Strong",
+      "window": "Monday ~1 PM MT or late morning. Soft-pedal 8am primary.",
+      "growth": true,
+      "angle": "ENR Sep 23, 2026: TerraPower will rebid the EPC contract for its ~$4 billion Natrium project in Kemmerer, Wyoming after deciding with Bechtel not to proceed into full EPC phase. Full nuclear construction began ~5 months earlier on 345 MW Kemmerer Unit 1 (can flex to 500 MW with molten-salt storage) at a former coal plant. Bechtel stays to finish the Sodium Test and Fill Facility. Target completion still 2030. ~$2B DOE Advanced Reactor Demonstration Program cost-share matched by TerraPower. Soft-pedal Kairos Hermes 2 / Samsung NOW LIVE. Soft Google+Georgia Power LIVE. Kitchen-table: advanced nuclear is real dirt work now. Watch cost and schedule before you cheer a bill cut.",
+      "bullets": [
+        "TerraPower said Sep 22, 2026 it will rebid EPC for the estimated $4 billion Natrium project after Bechtel and TerraPower decided not to proceed together into full EPC (ENR).",
+        "Kemmerer Unit 1: sodium-cooled fast reactor + molten-salt storage; ~345 MW steady, up to ~500 MW at peak; former Wyoming coal site; full construction began April 2026 after NRC approval.",
+        "Bechtel remains on site to complete the Sodium Test and Fill Facility; prior work included NRC support, major procurements, facility enclosure, and Unit 1 foundation start.",
+        "DOE Advanced Reactor Demonstration Program: roughly $2 billion federal funding matched by TerraPower; company still targets completion in 2030.",
+        "Separate future-plant alliances exist (KBR framework; Hyundai E&C selected for as many as eight future Natrium reactors). Soft-pedal naming them as Kemmerer rebid winners."
+      ],
+      "body": "In Wyoming, an advanced reactor is already pouring foundations on an old coal site.\nThat is the good news. The kitchen-table news is the contractor handoff.\n\nTerraPower is rebidding the engineering and construction contract on a roughly $4 billion Natrium plant in Kemmerer. Bechtel, the longtime partner, is stepping back from the full build phase but staying to finish a sodium test facility. The design still aims for about 345 megawatts day to day, with molten-salt storage that can push toward 500 megawatts when the grid needs a peak. Federal Advanced Reactor dollars are in the mix at about $2 billion, matched by TerraPower. Target finish: 2030.\n\nSoft-pedal victory laps. Soft-pedal panic. Ask the adult questions:\n\n1) Who holds the next EPC contract, and what is the fixed-price vs cost-plus split.\n2) What happens to the schedule if the rebid slips a year.\n3) Who pays if costs climb: federal match, company equity, or ratepayers on a future offtake.\n4) Soft-pedal Kairos / Samsung LIVE twin. Different company, different state, different deal.\n5) For a 55+ household: do not budget a bill cut from a plant that is still hiring a builder.\n\n35-54 line: Premium saves \"$4B Natrium rebid / 345 MW / 2030 target.\"\n\n55+ line: coal-town jobs matter; so does not writing a blank check on your bill.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://www.enr.com/articles/63689-terrapower-reopens-epc-competition-for-4b-natrium-nuclear-project",
+        "https://www.terrapower.com/"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Flathead Electric Whitefish MT: community solar + first utility-scale battery pair.",
+      "ocr": "Strong",
+      "window": "Monday ~1 PM MT. Late morning-afternoon OK. Soft-pedal 8am primary.",
+      "growth": false,
+      "angle": "Flathead Beacon Sep 17, 2026: Flathead Electric Cooperative cut the ribbon on Community Solar Phase III in Whitefish, MT (Monegan Road near wastewater plant). Third co-op community solar; 448 panels; 200 kW nameplate; first project paired with a utility-scale battery. Members buy panel shares at $700/panel and get bill credits; all 368 member panels spoken for; ~80 panels for low-income (BEF $50k + YETI Photovoltaic + city land panel); USDA REAP grant $463,307. Peak-shave already saving membership a few thousand dollars per month system-wide; one evening ~$5,000. Soft-pedal CO+NJ community solar LIVE (different product: state programs vs rural co-op buy-in). Soft battery-heavy VPP sermon. Focus bill credits + peak savings for members and renter-adjacent households who cannot put panels on a roof.",
+      "bullets": [
+        "Flathead Electric Cooperative Community Solar Phase III ribbon Sep 16-17, 2026 in Whitefish, MT: 448 panels, 200 kW inverter-capped nameplate (Flathead Beacon Sep 17, 2026).",
+        "First FEC community solar paired with a utility-scale lithium-ion battery for peak shaving and better system value.",
+        "Member buy-in: $700 per panel; all 368 member-purchased panels spoken for; FEC retains ownership (REAP grant condition); members get bill credits on a power-purchase style share.",
+        "Low-income allocation: roughly 80 panels via Bonneville Environmental Foundation $50,000 grant, YETI Photovoltaic donation, plus one City of Whitefish panel for leased land; LIHEAP qualification path.",
+        "USDA Rural Energy for America Program (REAP) grant $463,307 covered a large share of cost. Battery peak-shave already cut a few thousand $/month for broader membership; one evening ~$5,000."
+      ],
+      "body": "Not everyone can put 24 panels on a roof.\nA lot of renters, condo owners, and shaded lots still want a piece of the bill cut.\n\nIn Whitefish, Montana, Flathead Electric Cooperative just opened its third community solar array: 448 panels, 200 kilowatts, and for the first time a utility-scale battery bolted on beside it. Members who cannot host rooftop gear bought panel shares at $700 each. All 368 member panels are already spoken for. About 80 more panels are earmarked for low-income households with grant help. A USDA rural energy grant covered a big chunk of the build.\n\nThe battery is not a science fair. Soft-pedal VPP sermons. Soft-pedal CO+NJ state-program twins. What matters on a Montana co-op bill is peak shaving. Managers say the battery has already knocked several summer evening peaks off the system, saving the whole membership a few thousand dollars a month. One evening alone was on the order of $5,000. That is money that does not have to come out of every meter.\n\nSticky notes for a 44-year-old renter, or a 67-year-old co-op member who never got a roof quote:\n\n1) Ask your co-op or municipal utility if a community solar share waitlist is open, and what the credit looks like on a real bill.\n2) Write the buy-in price and the ownership model. Flathead Phase III is a power-purchase share, not a deeded panel.\n3) Soft-pedal \"battery will cut my bill tomorrow.\" Peak savings can help everyone; panel credits go to participants.\n4) Soft-pedal state CS twin posts. This is a rural co-op project with REAP dollars and local grants.\n5) If you qualify for LIHEAP, ask whether your co-op has an income-qualified panel set-aside like Flathead.\n\n35-54 line: Premium saves \"$700/panel / 200 kW / battery peak-shave / all 368 spoken for.\"\n\n55+ line: independence for people who rent or cannot host a roof array.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://flatheadbeacon.com/2026/09/17/flathead-electric-cuts-ribbon-on-newest-community-solar-array-first-paired-with-battery-storage/"
+      ]
+    }
+  ]
+}
