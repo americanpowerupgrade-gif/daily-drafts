@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-02",
+  "label": "FRAMEWORK - rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "1",
+      "title": "UK VAT on home electricity hits 0% Oct 1: driveway EV charge gets the cut (US lesson).",
+      "ocr": "Strong",
+      "window": "Friday noon MT primary; secondary 8-10 PM surge. Late morning-afternoon OK. Soft-pedal 8am primary.",
+      "growth": true,
+      "angle": "Great Britain temporarily zeros VAT on household electricity from Oct 1, 2026 through Mar 31, 2027 (was 5%). GOV.UK: average household save about £45/year; nothing to claim; suppliers apply it automatically, including fixed tariffs. Octopus EV: home EV charging runs on that household supply, so driveway kWh get the cut; public EV charging stays at 20% VAT. On their Intelligent Octopus Go EV Saver example: about 2p/mile home vs about 18p/mile petrol; about £148/year home vs about £1,411 petrol at 8,000 miles. Soft politics. Soft lease ladders. Soft Thu home-vs-public $694 twin. Soft Carbon Brief 9x leftover twin. Kitchen-table US lesson for Grand Junction: write YOUR home cents/kWh; the cheap miles are still overnight at home.",
+      "bullets": [
+        "GOV.UK / HMRC TIIN: temporary 0% VAT on qualifying domestic electricity in England, Scotland, Wales from 1 Oct 2026 to 31 Mar 2027; Northern Ireland stays at 5%; gas stays at 5%.",
+        "GOV.UK news: average household saving about £45/year; no action required; includes fixed tariffs.",
+        "Octopus EV (Oct 1, 2026): home EV charging uses household supply so it gets the zero rate; public charging VAT stays 20%.",
+        "Octopus EV Saver example table: full home charge about £4.07 vs petrol about £38.79 for same miles; about 2p/mile vs 18p; about £148 vs £1,411 at 8,000 miles/year (MG4 vs Golf example on their tariff).",
+        "Soft-pedal Patterson/Vail/Fruita/Gypsum price-only twins; soft-pedal Emergency Drive Away LIVE; soft-pedal Thu $694 five twin."
+      ],
+      "body": "Britain just made home electricity cheaper for six months by cutting the VAT to zero.\n\nThat includes the kilowatt-hours that go into a driveway EV. Public fast charge still carries the higher tax rate over there. Soft-pedal turning this into a Britain-vs-America politics sermon.\n\nHere is the sticky note for a 45-year-old shopping an EV, or a 62-year-old who already owns one in western Colorado:\n\n1) Write YOUR home cents per kilowatt-hour next to what you paid at the last DC stop.\n2) Soft-pedal assuming public chargers will ever match overnight home math.\n3) Soft-pedal waiting for a federal fee calendar to decide if EVs \"work.\" Home charge is still the independence lever.\n4) Soft-pedal lease ladders and used-price tickers.\n5) If you already charge at home: take a phone photo of the cable and say what you actually pay.\n\n35-54 line: Premium saves \"VAT 0% home / public still taxed / write YOUR cents.\"\n\n55+ line: independence is waking up charged without hunting a plug after dinner.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://www.gov.uk/government/news/breathing-space-on-your-energy-bill",
+        "https://www.gov.uk/government/publications/temporary-zero-rate-of-vat-for-domestic-electricity-in-great-britain/temporary-zero-rate-of-vat-in-great-britain-for-domestic-electricity",
+        "https://octopusev.com/ev-hub/electricity-vat-cut-ev-drivers"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Tesla Supercharger Q3: 69 million sessions (+29%). Trip Planner still the road-trip tool.",
+      "ocr": "Strong",
+      "window": "Friday noon MT primary; secondary 8-10 PM surge. Late morning-afternoon OK. Soft-pedal 8am primary.",
+      "growth": true,
+      "angle": "Tesla Charging Q3 2026 update (Oct 1): about 69 million charging sessions, up about 29% year over year. Max de Zegher: high utilization spreads station cost; balance with short waits using data from about 85,000 Superchargers, long-term modeling, Trip Planner, pricing, timed construction. Lifetime energy delivered about 28.9 TWh (enough to fully charge a 60 kWh pack roughly 482 million times per Drive Tesla Canada writeup). Soft-pedal robotaxi as the lead. Soft-pedal Emergency Drive Away LIVE (do not rehash). Soft-pedal Patterson/Vail/Fruita/Gypsum price-only twins. Soft-pedal Geely MW-charger LIVE twin. Kitchen-table for first EV at 62 on I-70: plan the trip, home charge weekly miles, retail DC for mountains.",
+      "bullets": [
+        "Tesla Charging / Drive Tesla Canada (Oct 1, 2026): 69 million Supercharger sessions in Q3 2026, +29% YoY.",
+        "Max de Zegher: utilization helps affordability; rare waits = dependable travel; tools include ~85,000 Superchargers, Trip Planner, pricing, timed builds.",
+        "Lifetime Supercharger energy about 28.9 TWh; ~482 million equivalent 60 kWh full charges (Drive Tesla Canada).",
+        "Soft note in coverage: Robotaxi fleet used about 7.0 GWh in the quarter - soft-pedal as main household angle.",
+        "Soft-pedal Geely MW-charger LIVE twin; soft-pedal lease ladders; soft-pedal Emergency Drive Away LIVE."
+      ],
+      "body": "I bought my first EV at 62.\n\nThe Supercharger network just posted a busy quarter. Sixty-nine million sessions. Up about twenty-nine percent. Soft-pedal turning that into a robotaxi sermon. Soft-pedal rehashing last night's Emergency Drive Away feature post.\n\nHere is how it lands in Grand Junction:\n\n1) Weekly miles: charge at home when you can.\n2) I-70 / mountain trips: use Trip Planner before you leave the driveway.\n3) Soft-pedal showing up cold at a busy stall with no plan.\n4) Soft-pedal price-ticker posts as your only western Colorado content.\n5) Soft-pedal \"public charging killed my savings\" if you never tried overnight home rates.\n\n35-54 line: Premium saves \"69M sessions / Trip Planner / home for weekdays.\"\n\n55+ line: independence is a charged car in the morning and a planned mountain stop.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://driveteslacanada.ca/news/tesla-q3-2026-charging-sessions-supercharger-growth/",
+        "https://x.com/TeslaCharging"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Ford Fathom still aimed at 2027: about $28,350 start, bidirectional, NACS.",
+      "ocr": "Strong",
+      "window": "Friday noon MT primary; secondary 8-10 PM surge. Late morning-afternoon OK. Soft-pedal 8am primary.",
+      "growth": true,
+      "angle": "Electrek (Oct 1, 2026): Ford's midsize Fathom EV pickup still targeted to launch in 2027; start about $28,350 for standard-range. CEO Jim Farley at Automotive News Congress: \"heck of an effort to launch this at scale, at cost, on time\"; team cut battery size vs a BYD cost gap; \"haven't landed the plane on mass production of UEV yet.\" Ford spokesperson update same day: no change to 2027 launch. Features talked: more passenger space than a RAV4, Apple Maps in nav, wireless CarPlay/Android Auto, BlueCruise, bidirectional charging, digital key, NACS (prototypes spotted at Tesla Superchargers). Soft-pedal Fairfax Equinox inventory LIVE. Soft-pedal lease ladders. Kitchen-table: shop the truck when hardware and home-charge plan are both real.",
+      "bullets": [
+        "Electrek Oct 1, 2026: Fathom on sale early 2027 still the public target; start about $28,350 standard-range.",
+        "Farley: hard to launch at scale/cost/on time; motors/gearboxes/inverters changed to enable smaller batteries vs ~20% BYD cost advantage anecdote.",
+        "Ford spokesperson to Electrek: \"Fathom will launch in 2027\" with no change to that statement.",
+        "Feature set discussed: bidirectional charging, NACS, BlueCruise, wireless phone projection, Apple Maps integration.",
+        "Soft-pedal WSJ 100,000 first-year sales rumor as a promise; soft-pedal Manheim used-price tickers; soft-pedal Fairfax Equinox LIVE."
+      ],
+      "body": "A lot of families do not want a luxury EV. They want a truck that works and a bill they can explain.\n\nFord is still pointing the Fathom at 2027 around the high twenties to start. Soft-pedal treating a CEO stage line as a delivery date carved in stone. Soft-pedal Equinox inventory dumps as the only \"cheap EV\" story.\n\nSticky note if you are shopping a first EV truck:\n\n1) Ask about home or workplace charging before you fall in love with the screen.\n2) Ask whether bidirectional is real hardware on the trim you can buy - not a slide deck.\n3) Soft-pedal lease ladders. Ask payment, insurance, and home cents/kWh together.\n4) Soft-pedal waiting forever for \"perfect.\" Soft-pedal buying vapor.\n5) If you already drive electric: say what the truck has to beat in YOUR driveway math.\n\n35-54 line: Premium saves \"~$28k talk / 2027 / bidirectional+NACS / home plan first.\"\n\n55+ line: independence is a work vehicle that wakes up charged.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://electrek.co/2026/10/01/fords-30000-ev-pickup-production-launch-faces-uncertainty/"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "California signs SB 868 plug-in solar: up to 1,200W, Jan 1 2027 (renters).",
+      "ocr": "Strong",
+      "window": "Friday noon MT primary; secondary 8-10 PM surge. Late morning-afternoon OK. Soft-pedal 8am primary.",
+      "growth": true,
+      "angle": "pv magazine USA (Oct 1, 2026): Governor Newsom signed SB 868 (\"Plug Into the Sun Act\") Sep 30. Takes effect Jan 1, 2027. Portable plug-in solar devices via a receptacle; max about 1,200 watts AC per dwelling; UL or equivalent certification; exempt from utility interconnection; utilities barred from fees/permission requirements for these devices. 35 states considered plug-in solar laws in 2026 after Utah HB 340 (2025); California is the largest market. Soft-pedal under-$300 balcony LIVE as the only angle - this is a NEW signed-law primary with renter independence. Soft politics. Soft Meter Collar twin.",
+      "bullets": [
+        "pv magazine USA: SB 868 signed Sep 30, 2026; effective Jan 1, 2027; Sen. Scott Wiener bill.",
+        "Cap: total AC output no more than 1,200 watts per dwelling; UL or equivalent required.",
+        "Law exempts devices from utility interconnection requirements and bars utility fees/permission for qualifying portable plug-in solar.",
+        "Context: 35 states considered plug-in solar bills in 2026; Utah first in 2025; NY SUNNY Act still awaiting Hochul signature per the piece.",
+        "Soft note: advocates flag a 2030 sunset on some interconnection exemptions - soft-pedal as fear; kitchen-table is renter access + bill relief."
+      ],
+      "body": "Not every household can put twenty-four panels on a roof they own.\n\nCalifornia just signed a plug-in solar law. Up to about twelve hundred watts. Starts January 1, 2027. Soft-pedal rehashing my under-three-hundred balcony roundup as if nothing new happened. Soft-pedal climate sermons. Soft-pedal utility-villain essays.\n\nSticky note for renters and condo folks:\n\n1) Ask whether YOUR state allows plug-in solar yet - California is catching up to Utah's lead.\n2) Soft-pedal buying random Amazon panels with no certification talk.\n3) Soft-pedal expecting plug-in watts to replace a full rooftop system.\n4) Soft-pedal landlord drama - get permission in writing when the building rules are unclear.\n5) If you already have rooftop: say what renters in your family still cannot do.\n\n35-54 line: Premium saves \"SB 868 / 1200W / Jan 2027 / renters.\"\n\n55+ line: independence is a legal path to shave the bill without owning the roof.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://pv-magazine-usa.com/2026/10/01/newsom-signs-california-plug-in-solar-bill-establishing-the-nations-largest-balcony-solar-market/"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "AI scam day: about $406M/day nationally; WI seniors warned - hang up and call back.",
+      "ocr": "Strong",
+      "window": "Friday noon MT primary; secondary 8-10 PM surge. Late morning-afternoon OK. Soft-pedal 8am primary.",
+      "growth": true,
+      "angle": "PR Newswire (Oct 1, 2026): United to Stop Online Scams coalition (30+ groups) launch; Consumer Federation of America estimate about $148.2 billion lost nationally in 2025 - about $406 million a day; FBI: losses for Americans 60+ up 59%, averaging about $38,500 per complaint. Spectrum News 1 Wisconsin (Oct 1): Wisconsin Alliance for Retired Americans warning on AI voice clones / deepfake photos pressuring money transfers; WI online scam losses about $1.4 billion/year (CFA). Kitchen-table rule: hang up, call back on a number you already have, never move money on a voice alone. Soft-pedal MyChart Medicare Kit LIVE. Soft-pedal Thu AARP code-word five twin as the only angle - this is a NEW Day-of-Action / WI primary with national dollars. Soft-pedal AI-appointments soft LIVE.",
+      "bullets": [
+        "PR Newswire / MPTF Oct 1, 2026: United to Stop Online Scams; CFA ~$148.2B national losses in 2025 (~$406M/day); FBI 60+ losses +59%, ~$38,500 average per complaint.",
+        "Spectrum News 1 WI Oct 1: Wisconsin Alliance for Retired Americans warning; AI deepfakes / voice clones impersonating family; CFA ~$1.4B/year WI online scam losses.",
+        "Practical defense (kitchen-table): stop the chat, save evidence, report even if no money lost; hang up and call back on a known number.",
+        "Soft-pedal party labels and platform-blame sermons as the whole post; soft-pedal MyChart LIVE twin; soft-pedal AARP code-word five as paste twin (OK to keep personal code-word habit without rehashing that draft).",
+        "Soft-pedal crypto-kiosk politics detail as the lead; soft-pedal AI-appointments soft LIVE."
+      ],
+      "body": "AI is not only for writing emails. Crooks use it to sound like your kid.\n\nWisconsin retiree advocates spent this week warning older households. National groups put a brutal average on the board: hundreds of millions of dollars a day lost to online scams in the Consumer Federation math. Soft-pedal MyChart Medicare Kit. Soft-pedal yesterday's AARP code-word draft as a paste job. Soft-pedal shame.\n\nHouse rules that still work:\n\n1) A voice alone never moves money or a code.\n2) Hang up. Call back on a number you already saved.\n3) Soft-pedal \"act now or something terrible happens\" urgency.\n4) Soft-pedal QR codes and gift cards in a panic.\n5) Tell one older neighbor this week. Independence includes keeping the savings.\n\n35-54 line: Premium saves \"$406M/day / hang up / call back / tell Mom.\"\n\n55+ line: independence is verifying before you send a dime.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://www.prnewswire.com/news-releases/motion-picture--television-fund-mptf-new-coalition-calls-for-companies-to-be-held-accountable-for-online-scam-epidemic-that-ai-is-turbocharging-psa-unveiled-302896565.html",
+        "https://spectrumnews1.com/wi/milwaukee/news/2026/10/01/ai-scam-seniors-awareness",
+        "https://unitedtostoponlinescams.org/"
+      ]
+    }
+  ]
+}
