@@ -1,0 +1,105 @@
+{
+  "date": "2026-10-03",
+  "label": "FRAMEWORK - rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "1",
+      "title": "Condo \"EV-ready\" sticker: empty junction box is not a Level 2 install.",
+      "ocr": "Strong",
+      "window": "Saturday 3-4 PM MT primary daytime; late morning-afternoon OK. Soft-pedal 8am primary.",
+      "growth": true,
+      "angle": "Cool Down (Oct 1, 2026) roundup of a California new-build condo buyer who was told charger install would be simple, then learned the panel might need a costly upgrade before a hardwired Level 2 charger. Builder pointed to an empty junction box. EV specialist in the thread: enough breaker spaces is one question; main breaker size is the other (200A usually fine; 100A often needs dynamic load management). Kitchen-table sticky note for anyone shopping an EV or a \"ready\" condo: photo the panel main breaker amp rating before you believe the brochure. Soft-pedal Fairfax Equinox LIVE. Soft-pedal lease ladders. Soft-pedal Manheim used-price tickers. Soft-pedal State Farm L2 twin.",
+      "bullets": [
+        "Cool Down Oct 1, 2026: California new-build condo buyer told EV charger install was simple; feared panel upgrade after seeing empty junction box as \"future charger\" spot.",
+        "Thread EV specialist: enough breaker spaces vs service capacity; 200A main often OK; 100A often needs dynamic load management for hardwired wall unit.",
+        "Cool Down: \"EV-ready\" can mean very different things; empty junction box does not mean charger installs without extra equipment.",
+        "Thread also discussed modest hardwired setup around 208V / 24A as enough for many overnight commuters.",
+        "Soft-pedal State Farm L2 insurance twin; soft-pedal GM+PG&E Smart Charge Bundle standing LIVE; soft-pedal Meter Collar LIVE."
+      ],
+      "body": "\"EV-ready\" on a condo flyer is not the same as \"Level 2 charger already works.\"\n\nA California buyer got the brochure language. Then the empty junction box under the panel turned into a panel-capacity question. That is the kitchen-table trap.\n\nSticky note before you buy the next car or the next \"ready\" unit:\n\n1) Photo the main breaker amp rating (look for 100A vs 200A).\n2) Ask a licensed electrician for a load calculation, not a sales promise.\n3) Soft-pedal assuming the empty box means zero upgrade dollars.\n4) Soft-pedal public DC-fast as your everyday plan if home charge is the independence lever.\n5) If a low-amp hardwired charger covers your overnight miles, that can beat hunting a plug after dinner.\n\n35-54 line: Premium saves \"EV-ready ≠ charger / photo the amp sticker.\"\n\n55+ line: independence is waking up charged without a surprise panel bill.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://www.thecooldown.com/green-home/ev-charger-installation-california-condo-buyer/"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "SDG&E EV-TOU-5: about 13.1 cents overnight vs about 80.2 cents on-peak.",
+      "ocr": "Strong",
+      "window": "Saturday 3-4 PM MT primary daytime; late morning-afternoon OK. Soft-pedal 8am primary.",
+      "growth": true,
+      "angle": "San Diego Gas & Electric Schedule EV-TOU-5 (effective Aug 1, 2026) puts summer on-peak at about $0.802/kWh and summer super off-peak at about $0.131/kWh for bundled residential EV customers. That is roughly a 6-to-1 gap. GCN (Aug 26, 2026): designed to pull home EV charging off the 4-9 PM peak; weekday midday 10 AM-2 PM also in the cheap window. Soft-pedal State Farm L2 insurance twin. Soft-pedal Thu home-vs-public $694 twin as the whole post. Soft-pedal Emergency Drive Away LIVE. Soft-pedal Patterson/Vail/Fruita/Gypsum price-only twins. US lesson for Grand Junction: write YOUR utility's overnight cents next to any peak rate, then schedule the car.",
+      "bullets": [
+        "SDG&E Schedule EV-TOU-5 total rates table effective 8/1/2026: summer on-peak about $0.80205/kWh; summer super off-peak about $0.13090/kWh (bundled).",
+        "Winter super off-peak about $0.12332/kWh; winter on-peak about $0.52383/kWh on the same table.",
+        "GCN: roughly sixfold gap overnight vs 4-9 PM peak; weekday midday 10 AM-2 PM also cheap; weekends midnight through 2 PM in cheap windows.",
+        "Tariff is for households with qualifying EVs registered with CA DMV; customers should confirm current terms in their account before switching.",
+        "Soft-pedal Patterson/Vail/Fruita/Gypsum price-only twins; soft-pedal Emergency Drive Away LIVE; soft-pedal $694 five twin."
+      ],
+      "body": "The strongest EV math I have seen lately is not a lease payment. It is a time-of-use schedule.\n\nSDG&E's EV-TOU-5 (effective Aug 1, 2026) shows summer on-peak around eighty cents a kilowatt-hour and summer super off-peak around thirteen cents. That is not a rounding error. It is a 6-to-1 reason to plug in after midnight instead of at dinner.\n\nSoft-pedal shaming apartment renters without a plug. Soft-pedal turning every I-70 Supercharger stop into the only story. Soft-pedal rehashing Emergency Drive Away.\n\nSticky note for western Colorado:\n\n1) Write YOUR overnight home cents/kWh next to any peak rate on your bill.\n2) Ask your utility if an EV time-of-use rate exists where you live.\n3) Soft-pedal assuming public fast charge will ever match overnight home math.\n4) Soft-pedal lease ladders and used-price tickers.\n5) If you already charge at home: set the schedule once, take a phone photo of the cable, say what you actually pay.\n\n35-54 line: Premium saves \"13¢ overnight / 80¢ peak / schedule the car.\"\n\n55+ line: independence is waking up charged without hunting a plug after dinner.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://www.sdge.com/sites/default/files/regulatory/8-1-26%20Schedule%20EV-TOU-5%20Total%20Rates%20Table.pdf",
+        "https://gcn.com/sdg-e-tou-rate-sets-overnight/21125/"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "SMUD Charge@Home: up to $850 toward home EV circuit and charger.",
+      "ocr": "Strong",
+      "window": "Saturday 3-4 PM MT primary daytime; late morning-afternoon OK. Soft-pedal 8am primary.",
+      "growth": true,
+      "angle": "Sacramento Municipal Utility District Charge@Home still posts rebates of up to $850 to help with EV charging equipment and/or electric circuit installation at home. Official SMUD page: Option A if you already bought qualifying gear; Option B if an electrician installs the circuit and processes the rebate; Option C for Energy Assistance Program Rate customers with special rebates. Soft-pedal contractor PR that floated a $750 circuit-only number. Soft-pedal State Farm L2 twin. Soft-pedal GM+PG&E Smart Charge Bundle standing LIVE. Soft-pedal Meter Collar LIVE. Soft-pedal Enphase marketing emails. Kitchen-table lesson: ask YOUR utility for the home-circuit rebate page before you pay the electrician in full.",
+      "bullets": [
+        "SMUD Charge@Home: rebates of up to $850 for EV charging equipment and/or electric circuit installation at home.",
+        "SMUD options: A (already bought qualifying charger / circuit-sharing / energy-management device); B (electrician installs circuit and processes rebate); C (EAPR special rebates).",
+        "Soft-pedal third-party contractor PR claiming a flat $750 circuit bump as if it replaced the official $850 structure.",
+        "Rebate terms, eligibility, and funding are set by SMUD and can change; confirm on smud.org before you shop.",
+        "Soft-pedal Meter Collar LIVE; soft-pedal Enphase marketing emails; soft-pedal State Farm L2 twin."
+      ],
+      "body": "Home charging is the independence lever. The wall work is where the surprise dollars hide.\n\nSMUD's Charge@Home page still says up to $850 toward EV charging equipment and/or the home circuit. That is a utility program, not a dealer lease sticker.\n\nSoft-pedal assuming every town has Sacramento's number. Soft-pedal waiting for a federal fee calendar to decide if EVs \"work.\" Soft-pedal Meter Collar LIVE as a paste twin.\n\nSticky note:\n\n1) Search YOUR utility for \"home EV charger rebate\" or \"EV circuit rebate.\"\n2) Ask if the electrician must be on a contractor network to unlock the rebate.\n3) Soft-pedal buying the charger first if the panel cannot support a 240V circuit yet.\n4) Soft-pedal public DC-fast as everyday fuel if overnight home is available.\n5) Take a phone photo of the finished cable and say what the rebate actually covered.\n\n35-54 line: Premium saves \"up to $850 / ask YOUR utility / circuit before charger.\"\n\n55+ line: independence is a permitted plug in your own driveway.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://www.smud.org/Going-Green/Electric-Vehicles/Charge-at-Home-application-page",
+        "https://www.smud.org/Going-Green/Electric-Vehicles/Residential"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Australia Solar Sharer: EV midday free window can save up to about $800 / year (two EVs up to about $1,900).",
+      "ocr": "Strong",
+      "window": "Saturday 3-4 PM MT primary daytime; late morning-afternoon OK. Soft-pedal 8am primary.",
+      "growth": true,
+      "angle": "Guardian (Sep 8-9, 2026) on IEEFA modelling of Australia's regulated Solar Sharer Offer: households with one EV could save up to about $800/year by charging in the free midday window; some with two EVs up to about $1,900. EV Council: vast majority charge at home; about 80% using solar. Soft-pedal UK VAT Fri five twin. Soft-pedal Carbon Brief 9x leftover twin. Soft politics. Soft-pedal lease ladders. US driveway lesson: midday free or overnight cheap only works if YOU can schedule the car; write YOUR rate windows. Soft-pedal shaming renters without a plug.",
+      "bullets": [
+        "Guardian / IEEFA: one EV up to about $800/year savings vs standard plan when charging in Solar Sharer's free midday window; two EVs up to about $1,900 in modelled cases.",
+        "Solar Sharer became available in July (regulated offer with a free power period).",
+        "EV Council CEO: most charge at home; about 80% use solar; hundreds of EV models in AU market.",
+        "IEEFA caveat: homes already flush with rooftop solar + battery may gain little or pay more; renters/apartments who cannot shift load unlikely to benefit; market offers with free windows can beat the regulated default.",
+        "Soft-pedal UK VAT / Carbon Brief 9x twins; soft-pedal lease ladders; soft-pedal Manheim used-price tickers."
+      ],
+      "body": "Australia put a free midday electricity window on a regulated plan and asked who can move their load.\n\nIEEFA's kitchen-table answer: households that can charge an EV in that free window can save hundreds a year. One EV up toward about $800. Two EVs toward about $1,900 in their model. Soft-pedal cheering overseas politics. Soft-pedal shaming renters without a plug. Soft-pedal twinning Friday's UK VAT draft or the Carbon Brief 9x leftover.\n\nUS sticky note for Grand Junction:\n\n1) Write YOUR cheapest window (overnight TOU, midday solar surplus, or whatever your utility prints).\n2) Soft-pedal assuming the sticker price of the car is the whole bill story.\n3) Soft-pedal public fast charge as everyday fuel if home schedule is available.\n4) Soft-pedal lease ladders and used-price tickers.\n5) If you already have rooftop solar: ask whether a midday charge beats overnight on YOUR bill.\n\n35-54 line: Premium saves \"$800 midday free / schedule the car / write YOUR window.\"\n\n55+ line: independence is cheaper miles without hunting a plug after dinner.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://www.theguardian.com/environment/2026/sep/09/electric-car-owners-could-save-hundreds-of-dollars-a-year-under-a-new-government-scheme-heres-how",
+        "https://ieefa.org/sites/default/files/2026-09/IEEFA%20BN_Growing%20the%20benefits%20of%20solar%20sharer%20tariffs_Sep26.pdf"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Standish, Maine community solar: 15% savings on CMP solar credits, renters OK.",
+      "ocr": "Strong",
+      "window": "Saturday 3-4 PM MT primary daytime; late morning-afternoon OK. Soft-pedal 8am primary.",
+      "growth": true,
+      "angle": "Town of Standish (ME) launched a community solar program with Solar Simplified (NA Clean Energy Sep 3, 2026). Available to Central Maine Power customers in Standish. About 15% savings on solar credits applied to the CMP bill. No panels on your roof. No enrollment fees, credit checks, or long-term commitments. Renters and unsuitable roofs included. First projects expected this fall. Enrollment first-come, first-served until capacity fills. Soft-pedal Harris ACE / Delaware / McLean / Flathead / CO+NJ CS twins. Soft-pedal Vermont ACRE (enrollment closed Aug 31). Soft-pedal climate sermons. Soft-pedal door-to-door solar sales. US lesson: search YOUR town + \"community solar\" and read the percent-off and exit terms before you sign.",
+      "bullets": [
+        "Standish + Solar Simplified: CMP customers in Standish get about 15% savings on solar credits applied to CMP bill.",
+        "No rooftop panels; no enrollment fees; no credit checks; no long-term commitments per program description.",
+        "Open to renters, homeowners with unsuitable roofs, and leased-space businesses.",
+        "First available projects expected this fall; enrollment first-come, first-served until capacity filled.",
+        "Enroll page listed: solarsimplified.com/standish. Soft-pedal door-to-door solar sales (program says Solar Simplified does not use them). Soft-pedal Harris/Delaware/McLean twins."
+      ],
+      "body": "Not everyone owns a sunny roof. Community solar is the renter path and the shady-roof path.\n\nStandish, Maine just stood up a town program with Solar Simplified. CMP customers there can subscribe and see about 15% savings on the solar credits that land on the bill. No panels on your house. Soft-pedal climate sermons. Soft-pedal twinning last week's Texas or Delaware or Illinois projects as if every town is the same.\n\nSticky note for Grand Junction and every Premium reader:\n\n1) Search YOUR town + community solar + your utility name.\n2) Write the percent savings, the exit terms, and whether renters qualify.\n3) Soft-pedal signing after a door knock. Prefer town or utility pages.\n4) Soft-pedal assuming rooftop is the only way to cut the bill.\n5) If you already have rooftop: soft-pedal stacking programs you do not qualify for.\n\n35-54 line: Premium saves \"15% CS / renters OK / read YOUR town page.\"\n\n55+ line: independence is a bill credit without climbing a ladder.\n\nFRAMEWORK  -  rewrite in your voice before posting.",
+      "links": [
+        "https://www.nacleanenergy.com/solar/town-of-standish-launches-community-solar-program-in-collaboration-with-solar-simplified",
+        "https://www.solarsimplified.com/standish"
+      ]
+    }
+  ]
+}
