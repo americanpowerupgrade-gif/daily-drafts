@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-05",
+  "label": "FRAMEWORK - rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "1",
+      "title": "Three new EVs at about $30,000 or less: Bolt $27,600, EV3 $29,890, Leaf $29,990.",
+      "ocr": "Strong",
+      "window": "Monday ~12:30-1 PM MT (1 PM strongest). Secondary ~8 PM MT.",
+      "growth": true,
+      "angle": "For the first time in a while, a family can walk into three different brands and see a new EV sticker at or under about $30,000. Chevy's 2027 Bolt starts at $27,600 (about $28,995 with destination) with native NACS for Tesla Superchargers. Kia says the 2027 EV3 hit US dealerships Oct 1 starting at $29,890. Nissan's 2026 Leaf S+ lists at $29,990 with about 303 miles. Kitchen-table take from a guy who bought his first EV at 62: the cheap EV is finally a real shopping list, not a promise. Not a lease ladder, not a used-price ticker.",
+      "bullets": [
+        "Chevrolet 2027 Bolt LT: $27,600 MSRP plus $1,395 destination; 65 kWh LFP battery; native NACS port; up to about 150 kW DC; about 255-262 miles depending on source.",
+        "Kia Media (Oct 1, 2026): 2027 EV3 now in US dealerships; Light FWD $29,890 plus $1,495 destination; Kia says up to 321 miles EPA-est on longer-range trims (base Light uses the smaller battery).",
+        "2026 Nissan Leaf S+: $29,990 listed; up to about 303 miles (Coltura and EV guide roundups).",
+        "Electrek (Oct 2): Kia offering $1,500 customer cash or 0.9% APR for 48 months on EV3 through Nov 2.",
+        "Soft-pedal lease payments as the story. Prices exclude destination, taxes, and dealer add-ons."
+      ],
+      "body": "When I bought my first EV at 62, \"affordable EV\" mostly meant a used one or a long wait.\n\nThis fall you can walk into three dealers and see new EV stickers at about thirty thousand or less. The Chevy Bolt is back at twenty-seven thousand six hundred. Kia's EV3 just landed in showrooms at twenty-nine eight ninety. Nissan's Leaf S+ is twenty-nine nine ninety with about three hundred miles.\n\nThat is not a luxury toy price anymore. That is a regular family car price.\n\nWhat I would actually check before I signed:\n\n1) Out-the-door number, not the sticker. Destination is another $1,400 to $1,500.\n2) Can I plug in at home overnight? That is where the real savings live.\n3) Charging port. The Bolt has the Tesla-style plug built in, which matters on I-70.\n4) Range on a cold Colorado morning, not the brochure number.\n5) What my insurance quote says before I fall in love.\n\n35-54 line: Premium saves \"$27.6k / $29.9k / $30k / three new EVs / check out-the-door.\"\n\n55+ line: a reliable new car you fuel at home, at a price that does not wreck retirement savings.\n\nFRAMEWORK - rewrite in your voice before posting.",
+      "links": [
+        "https://www.kiamedia.com/us/en/media/pressreleases/25229/the-all-new-2027-kia-ev3-in-dealerships-now",
+        "https://www.chevrolet.com/electric/bolt-ev",
+        "https://coltura.org/least-expensive-electric-cars/",
+        "https://electrek.co/2026/10/02/kia-sweetens-ev-deals-10000-off/"
+      ],
+      "shortForm": "$27,600. $29,890. $29,990. Three new EVs at about $30k or less right now: Bolt, EV3, Leaf. [what I paid for my first EV at 62] If you were buying your first EV this fall, which one gets the test drive?",
+      "ocrNote": "Strong. Three dollar figures up top, first-EV-at-62 voice, family price point, clean closing question. Not a lease ladder or used-price post.",
+      "pixelPrompt": "Standing by the Tesla in the driveway. Say: \"When I bought my first EV at 62 there was nothing new near thirty grand. Now there are three. Here is what I would check before I signed.\" 30-40s. His face and words.",
+      "replyTarget": "@Electrek or @InsideEVs when they post EV3 or Bolt delivery coverage: \"Three new EVs at about $30k. The real question for families is whether you can plug in at home.\""
+    },
+    {
+      "id": "2",
+      "title": "VW ID.4: $12,500 cash plus $1,100 charging rebate on leftover 2025s through Nov 3.",
+      "ocr": "Strong",
+      "window": "Monday ~12:30-1 PM MT. Secondary ~8 PM MT.",
+      "growth": true,
+      "angle": "Electrek (Oct 4, 2026): VW Group is struggling, so October incentives are big. Volkswagen is putting $12,500 customer cash plus about $1,100 in charging rebates on leftover 2025 ID.4s, and $10,000 plus the charging rebate on 2026s. Electrek notes that in a state with its own EV rebate (Illinois example $2,000-4,000) the stack can pass $18,000 off a five-seat crossover with up to 291 miles EPA-est. Deals run through about Nov 3. This is a cash discount on a new car, not a lease ladder. Kitchen-table take: when a company is having a rough year, families can get a very good deal.",
+      "bullets": [
+        "Electrek Oct 4, 2026: $12,500 customer cash plus about $1,100 charging rebate on leftover 2025 ID.4.",
+        "2026 ID.4: $10,000 cash plus the charging rebate.",
+        "Up to 291 miles EPA-est (263 AWD); five-passenger crossover.",
+        "Electrek cites more than $18,000 possible savings when stacked with a state rebate like Illinois; offers vary by market and credit, through about Nov 3.",
+        "Same roundup: Audi $20,000 cash on remaining 2026 e-tron GT (luxury, mention only)."
+      ],
+      "body": "Bad news for a car company can be good news for your driveway.\n\nVolkswagen is having a rough year, and it shows in the October deals. Leftover 2025 ID.4s have twelve thousand five hundred in customer cash plus about eleven hundred toward charging. The 2026s have ten thousand off. That is a real five-seat crossover with up to about two hundred ninety miles.\n\nBefore anybody runs to the dealer:\n\n1) Ask for the out-the-door price with the cash applied, in writing.\n2) Ask if YOUR state has its own EV rebate that stacks.\n3) Use the charging rebate on a home Level 2 if you can. Home overnight is the cheap fuel.\n4) Check what the ID.4 needs for Tesla Supercharger access in your model year.\n5) Do not let the dealer swap the cash for a \"special\" monthly payment you did not ask for.\n\n35-54 line: Premium saves \"$12,500 off / $1,100 charging / 291 mi / ask out-the-door.\"\n\n55+ line: a big discount on a comfortable, roomy car you can fill up at home.\n\nFRAMEWORK - rewrite in your voice before posting.",
+      "links": [
+        "https://electrek.co/2026/10/04/tough-times-for-audi-vw-and-porsche-make-make-october-a-great-time-to-buy/"
+      ],
+      "shortForm": "$12,500 cash plus about $1,100 for charging on a leftover 2025 VW ID.4. Up to 291 miles. [would I trade my ___ for this?] Who else waits for a car company's bad year to buy?",
+      "ocrNote": "Strong. Big dollar open, practical buyer checklist, contrarian \"bad year = good deal\" hook. One-source story, so keep the fine print line (varies by market and credit).",
+      "pixelPrompt": "Phone showing a dealer page (no personal info). Say: \"VW's having a bad year. That means twelve and a half grand off a leftover ID.4. Here is what I would ask the dealer.\" 30s. His face and words.",
+      "replyTarget": "@Electrek's post of the Oct 4 VW/Audi/Porsche deals story: \"$12.5k cash on a 291-mile crossover. Ask for out-the-door in writing and put the charging money toward a home plug.\""
+    },
+    {
+      "id": "3",
+      "title": "UK this fall: about 8p home overnight vs about 26p standard vs about 80p public rapid.",
+      "ocr": "OK to Strong",
+      "window": "Monday ~8 PM MT secondary slot works well for this one; or ~12:30-1 PM.",
+      "growth": true,
+      "angle": "eChargers UK guide (checked Oct 2, 2026): Ofgem price cap Oct-Dec 2026 about 26.32p/kWh; smart EV tariff off-peak example about 8p/kWh (Intelligent Octopus Go); Zapmap July 2026 public rapid average about 80p/kWh. For about 7,500 miles a year that is roughly £171 at home off-peak vs about £1,714 all on public rapid. US household take: the plug and the rate plan matter more than the car. Not the UK VAT twin, not the Carbon Brief 9x twin.",
+      "bullets": [
+        "Ofgem cap 1 Oct-31 Dec 2026: about 26.32p/kWh unit rate (eChargers citing Ofgem/Uswitch).",
+        "Smart EV off-peak example: about 8p/kWh (Intelligent Octopus Go).",
+        "Zapmap July 2026: public rapid/ultra-rapid about 80p/kWh average.",
+        "About 7,500 miles/year at about 3.5 mi/kWh: about £171 home off-peak vs about £1,714 all rapid.",
+        "US lesson only. No politics."
+      ],
+      "body": "The car is not the biggest money decision. The plug is.\n\nOver in the UK this fall, charging at home overnight on a smart EV plan runs about eight pence a kilowatt-hour. The regular capped rate is about twenty-six. Public rapid chargers average about eighty. Same car, same miles, about ten times the cost depending on where you plug in.\n\nTheir yearly math: about a hundred seventy pounds charging at home overnight vs about seventeen hundred pounds if you lived on fast chargers.\n\nHere in Grand Junction, I want every EV owner to know two numbers:\n\n1) What you pay per kWh at home overnight. [my number: ___]\n2) What you paid at your last fast charger stop. [my number: ___]\n\nIf the gap is big, home charging is the whole savings story. If you rent and have no plug, that is the problem worth fixing first.\n\n35-54 line: Premium saves \"8p vs 26p vs 80p / home vs rapid / know YOUR two numbers.\"\n\n55+ line: the cheapest fuel is the one you add while you sleep.\n\nFRAMEWORK - rewrite in your voice before posting.",
+      "links": [
+        "https://www.echargersuk.co.uk/blogs/news/how-much-does-it-cost-to-charge-an-electric-car-at-home-uk",
+        "https://octopusev.com/ev-hub/electricity-vat-cut-ev-drivers"
+      ],
+      "shortForm": "About 8p at home overnight vs about 80p at a public rapid charger. Same car, 10x the cost. [what I pay overnight in Grand Junction vs my last Supercharger stop] Who else knows both their numbers?",
+      "ocrNote": "OK to Strong. Clear 10x contrast with a personal fill-in. Overseas source, so the US take and his own two numbers have to carry it.",
+      "pixelPrompt": "Two sticky notes on the garage wall: \"home __ cents\" and \"Supercharger __ cents.\" Say: \"In the UK, home overnight is about a tenth of public rapid. Here are my two numbers in Grand Junction.\" 30s. His face and words.",
+      "replyTarget": "A verified US home-charging creator who posts real kWh receipts (for example @TeslaCharging when it posts Supercharger pricing): \"Know two numbers: home overnight and your last fast-charge stop.\""
+    },
+    {
+      "id": "4",
+      "title": "ChatGPT will now look at your bank accounts for free. Should you let it?",
+      "ocr": "Strong",
+      "window": "Monday ~12:30-1 PM MT.",
+      "growth": true,
+      "angle": "OpenAI (Oct 2, 2026) is rolling out \"Finances in ChatGPT\" to Free and Go users in the US on web, iOS, and Android. You can connect bank accounts through Plaid and, separately, your Experian credit report, then ask where your money went, which bills are coming, or what subscriptions crept up. OpenAI says it is read-only: it cannot move money, pay bills, trade, or change account settings. It can also keep \"financial memories\" you tell it. Kitchen-table take for normal people and older households: useful for catching forgotten subscriptions, but decide on purpose what you connect and what it remembers. Not the Medicare scam twin (MyChart LIVE).",
+      "bullets": [
+        "OpenAI, Oct 2, 2026: Finances in ChatGPT rolling out to eligible US Free and Go users (Plus and Pro had it already); gradual rollout.",
+        "Bank and card data connect through Plaid; credit report data through Experian; the two are separate connections.",
+        "Read-only: cannot move money, pay bills, trade, or change account settings (OpenAI Help Center).",
+        "Can store \"financial memories\" you tell it (goals, loans, budget targets) for later chats.",
+        "Practical uses: subscription creep, upcoming bills, grocery budget checks."
+      ],
+      "body": "A free chatbot can now look at your bank accounts.\n\nOpenAI just opened its Finances feature to free ChatGPT users in the US. You can hook up your bank and your credit report and ask it plain questions. Where did my money go last month. What bills are coming. Which subscriptions quietly went up.\n\nThe good part: they say it is read-only. It cannot move money or pay anything.\n\nThe part I would think about: it can remember details you tell it about your money.\n\nMy take as a 60-something who likes AI but does not trust blindly:\n\n1) Try it for one thing first, like finding subscriptions you forgot.\n2) Connect one account, not everything at once.\n3) Check what it saved about you and delete what you do not want kept.\n4) Never let anyone, human or bot, talk you into a big money move without a person you trust looking at it too.\n5) If a \"ChatGPT\" call or text ever asks for your passwords, that is a scam, not the feature.\n\n35-54 line: Premium saves \"free ChatGPT Finances / read-only / connect one account / audit memory.\"\n\n55+ line: a helper for finding wasted money, as long as you stay the one in charge.\n\nFRAMEWORK - rewrite in your voice before posting.",
+      "links": [
+        "https://openai.com/index/personal-finance-chatgpt/",
+        "https://help.openai.com/en/articles/20001222-finances-in-chatgpt",
+        "https://theplainsignal.com/article/chatgpt-finances-free-go-plaid-experian-memory-audit"
+      ],
+      "shortForm": "ChatGPT will now read your bank and credit report for free. It can't move money, but it can remember things. [would I connect mine? ___] Who here would let a chatbot find their forgotten $15 subscriptions?",
+      "ocrNote": "Strong. Fits Brian's AI-for-normal-people shift, personal voice, real decision people face this week, strong reply bait (\"would you connect yours?\"). Keep it practical, not a tech review.",
+      "pixelPrompt": "At the kitchen table with his phone (screen not shown). Say: \"ChatGPT can now read your bank accounts for free. Here is how I would try it without handing over my whole life.\" 40s. His face and words. Strong video candidate for the personal-video push.",
+      "replyTarget": "The ChatGPT/OpenAI X account's Oct 2 Finances rollout post (confirm the exact post before quoting): \"Read-only is good. I'd connect one account, find the forgotten subscriptions, and check what it remembers.\""
+    },
+    {
+      "id": "5",
+      "title": "ComEd DeKalb community solar: more than $300 a year average savings, renters can join.",
+      "ocr": "Strong",
+      "window": "Monday ~12:30-1 PM MT or ~8 PM MT.",
+      "growth": true,
+      "angle": "ComEd / SunVest (Business Wire, Oct 2, 2026): nearly 8 MW DC community solar array at DeKalb Taylor Municipal Airport is energized. About 60% of subscription capacity reserved for low-to-moderate income customers. Average customer savings more than $300 a year (nearly $11,000 over the 35-year project life). ComEd says more than 280 community solar sites already serve over 53,000 residential customers. Kitchen-table take: no roof, or a renter's roof, does not mean no solar savings. NEW northern Illinois market; not the McLean, Standish, Harris, or Delaware twins.",
+      "bullets": [
+        "Business Wire Oct 2, 2026: nearly 8 MW DC array at DeKalb Taylor Municipal Airport energized (ComEd + SunVest).",
+        "About 60% subscription capacity for LMI households; average savings more than $300/year; about $11,000 over 35 years.",
+        "Across subscribers about $246,000/year in savings.",
+        "Site lease about $91,000/year plus about $36,000 property taxes to DeKalb County.",
+        "ComEd: 280+ community solar sites, 53,000+ residential customers."
+      ],
+      "body": "No roof does not mean no solar savings.\n\nIn DeKalb, Illinois, a new community solar farm at the local airport just turned on. People sign up for a slice of it and get a credit on their power bill. Average savings: more than three hundred dollars a year. About sixty percent of the slots are held for lower-income families.\n\nI have panels on my own roof, but I know a lot of folks my age rent, live in a condo, or have a roof that is all shade.\n\nIf that is you:\n\n1) Search YOUR utility name plus \"community solar.\"\n2) Write down the promised savings as a percent or dollars before you sign anything.\n3) Ask if there is a cancellation fee.\n4) Ask if renters can join. In many programs they can.\n5) Never give bank info to a door-knocker. Sign up through the utility's own page.\n\n35-54 line: Premium saves \"$300+/yr / no roof needed / renters OK / check YOUR utility.\"\n\n55+ line: a lower bill without climbing a ladder or taking a loan.\n\nFRAMEWORK - rewrite in your voice before posting.",
+      "links": [
+        "https://www.businesswire.com/news/home/20261002792163/en/",
+        "https://comed.com/communitysolar"
+      ],
+      "shortForm": "More than $300 a year off the power bill, no panels on your roof. DeKalb, IL community solar, 60% saved for lower-income families. [does Xcel or my co-op offer this in Grand Junction? ___] Who else assumed renters couldn't go solar?",
+      "ocrNote": "Strong. Dollar open, renter and older-household angle, his own rooftop as the contrast, Colorado fill-in.",
+      "pixelPrompt": "Pointing up at his own panels, then at a neighbor's shady roof (no addresses). Say: \"I have panels. A lot of people can't. Community solar in Illinois is saving people more than $300 a year without a roof.\" 30s. His face and words.",
+      "replyTarget": "A verified community-solar or renter-energy educator posting enrollment tips (not a political campaign account): \"$300+ a year with no roof. Sign up through the utility, not a door-knocker.\""
+    }
+  ]
+}
