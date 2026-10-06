@@ -1,0 +1,122 @@
+{
+  "date": "2026-10-06",
+  "label": "FRAMEWORK - rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "1",
+      "title": "Grand Junction is on Colorado's new fast-charger list.",
+      "ocr": "Strong",
+      "window": "Tue 7 PM MT (hottest cell). This is the day's main post.",
+      "growth": true,
+      "angle": "$23.2 million, 270 new fast-charge ports, and one of the 35 sites is right here in Grand Junction. For a guy who bought his first EV at 62 on the Western Slope, that is the answer to \"where do you even charge out here?\"",
+      "bullets": [
+        "Colorado Energy Office + CDOT awarded $23.2M (Sep 22, 2026) for 270 new fast-charging ports at 35 sites, roughly a 16% bump on the state's 1,680+ existing fast ports.",
+        "eCAMION won sites in Estes Park, Fraser, Fort Collins, and Grand Junction. Town of Eagle got Eagle. Tesla got Steamboat Springs.",
+        "83% of Colorado state highways are now within 30 miles of a fast charger, up from 40% in August 2020.",
+        "Projects finish over the next two years. The next application round opened Sep 28."
+      ],
+      "body": "When I bought my first EV at 62, the first thing everybody asked me was \"where do you charge out here?\"\n\nFair question on the Western Slope. We are not Denver.\n\nColorado just handed out $23.2 million for 270 new fast-charge ports at 35 sites. One of them is in Grand Junction. The state says 83 percent of its highways are now within 30 miles of a fast charger. Six years ago it was 40 percent.\n\nHere is why I care. A lot of older folks out here want to visit the kids and grandkids on the Front Range without sweating every mile on I-70. More chargers means fewer \"will I make it\" moments, and that is real independence.\n\nRight now I mostly charge [where I charge in GJ: ___]. My longest trip so far was [my longest I-70 trip: ___].\n\nIf you live out here, where would you put the new one? I-70 exit, downtown, or by the grocery store where you are already parked for 30 minutes anyway?\n\n35-54 line: Premium saves \"$23.2M / 270 ports / GJ on the list.\"\n55+ line: visit the grandkids without range worry.",
+      "links": [
+        "https://energyoffice.colorado.gov/press-releases/polis-administration-awards-23.2-million-to-fill-gaps-in-colorados-electric-vehicle",
+        "https://www.codot.gov/news/2026/august2026news/colorado-nears-statewide-ev-fast-charging-network"
+      ],
+      "shortForm": "$23.2 million. 270 new fast-charge ports in Colorado, and one of the sites is in Grand Junction. My go-to stop on the Western Slope right now is [where I charge in GJ: ___]. Where would you put the new one: I-70 exit, downtown, or by the grocery store?",
+      "ocrNote": "Strong. Local, dollar figure first, first-person fill-in, an easy question any Western Slope or Colorado EV owner can answer.",
+      "pixelPrompt": "Stand by the Tesla at your usual GJ charger: \"Colorado just funded a new fast charger in Grand Junction. Here's where I charge today and what I hope the new one fixes.\"",
+      "replyTarget": "A verified Colorado EV or Tesla owner account, or Electrek/InsideEVs posting about state charger build-outs. One line: \"Western Slope finally gets some love. Grand Junction is on the list.\""
+    },
+    {
+      "id": "2",
+      "title": "Robotaxi slows down for grey kittens, and what it means for the day we stop driving.",
+      "ocr": "Strong",
+      "window": "Tue ~2-3 PM MT (softer slot) so it doesn't fight Framework 1 at 7 PM; or Wed 12-3 PM MT.",
+      "growth": true,
+      "angle": "The day an older person hands over the keys might come with a robot ride. Is it ready? Keep it human and family-first, not stock talk or spec talk.",
+      "bullets": [
+        "Tesla Robotaxi in Austin extended hours to 11 PM (Teslarati, Oct 5).",
+        "Musk said the night-time holdup is \"trying to avoid grey kittens on grey tarmac in the dark.\"",
+        "Austin Cybercab fleet is about 169 registered vehicles, per Texas registration data cited by Teslarati.",
+        "Oct 5: a Cybercab rider was stuck about 14 minutes looping a parking lot; remote support stopped and restarted the car (TeslaNorth)."
+      ],
+      "body": "For a lot of older people, losing the car means losing the doctor visits, the grocery runs, and a big piece of independence.\n\nThat is why I pay attention to robotaxis. Not the stock. The ride.\n\nThis week Tesla stretched its Austin robotaxi hours to 11 PM. Musk said the hard part at night is not running over grey kittens on grey pavement in the dark. Good. Go slow on that.\n\nSame week, one rider got stuck about 14 minutes circling a parking lot until remote support stopped the car and restarted it. Annoying, not scary. Somebody stepped in.\n\nI'm [age: ___]. The day I stop driving, here is what I would need before I trust one: [my list: ___].\n\nSo I'll ask you straight. Would you put your mom or dad in one yet? What would it take?\n\n35-54 line: adult kids worried about a parent's driving.\n55+ line: keep your independence after the keys.",
+      "links": [
+        "https://www.teslarati.com/tesla-robotaxi-expands-hours-musk-explains-why-its-been-a-challenge/",
+        "https://teslanorth.com/2026/10/05/tesla-cybercab-stuck-14-minutes/"
+      ],
+      "shortForm": "14 minutes stuck circling a parking lot. That's one robotaxi ride in Austin this week. I'm [age: ___]. The day I stop driving, I'd want [what I'd need from a robotaxi: ___]. Would you put your parents in one yet?",
+      "ocrNote": "Strong. Human question, not technical, pulls replies from both fans and skeptics.",
+      "pixelPrompt": "In the driver's seat: \"I'm [age]. Here's what a robotaxi would have to do before I'd trust it with my parents.\"",
+      "replyTarget": "The rider's own verified video post, or a big verified Tesla news account covering the extended hours. One line: \"Annoying, not scary. Show me the night rides, then show me my mom's clinic run.\""
+    },
+    {
+      "id": "3",
+      "title": "My solar app says one thing, my utility bill says another.",
+      "ocr": "Strong",
+      "window": "Wed 12-3 PM MT (lead Wednesday with this), or Tue ~2-3 PM MT if Framework 2 holds.",
+      "growth": true,
+      "angle": "Your solar app is not your bill. The utility meter is. Simple monthly check any homeowner can do.",
+      "bullets": [
+        "The Cool Down (Oct 5): a solar owner's apps showed -29 kWh (a credit day) while the utility logged 37 kWh of use and said its meter is what counts.",
+        "New York homeowner (National Grid) got billed 1,400 kWh on the first bill after going solar, more than before. Commenters pointed to an old forward-only meter and no permission to operate yet.",
+        "Practical tip from the coverage: compare the app's used and exported numbers against the utility's hourly or daily data; ask for a meter inspection if the gap keeps showing up.",
+        "Minnesota is investigating Xcel billing problems after complaints of missing solar credits and late fees."
+      ],
+      "body": "I put solar on my first house at 60 with Enphase microinverters. I'll admit it, the app is fun to watch.\n\nBut the app does not send me a bill. The meter on the side of the house does.\n\nOne solar owner's app said they made more than they used that day. The utility said they used 37 kWh and its meter is the one that counts. A New York homeowner got billed for 1,400 kWh on the first bill after going solar. More than before the panels. The likely reason: the old one-way meter was still on the house and the utility hadn't flipped the switch yet.\n\nHere is my once-a-month habit:\n1) Make sure the utility actually swapped in a two-way meter and gave you permission to operate.\n2) Pull up the utility's own usage numbers, not just your solar app.\n3) Line up the same month side by side. My app said [___]. My bill said [___].\n4) If the gap keeps showing up, ask for a meter check.\n\nDo you check your app against your bill, or just trust it?\n\n35-54 line: don't pay twice for power you made.\n55+ line: a five-minute monthly check protects the money you already spent on panels.",
+      "links": [
+        "https://www.thecooldown.com/green-home/solar-energy-billing-dispute-utility-meter/",
+        "https://www.thecooldown.com/green-home/new-york-homeowner-solar-bill-explodes/",
+        "https://www.thecooldown.com/green-business/xcels-billing-issues-minnesota-investigation-solar-credits/"
+      ],
+      "shortForm": "1,400 kWh. That's what one new solar owner got billed for, more than before the panels. My Enphase app said [my production last month: ___ kWh]. My bill said [___]. Do you check your app against your bill, or just trust it?",
+      "ocrNote": "Strong. First-hand, screenshot-friendly, practical for 55+ homeowners new to solar.",
+      "pixelPrompt": "Phone with the Enphase app held next to the paper bill: \"Here's what my app said, here's what I paid. Check yours.\"",
+      "replyTarget": "A verified solar installer or solar-owner creator posting about net metering or confusing bills. One line: \"The app is the scoreboard. The meter is the referee.\""
+    },
+    {
+      "id": "4",
+      "title": "The free scam shield most older folks never set up.",
+      "ocr": "OK to Strong",
+      "window": "Wed 12-3 PM MT.",
+      "growth": true,
+      "angle": "$0 to freeze your credit. AI scammers can clone a voice, but they can't open a loan on a frozen file. Keep it to the freeze, not another code-word post.",
+      "bullets": [
+        "FBI: victims reported more than $5 million in 2025 losses from \"distress\" scams with a likely AI connection (cited by WKMG/ClickOrlando, Oct 2).",
+        "NCOA: freezing credit at all three bureaus is free and protects you right away; a fraud alert is more reactive.",
+        "National Elder Fraud Hotline: 1-833-FRAUD-11 (1-833-372-8311).",
+        "Scam-prevention specialist on KJZZ (Oct 5): AI lets one scammer send thousands or millions of messages, and the old typo red flags are gone."
+      ],
+      "body": "Scammers don't need bad grammar anymore. AI writes their texts and can fake a voice that sounds like your grandson in trouble.\n\nThe FBI says people reported more than $5 million lost last year to those panic \"I'm in trouble, send money\" scams with a likely AI angle.\n\nHere's the one free thing that still works no matter how good the fake gets: freeze your credit at all three bureaus. Equifax, Experian, TransUnion. It costs nothing. It doesn't hurt your score. It just means nobody can open a new card or loan in your name until you unfreeze it.\n\nI [did mine / still need to do mine]. It took me [___] minutes.\n\nIf you or your folks already got hit, there's a free National Elder Fraud Hotline: 1-833-372-8311.\n\nHave you frozen yours? Have your parents?\n\n35-54 line: do it for your parents this weekend.\n55+ line: free, five minutes, protects the nest egg.",
+      "links": [
+        "https://www.ncoa.org/article/what-are-ai-scams-a-guide-for-older-adults/",
+        "https://www.clickorlando.com/news/local/2026/10/02/ai-voice-cloning-scam-targets-orlando-woman-with-fake-jailhouse-emergency/",
+        "https://www.kjzz.org/the-show/2026-10-05/ai-has-made-scammers-more-efficient-how-to-better-protect-yourself-against-scams"
+      ],
+      "shortForm": "$0. That's what it costs to freeze your credit at all three bureaus. AI scammers can fake a voice now. A frozen file still stops a loan in your name. I [did / still need to do] mine. Have you done yours?",
+      "ocrNote": "OK to Strong. High save potential for 55+ and their adult kids. Not a twin of the AARP code-word, United $406M, or MyChart posts.",
+      "pixelPrompt": "\"I just froze my credit. Took me [___] minutes. Here's why I did it before Medicare season gets busy.\"",
+      "replyTarget": "A verified consumer-protection or retirement-money creator posting about scams. One line: \"Free, five minutes, and a cloned voice can't get past it.\""
+    },
+    {
+      "id": "5",
+      "title": "$60 a month off the power bill from wind, and the catch.",
+      "ocr": "OK",
+      "window": "Wed ~9-10 PM MT secondary or Thu ~5 PM MT (soft). Don't stack it on Tuesday.",
+      "growth": false,
+      "angle": "A study says wind could cut Connecticut bills up to $60 a month. Honest \"here's the catch\" framing earns trust with skeptics. Name the source as an advocacy-group study.",
+      "bullets": [
+        "Study by Dunsky Energy + Climate Advisors for The Nature Conservancy (CT Insider, Oct 5, 2026).",
+        "Projects up to $60/month lower residential bills in Connecticut between 2034 and 2050.",
+        "Mix modeled: 34% land-based wind, 34% offshore wind, 25% storage.",
+        "Catch: it does not say how many projects are needed or what they cost up front. About 50-57% of New England power comes from natural gas today."
+      ],
+      "body": "Sixty dollars a month is real money for a retired couple. That's a tank of gas, or a month of a prescription copay.\n\nA new study for The Nature Conservancy says wind plus storage could knock up to $60 a month off Connecticut power bills.\n\nHere's the catch, and I think you should hear it straight. The savings are projected for 2034 to 2050. The study doesn't spell out how many projects it takes or what they cost to build up front. And it comes from a group that wants more wind built.\n\nI still think it's worth talking about. New England runs on natural gas for about half its power, and when gas spikes, so do bills. More homegrown power is a hedge.\n\nI pay about [my monthly bill: ___] out here in Colorado with solar on the roof.\n\nWould you wait eight years for $60 a month? Or do you want to see the building bill first?\n\n35-54 line: who pays up front, who saves later.\n55+ line: steady bills in retirement.",
+      "links": [
+        "https://www.ctinsider.com/business/article/ct-consumers-electric-bills-energy-costs-22445516.php"
+      ],
+      "shortForm": "$60 a month. That's what one study says wind could cut off Connecticut power bills. The catch: it starts in 2034 and nobody's said what it costs to build. I pay [my monthly bill: ___]. Would you wait 8 years for $60?",
+      "ocrNote": "OK. Trust-building catch framing; good replies from skeptics. Weaker than 1-4 because it's out-of-state and long-dated.",
+      "pixelPrompt": "None needed.",
+      "replyTarget": "A verified energy-markets or business reporter covering New England power costs (Bloomberg or WSJ energy desks fit). One line: \"$60 a month is great. Show me the build cost and who pays it.\""
+    }
+  ]
+}
