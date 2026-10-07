@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-07",
+  "label": "FRAMEWORK - rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "1",
+      "title": "Colorado EV fuel math: $1,373 a year",
+      "ocr": "Strong",
+      "window": "Wed ~1 PM MT (start of today's 1-2 PM band). Lead post. If you're rewritten and ready early, Wed 8 AM is today's single best slot.",
+      "growth": true,
+      "angle": "What a Colorado driver actually saves fueling at home instead of at the pump, with Brian's own real number filled in. First EV at 62, plugged in at night, solar on the roof.",
+      "bullets": [
+        "Colorado home electricity averages 17.0 cents/kWh (EIA, July 2026); Colorado gas $4.14/gal (AAA, Oct 4).",
+        "That is about 5.2 cents a mile for an EV vs 15.3 cents a mile for a 27 mpg gas car.",
+        "About $1,373 a year less to fuel at 13,500 miles. Fuel only, not purchase price or insurance.",
+        "US average: 5.5 vs 16.5 cents a mile, about $1,481 a year. Nevada has the biggest gap at $2,222."
+      ],
+      "body": "$1,373 a year.\n\nThat is what the average Colorado driver saves fueling an EV at home instead of buying gas for a 27 mpg car. About 5.2 cents a mile on electricity vs 15.3 cents a mile on gas.\n\nI bought my first EV at 62. The thing nobody told me was how boring \"filling up\" gets. I plug in at night in the garage, wake up full, and never think about the gas station on the corner unless I need coffee.\n\nHere is my real month: [kWh used for the car ___], [what I paid per kWh at home ___], [miles driven ___]. Plus the panels on my roof [how much the solar covers ___].\n\nThat is not a sales pitch. It is just math a retired guy on a fixed budget can check with a calculator.\n\nAnd this is fuel only. I am not saying the car was cheap. I am saying the weekly drain went away.\n\nGas folks, what is your cost per mile? EV folks, post your number.",
+      "links": [
+        "https://energyfactbook.com/ev-vs-gas/"
+      ],
+      "shortForm": "$1,373 a year. That's what an average Colorado driver saves fueling an EV at home vs a 27 mpg gas car. 5.2 cents a mile vs 15.3. My real number: [what I paid per kWh at home ___] and [my miles last month ___]. Gas folks, what's your cost per mile?",
+      "ocrNote": "Strong. Dollar opener, Colorado-local, first-person fill-in, a question that pulls real numbers from EV owners (his best audience).",
+      "pixelPrompt": "20 seconds in the driveway with the Tesla app's charging stats on screen. \"Here's what I paid to drive last month. Here's what gas would have been.\"",
+      "replyTarget": "Reply under a large verified EV-owner account posting home charging costs; drop the Colorado 5.2 vs 15.3 line and your own fill-in number."
+    },
+    {
+      "id": "2",
+      "title": "Winter range is coming to Grand Junction: 78% at 32 degrees",
+      "ocr": "Strong",
+      "window": "Fri 11 AM-1 PM MT (Friday's hot block, 1 PM peak), ideally on the first truly cold morning.",
+      "growth": true,
+      "angle": "Cold mornings are here on the Western Slope. What really happens to EV range in the cold, why it is not battery damage, and the free habits that fix most of it. Built for the 55+ person thinking about a first EV who is scared of winter.",
+      "bullets": [
+        "Recurrent study of 30,000+ US EVs: the average EV keeps about 78% of its range at 32F and about 70% at 20F.",
+        "Heat pumps add roughly 10% range at 32F. Tesla models rank among the better performers in the cold.",
+        "The loss is temporary, not battery damage. Range comes back when it warms up.",
+        "Free habits: precondition while still plugged in, use heated seats and wheel instead of blasting cabin heat, keep it plugged in during cold snaps, navigate to a fast charger so the battery pre-warms."
+      ],
+      "body": "78 percent.\n\nThat is how much range the average EV keeps when it is 32 degrees out, according to a study of more than 30,000 cars. At 20 degrees it is about 70 percent.\n\nGrand Junction mornings are already turning cold, so this is the season people ask me about.\n\nHere is the part folks get wrong. That range is not gone for good. The battery is not \"wearing out.\" Cold makes it sluggish, and when it warms back up the miles come back.\n\nWhat I do: [my habit, like warming the car up while it's still plugged in ___]. I use the heated seat and steering wheel instead of cranking the cabin heat. [My real cold-morning range number: ___].\n\nIf you are 60-something and thinking about a first EV, winter is a fair worry. It is also very manageable if most of your driving is around town and you charge at home.\n\nWhat surprised you most your first EV winter?",
+      "links": [
+        "https://www.recurrentauto.com/research/winter-ev-range-loss"
+      ],
+      "shortForm": "78%. That's how much range the average EV keeps at 32 degrees, per a 30,000-car study. 70% at 20 degrees. Grand Junction mornings are turning cold. My winter habit: [precondition while plugged in / heated seat / ___]. What surprised you most your first EV winter?",
+      "ocrNote": "Strong. Seasonal, practical, invites owner replies, and answers a real fear for first-time older buyers.",
+      "pixelPrompt": "Cold-morning clip at the car showing the app's climate/precondition button. \"It's [__] degrees. I warmed it up while it was still plugged in. Here's my range.\"",
+      "replyTarget": "Reply under a verified Tesla or EV news account posting winter range tips; add your real Grand Junction temperature and range number."
+    },
+    {
+      "id": "3",
+      "title": "$20 a month for Colorado seniors on Xcel",
+      "ocr": "Strong",
+      "window": "Wed ~2-2:15 PM MT (end of the 1-2 PM band, about an hour after F1).",
+      "growth": true,
+      "angle": "A real monthly bill credit most income-qualified 65+ Xcel customers in Colorado have never heard of, plus a small Q4 dip on the average bill. Built to be shared to a parent or neighbor.",
+      "bullets": [
+        "Colorado PUC's Aug 20 Xcel rate decision created a New Senior Discount: $20 a month bill credit for income-qualified customers 65 and older.",
+        "Same decision raised base rates about $5/month (4.77%) starting Aug 29; Xcel had asked for $9.94.",
+        "Income can be self-attested or shown through SNAP/TANF enrollment, and Xcel can now take direct applications.",
+        "Xcel's posted Q4 (Oct-Dec) fuel adjustment drops the average residential bill from $101.96 to $98.89, about $3.07 less.",
+        "Phone numbers: Xcel 1-800-895-4999; Colorado PUC consumer line 303-894-2070 or 800-456-0858."
+      ],
+      "body": "$20 a month.\n\nThat is a new bill credit for Xcel customers in Colorado who are 65 or older and income-qualified. The state utility commission set it up in the August rate decision.\n\nI have asked around and most people my age have never heard of it.\n\n$20 a month is $240 a year. For somebody on Social Security that is a couple of tanks of gas, a prescription copay, or a week of groceries.\n\nFrom what the PUC posted, you can self-attest your income or show you are on SNAP or TANF, and Xcel can take the application directly now. The number is 1-800-895-4999.\n\nSmall bonus: Xcel's own posted numbers for October through December show the average home bill dipping from $101.96 to $98.89. Not huge, but it is going the right direction for once.\n\nMy Xcel bill this month: [___].\n\nIf you have a parent, a neighbor, or somebody at church who is 65-plus in Colorado, send them this. Worst case they make one phone call.",
+      "links": [
+        "https://puc.colorado.gov/press-release/puc-cuts-xcel-energys-electric-rate-request-and-expands-consumer-protections",
+        "https://www.xcelenergy.com/company/rates_and_regulations/rates/electric_commodity_adjustment"
+      ],
+      "shortForm": "$20 a month. That's the new Xcel Colorado credit for income-qualified folks 65 and older. Most people I talk to haven't heard of it. My Xcel bill this month: [___]. Know a parent or neighbor who should call and ask?",
+      "ocrNote": "Strong. Dollar opener, local, aimed straight at 55+, built for saves and shares, not political. Note: Yesterday's pack held a \"Xcel +$5/mo\" winter line. This one leads with the senior credit, so it is a different post. Double-check eligibility wording on the PUC page before posting.",
+      "pixelPrompt": "Hold your Xcel bill with the account number covered. \"If you're 65-plus in Colorado, call and ask about this. Here's the number.\"",
+      "replyTarget": "Reply under a verified Colorado news or consumer-money account covering Xcel bills or the rate case; add the $20 line and the phone number."
+    },
+    {
+      "id": "4",
+      "title": "No app, no smartphone: AI that calls Mom every morning",
+      "ocr": "Strong",
+      "window": "Thu ~6 PM MT (Thursday's best slot). The Wed 9-10 PM bump is gone on the new heatmap.",
+      "growth": true,
+      "angle": "AI for aging parents that works on a plain phone call, not another app they will never open. Honest question to the audience: helpful independence, or too much like Big Brother? Fits Brian's shift toward AI and how it affects normal people.",
+      "bullets": [
+        "Portugal's HoneCraft MILAE (ai.pt, Oct 6): AI phones older people who live alone; they just answer and talk. No internet, smartphone, or app needed.",
+        "If a call turns up a problem, a human professional is alerted. The service always says it is AI and says it is not an emergency service.",
+        "In the US, Hello Robot got a nearly $3 million NIH National Institute on Aging grant (Oct 5) to test its Stretch home robot for early Alzheimer's support.",
+        "Japan: Kawasaki's dog-shaped Home Leo companion robot, aimed at 2028, would alert family about falls or health changes."
+      ],
+      "body": "No app. No smartphone. Just a phone call.\n\nThere is a service now where an AI calls older folks who live alone every day and just talks with them. How did you sleep, did you eat, how is the knee. If something sounds off, a real human professional gets alerted.\n\nIt always tells you it is AI. It is not 911. It is a check-in.\n\nHere in the US, the National Institutes of Health just put almost $3 million into testing a home robot to help people with early Alzheimer's stay in their own homes longer.\n\nI am in my 60s, I live with health stuff, and I like AI. My honest take: [would I want this for myself? ___]. [Would I want it for a parent or friend? ___].\n\nThe selling point for me is independence. Staying in your own house longer, without your kids calling five times a day.\n\nThe worry is privacy, and who is listening.\n\nSo which is it for you: helpful, or too much Big Brother?",
+      "links": [
+        "https://ai.pt/en/news/honecraft-s-milae-uses-ai-phone-calls-to-check-on-isolated-elderly-peopl-afbe14/",
+        "https://www.homecaremag.com/hello-robot-lands-3m-grant-to-help-older-adults-with-early-alzheimers/",
+        "https://www.japantimes.co.jp/business/2026/10/07/companies/kawasaki-heavy-industries-dog-robots/"
+      ],
+      "shortForm": "No app. No smartphone. Just a phone call. There's now AI that calls seniors who live alone every day and gets a real person involved if something sounds off. Would you want that for [Mom / Dad / me at ___]? Or does it feel too much like Big Brother?",
+      "ocrNote": "Strong. Fits the AI-for-normal-people shift, splits opinions, drives replies. US lesson is the NIH grant. Different from Tuesday's scam and paperwork posts (those were defense; this is daily independence).",
+      "pixelPrompt": "Talk to camera, his face and words: \"I'm in my 60s and I like AI. Here's whether I'd want a robot calling me every morning, and why.\"",
+      "replyTarget": "Quote a verified AI or aging/caregiving account posting about AI companions or check-ins for seniors; one opinion line plus \"who is listening\" question."
+    },
+    {
+      "id": "5",
+      "title": "$34,000 cash, about $11,000 a year: an Enphase home like mine",
+      "ocr": "Strong",
+      "window": "Fri ~1 PM MT or Sat ~4 PM MT (Saturday's clear peak).",
+      "growth": true,
+      "angle": "An Oregon homeowner runs heat plus two EVs on 19 kW of Enphase solar and estimates about $11,000 a year saved. How does Brian's 2023 Enphase system compare? Honest about the federal credit being gone.",
+      "bullets": [
+        "r/solar Oregon homeowner (via The Cool Down, Oct 6): 19 kW system covering about 85% of the home's electricity, including heating and charging two EVs.",
+        "Paid $34,000 cash and got a $7,500 rebate from Energy Trust of Oregon. Enphase microinverters.",
+        "Owner estimates about $11,000 a year saved on power plus fuel (his estimate, not audited).",
+        "Context: the 30% federal homeowner solar credit is gone for systems placed in service after 2025; average payback per EnergySage is now about 10.8 years (5.2 in DC to 17.2 in Georgia)."
+      ],
+      "body": "$34,000 cash. About $11,000 a year saved, by the owner's own math.\n\nA homeowner in Oregon put 19 kW of solar on the roof with Enphase microinverters, same brand as mine, and it covers about 85 percent of the house. That includes heating and charging two EVs. He also got a $7,500 rebate from his state energy program.\n\nI bought my first house at 60 and put solar on in 2023. Mine is [my kW ___]. My bill went from [before ___] to [now ___].\n\nThe honest part: the 30 percent federal tax credit for homeowners is gone for new systems. Average payback nationally is now around 10.8 years, and it swings a lot by state.\n\nSo the math works best when you use a lot of your own power at home, like charging a car in the garage. That is what made it click for me.\n\nIf you have solar, what was your payback? If you are thinking about it, what is stopping you?",
+      "links": [
+        "https://www.thecooldown.com/green-home/oregon-homeowner-installs-solar-system/",
+        "https://costofowning.com/guides/solar-panel-payback-period-2026/"
+      ],
+      "shortForm": "$34,000 cash. About $11,000 a year saved, by the owner's own estimate. An Oregon homeowner put 19 kW on the roof with Enphase micros, same as mine, and runs heat plus two EVs on it. My 2023 system: [my kW ___ / my bill now ___]. What would your payback be?",
+      "ocrNote": "Strong if he fills in his real numbers; OK without them. Note: Tuesday's LIVE Enlighten vs Xcel post was about the app not matching the meter. This one is about payback, so it is a different post. If it feels too close, hold it to Friday.",
+      "pixelPrompt": "Stand under the panels with the Enlighten app open. \"Bought my first house at 60, solar in 2023. Here's what it does for my bill.\"",
+      "replyTarget": "Reply under a large verified solar-homeowner or energy-money account posting payback math; add your real system size and bill."
+    }
+  ]
+}
