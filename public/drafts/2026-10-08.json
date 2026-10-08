@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-08",
+  "label": "FRAMEWORK - rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "1",
+      "title": "Grand Junction to Kentucky: what the electricity really costs",
+      "ocr": "Strong",
+      "window": "Thu ~6 PM MT (best Thursday slot) as the \"heading out\" post. Follow-ups: stop photo Sat ~4 PM MT, final receipt Mon ~1 PM MT.",
+      "growth": true,
+      "angle": "The payoff of last night's \"driving back to Kentucky on FSD\" post. Real numbers from your own road trip. Nobody can argue with a receipt, and it can become a 2-3 post series (heading out, stop photos, final total).",
+      "bullets": [
+        "You already told followers you are driving back to Kentucky this weekend on FSD v14.3.11 (LIVE post linked below). This is the follow-through.",
+        "Tesla's trip planner shows every Supercharger stop and an estimated charging cost before you leave.",
+        "Cold-morning reality you already posted: about 78% of normal range at 32F, 70% at 20F (Recurrent, 30,000+ EVs). I-70 mountain passes east of Grand Junction add to it.",
+        "Home charging in Colorado runs far cheaper than Superchargers, so a road trip is the \"worst case\" EV fuel number. Say that out loud; it builds trust."
+      ],
+      "body": "$[___].\n\nThat is what the Tesla trip planner says the electricity will cost to drive my Model Y from Grand Junction to Kentucky this weekend. About [___] miles. Gas for the same trip in a [___] mpg car would run about $[___].\n\nI-70 most of the way, over the mountains and across the plains. The planner picked [___] Supercharger stops: [towns ___].\n\nHere is the part people who have never road tripped an EV do not believe. We stop about when we would anyway. Lunch, bathroom, stretch, walk the [dog / legs]. By the time we are done, the car is ready to go.\n\nAnd this is the expensive way to fuel an EV. At home I plug in at night for [what I pay per kWh at home ___]. Superchargers cost more than that, so this trip is my worst-case number, not my everyday one.\n\nI will post the real total when we get there and compare it to the estimate.\n\nEV road trippers, what is your longest drive? Gas folks, what would this trip cost you?",
+      "links": [
+        "https://www.tesla.com/trips",
+        "https://x.com/UpgradeAmerican/status/2107849876222652518"
+      ],
+      "shortForm": "$[___]. That's what the trip planner says electricity will cost to drive my Model Y from Grand Junction to Kentucky this weekend. Gas for the same miles would run about $[___]. I-70 most of the way. We plug in while we eat. EV road trippers, what's your longest drive?",
+      "ocrNote": "Strong. Dollar opener, first-person fill-in, his own car and his own trip, closing question, no link in the body.",
+      "pixelPrompt": "20 seconds at a Supercharger stall: \"We're [___] miles from home, this stop cost $[___], and I had time for [___].\"",
+      "replyTarget": "Quote or reply to @TeslaCharging (verified, posts station openings) with your stop photo once you are on the road."
+    },
+    {
+      "id": "2",
+      "title": "Fire Prevention Week: where your family charges stuff matters",
+      "ocr": "Strong",
+      "window": "Thu ~10 AM MT today (soft Thursday slot, keeps 6 PM for F1). Fri 11 AM MT at the latest, before the week ends Saturday.",
+      "growth": true,
+      "angle": "A plain, calm, two-minute safety check for every house with phones, e-bikes and an EV charger. The EV is not the scary part; the phone on the bed is. Timely because the week ends Saturday.",
+      "bullets": [
+        "Fire Prevention Week is Oct 4-10, 2026. NFPA's theme: \"Charge into Fire Safety: Safe Charging Is a Superpower.\"",
+        "Use the charger that came with the device or one the maker approves. Buy products listed by UL, ETL or CSA.",
+        "Charge on a hard, flat surface, not beds, couches or under pillows. Unplug when full.",
+        "Charge big batteries like e-bikes, scooters and power tools outside when possible, and never block exits.",
+        "Stop using anything that gets very hot, swells, smells odd, leaks, smokes, or pops or hisses."
+      ],
+      "body": "$0 and two minutes.\n\nThat is all it takes to walk your house tonight and check where everybody charges their stuff.\n\nThis is Fire Prevention Week, and this year the fire folks are talking about charging. Not because EVs are scary. Because of the phone on the pillow and the cheap e-bike charger in the hallway.\n\nHere is the list, plain and simple:\nUse the charger that came with it, or one the maker approves.\nLook for UL, ETL or CSA on the label.\nHard, flat surface. Not the bed, not the couch, not under a pillow.\nUnplug when it is full.\nE-bikes, scooters and big tool batteries, charge them outside if you can, and never where they block a door.\nIf anything gets really hot, swells up, smells funny or starts hissing, stop using it.\n\nMy car charges in the garage on [my setup ___]. Honestly the thing I checked first was [the grandkids' phones / my e-bike / the power strip behind the TV ___].\n\nWhere do your grandkids charge their phones at your house?",
+      "links": [
+        "https://www.nfpa.org/about-nfpa/press-room/news-releases/2026/2026-fire-prevention-week-theme-announced",
+        "https://content.nfpa.org/-/media/Project/Storefront/Catalog/Files/Fire-Prevention-Week/2026/FPW26_Tip-Sheet.pdf"
+      ],
+      "shortForm": "$0 and two minutes. That's all it takes to check where your family charges stuff tonight. Fire Prevention Week tips: maker's charger, hard surface, never on the bed, unplug when full, e-bikes outside. [photo: my garage charger setup ___] Where do your grandkids charge their phones?",
+      "ocrNote": "Strong. Family safety, his own garage photo, easy save and repost, ends with a grandparent question. Keep it calm and useful, not a fear post.",
+      "pixelPrompt": "15 seconds in the garage: \"This is where my car charges. And this [phone on the nightstand / e-bike] is the one I actually worry about. Here's the fix.\"",
+      "replyTarget": "Quote @NFPA's Fire Prevention Week post if it is live, or reply under a verified local fire department account."
+    },
+    {
+      "id": "3",
+      "title": "0.3%: the robot-takeover number nobody is sharing",
+      "ocr": "Strong",
+      "window": "Fri 1 PM MT (best slot this week for a talker). Backup Thu ~6:30 PM MT if F1 waits.",
+      "growth": true,
+      "angle": "The scary \"81% of jobs\" headline went around last night. The same study says robots are cheaper than people for only 0.3% of work today. Calm, honest, not dismissive. Exactly the \"make AI less scary\" lane.",
+      "bullets": [
+        "Robots can technically do about 74% of physical job tasks, mostly in tightly controlled settings. Add AI chatbots and about 81% of tasks are \"exposed.\"",
+        "But robots are cost-competitive for just 0.3% of job tasks today. At past price drops (about 3% a year), reaching 10% would take around 40 years.",
+        "Closest case: packers, about $45,000 a year for the robot vs about $49,000 for the worker. Welding robots cost about 5 times more. Dishwashers and janitors: robots are still several times more expensive.",
+        "Honest caveat: about 300,000 workers already have jobs where robots can do 95% of the tasks, and the authors say the 40 years could shrink if prices fall faster."
+      ],
+      "body": "0.3 percent.\n\nYou probably saw the scary number going around last night. \"81% of jobs exposed to AI and robots.\" That came from a real study by one of the big AI companies.\n\nHere is the half of that same study nobody is sharing. Robots are actually cheaper than a person for about 0.3 percent of the work Americans do today. Not 81. Point three.\n\nThe closest job is packing boxes. A robot runs about $45,000 a year. The worker makes about $49,000. That is close. Welding? The robot costs about five times more. Washing dishes, cleaning buildings? Still several times more expensive than a person.\n\nAt the rate robot prices have been dropping, the study says it would take around 40 years to get to even 10 percent.\n\nI am not going to tell you nobody loses a job. About 300,000 people already do work a robot could mostly handle, and prices could fall faster. But \"can do\" and \"makes sense to buy\" are two very different things.\n\n[what I tell my kids / grandkids about this ___]\n\nDoes that number make you feel better or worse about AI?",
+      "links": [
+        "https://www.anthropic.com/research/what-work-can-robots-do"
+      ],
+      "shortForm": "0.3%. That's how much of America's work a robot actually does cheaper than a person today. That's from the AI company's own study. The closest job, packing boxes: about $45,000 a year for the robot vs $49,000 for the worker. Does that make you feel better or worse about AI?",
+      "ocrNote": "Strong. Number opener, myth-buster in plain words, fits the \"make AI less scary\" push, invites replies from both sides. Stick to the study's numbers; do not promise nobody loses work.",
+      "pixelPrompt": "20 seconds: \"Everybody's scared robots are coming for our jobs. Here's the number from the AI company itself: point three percent. Here's what that means for [my kids / my grandkids]: ___.\"",
+      "replyTarget": "Quote the \"81%\" post from @Polymarket (https://x.com/Polymarket/status/2107977145956135026) with one line: \"Here's the other half of that study.\""
+    },
+    {
+      "id": "4",
+      "title": "Medicare open enrollment starts Oct 15: let AI read the boring letter, not the stranger on the phone",
+      "ocr": "Strong",
+      "window": "Fri ~11:30 AM MT, or Mon ~1 PM MT (Monday's hottest slot, right before Oct 15).",
+      "growth": true,
+      "angle": "The yearly \"your plan is changing\" letter is long and confusing. AI can put it in plain English for free. But the real plan comparison and sign-up go through Medicare.gov, because scammers are buying the top search ads. Not a twin of the Sep 30 MyChart post.",
+      "bullets": [
+        "Medicare Open Enrollment runs Oct 15 to Dec 7, 2026. Changes start Jan 1, 2027.",
+        "Your plan's \"Annual Notice of Change\" letter lists how 2027 costs and benefits change. Compare plans at Medicare.gov/plan-compare or call 1-800-MEDICARE (1-800-633-4227).",
+        "FTC (Sep 28): scammers pay to show up at the top of search results with look-alike sites. Type Medicare.gov directly and look for .gov.",
+        "Free one-on-one help: your State Health Insurance Assistance Program (SHIP)."
+      ],
+      "body": "$0.\n\nThat is what it cost to have AI explain [my mom's / my] Medicare \"here is what changes next year\" letter in plain English.\n\nIf you are on Medicare, you know the one. It shows up every fall, it is [___] pages, and it is written like nobody is supposed to read it. It is called the Annual Notice of Change.\n\nI blacked out the name and ID numbers, took pictures of the pages, and asked AI one question: \"What actually changes for me in 2027, and what will it cost?\" It pointed out [what it caught ___].\n\nThen the important part. I did the actual plan comparing only on Medicare.gov. The FTC just warned that scammers are paying to show up at the top of search results with look-alike sites. Type Medicare.gov yourself. Look for .gov. Or call 1-800-MEDICARE.\n\nAnd if you want a real person, every state has free one-on-one help called SHIP.\n\nOpen enrollment runs Oct 15 to Dec 7.\n\nAI did not pick a plan for me. It just made the letter readable. Who in your family needs help with this one?",
+      "links": [
+        "https://www.medicare.gov/health-drug-plans/open-enrollment",
+        "https://consumer.ftc.gov/consumer-alerts/2026/09/what-know-ahead-open-enrollment-avoid-health-insurance-scams"
+      ],
+      "shortForm": "$0. That's what it cost me to have AI explain my [mom's / my] Medicare \"changes for 2027\" letter in plain English. [what it caught: ___] Then I compared plans only on Medicare.gov. Scammers buy the top search ads. Open enrollment starts Oct 15. Who in your family needs help with this?",
+      "ocrNote": "Strong if the fill-in is real (you or a family member actually did it). Remind folks to black out names and ID numbers before pasting into AI. No plan picks, no medical advice.",
+      "pixelPrompt": "20 seconds holding the letter with ID numbers covered: \"This letter is [___] pages. I asked AI what actually changes for me. Here's what it said: [___].\"",
+      "replyTarget": "Reply under a verified senior-finance or consumer-protection account posting about open enrollment."
+    },
+    {
+      "id": "5",
+      "title": "85,774 garages just acted like one power plant",
+      "ocr": "OK",
+      "window": "Fri ~11 AM MT (start of the Friday block), or Thu ~6:30 PM MT if F1 holds for the actual departure.",
+      "growth": false,
+      "angle": "Regular California homeowners got paid to help their neighbors keep the lights on at dinnertime. Keep it about families and a check in the mail, not megawatts. Different from your Powershare post: this is home batteries helping the grid, not the car powering the house. Quote-post of a watched account (Sawyer Merritt).",
+      "bullets": [
+        "Tuesday evening, Oct 6, 85,774 California homes with Tesla Powerwalls sent 601 MW to the grid at peak demand. The whole Powerwall fleet peaked at a record 634 MW.",
+        "Participating batteries delivered 932 MWh over the event (Tesla VPP dashboard, per Drive Tesla).",
+        "Tesla says Powerwall owners in these California programs earn incentives for the energy they send back. Tesla does not publish a per-home payout, so no dollar figure.",
+        "Sawyer Merritt's post on it: 3,400+ likes, 117K views at pack time."
+      ],
+      "body": "85,774 homes.\n\nThat is how many California families just did the job of one big power plant. Tuesday at dinnertime, when everybody gets home and turns on the stove and the AC, their home batteries kicked in and sent power back to the grid. Enough to cover about 601 megawatts at the peak.\n\nNobody built a new plant. Nobody's lights went out. And the owners get paid for the power they sent back.\n\nThat is the part I like. The battery in your garage is not just for when the power goes out. It can earn its keep on a normal Tuesday.\n\n[would I sign up if Xcel offered something like this here in Grand Junction: ___]\n\nWould you let your battery help the neighbors for a check?\n\n(Do not claim Xcel has a program like this unless you have checked.)",
+      "links": [
+        "https://driveteslacanada.ca/news/tesla-california-vpp-record-601mw-85774-homes/",
+        "https://www.tesla.com/vpp/california"
+      ],
+      "shortForm": "85,774 California homes just did what one big power plant does. Their home batteries backed up the grid at dinnertime Tuesday, and the owners get paid for it. [would I sign up if Xcel offered this here: ___] Would you let your battery help the neighbors for a check?",
+      "ocrNote": "OK. Big verified quote target and a pocketbook question, but no dollar opener (no per-home payout published) and battery is a soft lane. Short quote form beats the long body here.",
+      "pixelPrompt": "Skip, or 10 seconds: \"If my battery could earn money while I sleep, I'd [___].\"",
+      "replyTarget": "Quote @SawyerMerritt https://x.com/SawyerMerritt/status/2107879086580224229 (watched account, high reach)."
+    }
+  ]
+}
