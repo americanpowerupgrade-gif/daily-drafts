@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-09",
+  "label": "FRAMEWORK - rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "1",
+      "title": "Your Model 3 or Y can now keep the lights on",
+      "ocr": "Strong",
+      "window": "Fri ~noon MT primary",
+      "growth": true,
+      "angle": "First-hand owner take on Tesla's Powershare home backup coming to Model 3/Y. You own a Tesla and solar; say what it means for a house in Grand Junction.",
+      "bullets": [
+        "Tesla: Model 3 and Y ordered after Oct 1, 2026 get Powershare Home Backup (car powers the house in an outage).",
+        "Tesla says 2+ days for an average home (~30 kWh/day).",
+        "Home backup only for now; it can't send power to the grid yet.",
+        "Ask followers: would this change your generator plans?"
+      ],
+      "body": "The car in my driveway just turned into a backup generator. Sort of.\n\nTesla says Model 3 and Model Y ordered after October 1 can power your house during an outage. They figure two-plus days for an average home.\n\nNo gas can. No pull cord. No noise at 2 AM.\n\nFor older folks on oxygen, a fridge full of insulin, or just a freezer full of elk, that matters. [Your take: would you use it? Does your Model Y qualify?]\n\nOne catch: it is home backup only right now. The car can't sell power back to the grid yet.\n\nWho here is ditching the generator?",
+      "links": [
+        "https://pv-magazine-usa.com/2026/10/08/teslas-best-selling-vehicles-can-now-send-power-to-your-home-but-the-real-revolution-is-yet-to-come/"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "2",
+      "title": "85,774 homes just helped hold up California's grid",
+      "ocr": "Strong",
+      "window": "Fri ~noon MT or 8-10 PM surge",
+      "growth": true,
+      "angle": "Quote-post Tesla Energy's record. Plain words: regular homes acting like a power plant, and getting paid.",
+      "bullets": [
+        "85,774 Powerwall homes sent 601 MW to the grid Tuesday evening (Tesla Energy dashboard).",
+        "About 7 kW per house at peak.",
+        "Owners get paid through California programs; Tesla paid $9.9M to VPP participants in 2024.",
+        "Record broke the old one in under a month."
+      ],
+      "body": "85,774 regular homes just did the job of a power plant.\n\nTuesday evening, California Powerwall owners sent 601 megawatts back to the grid at the same time. That's a new record, and it beat the last one in less than a month.\n\nNobody built a new plant. Nobody ran a smokestack. Batteries in garages did it, and the owners get paid for it.\n\n[Your take: what would you do with a check from your battery? Do we have anything like this on the Western Slope?]\n\nThis is how the grid gets stronger without your bill going up.",
+      "links": [
+        "https://teslanorth.com/2026/10/08/powerwall-600mw-record/"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "3",
+      "title": "1 in 3 new solar homes now get a battery",
+      "ocr": "OK",
+      "window": "Fri ~noon MT (alt to #2, don't twin same day)",
+      "growth": false,
+      "angle": "Solar plus battery is becoming normal. Tie to your own solar and the Powerwall as your next chapter.",
+      "bullets": [
+        "Berkeley Lab: 37% of new 2025 home solar systems included a battery, up from 25% in 2024.",
+        "Battery stores midday sun for the expensive evening hours.",
+        "Many places also pay battery owners during grid events."
+      ],
+      "body": "Solar used to mean panels. Now more than 1 in 3 new solar homes add a battery too.\n\nBerkeley Lab looked at about 450,000 systems installed last year. 37% came with a battery, up from 25% the year before.\n\nWhy? The sun shines at noon. Families use the most power at suppertime. A battery saves the cheap noon power for the pricey evening.\n\n[Your take: I got solar at 60. Is a battery my next step? What are folks paying?]\n\nIf you're pricing solar, ask about a battery from day one.",
+      "links": [
+        "https://www.solar.com/learn/batteries-are-becoming-standard-with-solar-and-were-all-benefitting-from-it/"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "4",
+      "title": "An AI that calls Mom every morning",
+      "ocr": "Strong",
+      "window": "Fri 8-10 PM surge (family audience)",
+      "growth": true,
+      "angle": "AI for the masses: a real program helping lonely older people. Not scary, just kind.",
+      "bullets": [
+        "New York's Office for the Aging extended its ElliQ AI companion program.",
+        "Users talk to it ~48 times a day; 94% say they feel less lonely (program data).",
+        "It checks in, nudges walks, reminds them to call family."
+      ],
+      "body": "The scariest thing about getting older isn't AI. It's being alone.\n\nNew York State has been giving older folks a small AI companion called ElliQ. It says good morning, asks how they slept, reminds them to take a walk or call their daughter.\n\nThe state's numbers: people talk to it about 48 times a day, and 94% say they feel less lonely.\n\nIt doesn't replace family. It fills the quiet hours in between.\n\n[Your take: would your parents use this? Would you?]",
+      "links": [
+        "https://www.einpresswire.com/article/948238132/nysofa-extends-partnership-to-provide-elliq-ai-companion-program"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "5",
+      "title": "Staying home longer without cameras in every room",
+      "ocr": "OK",
+      "window": "Sat/backup slot",
+      "growth": false,
+      "angle": "AI keeping older adults independent while respecting privacy. Answers the 'Big Brother' fear head-on.",
+      "bullets": [
+        "Nottingham Trent University built a low-cost system using radar, heat sensors and smart plugs, with AI to spot falls or emergencies.",
+        "No cameras, no wearables.",
+        "Goal: help older people stay in their own homes longer."
+      ],
+      "body": "Most of us want to grow old in our own house. Most of us also don't want a camera in the bathroom.\n\nResearchers in England built a cheap setup that skips the cameras. It uses heat sensors, a little radar and smart plugs. AI watches the patterns: did the coffee pot come on, is someone moving around? If something looks wrong, like a fall, it alerts family.\n\nThat's AI working for us, not watching us.\n\n[Your take: would you put this in a parent's home? Your own?]",
+      "links": [
+        "https://www.news-medical.net/news/20261008/AI-powered-home-monitoring-tracks-older-adultse28099-health-while-protecting-privacy.aspx"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    }
+  ]
+}
