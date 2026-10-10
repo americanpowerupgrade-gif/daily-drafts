@@ -1,0 +1,112 @@
+{
+  "date": "2026-10-10",
+  "label": "FRAMEWORK - rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "1",
+      "title": "Weekends are the cheap hours (Xcel CO TOU)",
+      "ocr": "Strong",
+      "window": "Today Sat ~4 PM MT (3-5 PM cell).",
+      "growth": true,
+      "angle": "All weekend is off-peak on Xcel Colorado. Charge Saturday, pay about a third.",
+      "bullets": [
+        "Winter TOU (Oct 1-May 31) on-peak 18.331 c/kWh weekdays 5-9 PM",
+        "off-peak 6.792 c",
+        "weekends and holidays all off-peak",
+        "$7.10/mo service charge plus riders",
+        "no separate EV rate.",
+        "Pixel: Phone on the Tesla app charge-schedule screen: \"Here's the one setting that saves me money.\"",
+        "Target: a verified Colorado Tesla owner posting charging costs."
+      ],
+      "body": "6.8 cents a kWh. That's what Xcel charges me all weekend long, any hour of the day. My last full charge cost me [$___]. Same charge on a weekday between 5 and 9 PM would run at 18.3 cents, almost three times as much. So my Tesla eats on Saturdays and Sundays, and I set the schedule once and forgot about it. Nobody told me this when I got the car. If you're on Xcel in Colorado, check your plan tonight. Do you charge by the clock or just plug in when you get home?",
+      "links": [
+        "https://evcharginghelp.com/utilities/public-service-of-colorado"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "2",
+      "title": "The fake \"FBI\" that offers your money back",
+      "ocr": "Strong",
+      "window": "Sun 10 AM MT or Tue 11 AM.",
+      "growth": true,
+      "angle": "AI scam aimed at people who already got scammed once.",
+      "bullets": [
+        "FBI data: 60+ fraud complaints up nearly 60%, losses over $7.7B",
+        "fake FBI/IC3 \"recovery agents,\" some with deepfake video",
+        "real IC3 never calls first or charges a fee",
+        "Elder Fraud Hotline 1-833-372-8311.",
+        "Pixel: 20-sec face video: \"If someone calls offering to recover your money, hang up. Here's why.\"",
+        "Target: a verified consumer-protection or AARP-style account."
+      ],
+      "body": "$7.7 billion. That's what Americans over 60 lost to fraud last year. The newest trick is nasty. After you've been scammed once, somebody calls claiming to be the FBI and offers to get your money back, for a fee. Some even show up on video looking official, thanks to AI. The real FBI never calls you first and never charges to recover anything. If it happens, hang up and call the Elder Fraud Hotline at 1-833-372-8311. I'm sending this to my own family. Would you share it with yours?",
+      "links": [
+        "https://www.avasc.org/briefings/ai-voice-clones-fake-fbi-recovery-agents-toll-texts-2026-10-07",
+        "https://wrco.com/news/2026/10/07/wisconsin-senior-advocates-a-familiar-voice-can-hide-a-costly-scam"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "3",
+      "title": "Free charging is ending on the Front Range",
+      "ocr": "Strong",
+      "window": "Sun 9 PM or Mon 1 PM MT.",
+      "growth": false,
+      "angle": "$0.35 public vs about $0.11 at home. Home charging is the real deal.",
+      "bullets": [
+        "Westminster ended free charging: $0.35/kWh + $1.50 session + $2/hr idle",
+        "Adams County ended 12 years free in August ($0.15/kWh)",
+        "home runs about $0.11/kWh.",
+        "Pixel: Standing at the home charger: \"This is my cheapest gas station.\"",
+        "Target: a Colorado EV group or verified EV-cost creator."
+      ],
+      "body": "$0.35 a kWh plus a $1.50 fee just to plug in. That's Westminster now that free charging is over, and Adams County did the same thing in August. At home I pay [what I paid per kWh: ___]. That gap is the whole reason EVs save families money. Public plugs are for road trips. Your driveway is for daily driving. If you rent or don't have a garage, this hits harder, and that's worth talking about. Did your town just start charging for chargers?",
+      "links": [
+        "https://hoodline.com/2026/10/westminster-pulls-plug-on-free-ev-charging-adds-fees-higher-than-adams-county/"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "4",
+      "title": "No 30% credit, solar can still beat the utility",
+      "ocr": "OK",
+      "window": "Wed ~8-11 AM MT.",
+      "growth": false,
+      "angle": "Leases and PPAs priced under utility rates in every tracked state.",
+      "bullets": [
+        "EnergySage Jan-Jun 2026: typical PPA below utility rates in every qualifying state",
+        "CA 59% below, IL 55% below",
+        "prepaid PPAs 57% cheaper than cash, prepaid leases 39%",
+        "70% of installers say buyers want lower bills.",
+        "Pixel: Point at the roof panels, then the Enlighten app.",
+        "Target: @Enphase."
+      ],
+      "body": "The 30% solar tax credit is gone. A lot of folks figured that killed home solar. It didn't. EnergySage looked at real quotes this year and a lease or power purchase deal came in under the power company's rate in every state they tracked. California was 59% under. My bill went from [$___] to [$___]. Owning still has upside, but if cash up front scared you off, the math changed. Lease or own, which would you pick?",
+      "links": [
+        "https://www.solarpowerworldonline.com/2026/09/latest-energysage-report-shows-more-homeowners-going-solar-despite-loss-of-itc/"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "5",
+      "title": "Walmart passes 1,000 fast-charging stalls",
+      "ocr": "OK",
+      "window": "Mon 1 PM MT.",
+      "growth": false,
+      "angle": "Charge while you shop. Network doubled in about four months.",
+      "bullets": [
+        "1,010 stalls at 120 stores (Oct 9)",
+        "up to 400 kW",
+        "newest in WV, IL, Utah",
+        "maybe 200 locations by spring 2027. Monument 100th already posted, frame as milestone.",
+        "Pixel: optional, none needed.",
+        "Target: @TheArkeTraveler milestone post."
+      ],
+      "body": "1,010 fast chargers at Walmart now. That number doubled in about four months. This is how normal people go electric: you grab groceries, the car tops off, and nobody has to plan a trip around a charger. The more of these land in small towns, the less range worry anybody has. I'd want one at [where: ___]. Would you charge at Walmart?",
+      "links": [
+        "https://evchargingstations.com/chargingnews/walmart-dc-fast-charging-1000/"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    }
+  ]
+}
