@@ -17,7 +17,7 @@
         "Pixel: hold up the Xcel app, \"here's what electric everything costs me.\"",
         "Reply target: @alexneil thread, or Sawyer Merritt's next energy post."
       ],
-      "body": "",
+      "body": "$[last Xcel bill: ___] for a house where almost everything runs on electricity. Two of us work from home all day. There's a big gaming computer, a pool pump, and the Tesla charging in the garage. When I do the math it comes out to about [___] cents a kWh. The national average is around 17. I keep hearing electric everything is expensive. That's not what my bill says. Is your house still burning gas for anything?",
       "links": [
         "https://x.com/UpgradeAmerican/status/2109149591157584064",
         "https://nrgcleanpower.com/learning-center/solar-battery-cost/"
@@ -39,7 +39,7 @@
         "Pixel: 20 sec to camera, \"what I let AI help with, and the one thing I never type in.\"",
         "Reply target: DogeDesigner or a Grok post on everyday AI use."
       ],
-      "body": "",
+      "body": "$0. That's what this rule costs. I use AI every day for [what I use it for: ___]. It's saved me hours. But it never gets my account numbers, my Social, or my passwords. Ever. A new survey says 70% of older folks aren't sure what's safe to tell a chatbot. Fair. Nobody explained it. So here's mine: help me think, yes. Hold my keys, no. What's your rule?",
       "links": [
         "https://www.erienewsnow.com/news/washington-dc/ai-driven-scams-are-targeting-seniors-experts-share-tips-on-staying-protected/article_44e545d6-14cd-5439-9735-0478906d5931.html"
       ],
@@ -56,7 +56,7 @@
         "Pixel: photo of a recent Supercharger stop.",
         "Reply target: Sawyer Merritt if he posts the WSJ story."
       ],
-      "body": "",
+      "body": "$[last I-70 charge: ___]. The headlines say EV sales got cut in half. Meanwhile the chargers keep going in, with more stalls per stop and faster plugs. [what my last stop looked like: ___]. If you're on the fence about a used EV, the road trip part is the thing that keeps improving. Have your charging stops gotten better this year?",
       "links": [
         "https://www.wsj.com/business/autos/americas-ev-downturn-hides-a-silver-lining-charging-is-quietly-getting-better-8e44ef4d"
       ],
@@ -77,7 +77,7 @@
         "Pixel: 15 sec of the clean panels.",
         "Reply target: Enphase next homeowner post."
       ],
-      "body": "",
+      "body": "$[cleaning cost: ___] to get my solar panels washed. Filtered water and a vacuum, no soap, done in [___]. Out here the dust builds up fast. [photo: clean panels]. Now the real test: did production go up? Before [___] kWh, after [___] kWh. Do you clean yours or let the rain handle it?",
       "links": [
         "https://x.com/UpgradeAmerican/status/2109111064755667106"
       ],
@@ -97,22 +97,10 @@
         "Pixel: screenshot of his Tesla charging history.",
         "Reply target: Tesla Charging or Sawyer Merritt."
       ],
-      "body": "",
+      "body": "About $0.80 a kWh. That's walk-up fast charging at Ionity in Europe. My last Supercharger stop in [town] was [___]. And at home it's about [___]. We complain about prices here, but most of my miles cost a fraction of that. Would you road trip an EV at European prices?",
       "links": [
         "https://evmagz.com/ionity-installs-centralised-birdhouse-payment-terminals-at-selected-charging-parks/"
       ],
-      "label": "FRAMEWORK / rewrite-before-post"
-    },
-    {
-      "id": "6",
-      "title": "Growth bets",
-      "ocr": "",
-      "window": "",
-      "growth": false,
-      "angle": "",
-      "bullets": [],
-      "body": "",
-      "links": [],
       "label": "FRAMEWORK / rewrite-before-post"
     }
   ]
