@@ -1,0 +1,119 @@
+{
+  "date": "2026-10-11",
+  "label": "FRAMEWORK - rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "1",
+      "title": "Electric everything on about 10 cents a kWh (AP1, MAIN)",
+      "ocr": "Strong",
+      "window": "Sun 10 AM MT.",
+      "growth": true,
+      "angle": "whole house plus EV plus pool pump, still cheap. Turns last night's @alexneil reply into its own post.",
+      "bullets": [
+        "Brian's reply said ~10c/kWh with Xcel (verify on a real bill)",
+        "two people work from home",
+        "big GPU, pool pump, Tesla",
+        "US average residential is about 17c/kWh (EIA via NRG).",
+        "Pixel: hold up the Xcel app, \"here's what electric everything costs me.\"",
+        "Reply target: @alexneil thread, or Sawyer Merritt's next energy post."
+      ],
+      "body": "",
+      "links": [
+        "https://x.com/UpgradeAmerican/status/2109149591157584064",
+        "https://nrgcleanpower.com/learning-center/solar-battery-cost/"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "2",
+      "title": "My one AI rule (AP6, AI for normal people)",
+      "ocr": "Strong for 55+ saves and shares",
+      "window": "Mon 1 PM MT (or Sun 9 PM).",
+      "growth": true,
+      "angle": "AI is handy, just never hand it account numbers. Calm, not scary.",
+      "bullets": [
+        "AARP Senior Planet survey: 7% of older adults feel very confident protecting info online",
+        "70% unsure what's safe to share with AI",
+        "experts: no detailed financial or health info in chatbots",
+        "use a password manager and two-step login.",
+        "Pixel: 20 sec to camera, \"what I let AI help with, and the one thing I never type in.\"",
+        "Reply target: DogeDesigner or a Grok post on everyday AI use."
+      ],
+      "body": "",
+      "links": [
+        "https://www.erienewsnow.com/news/washington-dc/ai-driven-scams-are-targeting-seniors-experts-share-tips-on-staying-protected/article_44e545d6-14cd-5439-9735-0478906d5931.html"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "3",
+      "title": "EV sales halved, chargers kept coming (AP3)",
+      "ocr": "OK to Strong (Strong with his stop photo)",
+      "window": "Mon 11 AM to 1 PM MT.",
+      "growth": true,
+      "angle": "road trips keep getting easier even in a slump.",
+      "bullets": [
+        "Pixel: photo of a recent Supercharger stop.",
+        "Reply target: Sawyer Merritt if he posts the WSJ story."
+      ],
+      "body": "",
+      "links": [
+        "https://www.wsj.com/business/autos/americas-ev-downturn-hides-a-silver-lining-charging-is-quietly-getting-better-8e44ef4d"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "4",
+      "title": "I pay someone to wash my solar panels (AP2)",
+      "ocr": "Strong with before/after numbers, OK without",
+      "window": "Tue 11 AM MT (after a few days of Enlighten data).",
+      "growth": true,
+      "angle": "the boring maintenance nobody tells you about.",
+      "bullets": [
+        "service uses filtered water and a vacuum",
+        "panels spotless for a couple days",
+        "Grand Junction dust",
+        "Enlighten can show before/after.",
+        "Pixel: 15 sec of the clean panels.",
+        "Reply target: Enphase next homeowner post."
+      ],
+      "body": "",
+      "links": [
+        "https://x.com/UpgradeAmerican/status/2109111064755667106"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "5",
+      "title": "Europe pays about 80 cents a kWh to fast charge (AP4)",
+      "ocr": "OK",
+      "window": "Sun 9 PM MT or Wed 11 AM.",
+      "growth": false,
+      "angle": "US fast charging is a deal by comparison.",
+      "bullets": [
+        "Ionity walk-up rate EUR 0.69/kWh (evmagz Oct 10)",
+        "adding card terminals at 464 sites in 22 countries",
+        "check euro conversion the day he posts.",
+        "Pixel: screenshot of his Tesla charging history.",
+        "Reply target: Tesla Charging or Sawyer Merritt."
+      ],
+      "body": "",
+      "links": [
+        "https://evmagz.com/ionity-installs-centralised-birdhouse-payment-terminals-at-selected-charging-parks/"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "6",
+      "title": "Growth bets",
+      "ocr": "",
+      "window": "",
+      "growth": false,
+      "angle": "",
+      "bullets": [],
+      "body": "",
+      "links": [],
+      "label": "FRAMEWORK / rewrite-before-post"
+    }
+  ]
+}
