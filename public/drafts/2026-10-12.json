@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-12",
+  "label": "FRAMEWORK - rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "1",
+      "title": "What winter does to my charging bill (AP1, MAIN)",
+      "ocr": "OK (Strong with January kWh)",
+      "window": "Mon 1 PM MT (main), or Tue 11 AM.",
+      "growth": true,
+      "angle": "cold weather raises the bill a little; preheat while plugged in. Cost angle, not a range repeat.",
+      "bullets": [
+        "DOE/EPA: at 20F with heater on, range drops ~41% mixed; heater off ~12% (Level Two Club).",
+        "US average rate: 1,000 miles/mo ~$53 mild weather to ~$90 at 20F with heat; 3-month cold snap adds a bit over $110.",
+        "Colorado ~17c: 1,000 miles ~$53/mo before winter (NeoCharge).",
+        "Biggest fix: preheat cabin and battery while plugged in so the wall pays.",
+        "Pixel: garage, show scheduled preconditioning: \"Two taps the night before.\"",
+        "Reply target: big EV owner account with first-frost range screenshots, or Sawyer Merritt winter tip."
+      ],
+      "body": "$53 a month to drive 1,000 miles in my EV when the weather is nice. Winter can push that toward $90 if you heat the cabin from the pack.\n\nLast January my Tesla app said [kWh used in January: ___]. That is the number that matters, not a scary range screenshot.\n\nMy cold-morning trick is simple. I schedule preconditioning the night before so the car warms up in the garage while it is still plugged in. The wall pays for the heat. The battery keeps its juice for the drive.\n\nIf you skip that and crank heat on a cold pack, you burn miles twice: once for the cabin, once for the road.\n\nWhat is your cold-morning trick? Preheat, heated seats only, or just tough it out?",
+      "links": [
+        "https://leveltwoclub.com/cost/cost-to-charge-an-ev-in-winter",
+        "https://getneocharge.com/a/blog/how-much-cost-charge-ev-at-home-2026"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "2",
+      "title": "A new electric 2CV for about 15,000 euros. Why can't we get that here? (AP2)",
+      "ocr": "OK to Strong",
+      "window": "Mon 11 AM MT (Paris show live), or Tue 11 AM.",
+      "growth": false,
+      "angle": "Europe gets a cheap simple city EV; ask if audience would buy a basic errand EV. Pairs with LIVE Paris quote without repeating it.",
+      "bullets": [
+        "Citroen 2CV concept at Paris Motor Show (Autocar, Oct 11); production due 2028.",
+        "Target ~EUR 15,000 (~GBP 12,750). Convert to $ the day he posts.",
+        "~3.76 m long, ~1 ton, small LFP likely; e-C3 Urban Range ~130 miles from 30 kWh.",
+        "Canvas roll-back roof; \"a car for daily life.\"",
+        "Do not re-list cheapest US EVs as a shopping list (already LIVE Oct 5).",
+        "Pixel optional: quote EVwire walkaround with \"This is what a $___ EV looks like.\"",
+        "Quote target: @TheEVuniverse or Sawyer Merritt Paris recap."
+      ],
+      "body": "About $[convert EUR 15,000 today: ___]. That is Citroen's target for a new electric 2CV.\n\nSmall. Simple. About 130 miles. Canvas roof. Built for errands and people who do not need a three-row SUV to get groceries.\n\nFor errands around [my town: ___] I would [buy it / pass]. Not because I hate big cars. Because half the trips I take do not need one.\n\nEurope keeps getting these basic little EVs. We keep getting the expensive ones first.\n\nWould you drive a basic little EV if it cost about half a new pickup's payment?",
+      "links": [
+        "https://www.autocar.co.uk/car-news/electric-cars/citro%C3%ABn-2cv-back-new-concept-previews-%C2%A313k-ev-2028"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "3",
+      "title": "If anyone tells you to pay with a barcode, hang up (AP6, GROWTH)",
+      "ocr": "Strong",
+      "window": "Mon 11 AM MT, or Tue 11 AM.",
+      "growth": true,
+      "angle": "newest gift-card scam twist with cloned kid voice; one calm rule. Different from Oct 6 grandson-voice and Oct 10 fake-FBI posts.",
+      "bullets": [
+        "SSA OIG: caller claims to be police/federal agent; child in jail; may hear cloned voice.",
+        "Then barcode/QR to load money at a store and read the code back.",
+        "No agency or police takes payment by barcode/QR. Hang up; call official site number.",
+        "Report: ssa.gov/scam, 1-800-269-0271, reportfraud.ftc.gov.",
+        "Stop Scams Together: >70% of seniors get a scam attempt daily; avg loss $38,000.",
+        "Pixel: 20 sec to camera: \"If anyone asks you to pay with a barcode, hang up.\"",
+        "Reply target: DogeDesigner or big scam-warning account."
+      ],
+      "body": "$38,000. That is the average loss when an older person gets scammed.\n\nThe new trick is mean. You get a call that sounds like your kid. Or like a cop. Then they text a barcode or QR code and tell you to load money onto it at a big store and read the code back.\n\nHere is the only rule that matters. No cop. No agency. Nobody from the government takes payment by barcode or QR code. Ever.\n\nHang up. Call the real number from the official website, not the number they just gave you.\n\nMy family's rule is [our rule: ___]. What is yours? Send this to someone who needs it.",
+      "links": [
+        "https://content.govdelivery.com/accounts/USSSA/bulletins/42d66cb",
+        "https://www.easttexastoday.com/kgas/seeing-is-no-longer-believing-new-campaign-warns-of-ai-powered-scams/article_d43c8f3c-7547-4039-a17b-c4accd2de10d.html"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "4",
+      "title": "$70,000 solar quote for a job that should be about $27,000 (AP4)",
+      "ocr": "Strong",
+      "window": "Wed 1-2 PM MT, or Mon 11 AM if F2 waits.",
+      "growth": false,
+      "angle": "solar pays off only with an honest quote; bring his own system cost.",
+      "bullets": [
+        "NW Indiana homeowner, ~2,100 sq ft, bill $400-$650/mo, quotes $70k-$90k (The Cool Down, Oct 10).",
+        "29 panels ~10.3 kW SolarEdge; EnergySage avg 10 kW Indiana ~$27k installed.",
+        "Commenters: priced off the power bill, not the work. Get more quotes; energy audit first.",
+        "EnergySage: fair-price Indiana system still pays off; ~$17k more saved over 25 years.",
+        "Pixel: 20 sec in front of panels: \"Here's what I paid, here's the one question to ask.\"",
+        "Reply target: Enphase next homeowner post."
+      ],
+      "body": "$70,000 for a 10 kW solar system. Fair price is closer to $27,000.\n\nSame size job. Different honesty.\n\nAn Indiana homeowner with a $400 to $650 power bill got three quotes at $70k to $90k. EnergySage says a normal 10 kW install there runs about $27k.\n\nMy system cost [what I paid: ___] for [kW: ___]. That is the number I tell every neighbor who asks.\n\nGet three quotes. Ask the price per watt. Do not let anyone price the job off your fear of the bill.\n\nWhat were you quoted?",
+      "links": [
+        "https://www.thecooldown.com/green-home/indiana-homeowner-solar-quotes-high-costs/"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "5",
+      "title": "Workers think there's a 1-in-5 chance AI takes their job. The layoffs haven't shown up (AP7)",
+      "ocr": "OK to Strong",
+      "window": "Tue 11 AM MT, or Mon 1 PM if F1 slips.",
+      "growth": false,
+      "angle": "fear is real, data is calmer. Make AI less scary; plain words.",
+      "bullets": [
+        "Stanford SIEPR/NBER: avg worker puts AI job-loss chance in 2 years at ~20%; AI users ~25%.",
+        "No statistically significant rise in layoffs or drop in postings in most-exposed jobs so far.",
+        "Fear highest when AI is core of the work (e.g. programming).",
+        "Caveat: entry-level hiring pressure and reshuffling are real (Biz Journals, July 2026).",
+        "Pixel: 20 sec: \"I'm not a tech guy. Here's the one thing AI does for me every week.\"",
+        "Quote target: big account resharing Musk AI-jobs clip; calm line + 20%."
+      ],
+      "body": "About 20%. That is the chance the average worker thinks AI takes their job in the next two years.\n\nPeople who already use AI at work put it even higher, about 25%.\n\nThe study looked for the layoffs. They have not shown up in a clear way yet. Job postings in the most exposed roles have not crashed either.\n\nThat does not mean nothing is changing. Entry-level hiring is getting harder in some fields. Work is reshuffling. Fear is real.\n\nI use AI for [what I use it for: ___] and it made my day easier, not shorter. I am not a tech guy. I just ask it to explain things and save me time.\n\nAre you worried, or are you using it?",
+      "links": [
+        "https://siepr.stanford.edu/publications/working-paper/job-loss-fears-first-years-generative-artificial-intelligence",
+        "https://www.bizjournals.com/bizjournals/news/2026/07/01/ai-doesnt-mean-layoffs-at-most-businesses.html"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    }
+  ]
+}
