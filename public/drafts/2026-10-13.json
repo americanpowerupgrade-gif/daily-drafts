@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-13",
+  "label": "FRAMEWORK - rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "1",
+      "title": "$4.43 a gallon in Grand Junction. My trip scorecard starts tomorrow (AP1, MAIN)",
+      "ocr": "Strong",
+      "window": "Tue 11 AM MT (hottest slot this week).",
+      "growth": true,
+      "angle": "Turn the trip into a running scoreboard: charge cost vs gas at today's pump. Not another heading-out post.",
+      "bullets": [
+        "AAA Oct 13: Grand Junction regular $4.43/gal (year ago $3.18). Colorado avg $4.25, national $4.34.",
+        "AAA Oct 8: first time national avg stayed above $4 this late; Sept averaged a record $4.33.",
+        "Xcel Colorado winter residential ~16c/kWh with riders at 1,000 kWh (use his real bill number).",
+        "Example: 25 mpg car, 1,000 miles = 40 gal ~$177 at $4.43. ~280 kWh/1,000 mi at home ~$45; public DC fast in between.",
+        "Pixel: 15 sec at GJ gas station sign with Tesla in frame: \"$4.43 here. Let's see what the same trip costs me in electricity.\"",
+        "Premium reply/quote: Sawyer Merritt next Supercharger/charging-stat post. One line: \"Starting a real-world test tomorrow, Colorado to Kentucky. I'll post every receipt.\""
+      ],
+      "body": "$4.43 a gallon in Grand Junction this morning. A year ago it was $3.18.\n\nTomorrow I drive my Tesla from Western Colorado to Kentucky, and I'm keeping score the whole way.\n\nEvery stop I'll post three things: the town, the price per kWh, and what the session cost me. No cherry picking. Some stops will cost more than charging at home, and I'll show those too.\n\nAt home I pay about [my Xcel rate: ___] a kWh. For a gas car getting 25 mpg, 1,000 miles at today's price is about $177 in gas. My guess is I'll do the whole trip for [my guess: ___].\n\nAt the end I'll post the real total next to what a gas car would have paid.\n\nWhat else should I track? Food stops, wait times, how long I sat at each charger?",
+      "links": [
+        "https://gasprices.aaa.com/?state=CO",
+        "https://rategrid.dev/rates/public-service-of-colorado/r"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "2",
+      "title": "4 fast chargers, a burrito kitchen and a dog park, right off I-70 in Missouri (AP3)",
+      "ocr": "Strong",
+      "window": "Tue 7 PM MT (night before departure). If F1 slips, Tue 3-4 PM soft.",
+      "growth": true,
+      "angle": "Night-before crowdsource: where should I stop? Charging stops becoming real travel centers for older travelers and families.",
+      "bullets": [
+        "Little General Tesla Supercharger for Business at Columbia MO travel center off I-70 (EVwire, Jul 13, 2026).",
+        "Four V4 stalls up to 325 kW, 24/7, Magic Dock for non-Tesla EVs.",
+        "On site: kitchen (burritos, BBQ, burgers, pizza), coffee, ice cream, gift shop, playground, dog park.",
+        "Host sets local pricing (Supercharger for Business); check app before plugging in.",
+        "Tesla passed 85,000 Supercharger stalls at 9,000+ sites (Tesla Charging, Oct 2).",
+        "Pixel later on trip: 15 sec at follower-picked stop: \"You told me to stop here. Here's what it cost.\"",
+        "Quote target: @TeslaCharging or EVwire (@TheEVuniverse) next Midwest site post."
+      ],
+      "body": "$[price per kWh in the app: ___] at a Supercharger with a burrito kitchen, an ice cream counter and a dog park. Right off I-70 in Columbia, Missouri.\n\nRemember when charging meant sitting behind a Walmart staring at your phone? Some of these stops are turning into real travel centers. Bathrooms, food, a place for the kids to run and the dog to stretch.\n\nI leave tomorrow, Colorado to Kentucky. I've got the car's route planner, but I trust you more than the map.\n\nOne heads up: some of these new sites are owned by the store, not Tesla, so the price can be different. I'll check the app before I plug in and tell you what I paid.\n\nWhere's your favorite place to charge between Denver and St. Louis? Best food, cleanest bathroom, wherever you'd send your parents.",
+      "links": [
+        "https://evwire.com/p/little-general-opens-tesla-supercharger-columbia-mo-travel-center"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "3",
+      "title": "Solar covers the whole house and the bill still says $10.32 (AP5)",
+      "ocr": "Strong",
+      "window": "Tue 3-4 PM MT (soft), or Wed 1-2 PM.",
+      "growth": true,
+      "angle": "Honest solar: panels wipe out energy charges, fixed connection fee stays. Calm, not utility-bashing. Different from Oct 6 Enlighten-vs-meter LIVE.",
+      "bullets": [
+        "Solar owner still owes $10.32 monthly connection fee + $2.30 card-pay fee (~22% on a $10 bill) (Reddit via The Cool Down, Oct 12).",
+        "Grid-on-demand explanation: like a subscription you don't always use.",
+        "Fixes: bank bill-pay, or prepay a few months so card fee hits less often.",
+        "Xcel Colorado residential: $7.10 monthly Service and Facility charge plus riders/fees/taxes.",
+        "Pixel: 20 sec holding bill (account covered): \"Here's the part solar fixed, and the part it can't.\"",
+        "Reply target: Enphase next homeowner savings post. One line: \"Love my system. Still worth telling people about the fixed charge so nobody feels misled.\""
+      ],
+      "body": "$10.32. That's what one solar owner still pays every month after making more power than the whole house uses.\n\nPlus $2.30 every time they pay with a card. On a ten dollar bill that's about 22% extra just to pay it.\n\nPeople get mad about this, and I get it. But here's the honest version. The fixed charge is for the wires, the meter, and the grid being there at night and on cloudy days. Solar wipes out the power part. It doesn't wipe out the connection.\n\nMy Xcel bill with solar this month was [total: ___]. [$___] of that is the fixed charge I'll pay no matter what.\n\nSo when a salesman tells you solar means a zero bill, ask him about the fixed charge. Solar cuts the bill. It doesn't erase it.\n\nWhat's the fixed charge on your bill?",
+      "links": [
+        "https://www.thecooldown.com/green-business/solar-homeowner-utility-charges-grid-access/",
+        "https://co.my.xcelenergy.com/s/billing-payment/residential-rates/time-of-use-pricing"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "4",
+      "title": "8 in 10 people over 50 have already used AI. Most say they're beginners (AP6)",
+      "ocr": "Strong",
+      "window": "Wed 8 AM MT (Wednesday's best slot). Or Tue 3-4 PM soft if F3 rolls.",
+      "growth": false,
+      "angle": "You're not behind; almost everyone your age is a beginner. One simple ask. Make AI less scary, no jargon.",
+      "bullets": [
+        "AARP survey adults 50+ (Jan 2026): 80% used some AI; 42% beginners, 28% intermediate, 8% advanced/expert; 23% never.",
+        "65% believe AI could help daily activities/independence; only 51% think benefits outweigh risks.",
+        "Wanted uses: translation 74%, home safety 71%, learning 67%, fraud detection and financial planning 66%.",
+        "Fewer than 1 in 5 would pay out of pocket; want it built into tools they already use.",
+        "Pixel: 20 sec on Pixel: \"Here's me asking my phone one question out loud. That's it, that's the whole trick.\"",
+        "Reply target: DogeDesigner or big Grok everyday-use clip. One line: \"This is the version older folks actually need.\""
+      ],
+      "body": "$0 extra. That's what most people over 50 want to pay for AI, and honestly, most of us already have it on the phone in our pocket.\n\nAARP asked. 8 in 10 people over 50 have already used AI in some way. Almost half call themselves beginners. Only about 8% say they're experts.\n\nSo if you feel behind, you're not. You're in the biggest group.\n\nI'm a beginner too. I mostly use it to [what I use it for: ___]. I just talk to it like a person. I don't type code. I don't read manuals.\n\nThe top things people my age want help with: translating, keeping the house safe, learning something new, and catching scams before they cost money. That's not scary. That's useful.\n\nWhat's one thing you wish AI could help you with? I'll try it and show you how.",
+      "links": [
+        "https://datastories.aarp.org/2026/navigating-the-world-of-ai/"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "5",
+      "title": "$1,196: what an electric-heat home is expected to pay this winter (AP4)",
+      "ocr": "OK (Strong with his January number)",
+      "window": "Wed 1-2 PM MT (or later free slot if trip stops take it).",
+      "growth": false,
+      "angle": "EIA winter bill forecast in plain words; West hit hardest. House heat, not the car.",
+      "bullets": [
+        "EIA 2026-27 Winter Fuels Outlook (Oct 6): electric-heat homes ~$1,196 Nov-Mar, up 4%. >40% of US homes heat with electricity.",
+        "West biggest electric-heat increase ~9% (colder winter expected after warm one).",
+        "Natural gas homes ~$640, down 9% nationally, up ~7% in West. Propane $1,246 down 3%. Heating oil $2,115 up 21%.",
+        "Bills lag wholesale prices due to rate-setting schedules.",
+        "Pixel optional: 15 sec at thermostat: \"Here's what I set it to and why.\"",
+        "Reply target: Fox Business or Bloomberg energy reporters on EIA outlook; one line for fixed-income households."
+      ],
+      "body": "$1,196. That's what the average home heated with electricity is expected to spend this winter, November through March. Up 4%.\n\nOut West it's worse. About 9% more, because they expect a colder winter than last year.\n\nIf you heat with natural gas, the national number is about $640, but out here that's going up too. Heating oil folks back East are looking at over $2,100.\n\nMy house runs on [heat pump / gas / ___]. Last January my bill was [___], and my solar covered [___].\n\nIf you're on a fixed income, this is the month to look at your thermostat schedule and your utility's budget billing, not January when the bill shows up.\n\nWhat heats your home, and what was last January's bill?",
+      "links": [
+        "https://www.eia.gov/pressroom/releases/press593.php",
+        "https://www.eia.gov/todayinenergy/detail.php?id=68264"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    }
+  ]
+}
