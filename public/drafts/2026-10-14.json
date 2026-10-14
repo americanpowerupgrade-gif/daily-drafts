@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-14",
+  "label": "FRAMEWORK - rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "1",
+      "title": "$[___] for my first charge of the trip. Here's what Tesla charges on average (AP1, MAIN / EV first-hand)",
+      "ocr": "Strong",
+      "window": "Wed 1-2 PM MT (or whenever stop 1 lands; Wed 10 AM soft).",
+      "growth": true,
+      "angle": "the first real receipt of the trip, measured against a brand-new national average, so followers can tell if he got a good deal. Starts the \"every stop, no cherry picking\" promise from Tuesday's scorecard post.",
+      "bullets": [
+        "Paren Q3 2026 US fast-charging report (via Electrek, Oct 13): Tesla's average Supercharger price for non-members rose 15% in a year to 56.9 cents per kWh; member price rose 9% to 39.6 cents.",
+        "National average across all fast chargers is 54 cents per kWh, up 2.7%. Non-Tesla networks have held near 53.3 cents for five quarters.",
+        "The US now has 80,964 public fast-charging ports at 14,614 locations. 4,106 ports were added July through September, and Tesla added the most (1,287).",
+        "His fill-ins: town, cents per kWh, kWh added, session total, minutes plugged in.",
+        "Pixel: 10 sec at the stall, parked: \"Stop one. [price] a kilowatt-hour. I'll show you every one of these all the way to Kentucky.\"",
+        "Premium reply/quote: Sawyer Merritt or Electrek if either posts the Paren Q3 numbers. One line: \"Testing this live on I-70 today. First stop was [price].\""
+      ],
+      "body": "SHORT VERSION:\n$[session total] to charge in [town] this morning. [___] cents a kWh.\n\nThe national Tesla average just hit 39.6 cents for members and 56.9 for everyone else.\n\nStop 1 of the Kentucky trip. [photo: the car at the stall]\n\nGood deal or not?\n\nLONGER VERSION:\nFirst stop of the trip: [town], [___] cents a kWh, $[___] for [___] kWh. We were plugged in [___] minutes, which was about one bathroom break and a cup of coffee.\n\nI said I'd post every stop, good or bad, so here's how to read it. A brand-new report says Tesla's average price went up 15% this year for people without a membership, to 56.9 cents. Members average 39.6. All fast chargers across the country average 54 cents.\n\nFor the same miles, a 25 mpg car would have burned about [miles / 25] gallons. At [$___] a gallon here, that's about $[___].\n\n[Honest line if it beat or lost to home charging: At home I pay about [my Xcel rate: ___], so this cost me [more / less] than my garage.]\n\nWhat did you pay at your last fast charge?",
+      "links": [
+        "https://electrek.co/2026/10/13/tesla-still-leads-us-supercharger-growth-but-its-raised-prices/"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "2",
+      "title": "[__]% battery at 11,158 feet. Then the downhill gave some back (AP3, EV first-hand / Tesla life)",
+      "ocr": "Strong",
+      "window": "Wed 1-2 PM MT, or tonight if F1 takes the afternoon slot.",
+      "growth": false,
+      "angle": "the question every Western EV shopper asks: what do mountains do to range? He drives it today. His own screen beats any article, and it answers a real fear for older drivers in plain words.",
+      "bullets": [
+        "Grand Junction sits around 4,600 feet. I-70 tops out at the Eisenhower-Johnson Memorial Tunnel, 11,158 feet, the highest point on the Interstate system. Denver is about 5,280.",
+        "German auto club ADAC tested EVs on a steep mountain route: a Tesla Model Y got back about 40% of the energy it used climbing on the way down through regenerative braking. Other cars ranged 35% to 50%.",
+        "Regen is weaker when the battery is nearly full, so leaving at 100% and heading straight downhill wastes some of it.",
+        "His fill-ins: battery % leaving, % at the tunnel, % at the bottom (energy graph screen).",
+        "Rewrite note: the battery % is the opener today. Swap to dollars if he wants: \"That climb cost me about $[__] in electricity.\"",
+        "Pixel: passenger films the energy graph, then the view out the window: \"Up here it's eating battery. Watch what happens on the way down.\"",
+        "Premium reply/quote: Tesla Charging or a big Colorado EV account posting I-70 mountain or winter travel. One line with his real percentages."
+      ],
+      "body": "SHORT VERSION:\n[__]% leaving [town]. [__]% at the Eisenhower Tunnel, 11,158 feet. Then the car put [__]% back coming down to Denver.\n\nMountains cost you. Downhill pays a little back.\n\n[photo: energy graph]\n\nAnyone else watch this happen on I-70?\n\nLONGER VERSION:\nPeople ask me all the time if an EV can handle the mountains. Today I found out for real.\n\nWe left [town] at [__]%. By the top of the Eisenhower Tunnel, 11,158 feet, the highest point on any Interstate, we were at [__]%. The climb ate a lot.\n\nThen on the way down the car turned the brakes into a generator and put [__]% back. A German auto club tested this and found a Model Y gets back about 40% of what it spent climbing.\n\nA gas car burns extra going up and gets nothing back going down.\n\nIf you're older and nervous about mountain trips in an EV, my take is simple: plan one extra stop and you're fine.\n\nWhat's the steepest drive you've done in yours?",
+      "links": [
+        "https://www.adac.de/rund-ums-fahrzeug/elektromobilitaet/elektroauto/rekuperation-elektroauto/"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "3",
+      "title": "Day 1: [___] miles, $[___] in electricity. A gas car would have spent about $[___] (AP2, EV first-hand / nightly scorecard)",
+      "ocr": "Strong",
+      "window": "tonight at the hotel (Wed evening is soft), or Thu 10 AM MT as a \"yesterday\" post.",
+      "growth": true,
+      "angle": "the nightly scoreboard. Same three numbers every night so people come back for the next one, using today's AAA prices along his actual route.",
+      "bullets": [
+        "Colorado $4.32, Kansas $4.00, Missouri $3.97, Illinois $4.66, Kentucky $3.99. National $4.33.",
+        "The five route states average about $4.19 a gallon.",
+        "Example math (swap in his real miles): a 25 mpg car on the full ~1,500 miles one way burns 60 gallons, about $251 at $4.19. Day 1 gas = [miles / 25] x [state price].",
+        "His side: add up today's sessions in the Tesla app charging history.",
+        "Pixel: 20 sec at the hotel with the phone showing charging history: \"Day one, all in. Here's what it cost us.\"",
+        "Premium reply/quote: any big verified EV account asking about road-trip costs. Reply with the real Day 1 total only, no link."
+      ],
+      "body": "SHORT VERSION:\nDay 1: [___] miles, $[___] in electricity.\n\nA 25 mpg car would have spent about $[___] on gas today. Colorado gas is $4.32, Kansas $4.00, Illinois $4.66 when we get there.\n\n[photo: Tesla app charging history]\n\nWhat would your car have cost?\n\nLONGER VERSION:\nDay 1 is in the books. [___] miles, [___] charging stops, $[___] total in electricity.\n\nBest stop: [town, price, why]. Worst stop: [town, price, why].\n\nIf we'd made the same drive in a car getting 25 mpg, at today's gas prices that's about $[___]. Over the whole 1,500 miles to Kentucky, that gas car would spend around $251 one way.\n\nSmall moment from today: [what we ate / who we met at the charger / what my wife said].\n\nTomorrow: [next leg]. Same three numbers tomorrow night.\n\nLocals along I-70, what are you paying at the pump?",
+      "links": [
+        "https://gasprices.aaa.com/state-gas-price-averages/"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "4",
+      "title": "[___] kWh from my panels back home while we're on the road. Solar Mythbusters, episode 2 (AP7, solar first-hand / series)",
+      "ocr": "Strong",
+      "window": "Thu 10 AM MT, or Fri 11 AM-1 PM.",
+      "growth": true,
+      "angle": "feed the series he started Tuesday night (ep 1, rainy day still produces, LIVE). Myth: solar is useless in the cold. Truth: cold helps panels; short days and snow are the real limits. Bonus: he checks the home panels from the road.",
+      "bullets": [
+        "US Department of Energy: solar panels run more efficiently in colder weather; output starts dropping once panels get above 77F.",
+        "Typical panels lose about 0.3% to 0.5% of power for every degree Celsius above 25C (77F). Run the other way, a freezing-cold panel in full sun can beat its label by roughly 10%.",
+        "The catch: winter days are shorter and the sun is lower, so total daily kWh still drops. Snow on the glass stops output until it slides off.",
+        "His fill-in: today's production in the Enphase app.",
+        "Pixel: 15 sec from the passenger seat holding the phone with the Enphase app: \"Episode two from the road. Cold doesn't hurt solar panels. Here's what mine made today.\"",
+        "Premium reply/quote: Enphase (watched account) if they post a winter or cold-weather tip. One line with his number from the road."
+      ],
+      "body": "SHORT VERSION:\n[___] kWh. That's what my panels made back home today while we're on the road.\n\nMyth: solar dies in the cold. Truth: cold panels work better. Short days and snow are the real problem.\n\nSolar Mythbusters, episode 2. [screenshot: Enphase app]\n\nWhat myth should I bust next?\n\nLONGER VERSION:\nI'm [___] miles from home and my roof is still working. [___] kWh today.\n\nA lot of folks think solar quits when it gets cold. It's the opposite. Panels actually like the cold. Heat is what slows them down. The Department of Energy says output starts dropping once the panels get warmer than 77 degrees.\n\nWhat does hurt in winter is shorter days, a lower sun, and snow sitting on the glass.\n\nSo a cold, clear Grand Junction morning is about the best weather my panels see all year.\n\nLast episode was rainy days. What myth do you want next?",
+      "links": [
+        "https://www.energy.gov/cmei/femp/solar-photovoltaic-hardening-resilience-winter-weather"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "5",
+      "title": "$0 for a sticker, and it can steal your card number. Fake QR codes are showing up on chargers and meters (AP4, scams for normal people / trip)",
+      "ocr": "OK to Strong",
+      "window": "Thu 10 AM MT (soft), or Wed 1-2 PM if a stop has a non-Tesla charger to show.",
+      "growth": false,
+      "angle": "road-trip safety tip for older travelers and the adult kids who worry about them. Scammers stick fake QR codes on chargers and parking meters. His Tesla bills through the car, so a sticker asking him to scan is a red flag.",
+      "bullets": [
+        "Manhattan DA and NYC Department of Investigation (Sept 30, 2026) indicted a man after finding 64 fake QR stickers on city parking meters that sent people to a fake payment site. The city says it never asks you to scan a QR code to park.",
+        "Police in Mainz, Germany: a driver scanned a fake QR sticker on a public EV charger (Mar 9, 2026) that pretended to be a power company; crooks tried to charge his card.",
+        "Ann Arbor police warned about fake \"Scan to Park!\" stickers on downtown meters.",
+        "Safe habits: pay through the charger's own screen or the network's official app, look for a sticker stuck over the original, check the web address before typing a card number.",
+        "Pixel: 15 sec at a non-Tesla charger, parked: \"If there's a sticker on top of the screen, don't scan it. Use the app.\"",
+        "Premium reply/quote: AARP Fraud Watch Network or a local police account posting about QR scams. One line about chargers on road trips.",
+        "Twin check: the Oct 12 SSA barcode/QR scam was drafted but never went LIVE. This is a different scam (physical stickers on the road). Don't post both the same week."
+      ],
+      "body": "SHORT VERSION:\n$0 for a sticker, and it can steal your card.\n\nCrooks are sticking fake QR codes on chargers and parking meters. NYC just found 64.\n\nMy Tesla pays through the car, so a sticker asking me to scan is a red flag. [photo: a charger screen, no sticker]\n\nEver seen one?\n\nLONGER VERSION:\nOn a road trip you plug in at places you've never been. That's exactly where this scam works.\n\nCrooks print a QR code, stick it on a charger or parking meter, and it sends you to a fake payment page. New York just found 64 of them on city meters. In Germany a driver scanned one on an EV charger and they went after his card.\n\nMy Tesla bills through the car, so I never scan anything at a Supercharger. At other chargers, use the screen on the machine or the company's own app.\n\nThree-second check: is there a sticker on top of the original? Does the web address look right? If you're not sure, don't scan.\n\nSend this to your parents if they travel. Have you ever seen one of these?",
+      "links": [
+        "https://www.nyc.gov/assets/doi/press-releases/2026/September/Enescu.DANY.09.30.2026.pdf",
+        "https://qrtrust.de/en/blog/quishing-ev-charging-station-schwabenheim-qr-code-fraud"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    }
+  ]
+}
