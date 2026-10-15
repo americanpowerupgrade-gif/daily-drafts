@@ -1,0 +1,117 @@
+{
+  "date": "2026-10-15",
+  "label": "FRAMEWORK - rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "1",
+      "title": "Day 1: [___] miles over the Rockies, $[___] in electricity. A gas car: about $58 (AP1, MAIN / EV first-hand trip scoreboard)",
+      "ocr": "Strong",
+      "window": "Thu 10 AM MT (soft; \"yesterday\" post). If rolling at 10, post at the first Day 2 stop.",
+      "growth": true,
+      "angle": "the nightly scoreboard he hasn't posted yet. Day 1 had three real charging prices and one real gas price he saw himself. Same three numbers every night (miles, electricity, what gas would have cost) so people come back for Day 2.",
+      "bullets": [
+        "His Day 1 stops (all LIVE): Rifle Supercharger $0.36/kWh, Frisco Supercharger $0.36/kWh, Ionna Limon $0.39/kWh. Gas at Frisco: $4.59 a gallon (his own photo post).",
+        "AAA state averages for regular, Oct 15: Colorado $4.37, Kansas $4.00, Missouri $3.97, Illinois $4.69, Kentucky $3.98. National $4.33.",
+        "Example math (swap in his odometer): Grand Junction to Limon is roughly 330 miles on I-70. A 25 mpg car burns about 13.2 gallons: about $58 at Colorado's $4.37, about $61 at the $4.59 he saw in Frisco.",
+        "His side: Tesla app > Charging > History for the day's total (plus anything from home before leaving).",
+        "Pixel: 20 sec in the parked car, phone showing charging history: \"Day one, all in. Rockies, snow, three stops. Here's what it cost us.\"",
+        "Premium reply/quote: Sawyer Merritt (watched account) or Tesla Charging if either posts about road-trip costs. Reply with the real Day 1 total only, one line."
+      ],
+      "body": "SHORT VERSION:\nDay 1: [___] miles over the Rockies, $[___] in electricity.\n\nA 25 mpg car would have burned about $58 in gas.\n\nThree stops: 36, 36 and 39 cents a kWh. [photo: Tesla app charging history]\n\nDay 2 is Kansas. What would your car have cost?\n\nLONGER VERSION:\nDay 1 is in the books. [___] miles from Grand Junction to [where we slept], up and over the Rockies in a snowstorm, and the whole day cost $[___] in electricity.\n\nThree stops: Rifle and Frisco at 36 cents a kWh, then Ionna in Limon at 39. Every one had a bathroom and we never waited for a stall.\n\nFor the same miles, a car that gets 25 mpg would have needed about 13 gallons. At Colorado's average of $4.37 that's about $58. At the $4.59 I saw in Frisco, about $61.\n\nBest part of the day: [___]. Worst part: [I-70 weather, FSD slowing down for the road]. [One line from my wife: ___]\n\nSame three numbers every night until Kentucky. Day 2 is Kansas. What would your car have cost for Day 1?",
+      "links": [
+        "https://gasprices.aaa.com/state-gas-price-averages/"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "2",
+      "title": "$200,000 and nine years late. Tesla shows the new Roadster tonight (AP8, EV quote-post / Tesla fan night)",
+      "ocr": "Strong",
+      "window": "Thu ~6 PM MT (best Thursday slot, before 6:55 PM MT stream), or post-event quote ~7:30-8 PM MT.",
+      "growth": true,
+      "angle": "the biggest Tesla-fan moment of the week lands on his quietest posting day. He already replied that he's watching for what trickles down to the Model Y and 3 (LIVE reply, so keep this as a fresh one-line take, not a repeat). Frame it for regular families: a car I'll never buy, so what reaches my car?",
+      "bullets": [
+        "Tesla streams the Roadster event Thursday Oct 15 at 7:55 PM Central, which is 6:55 PM MT, from a SpaceX test site in McGregor, Texas (Electrek Oct 13; Reuters Oct 15). It was moved from Oct 1 because of weather.",
+        "The prototype was shown in November 2017 at about $200,000, with deliveries promised for 2020. None delivered yet. Reservations are still $50,000 (Reuters).",
+        "Teased: SpaceX cold-gas thrusters, 0-60 in under a second per Musk, and a short hover rather than real flight. The demo car is reportedly remote-operated and not street-legal (Electrek). Musk has called it the last new human-driven Tesla (Axios).",
+        "Pixel: optional 10 sec in the hotel room with the stream on the laptop: \"Nine years. Let's see it. I'm watching for what ends up in my Model Y.\"",
+        "Premium reply/quote: @Tesla or @SawyerMerritt livestream post (Sawyer is a watched account). One line: \"Cool. Now put it in the $40k car.\"",
+        "Post-event quote version: Quote Tesla's or Sawyer Merritt's clip: \"[my one-line take]. Cool. Now put [the feature] in a $40,000 car.\" Second line on who it would help (families, older drivers), not collectors."
+      ],
+      "body": "SHORT VERSION:\n$200,000 and nine years late. Tesla finally shows the new Roadster tonight.\n\nI'll never buy one. I'm watching for what ends up in my Model Y.\n\nWatching from a hotel in [___]. [photo: stream on the laptop or phone]\n\nWhat would you want them to put in the cheaper cars?\n\nLONGER VERSION:\nTesla shows the new Roadster tonight. They first showed it in 2017 for about $200,000 and said it would ship in 2020. It's 2026 and nobody has one yet.\n\nI'm not the guy who buys a $200,000 sports car. I'm the guy in a Model Y halfway to Kentucky.\n\nWhat I care about is what trickles down. The original Roadster paid for the Model S, and that paid for the car in my garage. So I'll be watching for the boring stuff: batteries, charging speed, anything that makes a regular car cheaper or safer.\n\nIf they show one thing tonight that ends up in a $40,000 car, that's the win for families. What would you want it to be?",
+      "links": [
+        "https://electrek.co/2026/10/13/tesla-roadster-event-thursday-nine-years-delays/",
+        "https://finance.yahoo.com/news/tesla-set-unveil-next-generation-100401819.html"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "3",
+      "title": "54 cents is the national average. My stops so far: 36, 36, 39 and [___] (AP2, EV first-hand charging prices)",
+      "ocr": "Strong",
+      "window": "At the first Kansas stop today (photo beats time), else Fri 10-11 AM MT. If he skips F2, this can take Thu ~6 PM.",
+      "growth": false,
+      "angle": "put his real prices against a brand-new national report so followers know what \"a good price\" looks like. The new number is today's Kansas stop, which keeps this from being a repeat of F1. This is the Paren comparison he hasn't used yet.",
+      "bullets": [
+        "Paren Q3 2026 US fast-charging report (via Electrek, Oct 13): the national average fast-charging price is 54 cents per kWh, up 2.7% in a year.",
+        "Tesla Supercharger average: 56.9 cents for non-members (up 15%), 39.6 cents for members (up 9%). Non-Tesla networks have held near 53.3 cents for five straight quarters.",
+        "The US now has 80,964 fast-charging ports at 14,614 locations. Q3 adds: Tesla 1,287 ports, Ionna 378, Walmart 344.",
+        "His numbers: Rifle 36c, Frisco 36c, Ionna Limon 39c, plus today's Kansas stop [___].",
+        "Pixel: 10 sec at the stall, parked: \"National average is 54 cents. Here's what this one costs.\"",
+        "Premium reply/quote: Electrek or Sawyer Merritt if they post the Paren numbers. One line: \"Testing this live on I-70. Four stops, all under [__] cents.\""
+      ],
+      "body": "SHORT VERSION:\n$[session total] today in [Kansas town], [___] cents a kWh.\n\nThe national fast-charging average is 54 cents right now. My four stops so far: 36, 36, 39 and [___].\n\n[photo: today's price on the screen]\n\nWhat's the cheapest charge you've found?\n\nLONGER VERSION:\nA new report says the average fast charge in America costs 54 cents a kWh, up a little from last year. Tesla's average is 39.6 cents for members and 56.9 for everyone else.\n\nFour stops into our trip, here's what I've actually paid: 36 in Rifle, 36 in Frisco, 39 at Ionna in Limon, and [___] today in [Kansas town].\n\nSo far I'm [under / over] the national average every time. My guess is cheaper power out here and a lot of newer stations.\n\nThe honest part: home is still the cheapest place to charge. Back in Grand Junction I pay about [my Xcel rate: ___].\n\nWhat's the cheapest fast charge you've found?",
+      "links": [
+        "https://electrek.co/2026/10/13/tesla-still-leads-us-supercharger-growth-but-its-raised-prices/"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "4",
+      "title": "$0.39 a kWh and a bathroom I'd actually use. Ionna stop 2 (AP3, EV first-hand chargers / human moment)",
+      "ocr": "Strong",
+      "window": "When stop 2 happens (photo beats time), else Fri 11 AM MT.",
+      "growth": true,
+      "angle": "he promised a second Ionna stop. Make it a charger bathroom report, the thing older travelers and wives actually care about, with a callback to last night's rest-area joke. Light, funny, real.",
+      "bullets": [
+        "Ionna is a charging network owned by 8 carmakers: BMW, GM, Honda, Hyundai, Kia, Mercedes-Benz, Stellantis and Toyota. Plugs for both Tesla (NACS) and CCS cars.",
+        "More than 180 live sites as of early October (company, via EV Engineering Oct 1 and CNET). Ionna added 378 fast-charging ports in Q3 (Paren).",
+        "Ionna scored highest among fast-charging networks in J.D. Power's 2026 US EV public charging study, its first year eligible.",
+        "Most new Ionna sites list $0.39/kWh (DCFC Tracker). Works through partner apps or a Driver's Dashboard, no Ionna app required.",
+        "His fill-ins: town, price, bathroom grade (A to F).",
+        "Pixel: 15 sec walking from the stall to the door, parked: \"Charger bathroom report, stop two. Let's see.\"",
+        "Premium reply/quote: @ionnaofficial if they post a new site. One line with his grade.",
+        "Twin check: his Limon post (LIVE) already said \"clean bathrooms\" and \"$.03 more than Tesla\". This is stop 2 with a grade and the J.D. Power fact; don't repeat the 3-cents line."
+      ],
+      "body": "SHORT VERSION:\n$0.39 a kWh and a bathroom I'd actually use. Ionna stop 2 in [town].\n\nLast night's state rest area got an F. This one gets a [grade].\n\nIonna is owned by 8 carmakers and just topped J.D. Power's charging study. [photo: the canopy] @ionnaofficial\n\nWho has the best charger bathrooms?\n\nLONGER VERSION:\nCharger bathroom report, stop two.\n\nIonna in [town], 39 cents a kWh. Bathroom: [grade]. [One honest detail: clean, coffee, code on the door, etc.]\n\nLast night's state rest area: F. I already told you how that went.\n\nHere's why I care. My wife doesn't ask how many kilowatts a charger has. She asks if the bathroom is clean. A lot of older folks who are nervous about EV road trips are nervous about exactly that.\n\nIonna is owned by 8 carmakers and it just came out on top in J.D. Power's charger survey. So far it's earned it.\n\nI'm grading every stop the rest of the way. Who has the best charger bathrooms you've found?",
+      "links": [
+        "https://www.evengineeringonline.com/ionna-expands-400-kw-ev-charging-network-to-more-than-180-sites/",
+        "https://www.cnet.com/home/electric-vehicles/ionna-ev-fast-charging-2026-growth-ceo-interview/"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "5",
+      "title": "77% of Americans 65 and up have never used a chatbot. Here's the one thing I used it for on this trip (AP6, AI for the masses)",
+      "ocr": "OK to Strong",
+      "window": "Fri 11 AM-1 PM MT, or a slow Day 2 stop.",
+      "growth": false,
+      "angle": "AI less scary, first-hand. He's already said \"if you're not Botting you're missing out\" (LIVE). Make it concrete with one boring, useful thing AI did on Day 1 or 2 (I-70 weather, finding a stop with food, reading a confusing sign or bill). Invite the 65+ crowd in without talking down. If he used Grok in the Model Y nav, this is the place for it.",
+      "bullets": [
+        "Pew Research (published Oct 9, 2026; survey of 5,119 US adults, Feb 2026): 77% of adults 65 and older never use AI chatbots like ChatGPT, Gemini or Copilot. 58% of ages 50-64 never use them. Overall 49% use, 51% don't.",
+        "Top reasons non-users give: not interested, privacy worries, inaccurate answers, or not knowing how.",
+        "AARP / Senior Planet (Oct 1, 2026): 70% of older adults lack confidence knowing what's safe to share with AI tools. Free classes at seniorplanet.org/privacy.",
+        "His fill-ins: what he asked, what it answered, did it help.",
+        "Pixel: 20 sec parked, passenger films him asking it one question out loud: \"Here's me asking it one question. That's the whole trick.\"",
+        "Premium reply/quote: DogeDesigner (watched account) or SpaceXSI on their next everyday Grok Bot clip. One line: \"This is the version older folks actually need.\"",
+        "Twin check: the AARP 80% item (Tue AP6) was never posted. Use this fresher Pew number instead; don't post both."
+      ],
+      "body": "SHORT VERSION:\n$0 extra. I asked [Grok / my phone] '[what I asked: ___]' on the road and it [what it did].\n\n77% of folks 65 and up have never tried a chatbot.\n\nYou don't need to be techy. You just talk to it. [screenshot]\n\nWhat would you ask it first?\n\nLONGER VERSION:\nOn Day [1 / 2] of our trip I asked [Grok] '[___]'. It [what it did] in about [___] seconds. That's it. That's the whole trick.\n\nA new Pew survey says 77% of Americans 65 and older have never used one of these. Most say they're not interested, or they worry about privacy, or they don't know how to start.\n\nI get it. But it's less like a robot and more like asking a well-read friend who never gets tired of questions.\n\nOne rule if you're new: don't give it your Social Security number, bank info or passwords. Ask it questions, don't hand it your wallet.\n\nIf you've never tried one, what's the first thing you'd ask it?",
+      "links": [
+        "https://www.pewresearch.org/short-reads/2026/10/09/why-dont-some-people-use-chatbots/",
+        "https://www.aarp.org/press/releases/2026-10-1-most-older-adults-unsure-how-to-protect-their-online-privacy-senior-planet-from-aarp-research-finds.html"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    }
+  ]
+}
