@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-16",
+  "label": "FRAMEWORK - rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "1",
+      "title": "$[___] to drive 1,500 miles to Kentucky. A 25 mpg car: about $260 in gas (AP1, MAIN / EV first-hand trip scoreboard)",
+      "ocr": "Strong",
+      "window": "Fri 11 AM-12 PM MT (hottest Friday cell).",
+      "growth": true,
+      "angle": "the outbound leg is done and he hasn't posted the total. One number people screenshot: what it cost to cross the country in an EV vs gas. Day 1 and Day 2 scoreboards never went out, so this replaces both as the arrival scoreboard.",
+      "bullets": [
+        "His LIVE stops: Rifle 36c, Frisco 36c, Ionna Limon 39c, Kansas stops Goodland / Hays / Abilene / Overland Park (prices not posted yet), Little General Columbia MO 45c, Kuttawa KY V3 [price: ___].",
+        "AAA national average regular today (Oct 16): $4.33. A year ago: $3.06. AAA says it has stayed above $4 since late July.",
+        "Example math (rewrite with his odometer): 1,500 miles at 25 mpg is 60 gallons, about $260 at $4.33.",
+        "His total: Tesla app, Charging, History for Wed and Thu (add anything from home before leaving).",
+        "Pixel: 20 sec parked at the destination, phone showing charging history: \"Made it. Fifteen hundred miles. Here's the whole bill.\"",
+        "Premium reply/quote: Sawyer Merritt (watched) next post on gas prices or charging costs. Reply with his real total only, one line."
+      ],
+      "body": "SHORT VERSION:\n$[___]. That's what it cost to charge our Model Y from Grand Junction to Kentucky.\n\nAbout 1,500 miles, [___] stops, one all-nighter across Kansas. A 25 mpg car would've burned about $260 in gas.\n\n[photo: Tesla app charging history]\n\nWhat would your car have cost?\n\nLONGER VERSION:\nMade it to Kentucky. About 1,500 miles from Grand Junction, [___] charging stops, and one all-nighter across Kansas.\n\nThe whole outbound leg cost $[___] in electricity. Same miles in a 25 mpg gas car: about 60 gallons. At today's national average of $4.33 a gallon, that's about $260.\n\nCheapest stop: 36 cents a kWh (Rifle and Frisco). Priciest: 45 cents at Little General in Columbia, Missouri. Every stop still beat the 54 cent national fast-charging average.\n\n[One line from my wife about the all-nighter: ___]\n\nThis is only the outbound half. The trip home starts the second scoreboard. What would your car have cost for the same miles?",
+      "links": [
+        "https://gasprices.aaa.com/",
+        "https://gasprices.aaa.com/gas-prices-not-budging-much-as-crude-oil-remains-high/"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "2",
+      "title": "$50,000 just to reserve it. $250,000 for the thrusters. What I want for my Model Y (AP5, EV quote-post / Tesla fan morning-after)",
+      "ocr": "OK to Strong",
+      "window": "Fri ~2 PM MT (keeps 11 AM-12 PM for F1).",
+      "growth": false,
+      "angle": "morning-after take. He already posted \"Here we go\" during the stream. Now the regular-family opinion: fun show, but what reaches a $40k car. Different from the live unveil quote.",
+      "bullets": [
+        "Tesla showed the new Roadster Thu Oct 15 near McGregor, Texas: drove upside down on a ramp, turned in the air and jumped over a truck using SpaceX cold-gas thrusters (TechCrunch, The Verge, Reuters via Mint).",
+        "Three trims: Performance (two seats, road ready), Thrust (two seats, rear thrusters, limited release) and Rocket (one seat, invite only, not approved for public roads, per The Verge).",
+        "Claims: over 300 miles of range, over 230 mph, 0-60 under 1 second with thrusters. Production in 2028. No full price given.",
+        "Reservations: $50,000 for Performance ($5,000 today, $45,000 within 10 days) and $250,000 for Thrust (Tesla reservation page, Reuters).",
+        "2017 promise was 620 miles, $200,000, deliveries in 2020. The event ran under 30 minutes (The Verge).",
+        "Pixel: skip, or 10 sec: \"Cool car. I want the cheap version of whatever they learned.\"",
+        "Premium reply/quote: quote @Tesla Roadster post or Sawyer Merritt's recap. One line: \"Cool. Now put [the feature] in the $40k car.\"",
+        "Twin check: his \"Here we go\" quote and the @wholemars interior reply are LIVE. This is the price-and-trickle-down opinion, a different post."
+      ],
+      "body": "SHORT VERSION:\n$50,000 just to hold a spot. $250,000 if you want the thrusters.\n\nFun show. I'll never own one. What I want is [the feature] in my Model Y.\n\nMusk says production starts 2028. [quote: @Tesla's Roadster clip]\n\nWhat would you want to trickle down?\n\nLONGER VERSION:\nWatched the Roadster show from Kentucky last night. Upside-down ramp, thrusters, a jump over a truck. Cool car.\n\n$50,000 just to reserve the Performance. $250,000 if you want the Thrust version with the rear thrusters. Production maybe 2028. No sticker price yet.\n\nI'm not the guy who buys that. I'm the guy who just drove a Model Y 1,500 miles to see family.\n\nWhat I care about is what trickles down. Better batteries, safer software, cheaper powertrains in a $40,000 car. The original Roadster paid for the Model S, and that paid for the car in my garage.\n\nIf one thing from that show ends up in a normal family EV, that's the win. What would you want it to be?",
+      "links": [
+        "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+        "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "3",
+      "title": "36 cents to 45 cents. My report card for every charging stop across America (AP2, EV first-hand chargers / human moment)",
+      "ocr": "Strong",
+      "window": "Fri ~10-11 PM MT (late surge). If F4 slides, Sat 3-5 PM works.",
+      "growth": false,
+      "angle": "awards post. Best bathroom, best store, best price, best surprise, worst stop. This is what older travelers and wives actually want to know before an EV road trip, and it tags brands that reply (Ionna already replied to him).",
+      "bullets": [
+        "Cheapest: Rifle and Frisco Superchargers, 36c. Priciest: Little General, Columbia MO, 45c (he called it a really nice, clean, well-stocked store).",
+        "Best bathroom so far: Ionna Limon (Ionna runs its own \"Rechargery\" restrooms; @ionnaofficial replied \"Thanks for juicin' up with us!\").",
+        "Best surprise: Kuttawa KY V3 Superchargers had WiFi; he pulled a software update while charging.",
+        "National average fast-charging price is 54c (Paren Q3 2026, via Electrek Oct 13). Every one of his stops beat it.",
+        "Many Tesla sites charge less overnight; the price shows in the car or app before you plug in and locks when you plug in (Tesla support). Fill-in: did any Kansas stop at night show a lower price?",
+        "Pixel: 30 sec in the parked car, flipping through stop photos: \"Fifteen hundred miles of charging stops. Here's the report card.\"",
+        "Premium reply/quote: @ionnaofficial with his grade for them. One line only.",
+        "Twin check: Little General and Kuttawa single-stop posts are LIVE. This is the roundup with grades, not a repeat of either."
+      ],
+      "body": "SHORT VERSION:\n36 cents to 45 cents a kWh. Every stop across America beat the 54 cent national average.\n\nBest bathroom: Ionna Limon. Best store: Little General. Best surprise: WiFi in Kuttawa. Worst: [___].\n\n[photo: collage of stops]\n\nWhere's the best charging stop you've found?\n\nLONGER VERSION:\nFifteen hundred miles of charging stops. Here's the report card.\n\nPrices: 36 cents in Rifle, 36 in Frisco, 39 at Ionna Limon, [Kansas fills: Goodland / Hays / Abilene / Overland Park], 45 at Little General in Columbia, Missouri, and [___] at Kuttawa, Kentucky. Every one beat the 54 cent national average.\n\nBest bathroom: Ionna Limon. My wife cares more about that than kilowatts. Best store: Little General (clean, well-stocked, and the priciest power of the trip). Best surprise: WiFi at the Kuttawa Superchargers so I could pull a software update while we charged.\n\nWorst: [the 1 AM rest area / ___].\n\nIf you're older and nervous about an EV road trip, the bathroom and the food stop matter as much as the charger. Where's the best charging stop you've found?",
+      "links": [
+        "https://electrek.co/2026/10/13/tesla-still-leads-us-supercharger-growth-but-its-raised-prices/",
+        "https://www.tesla.com/support/charging/supercharging"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "4",
+      "title": "[___] miles without a takeover. We drove all night across Kansas on FSD (AP3, EV first-hand / Tesla life / 55+ independence)",
+      "ocr": "Strong",
+      "window": "Sat 3-5 PM MT (after a day of local driving on 14.3.12). If the streak is already big, Fri 2 PM and slide F2 later.",
+      "growth": true,
+      "angle": "he posted \"going all night on FSD\" but never said what that was like. Now he has 14.3.12, which shows a new number: miles driven on FSD without an intervention and your longest streak. One real number plus how he felt at 3 AM. Speaks to older drivers who worry about night driving.",
+      "bullets": [
+        "FSD (Supervised) v14.3.12 shipped Oct 10, 2026 in software 2026.38.5, HW4 cars first (Not a Tesla App, Teslascope).",
+        "New in 14.3.12: shows distance traveled on FSD without an intervention, and the Self-Driving app shows your longest intervention-free streak.",
+        "Tesla says a rewritten AI runtime gives 20% faster reaction time, plus better handling of low-visibility scenes, emergency vehicles, school buses and small animals. Next up on Tesla's list: pothole avoidance.",
+        "It's still Supervised: eyes on the road, driver responsible. The release also improves eye-gaze driver monitoring.",
+        "His fill-in: streak number, hours of night driving, how tired he felt at the end vs a normal all-nighter.",
+        "Pixel: 15 sec parked, showing the streak screen: \"All night across Kansas. Here's the number.\"",
+        "Premium reply/quote: @NotATeslaApp or Sawyer Merritt next 14.3.12 post. One line with his streak.",
+        "Twin check: the Kuttawa \"downloaded 14.3.12\" post is LIVE. This is the first-drive number, not the download."
+      ],
+      "body": "SHORT VERSION:\n[___] miles without a takeover. That's my new streak on FSD 14.3.12 since Kuttawa.\n\nBefore that we drove all night across Kansas on FSD. Still watching the road, but I got out [less tired / not wrecked].\n\n[screenshot: streak screen]\n\nWould you drive all night with it?\n\nLONGER VERSION:\nWe drove all night across Kansas on FSD. Goodland, Hays, Abilene, Overland Park. Still watching the road the whole time. That's the deal with Supervised.\n\nAt Kuttawa I got 14.3.12. It now shows how many miles you've gone without a takeover, and your longest streak. Mine since the update: [___] miles.\n\nAt 60-plus, night driving is the hard part: glare, deer, getting tired. Having help that keeps you from getting wrecked by fatigue is real independence, not a party trick.\n\nI'm not saying hands-off forever. I'm saying I got out of the car [less tired / not wrecked] after an all-nighter. Would you drive all night with it?",
+      "links": [
+        "https://www.notateslaapp.com/software-updates/version/2026.38.5/release-notes"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "5",
+      "title": "13.8 cents in a Kentucky wall outlet vs 45 cents at the truck stop (AP4, EV first-hand / home charging / families)",
+      "ocr": "Strong",
+      "window": "Sat 3-5 PM MT, or Sun ~11 AM if Sat is full with F4.",
+      "growth": false,
+      "angle": "the cheapest charge of the whole trip is the one at the destination. Plugging the Model Y into family's garage outlet is the moment gas drivers never get. Simple bill math, a small human moment with the hosts.",
+      "bullets": [
+        "Kentucky homes averaged 13.81 cents per kWh in July 2026 (EIA, latest month). US average: 18.31 cents. Kentucky is one of the cheaper states.",
+        "His priciest trip stop: Little General, Columbia MO, 45c. National fast-charging average: 54c (Paren Q3).",
+        "A regular 120-volt outlet adds roughly 3 to 5 miles of range per hour (Level 1), slow but fine for a visit. Example: 50 kWh at 13.81c is about $6.90; the same 50 kWh at 45c is $22.50.",
+        "His fill-in: whose outlet, how many hours, whether he offered to pay the hosts.",
+        "Pixel: 15 sec in the garage: \"Cheapest charge of the trip. It's a regular outlet.\"",
+        "Premium reply/quote: any bigger Premium EV account posting about destination charging or road-trip etiquette (Sawyer Merritt or Tesla Owners Silicon Valley style). One line from the garage."
+      ],
+      "body": "SHORT VERSION:\n$[___] to fill up at [my brother's / mom's] house in Kentucky. Kentucky power runs about 13.8 cents a kWh.\n\nThe truck stop in Missouri was 45. Same car, same electrons, one-third the price.\n\n[photo: Model Y plugged into the garage outlet]\n\nDo you pay your hosts for a charge?\n\nLONGER VERSION:\nCheapest charge of the whole trip: a regular wall outlet at [my brother's / mom's] house in Kentucky.\n\nKentucky home power averages about 13.8 cents a kWh. My priciest road stop was 45 cents at Little General in Missouri. Same car, same electrons, roughly one-third the price. Fifty kilowatt-hours here is about $7. At the truck stop it would have been about $22.50.\n\nLevel 1 is slow, maybe 3 to 5 miles of range an hour, but for a visit it's perfect. A gas car can't fill up in a driveway.\n\nEtiquette question: do you slip the hosts cash for the power, buy dinner, or just say thanks? I [what I did: ___].\n\nDo you pay your hosts for a charge?",
+      "links": [
+        "https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a",
+        "https://powerbillfacts.com/state/kentucky/"
+      ],
+      "label": "FRAMEWORK / rewrite-before-post"
+    }
+  ]
+}
