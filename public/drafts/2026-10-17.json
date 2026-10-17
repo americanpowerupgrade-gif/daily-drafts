@@ -1,0 +1,115 @@
+{
+ "date": "2026-10-17",
+ "label": "FRAMEWORK - rewrite in your voice before posting",
+ "drafts": [
+  {
+   "id": "1",
+   "title": "36 to 45 cents. My report card for all 13 charging stops to Kentucky (AP1, MAIN / EV first-hand awards post)",
+   "ocr": "Strong",
+   "window": "Sat ~3-5 PM MT (best Saturday cell).",
+   "growth": true,
+   "angle": "the $158 total is LIVE. This is the awards post behind it: best bathroom, best store, best price, best surprise, worst stop. It's what older travelers and wives want to know before their first EV road trip, and it tags brands that already reply.",
+   "bullets": [
+    "His stops ran 36c (Rifle and Frisco Superchargers) to 45c (Little General, Columbia MO, a clean, nice store).",
+    "Best bathroom: Ionna Limon. Ionna runs its own \"Rechargery\" restrooms, and @ionnaofficial already replied to him: \"Thanks for juicin' up with us!\"",
+    "Best surprise: Kuttawa KY V3 Superchargers had WiFi; he pulled a software update while charging.",
+    "National average fast-charging price is 54c (Paren Q3 2026, via Electrek Oct 13). Every one of his 13 stops beat it.",
+    "His fill-in: worst stop and why (the 1 AM Kansas stop is a natural callback), plus a collage of stop photos.",
+    "Pixel: 30 sec parked, flipping through stop photos on the phone: \"Thirteen charging stops. Here's the report card.\"",
+    "Premium reply/quote: @ionnaofficial: reply or quote their next post with his grade for them (\"Best bathroom of 13 stops\"). They already replied once, so a repost is realistic."
+   ],
+   "body": "SHORT VERSION:\n36 to 45 cents a kWh. All 13 of our stops beat the 54 cent national average.\n\nBest bathroom: Ionna Limon.\nBest store: Little General.\nBest surprise: WiFi in Kuttawa.\nWorst stop: [___].\n\n[photo: collage of stops]\n\nWhat's the best charging stop you've found?\n\nLONGER VERSION:\nThirteen charging stops between Grand Junction and Kentucky. Here's my report card.\n\nCheapest: Rifle and Frisco Superchargers, 36 cents a kWh.\nPriciest: Little General in Columbia, Missouri, 45 cents. Worth it, nicest store of the trip.\nBest bathroom: Ionna in Limon. Clean, bright, and they call it a Rechargery. @ionnaofficial\nBest surprise: Kuttawa, Kentucky. The Superchargers had WiFi and my car updated while I ate.\nWorst stop: [___, and why. Was it the 1 AM stop in Kansas?]\n\nKansas line by line: Goodland [__c], Hays [__c], Abilene [__c], Overland Park [__c].\n\nThe national fast-charging average is 54 cents. Every stop we hit came in under it.\n\n[One line from my wife on her favorite stop: ___]\n\nRound two on the way home. What's the best charging stop you've found?",
+   "links": [
+    "https://electrek.co/2026/10/13/tesla-still-leads-us-supercharger-growth-but-its-raised-prices/"
+   ],
+   "label": "FRAMEWORK / rewrite-before-post"
+  },
+  {
+   "id": "2",
+   "title": "12% of charging visits fail nationally. Mine: [___] out of 13 (AP3, EV myth-buster / gas-driver audience)",
+   "ocr": "Strong",
+   "window": "Sun ~11 AM MT.",
+   "growth": true,
+   "angle": "the number one thing gas drivers say is \"the chargers are always broken.\" He has a fresh 13-stop sample. Put his count next to the national number. Fair, simple, no cheerleading.",
+   "bullets": [
+    "J.D. Power 2026 EVX Public Charging Study (Aug 12, 2026; 6,594 owners, Jan-Jun 2026): 12% of public charging visits ended without a charge, the lowest in the study's history. It was 14% a year earlier and 19% two years ago.",
+    "Same study: fast-charger satisfaction up 12 points to 666 of 1,000. Newer carmaker-backed networks fail least. Happiest stops are hotels, gas stations/convenience stores and restaurants; dealerships rank lowest.",
+    "DOE Alternative Fuels Data Center: 262,367 public charging ports as of Oct 11, 2026, including 79,134 fast-charging ports (via EVThrottle, Oct 16).",
+    "His fill-in: how many of the 13 stops had a broken stall, a wait, or a payment problem.",
+    "Pixel: 20 sec at a Kentucky charger or in the driveway: \"Everybody told me the chargers would be broken. Here's what actually happened.\"",
+    "Premium reply/quote: Any big Premium account posting \"EV chargers are always broken\" this weekend (search the phrase Sunday morning). Reply with his 13-stop count only, one line, no lecture."
+   ],
+   "body": "SHORT VERSION:\n12%. That's how often people pull up to a public charger and can't charge, per J.D. Power. It was 19% two years ago.\n\nOur drive to Kentucky: [___] problems in 13 stops.\n\n[photo: a row of working stalls]\n\nGas drivers, what's the one thing keeping you from trying it?\n\nLONGER VERSION:\nEverybody told me the chargers would be broken.\n\nHere's the national number: J.D. Power says about 12% of public charging visits end without a charge. That's the best it's ever been. Two years ago it was 19%.\n\nOur 13 stops from Grand Junction to Kentucky: [___] problems. [If one: what it was, a stall that wouldn't start, a wait, a card reader, and how long it took to fix by moving one stall over.]\n\nThe stops people like most are the ones at convenience stores, hotels and restaurants. Matches what I saw. Little General in Missouri was the best store of the trip.\n\nNot perfect. Way better than what I'd been told.\n\nGas drivers, what's the one thing keeping you from trying it?",
+   "links": [
+    "https://www.jdpower.com/business/press-releases/2026-u-s-electric-vehicle-experience-evx-public-charging-study/",
+    "https://afdc.energy.gov/stations/states"
+   ],
+   "label": "FRAMEWORK / rewrite-before-post"
+  },
+  {
+   "id": "3",
+   "title": "[___] miles without a takeover. All night across Kansas on FSD (AP2, EV first-hand / Tesla life / 55+ independence)",
+   "ocr": "Strong",
+   "window": "Sun ~2 PM MT (after a couple of local drives on 14.3.12). Can jump to Sat 3-5 PM if F1 is waiting on photos.",
+   "growth": false,
+   "angle": "he posted \"going all night on FSD\" but never said what it was like. Now 14.3.12 is on his car (downloaded at Kuttawa) and shows a new number: miles without an intervention. One real number plus how he felt at 3 AM speaks to older drivers who dread night driving.",
+   "bullets": [
+    "FSD (Supervised) v14.3.12 shipped Oct 10, 2026 in software 2026.38.5, HW4 cars first (Not a Tesla App).",
+    "New in 14.3.12: shows distance on FSD without an intervention, and the Self-Driving app shows your longest intervention-free streak.",
+    "Tesla claims a rewritten AI runtime with 20% faster reaction time, plus better handling of low visibility, emergency vehicles, school buses and small animals.",
+    "Still Supervised: eyes on the road, driver responsible. Don't oversell it.",
+    "His fill-in: streak number, hours of night driving, how tired he felt getting out.",
+    "Pixel: 15 sec parked, showing the streak screen: \"All night across Kansas. Here's the number.\"",
+    "Premium reply/quote: Sawyer Merritt (watched) next FSD 14.3.12 post, or @SDembraski's 14.3.12 thread. One line with his streak and \"all night across Kansas.\""
+   ],
+   "body": "SHORT VERSION:\n[___] miles without a takeover. That's my streak on FSD 14.3.12 since Kuttawa.\n\nBefore that we drove all night across Kansas on FSD. Still watching the road, but I got out [less tired / not wrecked].\n\n[screenshot: streak screen]\n\nWould you drive all night with it?\n\nLONGER VERSION:\nNight driving gets harder every year. Glare, deer, and the 2 AM fog in your head.\n\nWe crossed Kansas overnight on FSD on the way to Kentucky. I watched the road the whole time. It's Supervised, and I'm still the driver. But my hands and shoulders weren't doing the work, and I got out at sunrise [how I felt: ___].\n\nAt Kuttawa the car pulled down 14.3.12. It now shows how many miles you go without taking over. My number so far: [___] miles. Longest streak: [___].\n\nFor folks my age, this is about keeping the keys a few more years, not about a gadget.\n\nWould you drive all night with it?",
+   "links": [
+    "https://www.notateslaapp.com/software-updates/version/2026.38.5/release-notes"
+   ],
+   "label": "FRAMEWORK / rewrite-before-post"
+  },
+  {
+   "id": "4",
+   "title": "$[___] to charge at family's house in Kentucky. 13.8 cents vs 45 at the truck stop (AP4, EV first-hand / home charging / family moment)",
+   "ocr": "Strong",
+   "window": "Sun ~10-11 PM MT (late Sunday cell), or Sat 3-5 PM as a second post spaced 90+ minutes after F1.",
+   "growth": false,
+   "angle": "the cheapest charge of the trip is at the destination. Plugging the Model Y into a family garage outlet is the moment gas drivers never get. Simple bill math plus the host-etiquette debate.",
+   "bullets": [
+    "Kentucky homes averaged 13.81 cents per kWh in July 2026 (EIA, latest month). US average: 18.31 cents.",
+    "His priciest trip stop: Little General, Columbia MO, 45c. National fast-charging average: 54c (Paren Q3).",
+    "A regular 120-volt outlet adds roughly 3 to 5 miles of range an hour. Example: 50 kWh at 13.81c is about $6.90; the same 50 kWh at 45c is $22.50.",
+    "His fill-in: whose outlet, how many hours, and whether he paid the hosts.",
+    "Pixel: 15 sec in the garage: \"Cheapest charge of the trip. It's a regular outlet.\"",
+    "Premium reply/quote: Any bigger Premium EV account asking about destination charging or road-trip etiquette this weekend (Tesla Owners Silicon Valley style). One line from the garage with his cost."
+   ],
+   "body": "SHORT VERSION:\n$[___] to fill up at [my brother's / mom's] house in Kentucky. Power here runs about 13.8 cents a kWh.\n\nThe truck stop in Missouri was 45. Same car, about one-third the price.\n\n[photo: Model Y plugged into the garage outlet]\n\nDo you pay your hosts for a charge?\n\nLONGER VERSION:\nCheapest charge of the whole trip: a plain wall outlet at [my brother's / mom's] house in Kentucky.\n\nKentucky home power averages about 13.8 cents a kWh. My priciest road stop was 45 cents at Little General in Missouri. Fifty kilowatt-hours here is about $7. At the truck stop it was about $22.50.\n\nIt's slow, maybe 3 to 5 miles of range an hour. For a weekend visit, who cares. It fills overnight while we're catching up. A gas car can't fill up in a driveway.\n\nNow the real question. I [what I did: slipped them a twenty / bought dinner / just said thanks].\n\nDo you pay your hosts for a charge?",
+   "links": [
+    "https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a"
+   ],
+   "label": "FRAMEWORK / rewrite-before-post"
+  },
+  {
+   "id": "5",
+   "title": "There is no \"Veterans & Retired Seniors Grant.\" AI fakes are stealing VA checks (AP6, AI and scams for normal people / 55+ and veterans)",
+   "ocr": "OK",
+   "window": "Tue 11 AM-12 PM MT (very strong Tuesday cell). Don't run it the same day as AP8 (trip AI question).",
+   "growth": false,
+   "angle": "veterans and retirees are a big slice of his 55+ audience. VA just warned about a fake Facebook grant ad, made to look government-sponsored, that got vets to hand over direct-deposit info. Pair with the FBI's Oct 15 AI-impersonation alert. Pure safety, nonpartisan, and the honest side of \"AI for the masses\": the tool isn't scary, the crooks using it are.",
+   "bullets": [
+    "VA News (updated Oct 13, 2026): a fake \"Veterans & Retired Seniors Grant Program\" post on Facebook looked sponsored by a government official; some veterans gave direct-deposit info, had benefits redirected, and lost thousands. VA says it's working to make them whole.",
+    "VA warning signs: \"act now,\" keep it secret, a voice or video that seems a little off, asks for private info. Rule: stop, check, then act. VA fraud line: 833-38V-SAFE (833-388-7233).",
+    "FBI IC3 alert Oct 15, 2026: scammers use AI to make realistic voices, images and texts impersonating government agencies and trusted contacts. Report at ic3.gov.",
+    "National Elder Fraud Hotline: 1-833-372-8311.",
+    "Pixel: 20 sec talk-to-camera: \"If an ad says there's a grant for veterans and wants your bank info, it's fake. Call VA yourself.\"",
+    "Premium reply/quote: AARP Fraud Watch Network or a large veterans-service account posting about scams this week. One line with the VA number and \"call back on a number you look up.\""
+   ],
+   "body": "SHORT VERSION:\nThere is no \"Veterans & Retired Seniors Grant.\"\n\nVA says a fake Facebook ad, made to look official, got vets to hand over direct-deposit info. Their benefit checks went to crooks.\n\nIf it says \"act now,\" stop and call VA yourself: 833-388-7233.\n\n[my take: ___]\n\nKnow a vet who should see this?\n\nLONGER VERSION:\nHeads up for every veteran and every family with one.\n\nVA says scammers ran a fake Facebook ad for a \"Veterans & Retired Seniors Grant Program.\" It looked like a government official was behind it. People handed over their direct-deposit info, and their VA payments got rerouted. Some lost thousands.\n\nThe FBI put out a warning Oct 15 that crooks are using AI to fake voices, photos and texts that look like they come from the government or someone you trust.\n\nOur house rule:\n1. Nobody changes a bank deposit from an ad, a text or a call.\n2. Hang up and call back on a number you look up yourself.\n3. Ask a family member before you act.\n\nVA fraud line: 833-388-7233. Elder Fraud Hotline: 1-833-372-8311.\n\n[my take: ___]\n\nKnow a vet who should see this?",
+   "links": [
+    "https://news.va.gov/149747/deepfake-phishing-dont-be-fooled/",
+    "https://www.ic3.gov/PSA/2026/PSA261015-3"
+   ],
+   "label": "FRAMEWORK / rewrite-before-post"
+  }
+ ]
+}
