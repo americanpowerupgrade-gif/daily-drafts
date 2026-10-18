@@ -1,0 +1,120 @@
+{
+ "date": "2026-10-18",
+ "label": "FRAMEWORK - rewrite in your voice before posting",
+ "drafts": [
+  {
+   "id": "1",
+   "title": "36 to 45 cents. My report card for 13 charging stops (AP2, EV first-hand / chargers / human moment)",
+   "ocr": "Strong",
+   "window": "Sun ~11 AM MT (Sunday late-morning cell).",
+   "growth": true,
+   "angle": "The awards list behind the trip: best bathroom, best store, best surprise, worst stop. It's exactly what wives and older travelers want to know before their first EV road trip. The $158 total and the 6.8c home-rate post are LIVE, so this stays a graded roundup only, with no national average and no trip total.",
+   "bullets": [
+    "His stops ran 36c a kWh (Rifle and Frisco Superchargers) to 45c (Little General, Columbia MO, a clean, nice store).",
+    "Best bathroom: Ionna Limon. @ionnaofficial already replied to his post: \"Thanks for juicin' up with us!\"",
+    "Best surprise: Kuttawa KY V3 Superchargers had WiFi; he pulled the 14.3.12 update while charging.",
+    "J.D. Power 2026 EVX Public Charging Study (Aug 12): owners are happiest charging at gas stations/convenience stores and restaurants, least happy at dealerships. His best stops match that.",
+    "His fill-in: worst stop and why (the 1 AM Kansas stop is a natural callback), plus a collage of stop photos and one line from his wife.",
+    "Pixel: 30 sec parked, flipping through stop photos on the phone: \"Thirteen stops. Here's the report card.\"",
+    "Premium reply/quote: @ionnaofficial: reply or quote their next post with his grade for them (\"Best bathroom of 13 stops\"). They already replied once, so a repost is realistic."
+   ],
+   "body": "SHORT VERSION:\n36 to 45 cents a kWh across 13 stops.\n\nBest bathroom: Ionna Limon.\nBest store: Little General.\nBest surprise: WiFi in Kuttawa.\nWorst stop: [___].\n\n[photo: collage of stops]\n\nWhat's the best charging stop you've ever found?\n\nLONGER VERSION:\nThirteen charging stops between Grand Junction and Kentucky. Here's my report card.\n\nCheapest: Rifle and Frisco Superchargers, 36 cents a kWh.\nPriciest: Little General in Columbia, Missouri, 45 cents. Worth it. Nicest store of the trip.\nBest bathroom: Ionna in Limon. Clean, bright, and they call it a Rechargery. @ionnaofficial\nBest surprise: Kuttawa, Kentucky. The Superchargers had WiFi and my car updated while we ate.\nWorst stop: [___, and why. Was it the 1 AM stop in Kansas?]\n\nKansas line by line: Goodland [__c], Hays [__c], Abilene [__c], Overland Park [__c].\n\nTurns out the best stops are the ones with a real store and a real bathroom. A survey of 6,500 EV owners from J.D. Power says the same thing.\n\n[One line from my wife on her favorite stop: ___]\n\nRound two on the way home. What's the best charging stop you've ever found?",
+   "links": [
+    "https://www.jdpower.com/business/press-releases/2026-u-s-electric-vehicle-experience-evx-public-charging-study/"
+   ],
+   "label": "FRAMEWORK / rewrite-before-post"
+  },
+  {
+   "id": "2",
+   "title": "[___] miles without a takeover, and a new speed setting called SLOTH (AP1, EV first-hand / Tesla life / 55+ independence)",
+   "ocr": "Strong",
+   "window": "Sun ~2 PM MT (Sunday afternoon cell), after a few local drives on 14.3.12.",
+   "growth": true,
+   "angle": "He told @SkyXFunNext last night he jumped from 14.3.10 straight to 14.3.12 on Thursday. Three days of driving later he has a streak number, and there's a detail older drivers will love: a new speed profile that's even calmer than Chill. The download and the \"got it Thursday\" reply are LIVE; this is the streak and SLOTH, never posted.",
+   "bullets": [
+    "Tesla software 2026.38.5.1 (released Oct 13, 2026, per Tessie) carries FSD (Supervised) v14.3.12 for HW4 cars.",
+    "New: the screen shows distance driven on FSD without an intervention, and the Self-Driving app shows your longest intervention-free streak.",
+    "New speed profile \"SLOTH\": lower speeds and more conservative lane choices than Chill. The right scroll wheel now changes the profile instead of the exact speed offset.",
+    "Also new: Start Self-Driving from Park (seated, buckled, cabin camera clear) and Arrival Options (parking lot, street, driveway, pull over). Tesla claims 20% faster reaction time.",
+    "Still Supervised: eyes on the road, he's the driver. His fill-in: streak number, which profile he and his wife prefer, and how the Kansas all-nighter felt.",
+    "Pixel: 15 sec parked, thumb on the scroll wheel showing SLOTH, then the streak screen: \"Here's my number. And yes, there's a setting called SLOTH.\"",
+    "Premium reply/quote: @SawyerMerritt's next FSD post, or @SkyXFunNext's 2026.38.5.1 thread (already talking with him). One line with his streak and his SLOTH-or-Hurry pick."
+   ],
+   "body": "SHORT VERSION:\n[___] miles without a takeover since Thursday. That's my streak on FSD 14.3.12.\n\nAnd there's a new speed setting called SLOTH. Slower and calmer than Chill. [My wife / I] would [use it for ___].\n\n[screenshot: streak screen]\n\nWould you pick SLOTH or Hurry?\n\nLONGER VERSION:\nNight driving gets harder every year. Glare, deer, and the 2 AM fog in your head.\n\nWe crossed Kansas overnight on FSD on the way to Kentucky. I watched the road the whole time. It's Supervised and I'm still the driver. But my hands and shoulders weren't doing the work, and I got out at sunrise [how I felt: ___].\n\nThursday the car pulled down 14.3.12. Now it shows how many miles you go without taking over. My streak so far: [___] miles.\n\nThe part I didn't expect: a new speed setting called SLOTH. It drives slower than Chill and stays out of the fast lane. Sounds like a joke. For a lot of drivers our age, it's the setting that makes them comfortable enough to try it. [My wife's take: ___]\n\nThis isn't about a gadget. It's about keeping the keys a few more years.\n\nWould you pick SLOTH or Hurry?",
+   "links": [
+    "https://stats.tessie.com/versions/2026.38.5.1",
+    "https://www.notateslaapp.com/software-updates/version/2026.38.5.1/release-notes"
+   ],
+   "label": "FRAMEWORK / rewrite-before-post"
+  },
+  {
+   "id": "3",
+   "title": "$4.30 a gallon today. Guess what the drive home costs me in electricity (AP3, EV first-hand / gas drivers / return leg)",
+   "ocr": "Strong",
+   "window": "The morning he leaves Kentucky (any day), or Mon ~1-2 PM MT (strongest cell of the week) if he's leaving Monday or Tuesday.",
+   "growth": true,
+   "angle": "Kick off the return leg with a guessing game. Gas math is fixed and easy to check, so let followers guess his charging total, then pay it off with a scoreboard once he's home. The outbound $158 is LIVE; this is forward-looking, so leave the $158 out and let followers bring it up.",
+   "bullets": [
+    "AAA national average regular, Oct 18, 2026: $4.2988. A year ago: $3.04. A month ago: $4.47.",
+    "AAA (Oct 15): fall prices are at seasonal record highs, crude near $100 a barrel, and the national average has stayed above $4 since late July.",
+    "Gas-car math: about 1,500 miles at 25 mpg is 60 gallons, times $4.30 is about $258.",
+    "AAA's own number for public EV charging: 41 cents a kWh national average (Oct 15 report). Use only in the longer version or the reply.",
+    "His fill-in: departure day, his own guess, and a promise to post every stop again.",
+    "Pixel: 15 sec in the driveway loading the car: \"Heading home. Gas would be about two fifty-eight. Guess what I pay.\"",
+    "Premium reply/quote: @SawyerMerritt or @TeslaCharging: reply once with the guess game on their next Supercharger or road-trip post. Don't spam it into several threads."
+   ],
+   "body": "SHORT VERSION:\n$4.30 a gallon, national average today. A year ago it was $3.04.\n\nDriving 1,500 miles home in a 25 mpg car: about $258.\n\nWe're heading back to Colorado in the Model Y [day]. Guess my charging total. Closest guess gets a shoutout.\n\nLONGER VERSION:\nTime to drive home.\n\nGas is $4.30 a gallon on the national average today, per AAA. A year ago it was $3.04. AAA says fall prices haven't been this high in years.\n\nSo here's the math for a regular 25 mpg car on our 1,500 mile drive back to Colorado: about 60 gallons. About $258.\n\nWe're doing it in the Model Y again. Same Superchargers, maybe a couple of new stops. [Leaving: ___]\n\nI'll post every stop on the way back, with prices.\n\nYour job: guess what I pay to charge the whole way home. Closest guess gets a shoutout when we pull into the driveway.\n\n[My own guess: $___]",
+   "links": [
+    "https://gasprices.aaa.com/",
+    "https://newsroom.aaa.com/2026/10/gas-prices-not-budging-much-as-crude-oil-remains-high/"
+   ],
+   "label": "FRAMEWORK / rewrite-before-post"
+  },
+  {
+   "id": "4",
+   "title": "$0. That's what a new Medicare card costs. AI makes the fake call sound real (AP5, AI for normal people / scams / 55+)",
+   "ocr": "OK",
+   "window": "Tue ~11 AM-12 PM MT (very strong Tuesday cell).",
+   "growth": false,
+   "angle": "Medicare Open Enrollment started Oct 15. The \"your new card is in the mail, just verify your number\" call is the classic, and Medicare's own security team says AI now makes those callers sound friendly, local and accent-free. Give older folks and their kids one rule they'll remember. The honest side of AI for the masses: the tool isn't scary, the crooks using it are. Sat's VA fake-grant item never went live, so it rides along as the second example.",
+   "bullets": [
+    "Medicare Open Enrollment runs Oct 15 to Dec 7, 2026 (Medicare.gov).",
+    "Medicare cards are free, and Medicare won't call, text or email out of the blue asking for your Medicare number, Social Security number or bank info (Medicare.gov).",
+    "CMS security blog: AI lets scammers write natural scripts in real time, remove accents, and personalize calls by age and benefits. One mother-in-law gave her Medicare number on a \"new card\" call before a back-brace pitch tipped her off.",
+    "What to do: hang up, call 1-800-MEDICARE (1-800-633-4227) or the number on your card. A handy exit line: \"My son told me to hang up.\"",
+    "Same week: VA News (Oct 13-14) warned about a fake, official-looking \"Veterans & Retired Seniors Grant\" ad that got vets to hand over direct-deposit info.",
+    "Pixel: 20 sec talk-to-camera at home: \"If someone calls about your new Medicare card, hang up. It's free and they already have your number.\"",
+    "Premium reply/quote: AARP Fraud Watch Network or a big senior-finance account posting about Open Enrollment this week. One line with the hang-up rule and 1-800-MEDICARE."
+   ],
+   "body": "SHORT VERSION:\n$0. A new Medicare card is free, and Medicare won't call you to \"verify\" your number.\n\nOpen Enrollment just started, and AI makes these calls sound friendly and local now.\n\nHang up and call the number on your card.\n\n[my take: ___]\n\nWho in your family needs to hear this?\n\nLONGER VERSION:\nIf you're on Medicare, or your mom or dad is, read this one.\n\nOpen Enrollment started Oct 15. That's when the \"new Medicare card\" calls ramp up. Someone friendly says your new card is on the way and they just need to verify your number.\n\nMedicare's own security people say AI is making these calls harder to spot. The caller sounds local, has no accent, and seems to know your age and your benefits.\n\nHere's the truth: a new Medicare card is free. Medicare won't call out of the blue asking for your Medicare number, your Social Security number or your bank info.\n\nOur family rule:\n1. Nobody shares a number on a call they didn't make.\n2. Hang up and call 1-800-MEDICARE or the number on the back of your card.\n3. You're allowed to be rude. \"My son told me to hang up\" works fine.\n\nVA warned vets about the same trick this week with a fake grant ad.\n\n[my take: ___]\n\nWho in your family needs to hear this?",
+   "links": [
+    "https://www.medicare.gov/basics/reporting-medicare-fraud-and-abuse",
+    "https://security.cms.gov/posts/why-ai-making-medicare-vishing-scams-more-dangerous",
+    "https://news.va.gov/149747/deepfake-phishing-dont-be-fooled/"
+   ],
+   "label": "FRAMEWORK / rewrite-before-post"
+  },
+  {
+   "id": "5",
+   "title": "20 cents a month. Louisiana may make power customers pay to study small reactors (AP7, SMR / who pays / policy 1)",
+   "ocr": "OK",
+   "window": "Mon ~1-2 PM MT (strongest cell, gives three days before Thursday's vote). Backup Wed ~1-3 PM MT.",
+   "growth": false,
+   "angle": "A tiny, concrete bill number with a vote this week. Keep it to who pays and let the audience argue it. No politics, no reactor specs. This is the one SMR item this week (replaces the held TVA Clinch River item).",
+   "bullets": [
+    "Louisiana Public Service Commission vote scheduled Thursday, Oct 22, on the \"Louisiana Advanced Nuclear Exploration\" program (The Center Square via American Press, Oct 16, 2026).",
+    "As proposed, utilities could add 20 cents a month to customer bills, about $4 million a year across the three big investor-owned utilities.",
+    "The money would fund feasibility studies, site checks, cost modeling and early licensing prep for small modular reactors and microreactors.",
+    "Proposed amendment (Commissioner Eric Skrmetta): let utilities spend up to $2 million and ask to recover it in rates later instead.",
+    "Commissioner Davante Lewis supports more nuclear but says it \"should not happen on the backs of ratepayers.\"",
+    "Pixel: Skip, or 10 sec holding a dime and a dime: \"Two dimes a month. Would you pay it?\"",
+    "Premium reply/quote: An energy reporter or desk posting on the vote (Bloomberg, WSJ energy, The Center Square). One line on the bill impact and his yes-or-no."
+   ],
+   "body": "SHORT VERSION:\n20 cents a month.\n\nThat's what Louisiana regulators may add to power bills to study small nuclear reactors. The vote is Thursday.\n\nWould you pay 20 cents a month for that, or should the power companies foot the bill?\n\nLONGER VERSION:\n20 cents a month. That's the number on the table in Louisiana.\n\nOn Thursday the state's utility regulators vote on letting power companies add about 20 cents a month to customer bills. Across the big utilities that's about $4 million a year.\n\nThe money wouldn't build anything yet. It pays for studies: where small reactors could go, what they'd cost, and early paperwork with federal regulators.\n\nOne commissioner wants the companies to spend up to $2 million first and ask to get it back later. Another says he's for nuclear, just not \"on the backs of ratepayers.\"\n\nI think small reactors could mean steadier bills for families down the road. [my take on who should pay: ___]\n\nSo I'll ask you. Would you pay 20 cents a month for that, or should the power companies foot the bill?",
+   "links": [
+    "https://americanpress.com/2026/10/16/louisiana-regulators-want-ratepayers-to-finance-nuclear-exploration/"
+   ],
+   "label": "FRAMEWORK / rewrite-before-post"
+  }
+ ]
+}
