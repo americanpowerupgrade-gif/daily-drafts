@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-19",
+  "label": "FRAMEWORK - rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "1",
+      "title": "$4.30 a gallon. Guess what the drive home costs me in electricity (pack AP1, EV first-hand, return leg) - MAIN",
+      "ocr": "Strong",
+      "window": "Today Mon 1-2 PM MT (strongest cell of the week), or the morning he leaves if departure is later this week.",
+      "growth": true,
+      "angle": "Turn the return leg into a guessing game, then pay it off with a scoreboard at home. Followers become participants and the payoff post is pre-sold. The outbound $158 total and last night's trip-planner quote are LIVE, so this stays forward-looking: no $158, no trip planner, let followers bring those up.",
+      "bullets": [
+        "AAA national average regular, Oct 19, 2026: $4.2953. A year ago: $3.0362. A month ago: $4.4759.",
+        "AAA (Oct 15): prices are not budging much with crude oil still high; the usual fall drop is muted this year.",
+        "Gas-car math for the drive home: about 1,500 miles at 25 mpg = 60 gallons x $4.30 = about $258.",
+        "His fill-ins: departure day, his own guess, how many stops he plans, and one Kansas wind farm photo as a mid-trip check-in."
+      ],
+      "body": "SHORT VERSION:\n$4.30 a gallon today. A year ago it was $3.04.\n\nDriving 1,500 miles home in a 25 mpg car: about $258 in gas.\n\nWe head back to Colorado in the Model Y [day]. Guess my charging total.\n\nClosest guess gets a shoutout when we pull in the driveway.\n\nLONGER VERSION:\n$4.30 a gallon today. A year ago it was $3.04. That's [what I paid / what the sign said] at [___].\n\nWe're about to drive 1,500 miles home from Kentucky to Colorado. In a 25 mpg car that's 60 gallons, about $258 in gas.\n\nWe're doing it in the Model Y. Same as the way out, I'll log every single stop: price per kWh, how long we sat, and whether the bathroom was worth it.\n\n[One honest line: what surprised me most on the way out, or what my wife is dreading about the drive back.]\n\nSo here's the game. Guess what the whole drive home costs me in electricity. Closest guess gets a shoutout when we pull in the driveway.\n\nMy guess: $[___]. Yours?",
+      "links": [
+        "https://gasprices.aaa.com/",
+        "https://gasprices.aaa.com/2026%2F10/"
+      ],
+      "pixel": "15 sec in the driveway loading the car: \"Heading home. Gas would be about two fifty-eight. Guess what I pay.\" Film parked.",
+      "target": "@SawyerMerritt or @TeslaCharging on their next charging/road-trip post: reply once with the guess game line and the $258 gas comparison.",
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "2",
+      "title": "36 to 45 cents. My report card for 13 charging stops (pack AP2, chargers, human moment)",
+      "ocr": "Strong",
+      "window": "Tue 11 AM-12 PM MT (very strong cell). Don't run it the same hour as #1.",
+      "growth": true,
+      "angle": "Still his best unposted trip story: an awards list wives and older travelers want before their first EV road trip. New hook today: Ionna just passed 200 sites, so tagging @ionnaofficial with 'best bathroom of 13 stops' gives a brand a reason to repost. If he's already rolling home, frame it as 'grading them again on the way back.' Graded roundup only; no trip total, no national averages (both LIVE).",
+      "bullets": [
+        "His stops ranged 36c a kWh (Rifle and Frisco Superchargers) to 45c (Little General, Columbia MO).",
+        "Best bathroom: Ionna Limon. @ionnaofficial already replied to his post: \"Thanks for juicin' up with us!\"",
+        "Best surprise: Kuttawa KY V3 Superchargers had WiFi; he pulled the 14.3.12 update while charging.",
+        "Ionna passed 200 sites (about 1,666 stalls in 30 states, many at Circle K and Wawa), per EVI weekly news; only about 10% of new Q3 fast-charger sites were rural.",
+        "J.D. Power 2026 EVX study (Aug 12): owners are happiest charging at gas stations, convenience stores and restaurants, least happy at dealerships. His best stops match."
+      ],
+      "body": "SHORT VERSION:\n36 to 45 cents a kWh across 13 stops.\n\nBest bathroom: Ionna Limon.\nBest store: Little General.\nBest surprise: WiFi in Kuttawa.\nWorst stop: [___].\n\n[photo: collage of stops]\n\nWhat's the best charging stop you've ever found?\n\nLONGER VERSION:\nThirteen charging stops from Grand Junction to Kentucky. Here's my report card.\n\nCheapest: Rifle and Frisco Superchargers, 36 cents a kWh.\nPriciest: Little General in Columbia, Missouri, 45 cents. Worth it. Nicest store of the trip.\nBest bathroom: Ionna in Limon. Clean, bright, coffee that wasn't sad. @ionnaofficial\nBest surprise: Kuttawa, Kentucky. WiFi at the Superchargers, and my car updated itself while we ate.\nWorst stop: [___, and why.]\n\nFunny thing. The best stops weren't about the charger. They were about the store and the bathroom. A big J.D. Power survey of EV owners found the same thing.\n\nOut in the country the good stops are still spread thin. [One line on the longest gap between good stops.]\n\n[One line from my wife: her favorite stop and why.]\n\nRound two on the way home. What's the best charging stop you've ever found?",
+      "links": [
+        "https://www.jdpower.com/business/press-releases/2026-u-s-electric-vehicle-experience-evx-public-charging-study/",
+        "https://evi.plugnplayev.com/p/the-weekly-1-21-evi-news-93-texas-nevi-acceleration-ionna-at-200-us-dcfc-skews-to-cities"
+      ],
+      "pixel": "30 sec parked, flipping through stop photos on the phone: \"Thirteen stops. Here's the report card.\"",
+      "target": "@ionnaofficial: reply or quote their next post (likely a 200-site milestone) with \"Best bathroom of my 13 stops.\" They replied once already, so a repost is realistic.",
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "3",
+      "title": "$[___] a month. What my bot found on my Verizon bill (pack AP5, AI for normal people, first-hand payoff)",
+      "ocr": "Strong",
+      "window": "Wed 1-3 PM MT, or the first strong window after he has a real number (Tue 11 AM-12 PM is taken by #2). Only post with a real result.",
+      "growth": true,
+      "angle": "Sunday he told @mikepat711 \"I am going to let my bot loose on my Verizon bill.\" The payoff is the most convincing AI-isn't-scary post he can make: one real bill, one real number, no jargon. The 'AI makes my phone calls' and 'bot pays for itself' quotes are LIVE as opinions; this is the result. A $0 result is honest content too: 'nothing to cut, here's what it checked.'",
+      "bullets": [
+        "His public promise (Oct 18): \"I am going to let my bot loose on my Verizon bill.\" https://x.com/UpgradeAmerican/status/2111902789634842965",
+        "@mikepat711's original: \"I told my Grok Bot to go figure out how to pay for itself.\"",
+        "AARP AgeTech Collaborative blog (Oct 8): an older adult used an AI-written script to get internet cut from $90 to $30 a month, locked for 3 years; another used AI to compare heat pump bids.",
+        "His fill-ins: what the bot spotted (promo ending, unused line, insurance add-on, cheaper plan), the monthly savings, and whether he made the call or the bot did."
+      ],
+      "body": "SHORT VERSION:\n$[___] a month. That's what my bot found on my Verizon bill [in ___ minutes].\n\nIt caught [___].\n\nI didn't sit on hold once.\n\nWhat bill would you hand to a bot first?\n\nLONGER VERSION:\n$[___] a month. That's what my bot found on my Verizon bill.\n\nSunday I said I'd let my bot loose on it. So I did. I gave it [the bill / a photo of the bill] and asked one plain question: am I paying for anything I don't need?\n\nIt came back with [___]. [Promo that ran out? A line nobody uses? Insurance I forgot about?]\n\n[What happened next: I called with the script it wrote / it handled the call / Verizon said ___.]\n\nTotal: $[___] a month, $[___] a year.\n\nI keep hearing people my age say AI is scary. This wasn't scary. It was a bill and a question. You don't have to learn anything. You just ask.\n\nAARP even wrote up an older guy who used AI to get his internet bill from $90 down to $30. Same idea.\n\nWhat bill would you hand to a bot first?",
+      "links": [
+        "https://x.com/UpgradeAmerican/status/2111902789634842965",
+        "https://home.agetechcollaborative.org/startup/blogs/agetech-collaborative-from-aarp/2026/10/08/older-adults-ai-and-independence"
+      ],
+      "pixel": "20 sec at the kitchen table holding the bill: \"I gave this to my bot. Here's what it found.\" His face, his words.",
+      "target": "Quote @mikepat711's original \"pay for itself\" post with his result; he already engaged there, so it closes the loop in public.",
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "4",
+      "title": "$6.32 a gallon for diesel. A year ago it was $3.63 (pack AP3, truck guys 35-54, cost per mile)",
+      "ocr": "Strong",
+      "window": "Fri 11 AM-12 PM MT (or Wed 1-3 PM if #3 isn't ready).",
+      "growth": false,
+      "angle": "Diesel jumped far more than gas this year and truck and work-van guys feel it most. Put his own cents per mile next to a diesel pickup's, no lecture. Held twice, never posted. Uses road-trip fast-charger cost, not the 6.8c home rate (LIVE). Not a $1,000 car payment post (LIVE).",
+      "bullets": [
+        "AAA national average diesel, Oct 19, 2026: $6.3187. A year ago: $3.6308, up about 74%. A month ago: $6.4866.",
+        "A 20 mpg diesel pickup: $6.32 / 20 = about 32 cents a mile in fuel.",
+        "Model Y rough estimate (check his app): about 0.27 kWh a mile. At his 36c to 45c Supercharger stops that's roughly 10 to 12 cents a mile; charging at home is far less.",
+        "His fill-in: his real cents per mile from the trip or the Tesla app."
+      ],
+      "body": "SHORT VERSION:\n$6.32 a gallon for diesel today. A year ago it was $3.63.\n\nA 20 mpg diesel truck is about 32 cents a mile in fuel now.\n\nMy Model Y on this road trip: [___] cents a mile. And that's paying fast-charger prices.\n\nTruck guys, what are you paying to fill up?\n\nLONGER VERSION:\n$6.32 a gallon for diesel today. A year ago it was $3.63. That's up about 74 percent.\n\nI [grew up around / still own / used to drive] trucks, so this one hurts to look at. A 20 mpg diesel pickup is about 32 cents a mile in fuel right now. Fill a 26 gallon tank and you're north of $160.\n\nI did the same math on our road trip. Paying fast-charger prices the whole way, 36 to 45 cents a kWh, the Model Y came out around [___] cents a mile. At home it's [___].\n\nI'm not telling anybody to sell their truck. Some jobs need a truck. But if you've got a second vehicle that just does errands and highway miles, run the numbers once.\n\nTruck guys, what are you paying to fill up this week?",
+      "links": [
+        "https://gasprices.aaa.com/"
+      ],
+      "pixel": "15 sec parked by a diesel price sign: \"Look at that diesel price. Here's what I paid per mile.\"",
+      "target": "@SawyerMerritt (or a big truck/fleet account) the next time gas or diesel prices come up: one line with his cents per mile vs 32 cents.",
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "5",
+      "title": "20 cents a month. Louisiana votes Thursday on making power customers pay to study small reactors (pack AP8, SMR, who pays)",
+      "ocr": "OK",
+      "window": "Tue 9-10 PM MT or Wed 1-3 PM MT (must go before Thursday's vote). Skip Wed 1-3 PM if #3 lands there.",
+      "growth": false,
+      "angle": "A tiny, concrete bill number with a vote this week. Keep it strictly to who pays, no politics, no reactor specs. Only SMR item this week; never posted.",
+      "bullets": [
+        "Louisiana Public Service Commission vote scheduled Thursday, Oct 22, on the Louisiana Advanced Nuclear Exploration program (The Center Square via American Press, Oct 16).",
+        "As proposed: 20 cents a month on customer bills, about $4 million a year across the three big investor-owned utilities, for small modular reactor and microreactor feasibility studies and early licensing prep.",
+        "Commissioner Eric Skrmetta's proposed amendment: utilities spend up to $2 million and ask to recover it in rates later.",
+        "Commissioner Davante Lewis supports more nuclear but says it \"should not happen on the backs of ratepayers.\"",
+        "20 cents a month is $2.40 a year per customer."
+      ],
+      "body": "SHORT VERSION:\n20 cents a month. That's what Louisiana regulators may add to power bills to study small nuclear reactors.\n\nVote is Thursday.\n\nWould you pay 20 cents a month for that, or should the power companies foot the bill?\n\nLONGER VERSION:\n20 cents a month. $2.40 a year. That's what Louisiana regulators may add to everybody's power bill to study small nuclear reactors.\n\nThe vote is Thursday. The money, about $4 million a year, would pay for studies and early licensing work at the three big utilities.\n\nOne commissioner wants the utilities to front the money instead and ask to get paid back later. Another says he likes nuclear but it shouldn't come out of customers' pockets.\n\nHere's my take: [___. Would I pay $2.40 a year for a shot at steadier, cheaper power down the road? Or should the companies that profit carry the risk?]\n\nI'm not in Louisiana, but this is coming to a lot of states. Would you pay 20 cents a month for it?",
+      "links": [
+        "https://americanpress.com/2026/10/16/louisiana-regulators-want-ratepayers-to-finance-nuclear-exploration/"
+      ],
+      "pixel": "Skip. Text-only works; a screenshot of his own power bill line items is optional.",
+      "target": "An energy reporter (Bloomberg, WSJ energy desk, or The Center Square) posting on the vote: reply with the yes/no question.",
+      "label": "FRAMEWORK / rewrite-before-post"
+    }
+  ]
+}
