@@ -1,0 +1,120 @@
+{
+  "date": "2026-10-20",
+  "label": "FRAMEWORK - rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "1",
+      "title": "$0 for a better car again. FSD 14.3.13 dropped today and Grok in the car isn't beta anymore (pack AP2, Tesla life, 55+ independence) - MAIN TODAY",
+      "ocr": "Strong",
+      "window": "Today Tue 11 AM-12 PM MT (very strong cell, news is fresh). If he's driving, Wed 1-3 PM once it installs.",
+      "growth": true,
+      "angle": "A free update lands the same week he drives 1,500 miles home on FSD. Real-world test, his own streak number, and Grok in the car is officially out of beta. The FSD older-drivers quote and the Grok-in-cars line in Monday's long reply are LIVE as opinions; this is fresh news plus his own number. No SLOTH unless he tries it. No Optimus or Tesla-beyond-EVs talk (LIVE).",
+      "bullets": [
+        "Tesla software 2026.38.5.10 with FSD (Supervised) v14.3.13 for HW4 cars was first noticed rolling out Oct 20, 2026 (Teslascope timeline).",
+        "Not a Tesla App release notes for 2026.38.5.10: the beta label comes off Grok in Models S, 3, X, Y and Cybertruck; FSD streaks added for legacy S and X.",
+        "Since 14.3.12 (2026.38.5) the screen shows miles driven on FSD without an intervention, and the app keeps your longest streak.",
+        "Still Supervised: eyes on the road. Rollouts start small, so he may not get it on this trip.",
+        "His fill-ins: did it install (Kuttawa Supercharger wifi worked last time), his 14.3.12 streak so far, one thing he asked Grok on the drive."
+      ],
+      "body": "SHORT VERSION:\n$0 for a better car again.\n\nFSD 14.3.13 started rolling out today, and Grok in my Model Y isn't \"beta\" anymore.\n\nMy streak on 14.3.12 so far: [___] miles.\n\n[Just got it / still waiting on it.]\n\nWhat's the first thing you'd ask Grok on a 1,500 mile drive?\n\nLONGER VERSION:\n$0 for a better car again. That's the part of owning a Tesla I still can't get used to.\n\nToday Tesla started pushing FSD 14.3.13. The same update takes the \"beta\" label off Grok in the car. [I got it at ___ / Still waiting. They always start with a small batch.]\n\nTiming couldn't be better. We're about to drive 1,500 miles home from Tennessee to Colorado, mostly on FSD. The screen keeps a streak now: miles without me having to take over. My best on the last version: [___] miles.\n\nIt's still supervised. My eyes stay on the road. But on a long highway day the car does the tiring part, and I get out at the end of the day feeling [___].\n\nOn the way out I asked Grok [___]. On the way home I'm going to try [___].\n\nWhat's the first thing you'd ask Grok on a long drive?",
+      "links": [
+        "https://teslascope.com/software/timeline",
+        "https://www.notateslaapp.com/software-updates/version/2026.38.5.10/release-notes"
+      ],
+      "pixel": "15 sec parked, phone pointed at the screen: \"New update today. Grok's not beta anymore. Let's see how it does on the way home.\" Film parked.",
+      "target": "@SawyerMerritt or @teslaownersSV when they post the 14.3.13 notes: reply once with his streak screenshot and the Grok question.",
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "2",
+      "title": "$[___] so far. Day 1 of the drive home vs my $180 guess (pack AP1, EV first-hand, return leg)",
+      "ocr": "Strong",
+      "window": "Tonight Tue 9-10 PM MT (end of the driving day). If they leave Wednesday, run it Wed evening instead.",
+      "growth": true,
+      "angle": "He already sold the contest Monday (his best post of the day, 151 impressions). One short running total each evening brings the guessers back and builds to the payoff post in Colorado. This is the first update, not a restatement: no $258 gas math, no recap of the rules.",
+      "bullets": [
+        "His public guess (Mon Oct 19): $180 for the 1,500 miles home. https://x.com/UpgradeAmerican/status/2112299869389951480",
+        "AAA national average regular today, Oct 20: $4.2786 (yesterday $4.2953, a year ago $3.0361). Still edging down.",
+        "His fill-ins: stops today, cheapest and priciest kWh, running total, miles done, best and worst stop, and who's leading the guesses.",
+        "Tesla's Set Arrival Energy from the phone (2026.38.5) lets you pick how much battery you arrive with; mention only if he used it."
+      ],
+      "body": "SHORT VERSION:\n$[___] so far.\n\nDay 1 of the drive home: [___] miles, [___] stops, [___] to [___] cents a kWh.\n\nMy guess for the whole trip was $180.\n\nOn track, or did I guess too low?\n\n[photo: tonight's charger]\n\nLONGER VERSION:\n$[___] so far. Day 1 of the drive home is in the books.\n\n[___] miles from Chattanooga to [___]. [___] charging stops. Cheapest was [___] cents a kWh at [___]. Priciest was [___] cents at [___].\n\nMy guess for the whole 1,500 miles was $180. Right now I'm [ahead / behind / dead on].\n\nBest stop today: [___, and why. The bathroom counts.]\nWorst stop today: [___].\n\n[One small human moment: what my wife said at stop three, the guy at the next pump, the dog, the pie.]\n\nClosest guess right now is @[___] at $[___]. Plenty of road left.\n\nAm I going to make it under $180?",
+      "links": [
+        "https://x.com/UpgradeAmerican/status/2112299869389951480"
+      ],
+      "pixel": "15 sec parked at the last stop of the day: \"Day one on the way home. Here's where we are against my guess.\" Film parked.",
+      "target": "Quote his own Monday guess post so the thread stays together, and reply once to the closest guesser by name. Tag @TeslaCharging or @ionnaofficial if one of their stops was the best of the day.",
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "3",
+      "title": "$7.7 billion. What people 60 and over lost to scams last year, and AI is making the calls sound real (pack AP6, AI for normal people, 55+)",
+      "ocr": "Strong",
+      "window": "Wed 1-3 PM MT. Don't post the same day as the Verizon bill payoff.",
+      "growth": false,
+      "angle": "One big number and one rule a family can set up tonight: a safe question only the real person would know. Medicare Open Enrollment is the season scammers love. Monday's Grok Bot credit-card quote is the bots-working-for-you side; this is the defense side.",
+      "bullets": [
+        "FBI IC3 2025 Elder Fraud Report: 201,266 complaints from people 60 and over, $7.748 billion lost, up 59% from 2024. Average loss about $38,500.",
+        "Senate Aging Committee (via FEDweek, Oct 19): AI voice cloning powers the grandparent scam, and scam kits sell for as little as $20.",
+        "The Independent (Oct 16): identity expert Aaron Painter's grandmother nearly fell for a cloned-voice call of him. She caught it because the caller used a nickname the family never used. His advice: verify the person, don't try to spot the fake.",
+        "Medicare Open Enrollment runs Oct 15 to Dec 7. Medicare cards are free, and Medicare won't call out of the blue asking for your number.",
+        "Hang up and call back on a number you already have. Report at reportfraud.ftc.gov or ic3.gov."
+      ],
+      "body": "SHORT VERSION:\n$7.7 billion. That's what people 60 and over lost to scams last year, per the FBI.\n\nAI can copy a grandkid's voice now.\n\nOur family [has / is setting up] a safe question only the real person would know.\n\nDoes your family have one yet?\n\nLONGER VERSION:\n$7.7 billion. That's what people 60 and over lost to scams last year, according to the FBI. Up 59 percent in one year.\n\nHere's the part that gets me. AI can copy a grandkid's voice now, and the scam kits sell for about $20.\n\nOne grandmother caught a fake call of her own grandson because the voice used a nickname the family never uses. That's the whole trick. Don't try to spot the fake. Check the person.\n\nSo our family [has / just set up] a safe question. Something only the real person would know. Not a birthday, not the dog's name that's all over Facebook. [what kind of question we picked, not the real one.]\n\nIf the voice on the phone can't answer it, hang up and call back on the number you already have.\n\nAnd since it's Medicare open enrollment until Dec 7: if somebody calls about your \"new Medicare card,\" hang up. The card is free, and Medicare isn't calling you out of the blue for your number.\n\nAI isn't the bad guy here. It's a tool, and the crooks picked it up first. A ten second family rule beats it.\n\nDoes your family have a safe question yet?",
+      "links": [
+        "https://www.ic3.gov/AnnualReport/Reports/2025_IC3ElderFraudReport.pdf",
+        "https://www.fedweek.com/retirement-financial-planning/ai-is-amazing-at-targeting-older-persons-with-fraud/",
+        "https://www.medicare.gov/basics/reporting-medicare-fraud-and-abuse"
+      ],
+      "pixel": "20 sec talk-to-camera at a table (home or a charging stop lounge): \"Pick a question only your family knows. If the voice can't answer it, hang up.\" His face, his words.",
+      "target": "AARP's fraud account or a big verified senior-finance account posting about Open Enrollment: reply with the safe-question line.",
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "4",
+      "title": "$38 a month. What Colorado Springs solar owners will pay more under new rules (pack AP5, solar, Colorado, who pays)",
+      "ocr": "OK",
+      "window": "Thu ~7 PM MT (best cell on a weak day), or Wed 1-3 PM if #3 moves.",
+      "growth": false,
+      "angle": "A Colorado solar story with a hard dollar number, recirculating this week. His take as a solar owner on the other side of the state: ask what happens if your utility changes the rules before you sign. Battery mention one line max or none. Not the rooftop-solar growth stat (LIVE Sun) and not backup power (Powerwall quote LIVE Mon).",
+      "bullets": [
+        "Colorado Springs Utilities (city-owned): City Council approved new net metering rules Sept 22, 2026 (Gazette). Recirculating Oct 19.",
+        "Solar customers pick one: a new $1.00 a day grid access charge with time-of-day rates (on-peak 5-9 PM weekdays), or a demand charge on their highest 15-minute on-peak use.",
+        "CSU's own estimate: either option raises a typical solar bill about $38 a month (2027 rates).",
+        "Agreements before April 1, 2027 are grandfathered until April 1, 2032. New customers move sooner.",
+        "CSU says solar customers were shifting about $400 a year each onto non-solar neighbors; solar owners say it guts their payback (CPR: one owner invested $40,000)."
+      ],
+      "body": "SHORT VERSION:\n$38 a month. That's how much more Colorado Springs Utilities says solar owners will pay under its new rules, including a $1 a day grid charge.\n\nI'm a solar owner on the other side of the state. [my take: ___]\n\nIf you're shopping for solar, would this change your mind?\n\nLONGER VERSION:\n$38 a month. That's how much more Colorado Springs Utilities figures a typical solar owner will pay under its new rules.\n\nSolar customers there get two choices. A $1 a day grid charge plus rates that cost more from 5 to 9 PM on weekdays. Or a charge based on their single heaviest 15 minutes of use in those evening hours.\n\nIf you signed up before April 1, 2027, you're grandfathered until 2032. Everybody after that gets it sooner.\n\nThe utility says solar homes were pushing about $400 a year each onto neighbors without panels. Solar owners say it wrecks the payback they were sold. One guy put $40,000 into his system.\n\nI've got solar on the other side of the state with [Xcel / Grand Valley Power]. [my take: fair or not? While we were on the road our panels made ___ kWh.]\n\nHere's the one thing I'd tell anybody shopping for solar. Ask the installer what happens if your utility changes the rules. Your contract doesn't lock in the utility's rates. Colorado Springs says that right on its own page.\n\nWould this change your mind about buying solar?",
+      "links": [
+        "https://www.csu.org/solar-energy-program/net-metering-changes",
+        "https://gazette.com/2026/09/22/electric-rate-decrease-net-metering-hikes-approved-for-colorado-springs-utilities/",
+        "https://www.cpr.org/2026/09/01/colorado-springs-utilities-rate-change-solar/"
+      ],
+      "pixel": "Optional, once home: 15 sec by the meter or with the Enphase app open: \"Before you buy solar, ask this one question.\"",
+      "target": "@Enphase, or a Colorado news account (Gazette, CPR) if they post the story: reply with the ask-your-installer line.",
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "5",
+      "title": "$6.32 a gallon for diesel. A year ago it was $3.62 (pack AP4, truck guys 35-54, cost per mile)",
+      "ocr": "Strong",
+      "window": "Fri 11 AM-12 PM MT (or Wed 1-3 PM if #3 waits). Best once he's home and can check his real cents per mile.",
+      "growth": false,
+      "angle": "Diesel jumped far more than gas this year, and truck and work-van guys feel it most. Put his own road-trip cents per mile next to a diesel pickup's, no lecture. Uses fast-charger cost, not the 6.8c home rate (LIVE). Skip any truck power-outlet line (his R1T 240V reply this morning is LIVE).",
+      "bullets": [
+        "AAA national average diesel, Oct 20, 2026: $6.3199. A year ago: $3.6192, up about 75%. Record high was $6.5276 on Sept 22, 2026.",
+        "Regular is $4.2786, so diesel is now about $2 a gallon more than gas.",
+        "A 20 mpg diesel pickup: $6.32 / 20 = about 32 cents a mile in fuel.",
+        "Model Y rough estimate (check his app): about 0.27 kWh a mile; at his 36c to 45c Supercharger stops that's roughly 10 to 12 cents a mile.",
+        "His fill-in: his real cents per mile from the trip or the Tesla app."
+      ],
+      "body": "SHORT VERSION:\n$6.32 a gallon for diesel today. A year ago it was $3.62.\n\nA 20 mpg diesel truck is about 32 cents a mile in fuel now.\n\nMy Model Y on this road trip: [___] cents a mile. And that's paying fast-charger prices.\n\nTruck guys, what did your last fill-up cost?\n\nLONGER VERSION:\n$6.32 a gallon for diesel today. A year ago it was $3.62. That's up about 75 percent, and it's about $2 more than regular.\n\nI [grew up around / still own / used to drive] trucks, so this one hurts to look at. A 20 mpg diesel pickup is about 32 cents a mile in fuel right now. Fill a 26 gallon tank and you're north of $160.\n\nI ran the same math on our road trip. Paying fast-charger prices the whole way, 36 to 45 cents a kWh, the Model Y came out around [___] cents a mile. At home it's [___].\n\nI'm not telling anybody to sell their truck. Some jobs need a truck. But if you've got a second vehicle that mostly does errands and highway miles, run the numbers once.\n\nTruck guys, what are you paying to fill up this week?",
+      "links": [
+        "https://gasprices.aaa.com/"
+      ],
+      "pixel": "15 sec parked by a truck-stop diesel price sign on the way home: \"Look at that diesel price. Here's what I'm paying per mile.\" Film parked.",
+      "target": "@SawyerMerritt or a big verified truck/fleet account the next time fuel prices come up: one line with his cents per mile vs 32 cents.",
+      "label": "FRAMEWORK / rewrite-before-post"
+    }
+  ]
+}
