@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-21",
+  "label": "FRAMEWORK - rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "1",
+      "title": "$[___] so far. Day 1 of the drive home vs my $180 guess (pack AP1, EV first-hand) - MAIN TODAY",
+      "ocr": "Strong",
+      "window": "Tonight at the last stop (he'll likely be on Central by bedtime). Day 2 lands Thu ~8 PM, the bright cell.",
+      "growth": true,
+      "angle": "The guess game is live and people guessed. Tonight is the first scoreboard. One number, one photo, one question. Repeat nightly.",
+      "bullets": [
+        "His public guess (Mon Oct 19): $180 for ~1,500 miles home. https://x.com/UpgradeAmerican/status/2112299869389951480",
+        "AAA national regular, Oct 21: $4.2644 (week ago $4.3333, year ago $3.0478). Still about $1.22 above last year.",
+        "Route today: Chattanooga through Nashville and west.",
+        "His fill-ins: miles, stops, cheapest and priciest kWh, running total, closest guesser so far."
+      ],
+      "body": "SHORT VERSION:\n$[___] so far.\n\nDay 1 of the drive home: Chattanooga to [___]. [___] miles, [___] stops, [___] to [___] cents a kWh.\n\nMy guess was $180 for the whole trip.\n\nOn track, or did I lowball it?\n[photo: tonight's charger]\n\nLONGER VERSION:\n$[___] so far, and we're [___] miles closer to Colorado.\n\nDay 1 of the drive home took us from Chattanooga through Nashville to [___]. [___] charging stops. Cheapest was [___] cents a kWh at [___]. Priciest was [___] at [___].\n\nBest stop of the day: [___]. Worst: [___].\n\nOn Monday I guessed $180 for the whole 1,500 miles. A few of you guessed lower. [@___] is closest so far at $[___].\n\nGas is still sitting around $4.26 a gallon nationally. I'm not doing that math tonight, I'm just watching my own number.\n\nOn track, or did I lowball it?",
+      "links": [],
+      "pixel": "15 sec parked at the last stop: \"Day one on the way home. Here's where we are against my guess.\"",
+      "target": "quote his own guess post; reply once to the closest guesser by handle.",
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "2",
+      "title": "$0 and my hands stay on the wheel. Gemini can read your email in the car now. Grok rides in my Model Y. (pack AP2, AI for normal people)",
+      "ocr": "Strong",
+      "window": "Today ~12-1 PM ET (10-11 AM MT) at a charging stop, inside the warm band. Backup Thu ~8 PM.",
+      "growth": false,
+      "angle": "Pixel guy on a 1,500 mile drive, and Google just shipped \"ask your car about your own stuff.\" Calm and practical: what it does, that it's opt-in, which one he'd actually use behind the wheel. Not a privacy scare (his ChatGPT profiling quote is already live).",
+      "bullets": [
+        "Google, Oct 20, 2026: Gemini with Personal Intelligence rolling out on Android Auto starting that day; cars with Google built-in \"in the coming months.\"",
+        "Google's examples: \"What's my flight gate? Is my flight on time?\" and \"Take me to my doctor's appointment\" (pulls the address from your calendar).",
+        "Opt-in and off by default; you pick which apps connect (Gmail, Calendar, Photos, Maps, YouTube, Search) and can turn it off in Gemini settings. Personal accounts 18+, not Workspace business accounts.",
+        "Grok in Tesla lost its beta label in 2026.38.5.10 (Not a Tesla App)."
+      ],
+      "body": "SHORT VERSION:\n$0 and my hands stay on the wheel.\n\nGoogle just let Gemini on Android Auto read your Gmail and calendar. Say \"take me to my doctor's appointment\" and it finds the address.\n\nIt's opt-in. You pick what it can see.\n\nI've got Grok in my Model Y and a Pixel in my pocket. Today I asked Grok [___].\n\nWould you let AI read your email in the car?\n\nLONGER VERSION:\n$0, and it's one less reason to pick up your phone while driving.\n\nGoogle started rolling out Gemini with \"Personal Intelligence\" on Android Auto this week. It can look in your Gmail and calendar, so \"is my flight on time?\" or \"take me to my doctor's appointment\" just works. You don't have to dig for the confirmation email at a red light.\n\nIt's off until you turn it on, and you choose which apps it can see. You can shut it off any time.\n\nFor older drivers I think this is the real win. Fewer taps, fewer glances down.\n\nI'm 1,500 miles into a road trip with Grok in my Model Y and a Pixel in my pocket. On this drive I've used Grok for [___]. I'd use Gemini for [___].\n\nWould you let AI read your email in the car, or is that a line for you?",
+      "links": [
+        "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/",
+        "https://9to5google.com/2026/10/20/gemini-android-auto-personal-intelligence/"
+      ],
+      "pixel": "parked at a charger, phone in hand: \"Google just put Gemini in the car with your email. Here's the one thing I'd use it for.\"",
+      "target": "9to5Google's or Android Authority's post on the Gemini Android Auto story; one opinion line plus his Grok comparison.",
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "3",
+      "title": "$0 to tune in. Tesla reports tonight, and here's what I want to hear as an owner (pack AP3, Tesla life)",
+      "ocr": "OK to Strong",
+      "window": "Today ~2-3 PM ET (12-1 PM MT), before the call. Follow-up ~7-8 PM ET only if something owner-facing lands.",
+      "growth": true,
+      "angle": "Everyone else posts the stock. He posts the owner's wish list from a Supercharger, mid-trip. No investing talk, no merger (merger post is live), no Optimus/Cybercab value.",
+      "bullets": [
+        "Tesla Q3 2026 results after market close today, Wed Oct 21; live Q&A webcast 4:30 PM CT / 5:30 PM ET (3:30 PM MT) at ir.tesla.com.",
+        "The update he's on (2026.38.5.10) lists \"upcoming improvements\": expand reasoning to all behaviors and add pothole avoidance (Not a Tesla App).",
+        "His fill-in: the one owner question (examples: Supercharger prices on road trips, FSD price, when pothole avoidance ships, Grok features)."
+      ],
+      "body": "SHORT VERSION:\n$0 to tune in.\n\nTesla reports tonight at 5:30 Eastern, and I'll be [at a Supercharger in ___].\n\nForget the stock. As an owner, I want to hear about [___].\n\nWhat's the one thing you want Tesla to answer tonight?\n\nLONGER VERSION:\n$0 to listen, and I'll probably be plugged in at a Supercharger when it starts.\n\nTesla reports its third quarter tonight. Most of my feed will be about the stock. I'm on day [___] of a 3,000 mile round trip in my Model Y, so my questions are a little different.\n\nOne: [___]. (pothole avoidance is listed as \"coming\" in my update notes. When?)\nTwo: [___].\nThree: [___].\n\nI'll post what they actually say about mine after the call.\n\nOwners: what's the one thing you want answered tonight?",
+      "links": [
+        "https://ir.tesla.com"
+      ],
+      "pixel": "optional, parked at a charger: \"Tesla reports tonight. Here's the one owner question I want answered.\"",
+      "target": "@SawyerMerritt's earnings thread (on his watch list); one owner-question line.",
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "4",
+      "title": "$0 safe word. I ran sound for 20 years and a cloned voice still almost got past me (pack AP4, AI scams, 55+)",
+      "ocr": "Strong",
+      "window": "Thu ~8 PM (bright cell, he'll be on Central). Today's warm band works if F2/F3 slots are taken by driving.",
+      "growth": false,
+      "angle": "His own reply this week. He caught a cloned voice only because the room tone shifted, after 20+ years running sound. Most grandparents don't have that ear. The fix is free. Note: only name a family member if true. Replaces Tue's FBI 60+ $7.7B item; don't run both.",
+      "bullets": [
+        "His reply: \"The audio tone shifted when you stopped talking. It was either a cloned voice or you were in a sound proof studio.\" https://x.com/UpgradeAmerican/status/2112703584488005681",
+        "FTC: scammers need only a short clip of a family member's voice, often from social media, to clone it. Hang up and call back on a number you already have.",
+        "FCC: pick a family safe word ahead of time. AI-voice robocalls are illegal under the TCPA without consent.",
+        "FTC red flags: urgent, \"keep it secret,\" pay by wire, crypto, gift cards, or payment app."
+      ],
+      "body": "SHORT VERSION:\n$0. That's what a family safe word costs.\n\nI ran sound for over 20 years, and a cloned voice still almost fooled me this week. The only tell was the room tone.\n\n[Most grandparents / my ___] wouldn't stand a chance.\n\n[We set ours / We're picking ours this week.]\n\nDoes your family have one?\n\nLONGER VERSION:\n$0. That's the whole cost of the best scam protection your family can have.\n\nThis week I heard a voice clip that sounded exactly like the person. I only caught it because the background went dead silent when they stopped talking. I ran sound for bands and churches for over 20 years. That's the only reason I noticed.\n\nYour grandkids' voices are all over social media. A scammer only needs a few seconds.\n\nSo here's our plan:\nHang up.\nCall back on the number you already have.\nAsk for the safe word.\n\n[We set ours at ___ / We're picking ours this week.]\n\nDoes your family have a safe word yet?",
+      "links": [
+        "https://consumer.ftc.gov/articles/scammers-use-fake-emergencies-steal-your-money",
+        "https://www.fcc.gov/consumers/scam-alert/grandparent-scams-get-more-sophisticated"
+      ],
+      "pixel": "20 sec talk-to-camera, parked: \"I ran sound for 20 years. Here's how I almost got fooled, and the free fix.\"",
+      "target": "stand-alone first; quote TheReal_BCM's clip only if Brian is fine using it as the example.",
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "5",
+      "title": "$285 to $3,500. Solar you plug into a wall outlet, and a bill to let renters use it (pack AP6, renter solar, policy 1)",
+      "ocr": "OK",
+      "window": "Mon ~3 PM once home (or an open warm-band slot this week). Not today; today belongs to the trip and earnings.",
+      "growth": false,
+      "angle": "The simplest solar there is. No roof, no installer. A new House bill would add rebates and protect renters. Bill-only, no party, sponsor stays in the link.",
+      "bullets": [
+        "\"Socket Full of Sunshine Act\" introduced Oct 20, 2026 (House press release).",
+        "Typical plug-in system: 1 to 4 panels, $285 to $3,500 depending on size and battery; \"hundreds of dollars a year\" in savings (press release claim).",
+        "Would protect renters' right to use them, set safety standards, push states to drop utility approval fees, fund up to $1,000 state rebates for low and moderate income homes ($100M/yr DOE grants), and add a savings label.",
+        "10 states already have plug-in solar laws (Bright Saver, quoted in release). Only introduced, not law."
+      ],
+      "body": "SHORT VERSION:\n$285 to $3,500.\n\nThat's what solar you plug into a regular outlet costs. No roof. No installer. Renters too.\n\nMy rooftop system took a crew and a permit. [It cost me $___.]\n\n10 states already allow plug-in solar. A new bill in Congress would push the rest.\n\nWould you put panels on your balcony or fence if your landlord couldn't say no?\n\nLONGER VERSION:\n$285 to $3,500. That's the price range for solar that plugs into a regular wall outlet.\n\nOne to four panels on a balcony, a fence, or a patio. No roof work, no installer, and it goes with you when you move. That's a big deal if you rent, or if you're on a fixed income and can't swing a full system.\n\nTen states already allow it. A bill introduced this week would protect renters' right to use them, set safety rules, and fund rebates up to $1,000 for lower-income homes. It's only a bill so far.\n\nMy setup at home took a crew and a permit. [Mine cost $___ and saves me about $___ a month.] This is the version for everybody else.\n\nWould you put panels on your balcony if your landlord couldn't say no?",
+      "links": [
+        "https://menendez.house.gov/media/press-releases/menendez-introduces-bill-to-expand-access-to-plug-in-solar-and-lower-electric-bills"
+      ],
+      "pixel": "back home at his own panels: \"Mine took a crew and a permit. This kind plugs into the wall.\"",
+      "target": "a verified solar or household-energy creator posting about balcony or plug-in solar.",
+      "label": "FRAMEWORK / rewrite-before-post"
+    }
+  ]
+}
