@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-23",
+  "label": "FRAMEWORK - rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "1",
+      "title": "$180. Tomorrow I start 1,500 miles home on that guess. Last call for yours (pack AP1, EV first-hand) - MAIN TODAY",
+      "ocr": "Strong",
+      "window": "Fri ~1-3 PM phone time (warm band), or ~5-6 PM.",
+      "growth": true,
+      "angle": "The drive home starts Saturday. A last-call post today reopens the over/under game so the Sat and Sun scoreboard posts have a crowd waiting. OCR note: Strong. Dollar opener, a game with a deadline, an over/under anyone can answer in two words.",
+      "bullets": [
+        "His public guess (Mon Oct 19): $180 for the ~1,500-mile return. https://x.com/UpgradeAmerican/status/2112299869389951480",
+        "AAA national regular today, Oct 23: $4.2926 (yesterday $4.2701; a year ago $3.0713). Diesel $6.3172.",
+        "Same trip in a ~25 mpg gas car: ~60 gallons x $4.29 = about $258.",
+        "AAA says October is on track to be the priciest October ever for gas, with crude near $100."
+      ],
+      "body": "SHORT VERSION:\n$180.\n\nThat's my guess for the 1,500 miles home, and I pull out tomorrow morning.\n\nSame drive in a gas car is about $258 at today's $4.29 a gallon.\n\nLast call. Over or under $180? Closest guess gets a shout-out when I roll into the driveway.\n\n[photo: car plugged in at ___]\n\nLONGER FRAMEWORK:\n$180. That's the number I put out there Monday for the whole drive home from Kentucky to Grand Junction, and tomorrow I find out if I was right.\n\nThe route is back across Missouri and Kansas, then up and over the Rockies. First planned stop is [___].\n\nIf I drove the same trip in a gas car getting 25 mpg, that's about 60 gallons. At today's national average of $4.29, that's around $258. And gas isn't getting cheaper. AAA says this is shaping up to be the most expensive October on record.\n\nI'll post a running total every night. Tell me now: over or under $180?",
+      "links": [
+        "https://gasprices.aaa.com/",
+        "https://x.com/UpgradeAmerican/status/2112299869389951480"
+      ],
+      "pixel": "Parked in the driveway, 15 sec: \"Tomorrow I drive home. My guess is 180 bucks. Tell me over or under.\" Film parked or have someone else film; never while driving.",
+      "target": "Quote his own Mon guess post; reply to every Monday guesser by name so they come back.",
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "2",
+      "title": "$15. That's about what the average Supercharger stop costs. Here's what mine cost (pack AP2, charging first-hand)",
+      "ocr": "Strong",
+      "window": "Fri ~11 AM-1 PM, or Sat from the first stop on the drive home.",
+      "growth": false,
+      "angle": "Turns \"43 cents a kWh\" into a dollars-per-stop number anyone can picture, and sets up the drive-home stops. Replaces Thu's 43c item (not posted). OCR note: Strong. A dollar-per-stop number is easier to feel than cents per kWh, and every EV owner has an answer.",
+      "bullets": [
+        "Tesla member Supercharger rate, October average: $0.434/kWh; non-Tesla standard $0.624 (DCFC Tracker).",
+        "Q3 2026: a record 69 million Supercharger sessions, up 29%; average session 34.8 kWh. 34.8 x $0.434 = about $15.",
+        "8,904 stations and 84,465 stalls worldwide, more than 40,000 stalls in the U.S.",
+        "New building slowed: about 200 new stations in Q3, the fewest since 2021, and ~600 stalls removed.",
+        "His outbound stops ran roughly 36c to 45c (his report card)."
+      ],
+      "body": "SHORT VERSION:\n$15.\n\nThat's about what the average Supercharger stop costs right now.\n\nMy cheapest stop driving east was [$___]. My priciest was [$___].\n\nA fill-up in my old truck used to run [$___].\n\nWhat did your last fast charge cost you?\n\nLONGER FRAMEWORK:\n$15. That's roughly what a typical Supercharger stop costs today, about 35 kWh at 43 cents.\n\nOn my drive out to Kentucky my stops ran 36 to 45 cents. Cheapest stop was [___] for [$___]. Priciest was [___] for [$___].\n\nHere's the part I'm watching on the way home: Tesla says chargers saw a record number of sessions last quarter, but they built fewer new stations than any quarter since 2021. More cars, fewer new stalls. I'll tell you if I hit any lines.\n\nWhat did your last fast charge cost?",
+      "links": [
+        "https://evchargingstations.com/chargingnews/tesla-supercharger-q3-2026/",
+        "https://dcfctracker.com/reports/supercharger"
+      ],
+      "pixel": "Parked at the stall, screen showing session cost: \"This stop cost me ___. The average is about 15 bucks.\" Film parked or have someone else film; never while driving.",
+      "target": "@SawyerMerritt (or a verified charging-data account) on the Q3 Supercharger numbers: \"Record use, fewer new stalls. I'll report the lines on my drive home.\"",
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "3",
+      "title": "One button. I held it on my Pixel and asked [___]. Here's what Grok did (pack AP4, AI for normal people)",
+      "ocr": "OK to Strong",
+      "window": "Fri ~3-5 PM, or Mon ~3 PM.",
+      "growth": false,
+      "angle": "Follow-up to his LIVE Fri 5:52 AM post (Grok as default assistant). Not a repeat: \"the first real thing I used it for,\" honest about the good and the not-quite. No jargon. Twin check: post as a self-reply or quote of his 5:52 AM post https://x.com/UpgradeAmerican/status/2113599336734937465 , not a fresh \"it's my default\" post. OCR note: OK to Strong. Strong only if [___] is a real everyday ask (directions, a bill question, a reminder). Weak if it reads like a product announcement.",
+      "bullets": [
+        "Since Oct 20, Android lets you set Grok Bot as the default digital assistant (Settings > Apps > Default apps > Digital assistant app), per TeslaNorth and Tesla News Wire.",
+        "Android warns the assistant can read what's on your screen. Worth saying plainly.",
+        "Voice calls now remember the last call for 30 minutes, so a question from the car can continue on the phone.",
+        "Gemini is pushing the same idea into Android Auto (one line only, not its own post)."
+      ],
+      "body": "SHORT VERSION:\nOne button.\n\nI held it on my Pixel and asked [___].\n\nIt [did ___ / got ___ wrong].\n\nNo typing. No menus. For anyone who finds phones a hassle, that's the part that matters.\n\nWhat would you ask it first?\n\nLONGER FRAMEWORK:\nThis morning I switched my phone's assistant to Grok. Here's the first real thing I asked it: [___].\n\nWhat it got right: [___]. What it didn't: [___].\n\nOne heads up. Android warns you it can see your screen. So I don't use it when my bank app is open. Common sense, same as anything.\n\nMy mom would never type a question into a chat box. But hold a button and talk? She'd do that. That's the whole point for most people.\n\nWhat would you ask it first?",
+      "links": [
+        "https://teslanorth.com/2026/10/20/grok-bot-x-dms-android-assistant/",
+        "https://teslanewswire.com/articles/grok-bot-x-chat-dms-tag-bot-android-default-assistant-oct-20-2026"
+      ],
+      "pixel": "Parked, 15 sec: hold the button, ask the question out loud, show the answer on screen. Film parked or have someone else film; never while driving.",
+      "target": "Matt Palmer (@mattyp) \"What's new in Grok Bot\" video post, or a verified Tesla/X news account covering the Android default-assistant change.",
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "4",
+      "title": "22%. That's how much range an EV can lose near freezing. I cross the Rockies this weekend (pack AP3, EV first-hand)",
+      "ocr": "OK to Strong",
+      "window": "Sat ~5-6 PM (bright cell), as Day 1 of the drive wraps. If Sat is the scoreboard post, move this to Sun ~1 AM or post as a reply under it.",
+      "growth": false,
+      "angle": "The drive home goes over the Rockies on I-70 in late October. Honest \"here's what cold does and what I do about it.\" No fear, no specs. Sets up the Rockies payoff post. OCR note: OK to Strong. Cold range is the top worry for people on the fence, and \"I'll post the real numbers\" brings them back for the payoff.",
+      "bullets": [
+        "Near 32 F an EV can lose about 22% of its range, mostly from heating the cabin and a cold battery (Selectra test summary, U.K.; same physics here).",
+        "Easy fixes: warm it up while still plugged in, use seat and wheel heat instead of blasting the cabin, check tire pressure, plan a bigger buffer.",
+        "Tesla nav warms the battery on the way to a Supercharger so it charges faster in the cold.",
+        "Fill-ins for the payoff post: [% at the bottom ___ / % at the top ___ / outside temp ___]."
+      ],
+      "body": "SHORT VERSION:\n22%.\n\nThat's how much range an EV can lose near freezing.\n\nThis weekend I drive home over the Rockies in late October.\n\nMy plan: warm it up while it's still plugged in, seat heat instead of cabin heat, and a bigger buffer than I think I need.\n\nI'll post the real numbers from the top. What's your cold-weather trick?\n\nLONGER FRAMEWORK:\n22%. That's how much range an electric car can lose when it's around freezing. Most of it goes to keeping you warm, not moving the car.\n\nI'm about to find out for myself. Sunday I climb the Rockies on I-70 heading home to Grand Junction.\n\nHere's what I'm doing: warm the car while it's still on the charger so the wall pays for the heat, not the battery. Heated seat and wheel instead of cranking the cabin. Tires checked. And I'll charge a little higher than the car says I need.\n\nI'll post what the battery read at the bottom and the top. Old-timers who drive EVs in snow country, what's your trick?",
+      "links": [
+        "https://selectra.co.uk/energy/news/electric-car-winter-range-0c",
+        "https://gettesla.com/articles/prepare-your-tesla-for-winter-range-loss"
+      ],
+      "pixel": "At a stop, parked: point at the outside temp on the screen: \"It's ___ degrees. Here's what I'm doing so I don't lose range.\" Film parked or have someone else film; never while driving.",
+      "target": "A verified Tesla owner account posting winter tips: \"Doing this over the Rockies Sunday. Will report back.\"",
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "5",
+      "title": "$3 billion. That's what people 60+ reported losing to scams last year. Two free fixes (pack AP5, AI for normal people, 55+)",
+      "ocr": "Strong",
+      "window": "Tue ~1-3 PM (strongest weekday block), or a Thu ~8 PM Pixel video version.",
+      "growth": true,
+      "angle": "Fresh FTC numbers give a dollar opener for the safe-word story he already lived. Replaces Thu's safe-word item (not posted). Kind tone, no shaming victims. OCR note: Strong. Big dollar, two concrete free steps, and a question aimed at 35-54 sons and daughters that lands with 55+ too. Very saveable.",
+      "bullets": [
+        "FTC report to Congress: Americans 60+ reported about $3 billion in fraud losses in 2025, up 25% from $2.4B in 2024 and up 400% from $600M in 2020 (CNBC, Oct 22).",
+        "Only 6% lost $100,000 or more, but they were 70% of the losses. FTC estimates the real total with unreported losses could be $13.3B to $119.5B.",
+        "Investment scams cost the most (over $1B, up 42%), then government impersonation ($448M) and business impersonation ($422M).",
+        "Free fix 1: a family safe word (his cloned-voice catch https://x.com/UpgradeAmerican/status/2112703584488005681). Free fix 2: a \"trusted contact\" on your bank or brokerage account.",
+        "Medicare open enrollment runs to Dec 7, a busy season for fake \"Medicare\" calls (CMS)."
+      ],
+      "body": "SHORT VERSION:\n$3 billion.\n\nThat's what people 60 and older reported losing to scams last year. Up 25%.\n\nTwo free fixes I did:\nA family safe word.\nA trusted contact on my bank account.\n\nTook about 10 minutes. Have you set these up for your parents?\n\nLONGER FRAMEWORK:\n$3 billion. That's just what people 60 and up reported losing to scams last year. The FTC thinks the real number is a lot bigger because most people never report it.\n\nA few weeks ago I heard a voice that sounded right and wasn't. I caught it because I spent 20 years running sound. Most people won't have that.\n\nSo here are two free things that work no matter how good the fake sounds:\nA family safe word. If someone calls in a panic, ask for it.\nA trusted contact at your bank. If something looks off, they call that person before your money moves.\n\nAnd if it happens to someone you love, don't say \"how could you.\" They already feel it.\n\nHave you set this up for your parents yet?",
+      "links": [
+        "https://www.cnbc.com/2026/10/22/older-americans-fraud-losses-2025.html",
+        "https://security.cms.gov/posts/why-ai-making-medicare-vishing-scams-more-dangerous"
+      ],
+      "pixel": "Kitchen table, 30 sec, his face and words: \"Here's the safe word talk I had with my family. Took two minutes.\" Film parked or have someone else film; never while driving.",
+      "target": "A verified personal-finance or consumer-protection account posting the FTC report: \"Safe word plus trusted contact. Both free. Do it this weekend.\"",
+      "label": "FRAMEWORK / rewrite-before-post"
+    }
+  ]
+}
