@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-24",
+  "label": "FRAMEWORK - rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "1",
+      "title": "$[___] after Day 1. My guess was $180 for the whole drive home (MAIN, Sat ~5-6 PM)",
+      "ocr": "Strong",
+      "window": "Sat ~5-6 PM (bright cell), or ~11 PM if still driving.",
+      "growth": true,
+      "angle": "the guess game finally pays off. Day 1 running total tonight against his public $180 guess and today's gas price. Skip the \"last call\" post; just start counting. OCR note: Strong. Dollar opener, a running game with a payoff, and an over/under anyone can answer.",
+      "bullets": [
+        "His public guess (Mon Oct 19): $180 for the ~1,500-mile return. https://x.com/UpgradeAmerican/status/2112299869389951480",
+        "AAA national regular today: $4.2957, vs $3.0679 a year ago. Diesel $6.3374.",
+        "Same trip in a ~25 mpg gas car: about 60 gallons x $4.30 = roughly $258.",
+        "His fill-ins: Day 1 miles [___], stops [___], spent [$___], cheapest stop [___]."
+      ],
+      "body": "\"$[___]. That's what Day 1 of the drive home cost me. [___] miles, [___] stops, Kentucky to [tonight's town].\n\nLast Monday I guessed $180 for the whole trip back to Grand Junction. So far I'm [ahead / behind] where I need to be.\n\nCheapest stop today: [___] at [___ cents]. Priciest: [___].\n\nSame miles in a gas car at today's $4.30 a gallon? About $[___].\n\nTomorrow is [___] miles to [___]. Am I going over or under $180? [photo: car at tonight's stop]\"",
+      "links": [
+        "https://gasprices.aaa.com/"
+      ],
+      "pixel": "15 sec, parked at the night's last stop: \"Day 1 done. Here's what it cost. Over or under 180?\" Film parked or have someone else film; never while driving.",
+      "target": "quote his own Monday guess post and answer anyone who guessed.",
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "2",
+      "title": "[___] minutes. That's how long I waited for a stall on the way home (Sat ~11 PM or Sun)",
+      "ocr": "Strong",
+      "window": "Sat ~11 PM, Sun ~1 AM, or Sun daytime.",
+      "growth": false,
+      "angle": "pays off his own Fri \"$15\" post, which ended with \"Here's the part I'm watching on the way home.\" Real lines, not stats. Post as a reply or quote of that post. OCR note: Strong as a quote of his own post (thread continuity) or a self-reply.",
+      "bullets": [
+        "Tesla Q3 2026: record 69 million Supercharger sessions (up 29%), but only about 200 new stations, down about 47% from a year ago and the fewest since 2021 (evchargingstations.com).",
+        "His Fri post: https://x.com/UpgradeAmerican/status/2113698972086981029",
+        "His fill-ins: busiest stop [___], wait [___ min], stalls open when he pulled in [___ of ___]."
+      ],
+      "body": "\"[___] minutes. That's the longest I waited for a charger on the drive home so far.\n\n[Town] had [___] of [___] stalls open when I pulled in on a Saturday. Everywhere else I plugged right in.\n\nHere's why I'm watching: Tesla just had its busiest quarter ever, 69 million charging sessions. But it built the fewest new stations since 2021.\n\nMore cars, fewer new chargers. That math catches up eventually. Have you had to wait for a charger lately? [photo: the stall row]\"\nIf there were no waits, flip it: \"0 minutes. Zero lines on Day 1...\" and ask the same question.",
+      "links": [
+        "https://evchargingstations.com/chargingnews/tesla-supercharger-q3-2026/"
+      ],
+      "pixel": "parked, pan the stall row: \"Here's the line at ___ on a Saturday.\" Film parked or have someone else film; never while driving.",
+      "target": "quote his own Fri post; a verified charging-data account (DCFC Tracker style) if they post Q3 numbers.",
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "3",
+      "title": "[___]%. That's what I had left at the Eisenhower Tunnel in the cold (whenever he crosses)",
+      "ocr": "Strong",
+      "window": "Sun daytime if he crosses Sun; else Mon ~3 PM.",
+      "growth": false,
+      "angle": "payoff for his Fri \"a year of Colorado weather\" post. Honest numbers over the top of I-70, no fear. OCR note: Strong with his real screen photo.",
+      "bullets": [
+        "Eisenhower Tunnel sits at 11,158 ft; forecast lows near 27-28F Sat and Sun nights, some ice or snow possible (forecast, not a measurement).",
+        "Vail Pass: light snow possible Sat night into Sun.",
+        "Rule of thumb: up to about 22% less range near freezing; the long downhill toward Grand Junction gives some back through regen.",
+        "His fill-ins: % leaving the last stop before the climb [___], % at the tunnel [___], % at Glenwood or home [___], outside temp [___]."
+      ],
+      "body": "\"[___]%. That's what I had at the Eisenhower Tunnel, [___] degrees outside.\n\nI left [town] with [___]%. The climb ate more than summer, no surprise. Then the long downhill to Grand Junction gave back [___]%.\n\nCold costs range. Planning beats worrying. I checked the road report, charged a little extra at the bottom, and drove.\n\nWhat's the coldest drive you've ever done in an EV? [photo: screen at the tunnel, parked]\"",
+      "links": [
+        "https://cotrip.org",
+        "https://x.com/UpgradeAmerican/status/2113692537886298480"
+      ],
+      "pixel": "passenger films the screen, or he films parked at the next stop: \"Over the top of the Rockies in the cold. Here's what it cost me.\" Safety: check COtrip before the climb. Never film while driving.",
+      "target": "quote his Fri setup post; a verified Colorado EV or Tesla owner account.",
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "4",
+      "title": "$[___] a month. That's my Verizon bill after 25+ years. Starlink Mobile has me thinking (Mon ~3 PM or Tue ~1-3 PM)",
+      "ocr": "Strong",
+      "window": "Mon ~3 PM or Tue ~1-3 PM (weekday bill talk).",
+      "growth": true,
+      "angle": "his @wholemars reply was his best of the week (2,120 impressions, 57 likes). Turn it into a standalone bill post. Pocketbook, not tech. No carrier bashing; keep it about price and choice. OCR note: Strong. Everyone has a phone bill; \"what do you pay\" pulls replies across ages.",
+      "bullets": [
+        "FCC approved up to 15,000 next-gen Starlink phone satellites on Oct 6, 2026; SpaceX also bought 800 MHz spectrum and says Starlink Mobile will be a \"major mobile carrier.\"",
+        "No SpaceX plan or price yet; its own service is targeted around early 2028 (PhoneArena).",
+        "Today the US way to get it is T-Mobile T-Satellite: $10/month per line, or included on Experience Beyond. Texting and select apps, outdoors.",
+        "His fill-ins: monthly bill [$___], lines [___]."
+      ],
+      "body": "\"$[___] a month. That's what I pay Verizon, and I've been with them more than 25 years.\n\nThey've been fine. But fine gets expensive.\n\nStarlink Mobile just got the green light for up to 15,000 phone satellites. No price yet, and maybe not until 2028. T-Mobile already sells satellite texting for $10 a line.\n\nA fourth real choice in my pocket? If it beats what I pay now, I'd switch.\n\nWhat do you pay for your phone every month?\"",
+      "links": [
+        "https://www.phonearena.com/news/starlink-mobile-hits-a-major-milestone-as-spacex-reveals-when-it-could-be-your-next-carrier_id184273",
+        "https://www.rsinc.com/fcc-approves-starlink-mobile-15000-satellites.php"
+      ],
+      "pixel": "optional, holding the phone at home: \"25 years with one carrier. Here's what it costs me.\" Film parked or have someone else film; never while driving.",
+      "target": "quote @wholemars's Starlink Mobile post with the bill line.",
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "5",
+      "title": "$0. No real cop will ever ask you to pull cash out of your bank (Tue ~1-3 PM or Thu ~8 PM)",
+      "ocr": "Strong",
+      "window": "Tue ~1-3 PM (strongest weekday block) or Thu ~8 PM.",
+      "growth": false,
+      "angle": "a fresh Kentucky warning from the day he left. Keeps the free safe-word fix front and center for parents and grandparents. OCR note: Strong. Free fix, shareable to parents, save-worthy.",
+      "bullets": [
+        "Glasgow, KY police (Oct 23): scammers tell older residents to withdraw cash to help \"investigate internal theft\" at their bank, then meet a fake \"FBI agent\" to check the bills for fingerprints. \"No law enforcement agency will ask you to withdraw money for an investigation.\" (WSMV)",
+        "Grandparent scams now use AI voice clones from a few seconds of family video; the fix is hang up and call back on a number you already have, plus a family code word.",
+        "VA \"Trick or trust?\" (Oct 23): fake VA texts and deepfakes circulating. VA benefits fraud line 833-388-7233.",
+        "His own cloned-voice catch: https://x.com/UpgradeAmerican/status/2112703584488005681"
+      ],
+      "body": "\"$0. That's how much cash a real police officer will ever ask you to pull out of the bank.\n\nPolice in Glasgow, Kentucky, where I just was, are warning about a new one. A 'detective' calls an older person, says their bank has an inside thief, and asks them to withdraw cash. Then a fake 'FBI agent' shows up to 'check the bills for fingerprints.' The money's gone.\n\nTwo free fixes. Hang up and call your bank on the number on your card. And pick a family safe word so nobody can fake a grandkid's voice.\n\nWe have one. Does your family?\"",
+      "links": [
+        "https://www.wsmv.com/2026/10/23/kentucky-police-warn-scam-targeting-elderly-people-heres-what-know/",
+        "https://news.va.gov/149751/trick-or-trust-spot-cyber-fraud-fast/"
+      ],
+      "pixel": "20 sec at home: \"If a 'cop' calls asking you to pull cash, hang up. Here's the one thing that protects my family.\" Film parked or have someone else film; never while driving.",
+      "target": "a verified senior-finance or consumer-protection account posting scam warnings this week.",
+      "label": "FRAMEWORK / rewrite-before-post"
+    }
+  ]
+}
