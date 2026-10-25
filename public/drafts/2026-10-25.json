@@ -1,0 +1,119 @@
+{
+  "date": "2026-10-25",
+  "label": "FRAMEWORK - rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "1",
+      "title": "$[___]. That's what the whole drive home cost me. My guess was $180 (MAIN, tonight once home)",
+      "ocr": "Strong",
+      "window": "tonight when he's home (live moment), or Mon ~3 PM if he's too tired.",
+      "growth": true,
+      "angle": "the guess game ends tonight. One final number against his public $180 guess and today's gas price. Day 1 never posted, so skip it and go straight to the total. OCR note: Strong. Dollar opener, a game with a real payoff, and \"who got closest\" pulls replies.",
+      "bullets": [
+        "His public guess (Mon Oct 19): $180 for the ~1,500-mile return. https://x.com/UpgradeAmerican/status/2112299869389951480",
+        "AAA national regular today, Oct 25: $4.2892, vs $3.0591 a year ago. Diesel $6.3474.",
+        "Same trip in a ~25 mpg gas car: about 60 gallons x $4.29 = roughly $257.",
+        "Nearly all of it on FSD (his own Sat posts).",
+        "His fill-ins: total miles [___], stops [___], total spent [$___], cheapest stop [___], priciest stop [___]."
+      ],
+      "body": "\"$[___]. That's what the whole drive home from Kentucky cost me. [___] miles, [___] Supercharger stops, Kentucky to Grand Junction.\n\nLast Monday I guessed $180. I came in [over / under] by $[___].\n\nCheapest stop: [___] at [___ cents]. Priciest: [___] at [___ cents].\n\nSame miles in a gas car at today's $4.29 a gallon? About $257. That's $[___] that stayed in my pocket.\n\nThanks to everybody who threw out a guess. Who got closest? [photo: car in the driveway in Grand Junction]\"",
+      "links": [
+        "https://gasprices.aaa.com/",
+        "https://x.com/UpgradeAmerican/status/2112299869389951480"
+      ],
+      "pixel": "15 sec in the driveway, parked: \"We're home. Here's what 1,500 miles cost. Over or under 180?\"",
+      "target": "quote his own Oct 19 guess post, then reply to each person who guessed.",
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "2",
+      "title": "[___]%. That's what I had left at the Eisenhower Tunnel in the cold (live, as he crosses)",
+      "ocr": "Strong",
+      "window": "as he crosses this afternoon, or fold it into F1 tonight if he only wants one post.",
+      "growth": false,
+      "angle": "payoff for his Fri \"a year of Colorado weather\" setup. Honest numbers over the top of I-70, no fear. @alexneil's tip from Sat (\"trust the nav, leave climate on auto, slow down a bit if range gets tight\") is a ready reply hook. OCR note: Strong with his real screen photo. Fear-buster for 55+ who worry about winter range.",
+      "bullets": [
+        "Eisenhower Tunnel sits at 11,158 ft. Forecast Sun high 39F, low 27F, ice possible early (weathernavigation.app forecast, not a measurement).",
+        "CDOT later showed Vail Pass and the tunnels dry with light snow chances. Check COtrip before the climb.",
+        "He's driven his Model Y about 14 months and 38K miles (his own reply Sat).",
+        "His setup post Fri: https://x.com/UpgradeAmerican/status/2113692537886298480",
+        "His fill-ins: % leaving the last stop before the climb [___], % at the tunnel [___], % at home [___], outside temp [___]."
+      ],
+      "body": "\"[___]%. That's what I had at the Eisenhower Tunnel, [___] degrees outside and 11,000 feet up.\n\nI left [town] with [___]%. The climb ate more than flat Kansas did, and the cold took its cut too. Then the downhill to Grand Junction gave some back. I rolled in with [___]%.\n\nNo drama. The car told me exactly where to stop, and it was right.\n\nCold costs range. Planning beats worrying.\n\nWhat's the coldest drive you've done in an EV? [photo: screen at the tunnel stop, parked or passenger]\"",
+      "links": [
+        "https://cotrip.org",
+        "https://www.weathernavigation.app/road-conditions/pass/eisenhower-tunnel"
+      ],
+      "pixel": "passenger films the screen, or him parked at the next stop: \"Over the top of the Rockies in the cold. Here's what it cost me.\"",
+      "target": "quote his Fri setup post and tag @alexneil's advice in a reply.",
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "3",
+      "title": "$[___] to drive 38,000 miles. A gas car would've been about $6,500 (Tue ~1-3 PM)",
+      "ocr": "Strong",
+      "window": "Tue ~1-3 PM (strongest weekday block). Keep it off today so it doesn't step on F1.",
+      "growth": true,
+      "angle": "he dropped \"14 months, 38K miles\" in a reply. That's a big, simple, first-hand ownership number. Real total from the Tesla app charging history plus his home bill. OCR note: Strong. Big dollar gap, his own screenshot, a question anyone with a car can answer.",
+      "bullets": [
+        "His own reply Sat: Model Y, about 14 months, 38K miles. https://x.com/UpgradeAmerican/status/2114098048863252958",
+        "Gas comparison: 38,000 miles / 25 mpg = 1,520 gallons x $4.29 (AAA today) = about $6,520.",
+        "Supercharger owner rate averaged $0.396/kWh in Q3, up about 9% in a year; non-Tesla EVs pay $0.569 (Paren Q3 via Not a Tesla App).",
+        "About 80% of EV charging happens at home.",
+        "His fill-ins: Supercharger total from the app [$___], home charging estimate [$___], maintenance so far [$___]."
+      ],
+      "body": "\"$[___]. That's what it cost me to drive my Model Y 38,000 miles in 14 months. Home charging plus every Supercharger stop, including this trip to Kentucky and back.\n\nA 25 mpg gas car at today's $4.29 a gallon? About $6,500.\n\nMaintenance so far: [___]. No oil changes. [tires / wipers / nothing].\n\nI'm not telling anybody what to drive. I'm just showing you my receipts.\n\nWhat did your last 38,000 miles cost you? [screenshot: Tesla app charging history]\"",
+      "links": [
+        "https://www.notateslaapp.com/news/4885/tesla-supercharger-prices-are-up-15-in-the-last-year",
+        "https://gasprices.aaa.com/"
+      ],
+      "pixel": "20 sec at the kitchen table holding the phone with the charging history: \"Fourteen months, 38,000 miles. Here's the real number.\"",
+      "target": "@SawyerMerritt's Roadster trim post. One-line quote: \"Fun car. The Tesla that changed my household budget is the boring one in my driveway: $[___] for 38,000 miles.\"",
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "4",
+      "title": "$20. That's what a scammer pays for AI that can fake your grandkid's voice (Tue ~1-3 PM or Thu ~8 PM)",
+      "ocr": "Strong",
+      "window": "Tue ~1-3 PM (strongest weekday block) or Thu ~8 PM.",
+      "growth": false,
+      "angle": "the price tag is the shock. You don't need to be a hacker anymore. Then one free fix. AI for normal people, no jargon, no fear-mongering. One line on the code word, not a lecture (safe word has been in earlier drafts but never went live as its own post; keep it fresh with the $20 hook). OCR note: Strong. Shocking small number, big loss number, $0 fix; works for 35-54 sons and 55+ parents, very shareable.",
+      "bullets": [
+        "Senate Aging Committee report (via FEDweek, Oct 24): AI scam software sells on the dark web for as little as $20.",
+        "FBI IC3: losses for people 60+ hit $7.7 billion in 2025, up from $4.8 billion in 2024.",
+        "Red flags: urgent, secret, gift cards, wire, crypto, cash.",
+        "Fix: a family code word, and call back on a number you already have.",
+        "Help: National Elder Fraud Hotline 1-833-FRAUD-11 (1-833-372-8311)."
+      ],
+      "body": "\"$20. That's what scammers pay for AI software that can fake a family member's voice. Not a hacker in a basement. Anybody with twenty bucks.\n\nPeople over 60 lost $7.7 billion to fraud last year. Way up from the year before.\n\nHere's the thing: the fix costs $0. My family picked a code word. If someone calls sounding like my grandkid and needs money fast, they get asked for it. No word, no money. Then I hang up and call them back on the number I already have.\n\nAI isn't the scary part. Not having a plan is.\n\nDoes your family have a code word yet?\"",
+      "links": [
+        "https://www.fedweek.com/retirement-financial-planning/ai-is-amazing-at-targeting-older-persons-with-fraud/",
+        "https://www.ic3.gov/"
+      ],
+      "pixel": "20 sec talk-to-camera at home: \"Scammers can fake my voice for twenty bucks. Here's the one word my family uses so it doesn't work.\"",
+      "target": "a verified AI-safety or senior-money creator posting about voice cloning this week (search \"voice clone scam\" on X Monday and quote the biggest verified one).",
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "5",
+      "title": "$30,712. That's the typical home solar quote now that the tax credit is gone (Mon ~3 PM)",
+      "ocr": "OK to Strong",
+      "window": "Mon ~3 PM (next bright cell, first weekday home).",
+      "growth": false,
+      "angle": "a real price check for families, paired with what his own system made while he was gone. First weekday home, open the Enphase app and post the number. OCR note: OK to Strong. Strong with his Enphase screenshot and @Enphase tag; weak without his real numbers.",
+      "bullets": [
+        "EnergySage H1 2026 (pv magazine, Oct 24): median $2.57/W, about $30,712 for a ~12 kW system before incentives; payback about 10.9 years. The 30% federal residential credit has expired.",
+        "Batteries: $1,130/kWh median. 76% of shoppers want one, only 31% get one; price is the top reason.",
+        "Enphase now shows up in 63% of inverter quotes, Tesla 29%.",
+        "His fill-ins: what his system cost [$___], kWh made while away [___] (Enphase app), what his bill was while gone [$___]."
+      ],
+      "body": "\"$30,712. That's the typical home solar quote right now, and the 30% tax credit is gone.\n\nMine cost [$___]. While I was gone [___] days on this road trip, it made [___] kWh with nobody home. My power bill for that stretch: $[___].\n\nPayback on a typical system is about 11 years now. That's longer than it used to be. For me it was still worth it because [one honest reason: lower bill / independence / charging the car off the roof].\n\nIf you were quoted $30K today, would you still do it? [screenshot: Enphase app production while away] @Enphase\"",
+      "links": [
+        "https://www.pv-magazine.com/2026/10/24/residential-solar-prices-rise-3-2-as-third-party-ownership-gains-ground/"
+      ],
+      "pixel": "15 sec in the driveway pointing at the roof: \"Gone almost two weeks. Here's what the roof made while I was away.\"",
+      "target": "@Enphase (watched account) if they post about the EnergySage report; else a verified solar installer sharing it.",
+      "label": "FRAMEWORK / rewrite-before-post"
+    }
+  ]
+}
