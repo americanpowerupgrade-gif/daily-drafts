@@ -90,3 +90,7 @@ a { color: var(--accent); }
 nav.tabs { display: flex; gap: 8px; margin-bottom: 12px; }
 nav.tabs button { background: #243049; }
 nav.tabs button.active { background: var(--accent); }
+summary { cursor: pointer; padding: 12px 0; }
+details { margin-top: 12px; }
+a { overflow-wrap: anywhere; }
+button:focus-visible, summary:focus-visible { outline: 3px solid var(--ok); outline-offset: 3px; }

@@ -1,155 +1,74 @@
-
 const app = document.getElementById('app')
-
-function todayStr() {
-  // America/Denver date for Brian
-  return new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Denver', year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date())
+const esc = value => String(value ?? '').replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;').replaceAll('"', '&quot;')
+const body = draft => (draft.body || '').replaceAll('\\n', '\n')
+const ready = draft => draft.status === 'ready' && body(draft).trim() && !/\[[^\]]*\]|___|\.\.\./.test(body(draft))
+const today = () => new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Denver', year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date())
+let request = 0
+async function json(path) {
+  const response = await fetch(path, { cache: 'no-store' })
+  if (!response.ok) return null
+  try { return await response.json() } catch { return null }
 }
-
-async function loadIndex() {
-  const r = await fetch('/drafts/index.json', { cache: 'no-store' })
-  if (!r.ok) return { dates: [], latest: null }
-  return r.json()
+function sources(draft) {
+  return (draft.links || []).filter(link => /^https?:\/\//.test(link)).map(link => `<li><a href="${esc(link)}" target="_blank" rel="noopener noreferrer">${esc(link)}</a></li>`).join('')
 }
-
-async function loadDay(date) {
-  const r = await fetch(`/drafts/${date}.json`, { cache: 'no-store' })
-  if (!r.ok) return null
-  const ct = r.headers.get('content-type') || ''
-  if (ct.includes('text/html')) return null
-  try { return await r.json() } catch { return null }
+function card(draft, index) {
+  const isReady = ready(draft)
+  return `<article class="card">
+    <h2>${esc(draft.title)}</h2>
+    <div class="meta">${isReady ? 'Ready to copy' : 'Needs your input'}${draft.topic ? ` · ${esc(draft.topic)}` : ''}</div>
+    <div class="draft-body" id="post-${index}" tabindex="0">${esc(body(draft))}</div>
+    ${isReady ? `<button data-copy="${index}">Copy post</button>` : '<p class="sub">Complete and verify this draft before posting.</p>'}
+    <details><summary>Sources and review notes</summary>
+      ${draft.checkedAt ? `<p>Reviewed ${esc(draft.checkedAt)}</p>` : ''}
+      <ul>${(draft.bullets || []).map(fact => `<li>${esc(fact)}</li>`).join('')}</ul>
+      <ul>${sources(draft)}</ul>
+    </details>
+  </article>`
 }
-
-function badgeOcr(ocr) {
-  const cls = String(ocr).toLowerCase().includes('strong') && !String(ocr).toLowerCase().includes('ok') ? 'strong' : 'ok'
-  return `<span class="badge ${cls}">OCR ${ocr}</span>`
-}
-
-function renderHome(date, data, index) {
-  const list = (data && data.drafts) ? data.drafts : []
-  app.innerHTML = `
-    <header>
-      <h1>Daily Drafts</h1>
-      <div class="sub">@UpgradeAmerican · rewrite in your voice before posting</div>
-      <div class="banner"><strong>FRAMEWORK</strong> — these are outlines. Rewrite, then post yourself. ChatGPT for typos only.</div>
-      <nav class="tabs">
-        <button class="active" id="tab-drafts">Drafts</button>
-        <button id="tab-how">How to use</button>
-      </nav>
-      <div class="date-row">
-        <label for="date">Day</label>
-        <input type="date" id="date" value="${date}" />
-      </div>
-    </header>
-    <main id="main"></main>
-  `
-  const main = document.getElementById('main')
-  if (!list.length) {
-    main.innerHTML = `<div class="empty">No frameworks for this day.${index.latest ? ` <button id="jump">Jump to latest drafts</button>` : ''}</div>`
-    document.getElementById('jump')?.addEventListener('click', () => route(index.latest))
-  } else {
-    main.innerHTML = list.map(d => `
-      <article class="card">
-        <h2>${escapeHtml(d.title)}</h2>
-        <div class="meta">
-          ${badgeOcr(d.ocr)}
-          ${d.growth ? '<span class="badge growth">Growth bet</span>' : ''}
-          <span class="badge framework">Framework</span>
-        </div>
-        <div class="meta">Window: ${escapeHtml(d.window || '')}</div>
-        <div>${escapeHtml(d.angle || '')}</div>
-        <button data-id="${d.id}">Open</button>
-      </article>
-    `).join('')
-    main.querySelectorAll('button[data-id]').forEach(btn => {
-      btn.addEventListener('click', () => route(date, btn.dataset.id))
+async function route(date = today()) {
+  const current = ++request
+  app.innerHTML = '<main role="status">Loading posts…</main>'
+  try {
+    const [index, data] = await Promise.all([json('/drafts/index.json'), json(`/drafts/${date}.json`)])
+    if (current !== request) return
+    const drafts = data?.drafts || []
+    const complete = drafts.filter(ready)
+    const incomplete = drafts.filter(draft => !ready(draft))
+    app.innerHTML = `<header><h1>Daily Drafts</h1>
+      <div class="sub">@UpgradeAmerican · Review, copy, post</div>
+      <div class="date-row"><label for="date">Day</label><input type="date" id="date" value="${esc(date)}"></div>
+      <p class="banner">${complete.length} ready-to-copy posts. Review sources, then post in X yourself.</p>
+      <p id="copy-status" role="status" aria-live="polite"></p>
+    </header><main>
+      ${complete.length ? complete.map(card).join('') : '<p class="empty">No complete posts for this day.</p>'}
+      ${index?.latest && index.latest !== date ? '<button id="latest">Open latest day</button>' : ''}
+      ${incomplete.length ? `<details><summary>${incomplete.length} drafts need your input</summary>${incomplete.map(draft => card(draft, -1)).join('')}</details>` : ''}
+      <details><summary>How to use</summary><p>Read a complete post and check its sources. Copy the post, then paste into X and publish yourself. Copy includes only the post text. Personal stories require your own confirmed details.</p><p>New days appear when the daily author adds a dated draft file. This app does not generate posts.</p></details>
+    </main>`
+    document.getElementById('date').onchange = event => route(event.target.value || today())
+    document.getElementById('latest')?.addEventListener('click', () => route(index.latest))
+    document.querySelectorAll('[data-copy]').forEach(button => {
+      button.onclick = async () => {
+        try {
+          await navigator.clipboard.writeText(body(complete[Number(button.dataset.copy)]))
+          button.textContent = 'Copied'
+          document.getElementById('copy-status').textContent = 'Post copied. Paste into X when ready.'
+        } catch {
+          document.getElementById('copy-status').textContent = 'Copy unavailable. Select the post text and copy it manually.'
+          const range = document.createRange()
+          range.selectNodeContents(document.getElementById(`post-${button.dataset.copy}`))
+          const selection = window.getSelection()
+          selection.removeAllRanges()
+          selection.addRange(range)
+        }
+      }
     })
-  }
-  document.getElementById('date').addEventListener('change', (e) => route(e.target.value))
-  document.getElementById('tab-how').addEventListener('click', () => renderHow(date))
-}
-
-function renderDetail(date, draft) {
-  app.innerHTML = `
-    <header>
-      <button class="secondary" id="back">← Back</button>
-      <h1 style="margin-top:12px">${escapeHtml(draft.title)}</h1>
-      <div class="meta">
-        ${badgeOcr(draft.ocr)}
-        ${draft.growth ? '<span class="badge growth">Growth bet</span>' : ''}
-        <span class="badge framework">Framework</span>
-      </div>
-      <div class="banner">Rewrite in your voice before posting. Do not paste blindly.</div>
-    </header>
-    <main>
-      <h3>Angle</h3>
-      <p>${escapeHtml(draft.angle || '')}</p>
-      <h3>Facts</h3>
-      <ul>${(draft.bullets || []).map(b => `<li>${escapeHtml(b)}</li>`).join('')}</ul>
-      <h3>Framework draft</h3>
-      <div class="draft-body" id="body">${escapeHtml((draft.body || '').replaceAll('\\n', '\n'))}</div>
-      <button id="copy">Copy text</button>
-      <h3>Links</h3>
-      <ul>${(draft.links || []).map(l => `<li><a href="${l}" target="_blank" rel="noopener">${l}</a></li>`).join('')}</ul>
-    </main>
-  `
-  document.getElementById('back').onclick = () => route(date)
-  document.getElementById('copy').onclick = async () => {
-    const text = (draft.body || '').replaceAll('\\n', '\n')
-    await navigator.clipboard.writeText(text)
-    const b = document.getElementById('copy')
-    b.textContent = 'Copied'
-    setTimeout(() => b.textContent = 'Copy text', 1200)
+  } catch {
+    if (current !== request) return
+    app.innerHTML = '<main><p>Could not load drafts. Check your connection.</p><button id="retry">Retry</button></main>'
+    document.getElementById('retry').onclick = () => route(date)
   }
 }
-
-function renderHow(date) {
-  app.innerHTML = `
-    <header>
-      <h1>How to use</h1>
-      <nav class="tabs">
-        <button id="tab-drafts">Drafts</button>
-        <button class="active" id="tab-how">How to use</button>
-      </nav>
-    </header>
-    <main>
-      <ol>
-        <li>Open today’s frameworks.</li>
-        <li>Rewrite the post in <strong>your</strong> voice (X filters AI writing for monetization).</li>
-        <li>Optional: ChatGPT for typos only — don’t let it invent a new take.</li>
-        <li>Post yourself in the X app. No auto-publish.</li>
-      </ol>
-      <p class="sub">Agents add new days as JSON under /drafts. Mac .md files remain a backup.</p>
-      <button id="back">Back to drafts</button>
-    </main>
-  `
-  document.getElementById('tab-drafts').onclick = () => route(date)
-  document.getElementById('back').onclick = () => route(date)
-}
-
-function escapeHtml(s) {
-  return String(s)
-    .replaceAll('&', '&amp;')
-    .replaceAll('<', '&lt;')
-    .replaceAll('>', '&gt;')
-    .replaceAll('"', '&quot;')
-}
-
-async function route(date, id) {
-  const index = await loadIndex()
-  const d = date || index.latest || todayStr()
-  const data = await loadDay(d)
-  if (id && data) {
-    const draft = data.drafts.find(x => String(x.id) === String(id))
-    if (draft) return renderDetail(d, draft)
-  }
-  renderHome(d, data, index)
-}
-
-if ('serviceWorker' in navigator) {
-  window.addEventListener('load', () => {
-    navigator.serviceWorker.register('/sw.js').catch(() => {})
-  })
-}
-
-route(todayStr())
+if ('serviceWorker' in navigator) window.addEventListener('load', () => navigator.serviceWorker.register('/sw.js').catch(() => {}))
+route()
