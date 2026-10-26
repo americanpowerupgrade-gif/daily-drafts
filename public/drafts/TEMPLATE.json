@@ -4,43 +4,43 @@
   "drafts": [
     {
       "id": "ai-family",
-      "title": "AI help for a busy week",
+      "title": "Dinner is coming. What’s in the fridge?",
       "topic": "AI",
       "status": "ready",
-      "body": "Try AI for the family chore list: ask for a simple weekly plan split into 10-minute jobs. Leave out names, addresses and private details. Read it over together and keep what fits. A useful starting point beats another blank page.",
+      "body": "It’s 5:30. Everybody’s hungry. The fridge has eggs, rice and half a bag of carrots.\n\nTry asking AI: “Give me three easy dinners with these ingredients. No extra shopping.”\n\nCheck the suggestions, then pick one.\n\nWhat would you ask it to make with your leftovers?",
       "links": [
         "https://www.nist.gov/itl/ai-risk-management-framework"
       ],
       "bullets": [
-        "A suggested planning exercise, not a claim of guaranteed results. Human review remains part of the task. No personal anecdote is implied."
+        "Suggested everyday AI prompt using a hypothetical pantry. No personal experience or guaranteed result is claimed. Review suggestions for suitability."
       ],
       "checkedAt": "2026-10-26"
     },
     {
       "id": "ev-family",
-      "title": "Can charging fit your routine?",
+      "title": "Would an EV fit your Tuesday?",
       "topic": "EVs",
       "status": "ready",
-      "body": "Before choosing an EV, start with your daily miles and where you can charge. DOE says many drivers can meet daily needs with overnight Level 1 charging. Check your parking, outlet and vehicle requirements first. The best setup is the one that fits family life.",
+      "body": "School drop-off. Work. Groceries. Home.\n\nThat’s the EV question worth asking: can you charge where you park and cover your usual day?\n\nA home charger isn’t an option for everybody. If you’d rely on public charging, check the stops and prices first.\n\nWhat would work for you?",
       "links": [
         "https://afdc.energy.gov/fuels/electricity-charging-home"
       ],
       "bullets": [
-        "DOE says many owners can meet daily driving needs overnight with Level 1 on a dedicated branch circuit near parking. Suitability depends on daily mileage, vehicle and electrical capacity."
+        "An opinion and practical charging checklist, not a claim that EVs fit every household. DOE describes home and public charging considerations. No personal ownership story is implied."
       ],
       "checkedAt": "2026-10-26"
     },
     {
       "id": "energy-family",
-      "title": "Check the clock before charging",
+      "title": "Same car. Different charging bill.",
       "topic": "Energy",
       "status": "ready",
-      "body": "Does your utility charge less at certain hours? Check before scheduling EV charging. Some utilities offer time-of-use rates. Compare the whole household bill, not just the car: a cheaper overnight rate may come with pricier hours when the family is home.",
+      "body": "An EV charging timer is worth a look before bed.\n\nAt 15¢ per kWh, 40 kWh costs $6. At 30¢, it’s $12. Same amount of electricity.\n\nThose are example rates. Check your utility’s actual plan, including peak-hour costs for the rest of the house.\n\nDoes yours offer cheaper nights?",
       "links": [
         "https://afdc.energy.gov/fuels/electricity-charging-home"
       ],
       "bullets": [
-        "DOE confirms some utilities offer residential time-of-use rates. This is a suggestion to compare local tariff terms, not a promised saving."
+        "Illustrative arithmetic, not current local rates or promised savings: 40 × $0.15 = $6; 40 × $0.30 = $12. DOE confirms some utilities offer time-of-use rates. Compare the entire household tariff."
       ],
       "checkedAt": "2026-10-26"
     }
