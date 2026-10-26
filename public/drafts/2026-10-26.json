@@ -1,0 +1,120 @@
+{
+  "date": "2026-10-26",
+  "label": "FRAMEWORK - rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "1",
+      "title": "$[___] to drive 1,500 miles home. My guess was $180. Gas would've been about $257 (MAIN, Mon ~1 PM)",
+      "ocr": "Strong",
+      "window": "Mon ~1 PM MT (today's strongest Monday slot). Quote his Oct 19 guess post.",
+      "growth": true,
+      "angle": "The guess game finally pays off. He's home, the post people guessed on is still unposted, and Monday 1 PM is the hottest slot of the day. One final number against his public $180 guess and today's gas price. Fold the Eisenhower Tunnel % in as one line so it's one post, not two. OCR note: Strong. Public guess with a real payoff, his own screenshot, and \"who got closest\" pulls every guesser back.",
+      "bullets": [
+        "His public guess (Mon Oct 19): $180 for the Kentucky to Grand Junction drive. https://x.com/UpgradeAmerican/status/2112299869389951480",
+        "AAA national regular today, Oct 26: $4.2858, vs $3.0532 a year ago.",
+        "Same 1,500 miles in a 25 mpg gas car: 60 gallons x $4.29 = about $257.",
+        "AAA (Oct 22): October is on track to be the most expensive October ever for gas.",
+        "His fill-ins: real total from the Tesla app [$___], stops [___], % at the Eisenhower Tunnel [___], % arriving home [___]."
+      ],
+      "body": "\"$[___]. That's what 1,500 miles home from Kentucky cost me in my Model Y. [___] Supercharger stops, Kentucky to Grand Junction.\n\nLast Monday I guessed $180. I came in [over / under] by $[___].\n\nColdest part was the Eisenhower Tunnel. I had [___]% left at 11,000 feet and still rolled into my driveway with [___]%.\n\nSame drive in a 25 mpg gas car at today's $4.29 a gallon? About $257. That's $[___] that stayed in my pocket.\n\nThanks to everybody who threw out a guess. Who got closest? [screenshot: Tesla app charging total]\"",
+      "links": [
+        "https://gasprices.aaa.com/",
+        "https://gasprices.aaa.com/national-average-falls-6-cents-but-crude-oil-nears-100-barrel/",
+        "https://x.com/UpgradeAmerican/status/2112299869389951480"
+      ],
+      "pixel": "20 sec in the driveway next to the car: \"Fifteen hundred miles. Here's the real number versus my guess.\"",
+      "target": "Quote his own Oct 19 guess post so the guessers get notified, then reply to each person who guessed.",
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "2",
+      "title": "Best and worst Supercharger stop on 1,500 miles home. Tesla has 85,000 now, but the bathroom still matters (Mon ~5 PM or Fri ~12-1 PM)",
+      "ocr": "Strong",
+      "window": "Mon ~5 PM MT (secondary Monday slot) or Fri ~12-1 PM. Post it after F1 has had a few hours.",
+      "growth": false,
+      "angle": "Trip wrap-up as a report card. He already flagged Hays, KS (behind Applebee's, needs moving) and liked Little General in Missouri. The network number is context; his stops are the story. No second standalone Hays or Little General post: this is the wrap-up that names them once. OCR note: Strong. His own photos plus the bathroom line is the human moment 55+ readers reply to.",
+      "bullets": [
+        "Tesla's Supercharger network passed 85,000 stalls at 9,000+ sites in October 2026 (The EV Drivers, Oct 25).",
+        "Tesla is building a 400+ stall V4 site in Yermo, CA, between LA and Vegas, with dining and retail.",
+        "EVgo is adding hundreds of Tesla V4 Superchargers at retail and restaurant spots, up to 20 stalls each.",
+        "His live posts: Little General V3 on I-70 MO https://x.com/UpgradeAmerican/status/2114113248245014617 ; Hays behind Applebee's https://x.com/UpgradeAmerican/status/2114209292756611468 (a follower asked where you use the bathroom once it closes).",
+        "His fill-ins: best stop [___], worst stop [___], cheapest kWh [___], priciest kWh [___]."
+      ],
+      "body": "\"Best stop on 1,500 miles home: [___]. [___] cents a kWh, clean bathroom, real food, and I was back on the road in [___] minutes.\n\nWorst: [___]. [one honest reason: dark lot / closed bathroom / broken stall].\n\nTesla just passed 85,000 Superchargers, and they're building a 400-stall stop in the California desert with restaurants. Good. Because after two weeks on the road I can tell you a bathroom and a sandwich matter more than kilowatts.\n\nWhat makes or breaks a charging stop for you? [photo: best stop]\"",
+      "links": [
+        "https://theevdrivers.com/tesla-is-building-the-worlds-largest-supercharger-site-400-stalls-in-the-california-desert/",
+        "https://theevdrivers.com/evgo-will-add-hundreds-of-tesla-superchargers-to-its-own-network/"
+      ],
+      "pixel": "15 sec scrolling his trip photos at the table: \"Best stop and worst stop of the whole trip. Here's why.\"",
+      "target": "@Tesla_Charging when they post a new-site update; reply with his best-stop photo.",
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "3",
+      "title": "$[___] for 38,000 miles. A gas car would've been about $6,500 (Tue ~11 AM)",
+      "ocr": "Strong",
+      "window": "Tue ~11 AM MT (best weekly slot). Keep it off Monday so it doesn't step on F1.",
+      "growth": true,
+      "angle": "He dropped \"14 months, 38K miles\" in a reply. That's a big first-hand ownership number that keeps working all week after the trip post. Real total from the Tesla app charging history plus his home estimate. OCR note: Strong. Huge, simple dollar gap, his own receipts, and a question anyone with a car can answer.",
+      "bullets": [
+        "His own reply: Model Y, about 14 months, 38K miles. https://x.com/UpgradeAmerican/status/2114098048863252958",
+        "38,000 / 25 mpg = 1,520 gallons x $4.2858 (AAA today) = about $6,514.",
+        "Supercharger owner average about $0.396/kWh in Q3; most EV charging happens at home (Paren Q3 via Not a Tesla App).",
+        "His fill-ins: Supercharger total from the app [$___], home charging estimate [$___], maintenance so far [$___]."
+      ],
+      "body": "\"$[___]. That's what it cost me to drive my Model Y 38,000 miles in 14 months. Home charging plus every Supercharger stop, including Kentucky and back.\n\nA 25 mpg gas car at today's $4.29 a gallon? About $6,500.\n\nMaintenance so far: [___]. No oil changes. [tires / wipers / nothing].\n\nI'm not telling anybody what to drive. I'm just showing you my receipts.\n\nWhat did your last 38,000 miles cost you? [screenshot: Tesla app charging history]\"",
+      "links": [
+        "https://www.notateslaapp.com/news/4885/tesla-supercharger-prices-are-up-15-in-the-last-year",
+        "https://gasprices.aaa.com/"
+      ],
+      "pixel": "20 sec at the kitchen table holding the phone with charging history: \"Fourteen months, 38,000 miles. Here's the real number.\"",
+      "target": "A big @SawyerMerritt Tesla post that day. One-line quote: \"The Tesla that changed my budget: $[___] for 38,000 miles.\"",
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "4",
+      "title": "Your Medicare number is like a credit card number. AI fake texts are going after it right now (Tue ~11 AM or Wed ~8-9 AM)",
+      "ocr": "Strong",
+      "window": "Tue ~11 AM MT, or Wed ~8-9 AM.",
+      "growth": true,
+      "angle": "AI for normal people, scams, but a fresh angle (not the safe word again): fake texts and QR codes during open enrollment. One free rule, calm, no fear-mongering. OCR note: Strong. Save-and-forward post for 35-54 sons and daughters and their 55+ parents, with one simple rule.",
+      "bullets": [
+        "Medicare open enrollment runs Oct 15 to Dec 7, 2026.",
+        "Experts warn AI makes fake texts look like real government messages; a Medicare number \"is the equivalent of a credit card number\" (WeAreIowa, Oct 15).",
+        "CMS: Medicare won't call you asking for your number. Hang up and call the number on the back of your card.",
+        "FCC: never join a plan over the phone unless YOU made the call. Real Medicare line: 1-800-633-4227.",
+        "His fill-ins: has a parent or friend gotten one [___]."
+      ],
+      "body": "\"$0 fix for the AI Medicare texts going around right now.\n\nOpen enrollment runs till December 7, and scammers are using AI to make texts that look exactly like the government sent them. Your Medicare number is basically a credit card number to these people.\n\nHere's the rule: Medicare isn't going to text you or call you asking for it. Ever. Delete the text. Don't tap the link or scan the code. If you're worried, call 1-800-633-4227 yourself, or the number on the back of your card.\n\n[Has your mom or dad gotten one of these? ___]\n\nWho are you sending this to?\"",
+      "links": [
+        "https://security.cms.gov/posts/why-ai-making-medicare-vishing-scams-more-dangerous",
+        "https://www.fcc.gov/older-americans-and-medicare-scams"
+      ],
+      "pixel": "20 sec, phone in hand: \"If you get a text about Medicare, here's the one thing to do.\"",
+      "target": "A verified senior-money or consumer-protection creator posting open enrollment tips; reply with the one-rule version.",
+      "label": "FRAMEWORK / rewrite-before-post"
+    },
+    {
+      "id": "5",
+      "title": "$942 million. What AI coding added to hospital bills, by one insurer's estimate. So use AI back (Wed ~8-9 AM)",
+      "ocr": "OK",
+      "window": "Wed ~8-9 AM MT (Wednesday's warm slot).",
+      "growth": false,
+      "angle": "AI is on both sides of the medical bill now. Normal people can use it to read their bill and EOB. Honest, not hype, and it fits the AI-for-the-masses push. OCR note: OK. Big number and a useful step; OK to Strong if he adds a real line about checking his own bill. Keep it calm.",
+      "bullets": [
+        "Blue Cross Blue Shield Association analysis (Blue Health Intelligence) estimated AI-assisted hospital coding added $942M in costs across 2024-2025 vs 2023. The American Hospital Association disputes that it shows inaccurate coding (AccountsRecovery.net, Oct 13).",
+        "Patients are using chatbots to compare bills with their Explanation of Benefits and flag duplicate charges.",
+        "More than 1 in 4 US adults owed medical debt in 2025 (Urban Institute / RWJF, as cited in coverage).",
+        "Caveat: AI can be wrong. Check every flagged line yourself before you dispute.",
+        "His fill-ins: ever caught a wrong charge [___], what he'd ask AI first [___]."
+      ],
+      "body": "\"$942 million. That's one insurer group's estimate of what AI-assisted coding added to hospital bills in two years. The hospitals say the coding is accurate. Either way, AI is already on your bill.\n\nSo use it back. Take a picture of your hospital bill and your Explanation of Benefits from the insurance company. Ask Grok or ChatGPT one plain question: what doesn't match?\n\nIt won't always be right, so check what it flags yourself before you call. But it reads the fine print in ten seconds, and most of us never read it at all.\n\n[What I'd check first: ___]\n\nEver caught a wrong charge on a medical bill?\"",
+      "links": [
+        "https://www.accountsrecovery.net/2026/10/13/patients-and-hospitals-both-turn-to-ai-as-medical-bills-climb/"
+      ],
+      "pixel": "20 sec at the table with a blurred bill: \"Hospitals use AI on your bill. Here's how you use it back.\"",
+      "target": "A verified health-cost or personal-finance creator posting about medical bills; reply with the photo-your-EOB tip.",
+      "label": "FRAMEWORK / rewrite-before-post"
+    }
+  ]
+}
