@@ -1,22 +1,48 @@
 {
   "date": "YYYY-MM-DD",
-  "label": "FRAMEWORK \u2014 rewrite in your voice before posting",
+  "label": "Daily posts",
   "drafts": [
     {
-      "id": "1",
-      "title": "Title",
-      "ocr": "Strong",
-      "window": "Late morning\u2013afternoon MT",
-      "growth": false,
-      "angle": "One-line angle",
-      "bullets": [
-        "Fact 1",
-        "Fact 2"
-      ],
-      "body": "Full framework draft...",
+      "id": "ai-family",
+      "title": "AI help for a busy week",
+      "topic": "AI",
+      "status": "ready",
+      "body": "Try AI for the family chore list: ask for a simple weekly plan split into 10-minute jobs. Leave out names, addresses and private details. Read it over together and keep what fits. A useful starting point beats another blank page.",
       "links": [
-        "https://example.com"
-      ]
+        "https://www.nist.gov/itl/ai-risk-management-framework"
+      ],
+      "bullets": [
+        "A suggested planning exercise, not a claim of guaranteed results. Human review remains part of the task. No personal anecdote is implied."
+      ],
+      "checkedAt": "2026-10-26"
+    },
+    {
+      "id": "ev-family",
+      "title": "Can charging fit your routine?",
+      "topic": "EVs",
+      "status": "ready",
+      "body": "Before choosing an EV, start with your daily miles and where you can charge. DOE says many drivers can meet daily needs with overnight Level 1 charging. Check your parking, outlet and vehicle requirements first. The best setup is the one that fits family life.",
+      "links": [
+        "https://afdc.energy.gov/fuels/electricity-charging-home"
+      ],
+      "bullets": [
+        "DOE says many owners can meet daily driving needs overnight with Level 1 on a dedicated branch circuit near parking. Suitability depends on daily mileage, vehicle and electrical capacity."
+      ],
+      "checkedAt": "2026-10-26"
+    },
+    {
+      "id": "energy-family",
+      "title": "Check the clock before charging",
+      "topic": "Energy",
+      "status": "ready",
+      "body": "Does your utility charge less at certain hours? Check before scheduling EV charging. Some utilities offer time-of-use rates. Compare the whole household bill, not just the car: a cheaper overnight rate may come with pricier hours when the family is home.",
+      "links": [
+        "https://afdc.energy.gov/fuels/electricity-charging-home"
+      ],
+      "bullets": [
+        "DOE confirms some utilities offer residential time-of-use rates. This is a suggestion to compare local tariff terms, not a promised saving."
+      ],
+      "checkedAt": "2026-10-26"
     }
   ]
 }
