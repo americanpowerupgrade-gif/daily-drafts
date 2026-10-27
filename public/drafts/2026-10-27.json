@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-27",
+  "label": "FRAMEWORK drafts - rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "1",
+      "title": "$[___] to drive home from Kentucky. My guess was $180. Gas would've been about $256 (MAIN, Tue ~11 AM)",
+      "topic": "EV road trip",
+      "status": "framework",
+      "body": "\"$[___]. That's what it cost me to charge my Model Y all the way home from Kentucky to Grand Junction. [___] Supercharger stops.\n\nLast week I guessed $180. I came in [over / under] by $[___].\n\nThe toughest part was the climb to the Eisenhower Tunnel in the cold. I had [___]% left up there and still pulled into my driveway with [___]%.\n\nSame drive in a 25 mpg gas car at today's $4.27 a gallon? About $256. That's $[___] that stayed in my pocket.\n\nThanks to everybody who threw out a guess. Who got closest? [screenshot: Tesla app charging total]\"",
+      "links": [
+        "https://gasprices.aaa.com/state-gas-price-averages/",
+        "https://x.com/UpgradeAmerican/status/2112299869389951480"
+      ],
+      "bullets": [
+        "FRAMEWORK / rewrite-before-post. OCR: Strong. Growth: yes.",
+        "Window: Tue ~11 AM MT (best slot today and best weekly slot). Quote his Oct 19 guess post.",
+        "Angle: The payoff post, still unposted after three days of carrying. Tuesday 11 AM is the single hottest slot on his heatmap. One real number against his public $180 guess and today's gas price. If he can't pull the Tesla app total today, hold it rather than post with a blank.",
+        "His public guess (Mon Oct 19): $180 for the Kentucky to Grand Junction drive. https://x.com/UpgradeAmerican/status/2112299869389951480",
+        "AAA national regular today, Oct 27: $4.2661 (yesterday $4.2858, a year ago $3.0520). Colorado $4.4445.",
+        "Same ~1,500 miles in a 25 mpg gas car: 60 gallons x $4.27 = about $256 (our math, example mpg).",
+        "His Rifle, CO Supercharger stop on I-70 was 36c/kWh.",
+        "His fill-ins: real total from the Tesla app [$___], stops [___], % at the Eisenhower Tunnel [___], % arriving home [___]."
+      ],
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "id": "2",
+      "title": "36 cents at the Rifle Supercharger. The national average just went up 9%. Here's what I actually paid (Fri ~12-1 PM, or Tue ~9 PM if F1 waits)",
+      "topic": "EV charging",
+      "status": "framework",
+      "body": "\"36 cents a kWh. That's what I paid at the Rifle Supercharger on I-70 on the way home.\n\nThe national average for Tesla owners just hit 39.6 cents, up about 9% in a year. If you don't own a Tesla and use their chargers, it's 56.9 cents, up 15%.\n\nMy most expensive stop of the whole trip was [___] cents at [___]. My cheapest was [___].\n\nTiming matters too. Some stations charge 63 cents at peak and 44 cents late at night. I [did / didn't] plan around that.\n\nEven at the worst stop I still beat gas. What's the most you've ever paid to charge? [screenshot: Tesla app charging history]\"",
+      "links": [
+        "https://www.notateslaapp.com/news/4885/tesla-supercharger-prices-are-up-15-in-the-last-year",
+        "https://electrek.co/2026/10/13/tesla-still-leads-us-supercharger-growth-but-its-raised-prices/"
+      ],
+      "bullets": [
+        "FRAMEWORK / rewrite-before-post. OCR: Strong. Growth: yes.",
+        "Window: Fri ~12-1 PM MT. One trip-dollar post per day, so it follows F1. If F1 isn't ready today, run this Tue 11 AM instead.",
+        "Angle: The news says Superchargers got pricier. His receipts say what a real owner paid crossing the country. Calm, not a complaint: still way cheaper than gas.",
+        "Paren Q3 report: Tesla owner/member average 39.6c/kWh (up about 9% in a year); non-member 56.9c (up 15%).",
+        "Non-Tesla fast chargers have been flat around 53.3c for five quarters.",
+        "Time-of-use stations: 63.7c at peak vs 43.8c off-peak.",
+        "Ionna is 39c at most sites (Electrek).",
+        "His own: Rifle, CO 36c; most expensive stop on the trip [___]c at [___]."
+      ],
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "id": "3",
+      "title": "$0 is what a family code word costs. AI scams pay crooks 4.5x more than the old kind (Tue ~9 PM)",
+      "topic": "AI safety",
+      "status": "framework",
+      "body": "\"$0. That's what a family code word costs.\n\nInterpol says scams that use AI make crooks 4.5 times more money than the old kind. That means more fake calls that sound exactly like your grandkid, your bank, or Medicare.\n\nHere's what we did. We picked a word only our family knows. If anybody calls in a panic asking for money, they have to say it. No word, I hang up and call them back on the number I already have.\n\nWe set ours up [where / when ___]. Took about [___] minutes.\n\nIf they ask for gift cards, a wire, crypto, or cash, it's a scam. Every time.\n\nDoes your family have a code word yet?\"",
+      "links": [
+        "https://www.businessinsider.com/ai-scams-older-americans-experts-red-flags-2026-10",
+        "https://www.aarp.org/money/scams-fraud/detecting-ai-fraud/"
+      ],
+      "bullets": [
+        "FRAMEWORK / rewrite-before-post. OCR: Strong. Growth: yes.",
+        "Window: Tue ~9 PM MT (second-best slot today; families are home and on their phones). Backup Wed 8-9 AM.",
+        "Angle: AI for the masses, minus the fear. One cheap habit for older parents. Note: safe-word ideas were drafted Sat and Sun but never went live, so this is fresh to his feed; lead with the 4.5x number so it reads new.",
+        "Interpol: AI-enhanced fraud is 4.5 times more profitable than older methods (via Business Insider, Oct 2026).",
+        "Top frauds hitting older adults: online shopping, business and government impostors, investment scams.",
+        "Senate Aging Committee guidance: pick a family code word; red flags are gift cards, wire transfers, crypto, or cash.",
+        "AARP/BBB: hang up and call back on a number you already know.",
+        "Puerto Rico banks launched a campaign Oct 26 using AI-made fake videos to teach people what a fake looks like."
+      ],
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "id": "4",
+      "title": "New Tesla update lets you drive away still plugged in. For the 3 AM charger moment you hope never comes (Wed ~8-9 AM)",
+      "topic": "Tesla",
+      "status": "framework",
+      "body": "\"A repair bill is cheaper than staying put if something feels wrong at a charger at 3 AM.\n\nTesla's newest update adds something called Emergency Drive Away. If you're plugged into a Supercharger and need to leave right now, the car can pull away with the cable still in. Tesla says it can damage the charger and you might pay for it, so it's for real emergencies only.\n\nOn the drive home I charged at [___] in the middle of the night. It was fine, but I thought about my wife doing that alone.\n\nThe same update shows which stalls are open before you get there, so you're not circling a dark lot.\n\n[My car has it / still waiting on it]. Would you want this turned on for your wife or your parents? [photo: my car charging at night on I-70]\"",
+      "links": [
+        "https://kwhgarage.com/blog/2026-38-5-11-halloween-mode-emergency-drive-away-and-fsd-v14-3-13",
+        "https://electrek.co/2026/10/01/tesla-emergency-drive-away-supercharger-shooting/"
+      ],
+      "bullets": [
+        "FRAMEWORK / rewrite-before-post. OCR: OK to Strong. Growth: no.",
+        "Window: Wed ~8-9 AM MT.",
+        "Angle: The feature you hope your spouse or parents never need. Plain-English owner safety, calm tone, no crime sermon. He actually charged on I-70 at night, so it's first-hand.",
+        "Software update 2026.38.5.11 is on about 10% of the fleet so far (Tesla Oracle via kWh Garage).",
+        "Emergency Drive Away lets the car pull out while still plugged into a Supercharger. Tesla warns it can damage the car and charger and the owner may pay for repairs, so emergencies only.",
+        "Electrek (Oct 1) tied the feature to a shooting at a Twin Falls, Idaho Supercharger.",
+        "Same update: pilot Supercharger site maps with live stall occupancy, and setting Arrival Energy from the phone (app v4.58.0+).",
+        "His fill-ins: whether his car has it yet [___], his late-night stop [where ___]."
+      ],
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "id": "5",
+      "title": "$[___] power bill. I blacked out the account number and asked AI what every line means (Sat ~6 PM or Mon ~1 PM)",
+      "topic": "AI paperwork",
+      "status": "framework",
+      "body": "\"$[___]. That was my power bill this month.\n\nI've never really understood half the lines on it, so I tried something. I took a photo, covered up the account number, and asked AI: what is each line, and which one can I actually lower?\n\nIt told me [___]. The part that surprised me was [___].\n\nTook about 30 seconds. No tech skills needed.\n\nOne rule: never give an AI app your account number, Social Security number, or passwords. Black them out first.\n\nWould you trust AI to read your bill? [photo: bill with account number covered, next to the phone answer]\"",
+      "links": [
+        "https://www.aarp.org/money/scams-fraud/detecting-ai-fraud/"
+      ],
+      "bullets": [
+        "FRAMEWORK / rewrite-before-post. OCR: Strong if real. Growth: yes.",
+        "Window: Sat ~6 PM MT, or Mon ~1 PM. Needs his own test first, so don't rush it into today.",
+        "Angle: The easiest useful AI thing an older person can do this week. First-hand, no jargon, no outside stats needed. Pairs naturally with the held AP7 delivery-charge story as a reply later.",
+        "This is his own test: photo of his Xcel bill, account number covered, ask an AI app what each line is and which one he can lower.",
+        "AARP/BBB rule of thumb: never paste account numbers, Social Security numbers, or passwords into any AI app.",
+        "Optional context for a reply: SEIA study via The Cool Down says wholesale power fell 42% in Texas since 2021 while bills rose on delivery costs (secondary source, verify before using).",
+        "His fill-ins: bill total [$___], what AI said [___], one thing he'll change [___]."
+      ],
+      "checkedAt": "2026-10-27"
+    }
+  ]
+}
