@@ -1,7 +1,59 @@
 {
   "date": "2026-10-27",
-  "label": "FRAMEWORK drafts - rewrite in your voice before posting",
+  "label": "Three short frameworks plus five longer frameworks needing your numbers. Rewrite every one in your own voice before posting.",
   "drafts": [
+    {
+      "id": "r-codeword",
+      "title": "$0 family code word vs AI voice scams (Tue ~9 PM)",
+      "topic": "AI safety",
+      "status": "ready",
+      "body": "$0. That's what a family code word costs.\n\nInterpol says AI-powered scams pay crooks 4.5 times more than the old kind, so expect more fake calls that sound like family.\n\nPick a word. If a call asks for gift cards, wire or crypto, hang up and call back.\n\nDoes your family have one?",
+      "links": [
+        "https://www.businessinsider.com/ai-scams-older-americans-experts-red-flags-2026-10",
+        "https://www.aarp.org/money/scams-fraud/detecting-ai-fraud/"
+      ],
+      "bullets": [
+        "FRAMEWORK / rewrite-before-post in your own voice. Typos pass in ChatGPT only after your rewrite.",
+        "OCR: Strong. Window: Tue ~9 PM MT.",
+        "Interpol 4.5x figure via Business Insider (Oct 2026). Gift card, wire, crypto red flags and hang-up-and-call-back from Senate Aging Committee report and AARP/BBB.",
+        "Stronger if you add when and where your family picked its word."
+      ],
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "id": "r-driveaway",
+      "title": "Tesla update: drive away still plugged in, emergencies only (Wed ~8-9 AM)",
+      "topic": "EV safety",
+      "status": "ready",
+      "body": "New Tesla update lets you drive away from a Supercharger while still plugged in.\n\nEmergencies only. Tesla says it can damage the car and charger, and the owner may pay for repairs.\n\nWe charged at 3 AM on I-70. I'm glad this exists.\n\nWould you want it for your parents?",
+      "links": [
+        "https://kwhgarage.com/blog/2026-38-5-11-halloween-mode-emergency-drive-away-and-fsd-v14-3-13",
+        "https://electrek.co/2026/10/01/tesla-emergency-drive-away-supercharger-shooting/"
+      ],
+      "bullets": [
+        "FRAMEWORK / rewrite-before-post in your own voice. Typos pass in ChatGPT only after your rewrite.",
+        "OCR: OK to Strong. Window: Wed 8-9 AM MT.",
+        "Update 2026.38.5.11, on about 10% of the fleet so far per Tesla Oracle. Repair-cost warning is from Tesla release notes as reported.",
+        "Confirm the 3 AM I-70 line matches your trip before posting. Keep it calm, no crime sermon."
+      ],
+      "checkedAt": "2026-10-27"
+    },
+    {
+      "id": "r-noonpower",
+      "title": "$0 generation charge 8 AM to 4 PM: when is your cheapest hour? (Sun ~12 PM)",
+      "topic": "Solar",
+      "status": "ready",
+      "body": "$0 generation charge from 8 AM to 4 PM.\n\nA California pilot is using extra midday solar so 4,000+ homes pay nothing for the power itself during those hours.\n\nWith solar at home, noon is when my Model Y eats.\n\nDo you know when power is cheapest where you live?",
+      "links": [
+        "https://cleanpoweralliance.org/2026/10/26/putting_ca_solar_surplus_to_work/"
+      ],
+      "bullets": [
+        "FRAMEWORK / rewrite-before-post in your own voice. Typos pass in ChatGPT only after your rewrite.",
+        "OCR: OK, Strong with your own solar number. Window: Sun ~12 PM or Mon 5 PM MT.",
+        "Clean Power Alliance pilot (Southern California), 4,000+ homes, no generation charge 8 AM to 4 PM. Delivery charges likely still apply; verify on the page before posting."
+      ],
+      "checkedAt": "2026-10-27"
+    },
     {
       "id": "1",
       "title": "$[___] to drive home from Kentucky. My guess was $180. Gas would've been about $256 (MAIN, Tue ~11 AM)",
