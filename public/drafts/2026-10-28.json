@@ -1,0 +1,191 @@
+{
+ "date": "2026-10-28",
+ "label": "FRAMEWORK - rewrite in your voice before posting",
+ "drafts": [
+  {
+   "id": "r-nocap",
+   "topic": "EV savings",
+   "title": "No gas cap, no oil changes (short, ready)",
+   "ocr": "Strong",
+   "window": "Wed 8-9 AM MT",
+   "body": "My Model Y has no gas cap to forget, no oil changes, no spark plugs. Tires still cost money, so it's not free. But AAA figures an EV like mine runs about $550 a year less in maintenance and repairs than a gas SUV.\n\nWhat's the dumbest repair bill you ever paid?",
+   "links": [
+    "https://newsroom.aaa.com/wp-content/uploads/2026/09/8-YDC-Brochure_2026-1.pdf"
+   ],
+   "bullets": [
+    "AAA 2026 Your Driving Costs: compact SUV maintenance, repair and tires $1,402/yr EV vs $1,954/yr gas, about $552 less.",
+    "Tires can wear faster on a heavier EV; saying so builds trust."
+   ],
+   "status": "ready",
+   "checkedAt": "2026-10-28"
+  },
+  {
+   "id": "r-medicare",
+   "topic": "AI everyday",
+   "title": "Medicare: AI explains, Plan Finder decides (short, ready)",
+   "ocr": "OK",
+   "window": "Tue 11 AM or Mon 1 PM MT",
+   "body": "Medicare open enrollment ends December 7. AI is great at explaining a confusing letter in plain English. Don't let it pick your plan, though. Testers caught these tools giving confident wrong answers.\n\nCompare plans free on Medicare's Plan Finder, or call 1-800-MEDICARE.",
+   "links": [
+    "https://www.medicare.gov/plan-compare/",
+    "https://healthjournalism.org/blog/2026/10/ai-medicare-enrollment-advice-risks/"
+   ],
+   "bullets": [
+    "Open enrollment Oct 15 to Dec 7 (CMS).",
+    "Louise Norris tested AI tools and found confident errors, including a wrong Colorado answer (AHCJ, Oct 2026)."
+   ],
+   "status": "ready",
+   "checkedAt": "2026-10-28"
+  },
+  {
+   "id": "r-winter",
+   "topic": "EV winter",
+   "title": "Warm it up while plugged in (short, ready)",
+   "ocr": "OK",
+   "window": "First cold morning, or Fri 12-1 PM MT",
+   "body": "Cold mornings are coming to Grand Junction. Simple EV trick: warm the car up while it's still plugged in, so the heat comes from the wall, not the battery. Heated seat on, cabin a little cooler.\n\nAAA found range can drop up to 39% at 20 degrees with the heat cranked.",
+   "links": [
+    "https://www.energy.gov/articles/winterizing-your-electric-vehicle",
+    "https://www.kbb.com/car-advice/ev-charging-winter/"
+   ],
+   "bullets": [
+    "AAA 2026 lab test: up to 39% range loss at 20F with cabin at 72F.",
+    "DOE: precondition while plugged in, use heated seats."
+   ],
+   "status": "ready",
+   "checkedAt": "2026-10-28"
+  },
+  {
+   "id": "1",
+   "title": "$150 for a gas cap. My EV doesn't have one. (MAIN, Wed 8-9 AM today)",
+   "ocr": "Strong",
+   "ocr_why": "Dollar opener, his real car-scan expertise, and a funny repair-bill question that pulls car guys into replies.",
+   "window": "Wed 8-9 AM MT (today's only bright slot). Backup Fri 12-1 PM.",
+   "angle": "He already told the EVAP story in a reply to GreenTexanEV. Turn it into a standalone owner-cost post: what he stopped paying for, told by a guy who used to scan cars.",
+   "bullets": [
+    "GreenTexanEV's friend paid $150 to learn a check engine light was a loose gas cap (his reply thread Tue).",
+    "Brian used to scan cars and says the EVAP code was often just a loose cap.",
+    "AAA 2026 Your Driving Costs: maintenance, repair and tires for a compact SUV run $1,402/yr EV vs $1,954/yr gas, about $552/yr less.",
+    "No oil changes, spark plugs or transmission fluid on an EV. Tires still cost money, often more because the car is heavier (say that, it builds trust)."
+   ],
+   "body": "\"$150. That's what a guy paid to find out his check engine light was a loose gas cap.\n\nI used to scan cars for a living. I can't tell you how many times the big scary code was [how often I saw it ___]. Twist the cap, clear the code, done.\n\nMy Model Y doesn't have a gas cap. No oil changes either. No spark plugs, no transmission fluid. I still buy tires, and they wear a little faster on a heavy car, so it's not free.\n\nAAA figures an EV like mine saves about $550 a year on maintenance and repairs versus gas.\n\nWhat's the dumbest repair bill you ever paid?\"",
+   "links": [
+    "https://newsroom.aaa.com/wp-content/uploads/2026/09/8-YDC-Brochure_2026-1.pdf",
+    "https://autos.yahoo.com/ev-and-future-tech/articles/ev-maintenance-discount-real-works-130000149.html"
+   ],
+   "pixel": "In the garage, 15 seconds, his face: \"I scanned cars for years. Half the time it was the gas cap. Here's what I don't pay for now.\"",
+   "target": "Reply under @GreenTexanEV's gas cap post linking his own, or quote a big Tesla-owner account talking maintenance costs.",
+   "growth": true,
+   "status": "framework",
+   "checkedAt": "2026-10-28",
+   "topic": "Framework"
+  },
+  {
+   "id": "2",
+   "title": "$171.56 got us home. Now the big number: 38,000 miles",
+   "ocr": "Strong",
+   "ocr_why": "Natural sequel to his live trip scoreboard and the most saveable receipt in the pack, but only with his real total.",
+   "window": "Fri 12-1 PM MT (or Wed 8-9 AM only if he pulls the number before then). Do not stack with F1 the same hour.",
+   "angle": "The trip post landed. This is the lifetime receipt the replies were asking about.",
+   "bullets": [
+    "His live post: 11 stops, $171.56, guess was $180, gas would have been about $257, so roughly $85 saved on one trip. https://x.com/UpgradeAmerican/status/2115141783332278438",
+    "38,000 miles at 25 mpg = 1,520 gallons; at AAA's ~$4.27 national average that is about $6,500 (our math, example mpg).",
+    "AAA 2026: EV fuel for a compact SUV about $771/yr vs $2,382 gas at 15,000 miles.",
+    "His fill-in: real lifetime charging cost (home plus Superchargers) from the Tesla app and his Xcel bills."
+   ],
+   "body": "\"$171.56 got us all the way home from Kentucky. A few of you asked the bigger question: what about the whole car?\n\n38,000 miles so far. My total for charging, home and road, is about $[my real total ___].\n\nA car that gets 25 miles a gallon would have burned about 1,520 gallons. At today's prices that's around $6,500 in gas.\n\nThat's [the difference ___] that stayed in our pocket. [photo: odometer]\n\nWhat's your car costing you per mile?\"",
+   "links": [
+    "https://newsroom.aaa.com/wp-content/uploads/2026/09/8-YDC-Brochure_2026-1.pdf",
+    "https://gasprices.aaa.com/"
+   ],
+   "pixel": "Odometer close-up, 10 seconds: \"Kentucky trip was $171. Here's what 38,000 miles cost me.\"",
+   "target": "Quote a big trip-cost or charging-cost post from @SawyerMerritt, or reply under his own scoreboard thread.",
+   "growth": true,
+   "status": "framework",
+   "checkedAt": "2026-10-28",
+   "topic": "Framework"
+  },
+  {
+   "id": "3",
+   "title": "First cold morning in Grand Junction: what % did I lose overnight?",
+   "ocr": "Strong",
+   "ocr_why": "Honest first-hand winter numbers calm the #1 fear older buyers have; strong only with his real % and temperature.",
+   "window": "Post the morning it's actually cold and he catches a reading; otherwise Fri 12-1 PM or Sat 6 PM MT.",
+   "angle": "Winter is here on the Western Slope. Calm, real cold-weather EV numbers from an owner, plus the simple fix.",
+   "bullets": [
+    "AAA 2026 lab test: EVs lost 39% of range on average at 20F vs 75F with the cabin at 72F. In 95F heat, only about 8.5%.",
+    "KBB (Oct 27): cold batteries charge slower at fast chargers, sometimes twice as long; precondition first.",
+    "DOE tips: precondition while plugged in, use heated seats over cabin heat, park in a garage if you can.",
+    "Keep the 39% framed as 'up to' (lab range with cabin heat), not his commute."
+   ],
+   "body": "\"[___]% gone overnight. First real cold morning in Grand Junction, [___] degrees.\n\nAAA tested EVs at 20 degrees and found they can lose up to 39% of their range with the heat cranked. That sounds scary. Here's what it looks like in real life for me: [what it actually meant for my day ___].\n\nMy fix is simple. Warm the car up while it's still plugged in, so the battery heat comes from the wall, not the battery. Heated seat on, cabin a little cooler.\n\n[photo: app showing % and outside temp]\n\nWhat's your winter range trick?\"",
+   "links": [
+    "https://www.kbb.com/car-advice/ev-charging-winter/",
+    "https://www.energy.gov/articles/winterizing-your-electric-vehicle"
+   ],
+   "pixel": "Breath-in-the-air shot by the car, 10-15 seconds: \"First cold morning. Here's what the battery did.\"",
+   "target": "A big EV account posting AAA cold-weather numbers (Not a Tesla App, Electrek), or a Colorado EV owner.",
+   "growth": false,
+   "status": "framework",
+   "checkedAt": "2026-10-28",
+   "topic": "Framework"
+  },
+  {
+   "id": "4",
+   "title": "Medicare open enrollment: AI can explain it. It can't pick your plan.",
+   "ocr": "OK",
+   "ocr_why": "High save value for 55+ and their adult kids, AI-for-normal-people lane, no scam angle; less of a reply magnet than F1.",
+   "window": "Tue 11 AM MT (best weekly slot), or Mon 1 PM. Enrollment ends Dec 7.",
+   "angle": "Use AI like a patient friend to translate the confusing letter, then check the real numbers on Medicare's own free tool.",
+   "bullets": [
+    "Open enrollment runs Oct 15 to Dec 7 (CMS).",
+    "Health policy analyst Louise Norris tested AI tools and got confident answers with numerous errors, including old poverty guidelines and a wrong Colorado subsidy answer (Association of Health Care Journalists, Oct 2026).",
+    "AI can't pull real premium and drug-cost data; Medicare's Plan Finder can, and it has a new AI-powered drug search.",
+    "Free human help: 1-800-MEDICARE or a local SHIP counselor."
+   ],
+   "body": "\"$0. That's what it costs to compare Medicare plans on Medicare's own website. Open enrollment ends December 7.\n\nHere's how I'd use AI on it. Take a photo of that confusing letter and ask it to explain it like I'm a normal person. [what I'd ask it ___]. It's great at that.\n\nWhat I would not do is let it pick the plan. A health policy expert tested these AI tools and they gave confident answers that were flat wrong, including about Colorado.\n\nSo: AI explains, Plan Finder decides. And if you'd rather talk to a person, 1-800-MEDICARE is free.\n\nWould your parents know where to start?\"",
+   "links": [
+    "https://www.medicare.gov/plan-compare/",
+    "https://healthjournalism.org/blog/2026/10/ai-medicare-enrollment-advice-risks/"
+   ],
+   "pixel": "At the kitchen table holding a stack of mail: \"Here's how I'd use AI on this without trusting it blindly.\"",
+   "target": "@MedicareGov open enrollment post, or a big AI-for-everyday-people account.",
+   "growth": false,
+   "status": "framework",
+   "checkedAt": "2026-10-28",
+   "topic": "Framework"
+  },
+  {
+   "id": "5",
+   "title": "$0 Halloween decoration: the grandkids meet Tesla's Halloween Mode (personal video)",
+   "ocr": "Strong",
+   "ocr_why": "Small human family moment with his own video; weak without the video, so hold if he can't film it.",
+   "window": "Sat Oct 31 ~6 PM MT (his Sat bright slot lands on trick-or-treat time). Teaser option Fri 12-1 PM.",
+   "angle": "Not a feature review. A family moment with the car on Halloween night.",
+   "bullets": [
+    "Tesla update 2026.38.5.11 adds Halloween Mode: ghost costume, spooky sounds, a light show and a photobooth (kWh Garage, Oct 26, citing Not a Tesla App).",
+    "Same update carries FSD v14.3.13 and Emergency Drive Away (both already covered by him, don't mention).",
+    "Confirm his car actually has 2026.38.5.11 before planning the video."
+   ],
+   "body": "\"$0 for our Halloween decoration this year. It's the car.\n\nTesla's new update has a Halloween Mode with spooky sounds and a light show. We parked the Model Y in the driveway, and the grandkids [what they did / what they called it ___].\n\n[video: kids reacting to the light show]\n\nI didn't buy this car for party tricks, but this is the kind of thing that makes it feel like part of the family.\n\nWould your kids or grandkids go for this?\"",
+   "links": [
+    "https://kwhgarage.com/blog/2026-38-5-11-halloween-mode-emergency-drive-away-and-fsd-v14-3-13"
+   ],
+   "pixel": "15-20 seconds in the driveway at dusk, light show running, grandkids reacting. His voice: \"Cheapest Halloween decoration I've ever had.\"",
+   "target": "Quote @Tesla or a big Tesla-update account posting the Halloween Mode clip.",
+   "growth": false,
+   "status": "framework",
+   "checkedAt": "2026-10-28",
+   "topic": "Framework"
+  }
+ ],
+ "growth_bets": [
+  "F1 gas cap at Wed 8-9 AM today: his own car-scan expertise plus a 'dumbest repair bill' question is the reply magnet that pulls verified car guys into his mentions.",
+  "F2 38,000 miles as soon as he has the number: the trip post just landed, so the lifetime receipt is the natural, most saveable sequel."
+ ],
+ "held": [
+  "AP6 $800/yr Aurora community solar (Sun noon/Mon 1 PM)",
+  "AP7 SD SMR study rider (policy, Mon 1 PM)",
+  "AP8 snap the dash light and ask AI (space a day after F1; untested so far)"
+ ]
+}
