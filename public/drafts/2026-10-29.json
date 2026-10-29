@@ -1,0 +1,178 @@
+{
+ "date": "2026-10-29",
+ "label": "FRAMEWORK - rewrite in your voice before posting",
+ "drafts": [
+  {
+   "id": "1",
+   "title": "FRAMEWORK: An hour to warm up crossing Colorado. Here's my driveway number. (MAIN, Thu 9-10 AM today)",
+   "ocr": "Strong",
+   "ocr_why": "Real owner number from a live conversation, Colorado tie, and a cold-morning question both EV and gas guys answer.",
+   "window": "Thu ~9-10 AM MT (today's only small bump) if he grabs a reading this morning. Backup Fri 12-1 PM.",
+   "angle": "He already told @DomDoesMedia preconditioning took about an hour on the trip once they hit Colorado. Turn that reply into a calm, honest real-owner winter post with today's home number next to it.",
+   "bullets": [
+    "His reply (Oct 28): high 30s overnight at home; on the trip east to west, preconditioning took about an hour, especially in Colorado; Western Colorado doesn't get as cold as the mountains.",
+    "AAA lab test: EVs lost 39% of range on average at 20F vs 75F with the cabin heated to 72F.",
+    "DOE tip: warm the car while it's still plugged in so the heat comes from the wall, not the battery.",
+    "Cold batteries also fast-charge slower until they warm up (KBB)."
+   ],
+   "body": "\"An hour. That's how long my Model Y took to warm up some mornings coming home through Colorado.\n\nUp in the mountains it was cold enough that I just started it from the app and finished my coffee. Back home in Grand Junction it's high 30s overnight and this morning it took [___ minutes and ___% of the battery].\n\nThe trick nobody told me at first: warm it up while it's still plugged in. Then the heat comes from the wall, not the battery. AAA found EVs can lose about 39% of range at 20 degrees if you don't plan for it, so I plan for it.\n\nGas guys, you idle too. How long does your car take on a cold morning?\"",
+   "links": [
+    "https://www.energy.gov/articles/winterizing-your-electric-vehicle",
+    "https://www.kbb.com/car-advice/ev-charging-winter/"
+   ],
+   "pixel": "By the car in the driveway, 15 seconds, his face: \"Coming home through the Rockies this took an hour. Here's what it takes in my driveway.\"",
+   "target": "Reply back under @DomDoesMedia's 51-degree post with his own number, or quote a big Tesla-owner account posting winter tips.",
+   "topic": "EV winter",
+   "status": "framework",
+   "checkedAt": "2026-10-29"
+  },
+  {
+   "id": "2",
+   "title": "FRAMEWORK: $0 and 5 votes: Grand Lake, CO and Hanksville, UT just won Superchargers (Fri 12-1 PM)",
+   "ocr": "Strong",
+   "ocr_why": "Local Colorado/Utah win, owner-empowering, and the route-gap question pulls stories from verified EV owners.",
+   "window": "Fri 12-1 PM MT. Thu ~9-10 AM only if F1 isn't ready (fresher news).",
+   "angle": "Owners pick where chargers go. Two Colorado/Utah winners plus Owensboro, KY on his trip state. Ask followers where the gaps are on their routes.",
+   "bullets": [
+    "Tesla Charging named 36 Supercharger voting winners on Oct 28; 17 are in the US.",
+    "US winners include Grand Lake, Colorado; Hanksville, Utah; Pinedale, Wyoming; and Owensboro, Kentucky.",
+    "A win isn't a live stall yet: sites still need land, power and permits, and some take years. Say that, it builds trust.",
+    "Account holders get up to 5 votes per round, and a new round is open now."
+   ],
+   "body": "\"$0 and 5 votes. That's how Tesla owners get to pick where the next Superchargers go.\n\nThis round Grand Lake, Colorado and Hanksville, Utah both won. So did Owensboro, Kentucky, which I would've loved on my trip back from [___].\n\nIt's not a charger tomorrow. They still need land, power and permits, and some of these take years. But it's the first time I've seen a company just ask drivers where the holes are.\n\nIf I could add one on my routes it'd be [___]. Where's the gap on yours?\"",
+   "links": [
+    "https://teslanorth.com/2026/10/28/tesla-36-supercharger-voting-winners-oct-2026/"
+   ],
+   "pixel": "Optional: map open on the car screen, 10 seconds: \"This is the stretch I'd vote for.\"",
+   "target": "Quote @TeslaCharging's winners post with the Colorado/Utah line.",
+   "topic": "EV charging",
+   "status": "framework",
+   "checkedAt": "2026-10-29"
+  },
+  {
+   "id": "3",
+   "title": "FRAMEWORK: $0 Halloween decoration: the grandkids and Halloween Mode (Sat Oct 31 6 PM)",
+   "ocr": "Strong",
+   "ocr_why": "Personal family video on a bright Saturday slot; strong only with his own footage.",
+   "window": "Sat Oct 31 ~6 PM MT (bright slot lands right on trick-or-treat time).",
+   "angle": "Small family moment with the car, not a feature review. Confirm his car has the update before filming.",
+   "bullets": [
+    "Tesla update 2026.38.5.11 adds Halloween Mode: ghost costume, spooky sounds, a light show and a photobooth (kWh Garage).",
+    "Confirm his Model Y actually has the update before posting.",
+    "Saturday 6 PM is one of his brightest weekly slots on the Oct 25 heatmap."
+   ],
+   "body": "\"$0 Halloween decoration this year: the car.\n\nI flipped on Halloween Mode and our Model Y turned into [what the grandkids called it ___]. Spooky sounds, lights going, and [grandkid ___] would not stop [___].\n\nI didn't buy a single inflatable this year. The car did the whole driveway.\n\nWould your grandkids go for this, or would they run?\"",
+   "links": [
+    "https://kwhgarage.com/blog/2026-38-5-11-halloween-mode-emergency-drive-away-and-fsd-v14-3-13"
+   ],
+   "pixel": "15-20 seconds in the driveway at dusk, light show running, kids reacting: \"Cheapest Halloween decoration I've ever had.\"",
+   "target": "Quote @Tesla or a big Tesla-update account posting the Halloween Mode clip.",
+   "topic": "EV fun",
+   "status": "framework",
+   "checkedAt": "2026-10-29"
+  },
+  {
+   "id": "4",
+   "title": "FRAMEWORK: $5.16 more a month for Xcel gas, and the West gets the colder winter (Sun 12 PM / Mon 1 PM)",
+   "ocr": "OK to Strong",
+   "ocr_why": "Real Colorado dollars plus his own solar number; pulls money-saving tips. Keep it nonpartisan.",
+   "window": "Sun 12 PM MT or Mon 1 PM MT.",
+   "angle": "Winter bills for Colorado families, in dollars, with his solar as the household answer. No sermon. Policy item 1 of 1.",
+   "bullets": [
+    "Colorado PUC approved Xcel's gas rate case: average residential gas bill up 8.6%, about $5.16 a month, effective Oct 6 (Xcel had asked for $7.59).",
+    "Gas supply cost is separate and typically 65-75% of the bill, adjusted quarterly (PUC).",
+    "EIA Winter Fuels Outlook 2026-27: nationally gas-heat households spend about 9% less, but the West is the exception, about +7% for gas heat (~$590 Nov-Mar) and +9% for electric heat, because it's forecast much colder than last winter."
+   ],
+   "body": "\"$5.16 a month. That's the Xcel gas bump the state just approved here in Colorado. They asked for more and got trimmed, but it's still up.\n\nAnd the feds expect the West to run colder this winter. Most of the country should spend less on heat. Out here, about 7% more for gas heat and 9% more for electric.\n\nI can't do much about the gas side. On the power side, my solar covered [$___ / ___%] of our bill last month, and that's the part that doesn't go up when they file a rate case.\n\nWhat are you doing to keep your winter bill down?\"",
+   "links": [
+    "https://puc.colorado.gov/press-release/puc-cuts-xcel-energys-natural-gas-rate-request",
+    "https://www.eia.gov/todayinenergy/detail.php?id=68264"
+   ],
+   "pixel": "Optional, by the thermostat or panels: \"Gas went up five bucks a month. Here's what the roof did.\"",
+   "target": "A Colorado energy reporter or @Enphase posting about winter bills.",
+   "topic": "Energy bills",
+   "status": "framework",
+   "checkedAt": "2026-10-29"
+  },
+  {
+   "id": "5",
+   "title": "FRAMEWORK: 1 in 3 people over 65 never touch AI. Here's what I'd show them first (Tue 11 AM)",
+   "ocr": "Strong",
+   "ocr_why": "Squarely his AI-for-the-masses lane, high save value for adult kids, and an easy reply question.",
+   "window": "Tue 11 AM MT (best weekly slot). Backup Mon 1 PM.",
+   "angle": "Not a scam warning (retired). A warm, practical start-here for his 55+ crowd and their kids, riding his own daily Grok Bot use.",
+   "bullets": [
+    "University of Iowa / Verasight survey (Oct 2026): 65% of adults 65+ use AI at least occasionally vs about 80% of adults 18-49; 35% of 65+ never use it.",
+    "AARP 50+ pulse: 2 in 5 adults 50+ who used AI asked it a health question, but 69% aren't comfortable sharing personal health info with an AI tool.",
+    "EY survey of 60-85 year olds: top use is learning (79%), then health (63%) and travel (58%).",
+    "Keep it a starting point, not a pitch for any one app."
+   ],
+   "body": "\"$0 to try, and about 1 in 3 people over 65 still never have.\n\nI get it. It sounds like something for kids or tech guys. I use it every day now and I'm not either one.\n\nIf my [mom/neighbor ___] asked where to start, I wouldn't show her anything fancy. I'd have her snap a photo of a confusing letter, like [___], and ask it what it means in plain English. That's it. No password, no personal info, just a second set of eyes.\n\nWhat would you show your parents first?\"",
+   "links": [
+    "https://cssi.research.uiowa.edu/news/2026/10/new-survey-finds-ai-use-widespread-some-turning-chatbots-companionship",
+    "https://www.aarp.org/pri/topics/technology/internet-media-devices/artificial-intelligence-and-health-series/"
+   ],
+   "pixel": "At the kitchen table, phone in hand, 20 seconds: \"If you're 65 and never tried this, here's the first thing I'd do.\"",
+   "target": "Reply under @ALScyborg's Grok Bot story (thread he's already in) or a big AI-for-everyone account.",
+   "topic": "AI everyday",
+   "status": "framework",
+   "checkedAt": "2026-10-29"
+  },
+  {
+   "id": "r-xcel",
+   "topic": "Energy bills",
+   "title": "Xcel gas up $5.16, West runs colder (short, ready)",
+   "ocr": "Strong",
+   "window": "Thu 9-10 AM MT or Sun 12 PM",
+   "body": "Colorado just approved Xcel's gas bump: about $5.16 a month on the average home bill. And the feds say the West runs colder this winter, so gas heat here could cost about 7% more while most of the country pays less. Sunshine on the roof doesn't file rate cases.",
+   "links": [
+    "https://puc.colorado.gov/press-release/puc-cuts-xcel-energys-natural-gas-rate-request",
+    "https://www.eia.gov/todayinenergy/detail.php?id=68264"
+   ],
+   "bullets": [
+    "Colorado PUC: average residential gas bill up 8.6%, about $5.16/month, effective Oct 6 (Xcel asked for $7.59).",
+    "EIA Winter Fuels Outlook 2026-27: West about +7% for gas heat, +9% electric heat; nation about 9% less for gas heat."
+   ],
+   "status": "ready",
+   "checkedAt": "2026-10-29"
+  },
+  {
+   "id": "r-vote",
+   "topic": "EV charging",
+   "title": "Drivers voted, Superchargers coming (short, ready)",
+   "ocr": "OK to Strong",
+   "window": "Fri 12-1 PM MT",
+   "body": "Tesla let drivers vote on where new Superchargers go, and Grand Lake, Colorado and Hanksville, Utah both won. Not a charger tomorrow: they still need land, power and permits. But asking drivers where the gaps are is a smart start. Where's the gap on your route?",
+   "links": [
+    "https://teslanorth.com/2026/10/28/tesla-36-supercharger-voting-winners-oct-2026/"
+   ],
+   "bullets": [
+    "Tesla Charging named 36 voting winners Oct 28, 17 in the US, incl. Grand Lake CO, Hanksville UT, Pinedale WY, Owensboro KY.",
+    "A win is not a live site yet; land, power and permits still needed."
+   ],
+   "status": "ready",
+   "checkedAt": "2026-10-29"
+  },
+  {
+   "id": "r-ai65",
+   "topic": "AI everyday",
+   "title": "1 in 3 over 65 never tried AI (short, ready)",
+   "ocr": "Strong",
+   "window": "Tue 11 AM MT",
+   "body": "About 1 in 3 people over 65 have never used AI. If you're one of them, start small: snap a photo of a confusing letter and ask it to explain it in plain English. No personal info needed, just a second set of eyes. What would you show your parents first?",
+   "links": [
+    "https://cssi.research.uiowa.edu/news/2026/10/new-survey-finds-ai-use-widespread-some-turning-chatbots-companionship"
+   ],
+   "bullets": [
+    "Univ. of Iowa / Verasight survey (Oct 2026): 65% of adults 65+ use AI at least occasionally; 35% never.",
+    "Tip: black out names, account and Medicare numbers before snapping a letter."
+   ],
+   "status": "ready",
+   "checkedAt": "2026-10-29"
+  }
+ ],
+ "growth_bets": [
+  "F1 first, this morning. The hook already came from a real conversation (an hour crossing Colorado), and Thursday's only warm bump is ~9-10 AM, so a quick driveway reading turns it into today's post. Cold-morning numbers pull replies from EV and gas guys alike.",
+  "F2 as a quote of @TeslaCharging on Friday noon. Quoting the big official account with a local Colorado/Utah line and a where's-your-gap question is a cheap way to land in front of verified EV owners, which is the 500-verified goal."
+ ]
+}
