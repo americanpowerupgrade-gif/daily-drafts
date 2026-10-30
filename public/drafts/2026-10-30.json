@@ -1,0 +1,115 @@
+{
+ "date": "2026-10-30",
+ "label": "FRAMEWORK - rewrite in your voice before posting",
+ "drafts": [
+  {
+   "id": "1",
+   "title": "$4.30 a gallon in Colorado today. Here's my cost per mile. (MAIN, Fri 12-1 PM today)",
+   "ocr": "Strong",
+   "ocr_why": "Dollar opener, his own number, and a question every driver can answer in one line.",
+   "window": "Fri ~12-1 PM MT today (Friday's bright noon cell). Don't run the 38,000-mile post the same day.",
+   "angle": "Simple per-mile receipt: what gas drivers pay per mile this morning next to what his Model Y costs charging at home. Not a used-price or lease post.",
+   "bullets": [
+    "AAA Oct 30: Colorado regular $4.3049; national $4.2046.",
+    "A year ago the national average was $3.0377, about $1.17 a gallon less than today.",
+    "AAA says crude above $100 a barrel is keeping prices from dropping further.",
+    "A 25 mpg car at $4.30 is about 17 cents a mile (our math, example mpg)."
+   ],
+   "body": "\"$4.30 a gallon in Colorado this morning.\n\nI did the math for a regular 25 mpg car. That's about 17 cents every mile you drive. A year ago the national average was about a dollar seventeen cheaper.\n\nMy Model Y charging in the garage here in Grand Junction: [___ cents a mile at ___ cents per kWh]. [photo: app charge stats or the home charging screen]\n\nI'm not trying to sell anybody a car. I spent years behind a parts counter watching people pour money into gas and repairs, and the per-mile number is the one nobody looks at.\n\nWhat's your cost per mile right now? Gas or electric, I want the real number.\"",
+   "links": [
+    "https://gasprices.aaa.com/todays-state-averages/",
+    "https://gasprices.aaa.com/"
+   ],
+   "pixel": "At a gas station sign or in the garage plugging in, 10 seconds, his face: \"$4.30 out there. Here's what mine costs.\"",
+   "target": "Quote @SawyerMerritt or another big verified EV account when they post today's AAA gas numbers, with his cents-per-mile line."
+  },
+  {
+   "id": "2",
+   "title": "$2,875 back from Xcel on one Powerwall 3: my battery quotes (Sun ~noon if quotes are in, else Tue ~noon)",
+   "ocr": "Strong once he has real quote numbers; Weak with blanks",
+   "ocr_why": "Real shopper with real dollars, a follow-up to the question he already asked, and every Colorado solar owner can weigh in.",
+   "window": "Sun ~12 PM MT if quotes are in hand; otherwise Tue ~12 PM MT.",
+   "angle": "He already asked \"Powerwall or Enphase?\" publicly. This is the receipt once quotes come in: what Colorado actually pays you back, in plain dollars. Don't re-ask the question.",
+   "bullets": [
+    "Xcel Colorado Renewable Battery Connect: $250 per kW, which Tesla says is $2,875 per Powerwall 3, capped at $5,000 per customer.",
+    "Plus a $100 a year bill credit for 5 years; Xcel can draw on the battery during grid events.",
+    "Runs through 2027 or until funds run out; check arrives within about 60 days of permission to operate. Enphase IQ batteries qualify at the same $250 per kW.",
+    "Typical installed with solar (HomeElectrified 2026 guide): Powerwall 3 about $15,000 for 13.5 kWh; Enphase IQ 10C about $14,250 for 10 kWh.",
+    "Enphase warranty 15 years vs Tesla 10. No federal tax credit for home batteries in 2026."
+   ],
+   "body": "\"$2,875. That's what Xcel pays back on one Powerwall 3 here in Colorado. Plus $100 a year off my bill for five years.\n\nI asked earlier which battery you'd pick. Now I've got actual quotes.\n\nTesla: [$___]\nEnphase: [$___]\n\nThe catch: Xcel gets to pull from the battery during grid emergencies, and the program ends when the money runs out. There's no federal tax credit on batteries this year, so the Xcel check matters.\n\nI'm leaning [___] because [___]. My Enphase panels have been [___] so far.\n\nIf you added a battery, what tipped it for you? Price, warranty, or the brand you already had?\"",
+   "links": [
+    "https://www.tesla.com/support/energy/virtual-power-plant/xcel-energy",
+    "https://enphase.com/installers/grid-services/colorado-battery-rebate-program-reopened-enphase-eligibility",
+    "https://homeelectrified.com/home-battery-cost-2026/"
+   ],
+   "pixel": "Standing at the garage wall where a battery would go, 20 seconds: \"Here's where it goes. Here's what each one costs me after Xcel's check.\"",
+   "target": "Quote @TeslaEnergy or @Enphase (both on his watch list) with the Colorado rebate line."
+  },
+  {
+   "id": "3",
+   "title": "$0 to share the ride: Robotaxi now runs till 2 AM and family can watch the trip (Mon ~8-9 PM)",
+   "ocr": "Strong",
+   "ocr_why": "Family-safety hook rides a fresh big-account story and pulls dad and grandpa replies from verified EV guys.",
+   "window": "Mon ~8-9 PM MT (evening bright cell; late-night-ride topic fits). Backup Tue ~8-9 PM.",
+   "angle": "He already replied to Sawyer about the 2 AM hours. Standalone family take: the late ride home and the \"text me when you get there\" feature, not a spec list.",
+   "bullets": [
+    "Tesla Robotaxi update (Oct 29): hours now 6 AM to 2 AM, up from midnight in the Q3 update.",
+    "Trip details can be shared with a friend during the ride.",
+    "New rear camera view, Calm Mode (dims the screen, relaxing cabin light), and Grok in Model Y Robotaxis.",
+    "Tesla didn't say which cities get the longer hours."
+   ],
+   "body": "\"$0 to send your ride to family.\n\nTesla's Robotaxi now runs till 2 AM, and you can share the trip live with somebody while you're riding.\n\nAs a [dad/grandpa ___], that's the part I care about. Not the screen or the music. The 1 AM ride home after a shift or a night out, and being able to watch the little dot come up the street.\n\nWhen my kids were that age the plan was \"call me when you get there\" and then you sat up waiting.\n\nNot every city has the late hours yet, Tesla didn't say which ones.\n\nWould you put your kid in one at 1 AM? Honest answer.\"",
+   "links": [
+    "https://teslanorth.com/2026/10/29/robotaxi-hours-2am-calm-mode-share/"
+   ],
+   "pixel": "None needed. Optional: 10 seconds on the porch at night, \"This is the ride I'd want them in at 1 AM.\"",
+   "target": "Quote @robotaxi's update post, or reply under @SawyerMerritt's post (thread he's already in)."
+  },
+  {
+   "id": "4",
+   "title": "$0 Halloween decoration: the grandkids and Halloween Mode (Sat Oct 31 early evening, video)",
+   "ocr": "Strong with his own family video; Weak without it",
+   "ocr_why": "Small human moment with family on the actual night; personal video is what he wants more of.",
+   "window": "Sat Oct 31 ~5-6 PM MT (time-sensitive; the night is the moment). Backup Sun ~12 PM as a recap.",
+   "angle": "A small family moment with the car, not a feature review.",
+   "bullets": [
+    "Tesla software 2026.38.5.11 adds Halloween Mode: ghost costume, spooky sounds, a light show and a photobooth (kWh Garage).",
+    "Trick-or-treating is Saturday Oct 31.",
+    "Confirm his car has the update before filming."
+   ],
+   "body": "\"$0 Halloween decoration this year: the car.\n\nTesla put a Halloween Mode in the last update. Spooky sounds, a light show, a little ghost costume on the screen.\n\nThe grandkids took one look and called it [___]. [video: kids reacting in the driveway]\n\nI spent a lot of Halloweens buying inflatable stuff that died by November. This one just needed the car parked out front.\n\nWould your grandkids go for this, or is it too much?\"",
+   "links": [
+    "https://kwhgarage.com/blog/2026-38-5-11-halloween-mode-emergency-drive-away-and-fsd-v14-3-13"
+   ],
+   "pixel": "15-20 seconds in the driveway at dusk with the light show running, his voice: \"Cheapest Halloween decoration I've ever had.\"",
+   "target": "Quote @Tesla or a big Tesla-update account posting the Halloween Mode clip."
+  },
+  {
+   "id": "5",
+   "title": "$0 new apps: texting your AI like you'd text your kid (Tue ~8-9 PM)",
+   "ocr": "Strong if he shows his own text thread",
+   "ocr_why": "AI for the masses with zero jargon; high save value for adult kids helping parents.",
+   "window": "Tue ~8-9 PM MT. Backup Mon ~8-9 PM (if Robotaxi isn't posted there).",
+   "angle": "The easiest on-ramp for 55+ isn't another app, it's a text message. ChatGPT just started this for its top plan; he already texts his own Grok Bot. Different from his live \"start small\" post: this is the how.",
+   "bullets": [
+    "ChatGPT (Oct 28) began a US beta letting Pro users text their \"dot\" agent over iMessage or Android RCS (Engadget, ChatGPT docs).",
+    "Works with text, photos and voice notes; one-to-one only, and only you can text your dot.",
+    "Brian is on Plus, not Pro, so frame it as \"top plan only for now.\"",
+    "He already texts his own AI from his Pixel 9 Pro XL."
+   ],
+   "body": "\"$0 new apps to learn.\n\nI [text my AI from my Pixel like I'd text my son ___]. No app to open, no menus. Just a text and an answer back.\n\nChatGPT just started letting people do the same thing over regular texting, top plan only for now.\n\nThe last thing I asked mine by text: [___]. It answered [___].\n\nI keep hearing older folks say AI is scary or too complicated. Most of them text their grandkids every day. This is the same thing.\n\nWould your parents use AI if it was just a text?\"",
+   "links": [
+    "https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/",
+    "https://learn.chatgpt.com/docs/dots/channels"
+   ],
+   "pixel": "Over-the-shoulder or screen recording of him texting a question and getting the answer, 15 seconds: \"No app. Just a text.\"",
+   "target": "Quote @ChatGPT's \"you can now text your dot\" post with the plain-English line."
+  }
+ ],
+ "growth_bets": [
+  "F2 battery quotes: he's shopping for real and already asked publicly, so posting his actual quote numbers turns a question into a receipt people bookmark, and verified solar owners love to reply with theirs. Tag @TeslaEnergy and @Enphase.",
+  "F1 today at noon: a dollar opener plus \"what's your cost per mile\" is the cheapest reply magnet on his account, and replies from verified EV guys are the follower bottleneck (about 308 verified short of 500 as of Oct 28)."
+ ],
+ "held": "Held: AP4 DST charger timer (only Strong if he finds something that didn't update; good Sun swap if battery quotes aren't in); AP7 38,000 miles (needs his real total; don't pair with F1 same day). X rescan since 2116126720700948749: two off-lane replies only (brockpierson, Kevin_Logan), zero new lane posts."
+}
