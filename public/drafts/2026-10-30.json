@@ -1,6 +1,6 @@
 {
  "date": "2026-10-30",
- "label": "FRAMEWORK - rewrite in your voice before posting",
+ "label": "Daily posts and optional frameworks",
  "drafts": [
   {
    "id": "1",
@@ -21,7 +21,8 @@
     "https://gasprices.aaa.com/"
    ],
    "pixel": "At a gas station sign or in the garage plugging in, 10 seconds, his face: \"$4.30 out there. Here's what mine costs.\"",
-   "target": "Quote @SawyerMerritt or another big verified EV account when they post today's AAA gas numbers, with his cents-per-mile line."
+   "target": "Quote @SawyerMerritt or another big verified EV account when they post today's AAA gas numbers, with his cents-per-mile line.",
+   "status": "needs-input"
   },
   {
    "id": "2",
@@ -44,7 +45,8 @@
     "https://homeelectrified.com/home-battery-cost-2026/"
    ],
    "pixel": "Standing at the garage wall where a battery would go, 20 seconds: \"Here's where it goes. Here's what each one costs me after Xcel's check.\"",
-   "target": "Quote @TeslaEnergy or @Enphase (both on his watch list) with the Colorado rebate line."
+   "target": "Quote @TeslaEnergy or @Enphase (both on his watch list) with the Colorado rebate line.",
+   "status": "needs-input"
   },
   {
    "id": "3",
@@ -64,7 +66,8 @@
     "https://teslanorth.com/2026/10/29/robotaxi-hours-2am-calm-mode-share/"
    ],
    "pixel": "None needed. Optional: 10 seconds on the porch at night, \"This is the ride I'd want them in at 1 AM.\"",
-   "target": "Quote @robotaxi's update post, or reply under @SawyerMerritt's post (thread he's already in)."
+   "target": "Quote @robotaxi's update post, or reply under @SawyerMerritt's post (thread he's already in).",
+   "status": "needs-input"
   },
   {
    "id": "4",
@@ -83,7 +86,8 @@
     "https://kwhgarage.com/blog/2026-38-5-11-halloween-mode-emergency-drive-away-and-fsd-v14-3-13"
    ],
    "pixel": "15-20 seconds in the driveway at dusk with the light show running, his voice: \"Cheapest Halloween decoration I've ever had.\"",
-   "target": "Quote @Tesla or a big Tesla-update account posting the Halloween Mode clip."
+   "target": "Quote @Tesla or a big Tesla-update account posting the Halloween Mode clip.",
+   "status": "needs-input"
   },
   {
    "id": "5",
@@ -104,7 +108,53 @@
     "https://learn.chatgpt.com/docs/dots/channels"
    ],
    "pixel": "Over-the-shoulder or screen recording of him texting a question and getting the answer, 15 seconds: \"No app. Just a text.\"",
-   "target": "Quote @ChatGPT's \"you can now text your dot\" post with the plain-English line."
+   "target": "Quote @ChatGPT's \"you can now text your dot\" post with the plain-English line.",
+   "status": "needs-input"
+  },
+  {
+   "id": "ready-cost-per-mile",
+   "title": "What does a mile actually cost?",
+   "topic": "EVs",
+   "body": "A gas price sign only tells half the story.\n\nAt an example $4 a gallon and 25 mpg, fuel costs 16 cents a mile.\n\nFor an EV, compare electricity bought with miles driven, including charging losses.\n\nUse your own prices. What does a mile actually cost you?",
+   "links": [
+    "https://afdc.energy.gov/fuels/electricity-charging-home"
+   ],
+   "bullets": [
+    "Illustrative arithmetic: $4 divided by 25 miles per gallon is $0.16 per mile. This is not a claim about current Colorado prices or Brian's car.",
+    "DOE explains EV fuel cost using electricity price and energy use per mile. Metered charging electricity includes charging losses. This compares energy costs only, not total ownership costs."
+   ],
+   "status": "ready",
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "ready-battery-backup",
+   "title": "Start a battery quote with the fridge",
+   "topic": "Home energy",
+   "body": "Shopping for a home battery? Start with the fridge, lights and anything else you need during an outage.\n\nAsk the installer: which circuits will work, and for how long?\n\nBattery size alone does not answer that. What would your household need to keep running?",
+   "links": [
+    "https://ww2.arb.ca.gov/capp/cst/tch/welcome-to-the-zero-emissions-residential-backup-power-tool"
+   ],
+   "bullets": [
+    "California Air Resources Board explains that backup systems must meet both power demand and stored-energy needs for sufficient runtime.",
+    "This is a shopping checklist, not a product recommendation, rebate claim or guaranteed runtime. Circuit coverage and runtime require a home-specific installer assessment."
+   ],
+   "status": "ready",
+   "checkedAt": "2026-10-30"
+  },
+  {
+   "id": "ready-ai-first-question",
+   "title": "Start with something you already enjoy",
+   "topic": "Everyday AI",
+   "body": "Helping someone try AI for the first time? Start with a hobby they already enjoy.\n\nTry: \"Explain three photography terms in plain English, with an example of each.\"\n\nCheck the answers together. No personal documents needed.\n\nWhat would your first question be?",
+   "links": [
+    "https://www.nist.gov/itl/ai-risk-management-framework/ai-risk-management-framework-faqs"
+   ],
+   "bullets": [
+    "An original suggested learning exercise, not a claim about a particular AI product or personal experience.",
+    "NIST identifies validity, reliability and privacy as AI trustworthiness considerations. The advice to check answers and avoid personal documents applies those principles; NIST does not prescribe this photography prompt."
+   ],
+   "status": "ready",
+   "checkedAt": "2026-10-30"
   }
  ],
  "growth_bets": [
