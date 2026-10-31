@@ -1,0 +1,119 @@
+{
+  "date": "2026-10-31",
+  "label": "FRAMEWORK - rewrite in your voice before posting",
+  "drafts": [
+    {
+      "id": "1",
+      "title": "$0 Halloween decoration tonight: the Model Y in the yard (MAIN, tonight during trick-or-treat)",
+      "ocr": "Strong",
+      "ocr_why": "His own video, a family moment, and a promise he already made to @RyanKnuppel in replies. Weak if posted without video.",
+      "window": "Tonight ~5-7 PM MT during trick-or-treat (time-sensitive; Saturday has no bright cell, the moment carries it). Recap clip Sun ~noon.",
+      "angle": "He already told RyanKnuppel he'd park the Model Y in the yard with the light show and post video. This is that post. A family moment, not a feature review.",
+      "bullets": [
+        "Tesla software 2026.38.5.11 adds Halloween Mode: ghost costume, spooky sounds, a light show and a photobooth (kWh Garage).",
+        "The light show runs off the car's own battery; a few minutes of show uses very little charge. Have him note his % before and after.",
+        "He promised the video in a reply to @RyanKnuppel, so people in that thread are waiting for it.",
+        "Kids in frame only with parents' OK."
+      ],
+      "body": "$0 Halloween decoration this year: the car.\n\nModel Y parked in the yard, Halloween Mode on, candy bowl on the hood. [video: the show running + kids' reactions]\n\nI didn't buy one inflatable this year. The car does the lights and the sound, and it barely touched the battery. Started at [__%], ended the night at [__%].\n\nBest part was [one small moment: a kid who wouldn't leave / a dad asking how it works / the grandkids running the photobooth].\n\nWho else turned their Tesla into the haunted house tonight?",
+      "links": [
+        "https://kwhgarage.com/blog/2026-38-5-11-halloween-mode-emergency-drive-away-and-fsd-v14-3-13"
+      ],
+      "pixel": "15-20 seconds at dusk with the show running: \"Cheapest Halloween decoration I've ever had.\"",
+      "target": "Reply under @RyanKnuppel's thread with the clip (he asked), then quote any big Tesla account posting Halloween Mode clips tonight.",
+      "status": "framework"
+    },
+    {
+      "id": "2",
+      "title": "$0 Sunday chore: clocks fell back, check your charger timer (Sun ~noon)",
+      "ocr": "OK",
+      "ocr_why": "Useful and timely, but generic. Strong only if he finds a real thing on his setup that didn't update.",
+      "window": "Sun Nov 1 ~noon MT (Sunday's bright noon cell). Don't stack with another post within the hour.",
+      "angle": "Plain helpful reminder using his own setup. The car fixes itself; the stuff around it may not.",
+      "bullets": [
+        "Daylight saving time ends 2 AM Sunday Nov 1, 2026.",
+        "Teslas set their clock automatically, so in-car scheduled charging and preconditioning should stay on time.",
+        "A standalone wall charger app or utility timer may not update on its own.",
+        "Precondition while plugged in so the winter warm-up comes from the wall, not the battery."
+      ],
+      "body": "$0 Sunday chore before winter.\n\nClocks fell back last night. My Model Y fixed its own clock, no problem. But my [charger app / utility schedule ___] still said [___].\n\nThat matters because off-peak here starts at [___]. If your timer is an hour off, you could be charging at the expensive rate all week and never notice until the bill.\n\nTwo minutes: open whatever runs your charging schedule and look at the time. While you're in there, set the car to warm up while it's still plugged in. Cold mornings are coming and that warm-up should come from the wall, not your battery.\n\nDid your charging schedule catch the time change?",
+      "links": [
+        "https://fleetev.com/articles/clocks-going-back-how-to-check-your-ev-charging-timer-and-get-winter-ready"
+      ],
+      "pixel": "Phone on the charge schedule screen, 10 seconds: \"Time changed last night. Here's the one thing I checked.\"",
+      "target": "Reply under any big Tesla account's clock-change tip Sunday with what he found on his own setup.",
+      "status": "framework"
+    },
+    {
+      "id": "3",
+      "title": "$0 to keep your independence: a blind rider called Robotaxi \"unusually normal\" (Tue ~noon)",
+      "ocr": "Strong",
+      "ocr_why": "Emotional, lands with 55+ and their adult kids, and it's a natural reply magnet. Keep the $0 about the cost of losing independence, not free rides.",
+      "window": "Tue Nov 3 ~noon MT (Tuesday's bright noon cell).",
+      "angle": "The day Mom or Dad hands over the keys. Not a robotaxi tech post: it's about staying independent when you can't drive anymore.",
+      "bullets": [
+        "Tesla's @robotaxi held an Accessibility Day with disabled riders; feedback goes into Cybercab and future products (Oct 29 post, ~490K views).",
+        "A totally blind rider's first trip: \"The app was totally accessible, the ride accessible, the drop-off accessible. It felt unusually normal!\"",
+        "Cybercab has Braille labels, voice control, wheelchair-height seating, and room for folding wheelchairs and service animals; riders can't stay seated in a wheelchair yet.",
+        "Tesla told lawmakers Oct 20 it is building a separate wheelchair-accessible autonomous vehicle in Texas (no timeline). Waymo's wheelchair rides still use a human driver."
+      ],
+      "body": "$0. That's what it should cost to keep your independence the day the doctor takes your keys.\n\nA blind rider took Tesla's Robotaxi for the first time and said it felt \"unusually normal.\" The app worked, the ride worked, the drop-off worked. Nobody had to help.\n\n[My dad / mom / a friend ___ had to stop driving at ___. After that, every doctor visit and every grocery run meant asking somebody.]\n\nThat's who this is for. Not tech guys. People who still have places to go and don't want to be a burden.\n\nWould your parents ride one?",
+      "links": [
+        "https://www.cybercab.news/article/cybercab-accessibility-day-2am-oct30",
+        "https://wheresthedriver.com/news/2026/10/30/tesla-develops-texas-wheelchair-accessible-vehicle/"
+      ],
+      "pixel": "Optional, 15 seconds in the driver's seat: \"Someday I won't be able to drive. Here's why I'm watching this.\"",
+      "target": "Quote @robotaxi's Accessibility Day post with the one-line family take.",
+      "status": "framework"
+    },
+    {
+      "id": "4",
+      "title": "$0 and 5 questions: AI next to your doctor, not instead of them (Wed 8-9 AM)",
+      "ocr": "Strong",
+      "ocr_why": "First-hand and calm, high save value for adult kids of 65+ parents. Strongest if he names one real question he took to a visit.",
+      "window": "Wed Nov 4 8-9 AM MT (the strongest morning cell).",
+      "angle": "After this week's ChatGPT terminal-cancer story, the plain rule of thumb. He uses AI to prep for appointments for his own condition, so it's first-hand, not a scare post.",
+      "bullets": [
+        "The AMA's free patient guide: use AI to learn, simplify and prepare, not to diagnose.",
+        "Its 5 prompts include \"Explain this to me in simple words: [doctor's instructions]\" and \"What questions should I ask my doctor?\"",
+        "AMA cautions: AI can sound confident even when wrong; don't share identifying details; never use it for emergencies or treatment decisions.",
+        "Trending this week: a daughter said ChatGPT told her terminally ill mother \"terminal doesn't mean incurable\"; a lawsuit alleges ChatGPT led a woman to stop seizure meds."
+      ],
+      "body": "$0 rule I use with AI and my health.\n\nI live with [antisynthetase syndrome / a condition that keeps me at the doctor a lot]. Before a visit I ask AI to explain my last test results in plain words and help me write down questions. Last time I asked it [___] and my doctor said [___].\n\nWhat I never do: let it tell me to start or stop a medicine. It can sound sure of itself and still be wrong. My doctor makes the call.\n\nThe AMA put out a free guide with 5 prompts for patients. The one I'd tell my own family to use: \"What questions should I ask my doctor?\"\n\nDo you take AI questions to your doctor, or keep it out of the exam room?",
+      "links": [
+        "https://www.ama-assn.org/practice-management/digital-health/5-prompts-help-patients-get-most-out-ai-chatbots",
+        "https://x.com/i/trending/2115927185395417393"
+      ],
+      "pixel": "20 seconds at the kitchen table with his phone: \"Here's what I ask AI before a doctor visit, and what I never let it decide.\"",
+      "target": "Quote a verified health or AI creator posting the cancer story with the one-line \"learn, don't diagnose\" take.",
+      "status": "framework"
+    },
+    {
+      "id": "5",
+      "title": "$156 vs $104: same Starlink plan, different town (Fri ~noon)",
+      "ocr": "OK",
+      "ocr_why": "Clear dollar gap and an easy reply question. Strong if he has his own price or the email screenshot.",
+      "window": "Fri Nov 6 ~noon MT, or Tue ~8-9 PM. Check his inbox for the Starlink email before Nov 30.",
+      "angle": "He's a Starlink fan (his Verizon vs Starlink post did well). Honest bill take: some towns pay more, some less.",
+      "bullets": [
+        "Starlink emailed some Residential customers that prices now follow local supply and demand, reviewed roughly quarterly, starting with the bill on or after Nov 30.",
+        "Residential Max list is $130: Rolla MO $156 (+20%), Warsaw MO $143, Kansas City $117 (-10%), Marysville KS $104 (-20%).",
+        "That's a $52 a month gap, $624 a year, on the same plan (Supercharged Daily, PCMag).",
+        "Still month to month, cancel anytime."
+      ],
+      "body": "$156 vs $104. Same Starlink plan. Different town.\n\nStarlink is starting to price by local demand. Some folks in Missouri are getting a $156 bill, a town in Kansas is getting $104. That's over $600 a year difference for the exact same dish.\n\nMine here in Grand Junction: [$___ / no email yet]. [screenshot: app price or email]\n\nI still like it more than what I had before. But if you're on a fixed income, check your email before your bill after Nov 30 and know your number.\n\nDid your Starlink price go up or down?",
+      "links": [
+        "https://teslanorth.com/2026/10/30/starlink-tests-dynamic-pricing-bills-156/",
+        "https://superchargeddaily.com/dispatch/starlink-dynamic-pricing-map.html"
+      ],
+      "pixel": "None needed; screenshot of his Starlink app price.",
+      "target": "Reply under @SawyerMerritt's post of the $156 email.",
+      "status": "framework"
+    }
+  ],
+  "growth_bets": [
+    "F1 tonight: his own Halloween video is the most personal thing in the queue and he promised it in a reply, so the thread already has people waiting. Real video, real kids, real battery %.",
+    "F3 Tue noon: \"keeping your independence when you can't drive\" is the cleanest bridge between his EV fans and the 55+ families he wants, and quoting @robotaxi rides a ~490K-view post."
+  ],
+  "held": "Held from pack: AP2 $4.25 gas per mile (yesterday's five already had the $4.30 version; post one or the other, not both), AP5 Model Y L $61,990 (Mon 8-9 PM backup), AP8 $2,875 Xcel battery (waiting on his quotes)."
+}
