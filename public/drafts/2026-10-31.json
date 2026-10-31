@@ -1,7 +1,53 @@
 {
   "date": "2026-10-31",
-  "label": "FRAMEWORK - rewrite in your voice before posting",
+  "label": "Daily posts and optional frameworks (rewrite-before-post)",
   "drafts": [
+    {
+      "id": "ready-dst-charger-timer",
+      "title": "Clocks fall back: check your charging timer",
+      "topic": "EVs",
+      "body": "Clocks fall back an hour Sunday morning.\n\nYour car may fix its own clock. A wall charger app or utility timer might not.\n\nIf your off-peak schedule is an hour off, you could pay the higher rate all week.\n\nTwo minutes Sunday: open whatever runs your charging and check the time.",
+      "links": [
+        "https://fleetev.com/articles/clocks-going-back-how-to-check-your-ev-charging-timer-and-get-winter-ready"
+      ],
+      "bullets": [
+        "Daylight saving time ends at 2 AM Sunday, Nov 1, 2026.",
+        "Whether a given charger or utility timer updates automatically varies by device; this is a check-it reminder, not a claim about any specific product or Brian's setup."
+      ],
+      "status": "ready",
+      "checkedAt": "2026-10-31"
+    },
+    {
+      "id": "ready-ai-doctor-questions",
+      "title": "Use AI to prep for the doctor, not replace them",
+      "topic": "Everyday AI",
+      "body": "Heading to the doctor? AI can help you get ready.\n\nTry: \"Explain this to me in simple words\" with your visit notes, or \"What questions should I ask my doctor?\"\n\nThe AMA's guide says use it to learn and prepare, not to diagnose. Your doctor makes the call.",
+      "links": [
+        "https://www.ama-assn.org/practice-management/digital-health/5-prompts-help-patients-get-most-out-ai-chatbots"
+      ],
+      "bullets": [
+        "Both prompts and the learn/prepare-not-diagnose framing come from the AMA's free patient guide.",
+        "AMA also cautions AI can sound confident when wrong, not to share identifying details, and never to use it for emergencies or treatment decisions. No personal-experience claim is made."
+      ],
+      "status": "ready",
+      "checkedAt": "2026-10-31"
+    },
+    {
+      "id": "ready-starlink-local-pricing",
+      "title": "Same Starlink plan, different price by town",
+      "topic": "Household bills",
+      "body": "Same Starlink plan, different town, different price.\n\nStarlink is testing local demand pricing. Reported examples: $156 a month in Rolla, MO and $104 in Marysville, KS for Residential Max, which lists at $130.\n\nOn a fixed income? Watch your email before your bill after Nov 30.",
+      "links": [
+        "https://teslanorth.com/2026/10/30/starlink-tests-dynamic-pricing-bills-156/",
+        "https://superchargeddaily.com/dispatch/starlink-dynamic-pricing-map.html"
+      ],
+      "bullets": [
+        "Rolla $156, Marysville $104 and the $130 Residential Max list price are as reported by TeslaNorth / Supercharged Daily citing customer emails; not confirmed on a Starlink pricing page.",
+        "Reported change applies starting with bills on or after Nov 30, reviewed roughly quarterly, and service stays month to month."
+      ],
+      "status": "ready",
+      "checkedAt": "2026-10-31"
+    },
     {
       "id": "1",
       "title": "$0 Halloween decoration tonight: the Model Y in the yard (MAIN, tonight during trick-or-treat)",
