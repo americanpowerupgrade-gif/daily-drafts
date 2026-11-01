@@ -1,0 +1,162 @@
+{
+ "date": "2026-11-01",
+ "label": "Daily posts and optional frameworks (rewrite-before-post)",
+ "growth_bets": [
+  "F2 heat pump with his real gas bill: he already opened the conversation last night and got replies, so real Colorado numbers turn one quote post into a series people save and come back to.",
+  "F4 talking to AI out loud on camera: his own face asking one real question is the most \"AI for the masses\" post in the queue, and voice is the easiest door for 55+."
+ ],
+ "held": "Held from pack: AP6 Starlink (dropped, news-parrot), AP7 Radiant microreactor, AP8 Xcel $2,875 battery (pick AP2 heat pump or AP8 on Tue, not both). Alt Fri noon: California 97% charger rule (also a ready post).",
+ "drafts": [
+  {
+   "id": "ready-gj-gas-per-mile",
+   "title": "$4.36 gas in Grand Junction: do your per-mile math",
+   "topic": "EVs",
+   "body": "$4.36 a gallon in Grand Junction today. A year ago it was $3.03.\n\nFill a 15 gallon tank and that's about $20 more than last fall.\n\nTry this once: price per gallon divided by your mpg. At 25 mpg you're paying about 17 cents a mile.\n\nWhat's your number?",
+   "links": [
+    "https://gasprices.aaa.com/?state=CO"
+   ],
+   "bullets": [
+    "AAA Nov 1, 2026: Grand Junction regular $4.3567; a year ago $3.0263.",
+    "$1.33 x 15 gallons is about $20. $4.36 / 25 mpg is about 17.4 cents a mile (example mpg)."
+   ],
+   "status": "ready",
+   "checkedAt": "2026-11-01"
+  },
+  {
+   "id": "ready-co-heat-pump-credit",
+   "title": "Colorado heat pump credit: $333 off the invoice",
+   "topic": "Home energy",
+   "body": "Pricing a heat pump in Colorado? The state credit is $1,000 for an air-source unit installed in 2026.\n\nAnd your contractor has to take at least $333 of it right off your invoice.\n\nAsk for it by name when you get quotes. Don't leave it on the table.",
+   "links": [
+    "https://energyoffice.colorado.gov/hptc"
+   ],
+   "bullets": [
+    "Colorado Energy Office heat pump tax credit, 2026 installs: $1,000 air-source; at least $333 passed to the customer on the invoice by a registered contractor."
+   ],
+   "status": "ready",
+   "checkedAt": "2026-11-01"
+  },
+  {
+   "id": "ready-ca-charger-uptime",
+   "title": "California's 97% charger uptime rule (ties to his trip)",
+   "topic": "EVs",
+   "body": "California now requires publicly funded fast chargers to actually work 97% of the time.\n\nOn my 11-stop drive home from Kentucky, a working charger at every stop was the whole ballgame.\n\nEvery state should do this. Dead chargers scare off more new EV buyers than range does.",
+   "links": [
+    "https://www.canarymedia.com/articles/ev-charging/california-ev-charging-reliable"
+   ],
+   "bullets": [
+    "Canary Media: California rule requiring 97% uptime for publicly funded fast chargers.",
+    "Brian's Oct 24-25 drive home Kuttawa KY to Rifle CO: 11 charging stops (his own log). Last sentence is opinion; soften if he disagrees."
+   ],
+   "status": "ready",
+   "checkedAt": "2026-11-01"
+  },
+  {
+   "id": "1",
+   "title": "$4.36 a gallon in Grand Junction. A year ago it was $3.03 (MAIN, today ~noon)",
+   "angle": "Hometown receipt. Gas here is $1.33 a gallon higher than a year ago. What did HIS cost to drive the same miles do? Local number beats the statewide one.",
+   "bullets": [
+    "AAA Nov 1: Grand Junction regular $4.3567; a year ago $3.0263 (+$1.33).",
+    "Colorado average $4.2165 (week ago $4.4571); national $4.1732; Glenwood Springs $4.7265.",
+    "Example math: a 25 mpg car at $4.36 is about 17.4 cents a mile, up from about 12.1 cents a year ago.",
+    "His home charging cents per mile goes in the blank. Only his real number, no estimate."
+   ],
+   "body": "$4.36 a gallon in Grand Junction today. A year ago it was $3.03.\n\nThat's $1.33 more every gallon. Fill a 15 gallon tank and that's about $20 more than last fall, every single fill-up.\n\nMy Model Y charging at home: [___ cents a mile]. Last year it was about [___]. [photo: gas station sign + my charge screen]\n\nI'm not saying everybody needs an EV tomorrow. I'm saying look at what you're paying per mile, because most people never do the math.\n\nDid your fuel bill go up this much too?",
+   "links": [
+    "https://gasprices.aaa.com/?state=CO"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Local dollar opener, his own per-mile number, easy reply question. Weak if he can't fill in his real charging cost.",
+   "window": "Today (Sun) ~noon MST.",
+   "pixel": "10 seconds at a station sign on the way to the store: \"Four thirty-six. Here's what I paid to drive the same miles.\"",
+   "target": "Quote @SawyerMerritt (or any big EV account) posting gas prices this week with his one-line Grand Junction number.",
+   "status": "framework"
+  },
+  {
+   "id": "2",
+   "title": "$1,000 from the state plus Xcel's bonus: pricing out my heat pump (Tue ~noon)",
+   "angle": "He said publicly last night he wants to ditch the gas furnace and swamp cooler for a heat pump. Follow up with real Colorado numbers and his first quote. A series people save, not a repeat of the Tesla Energy quote.",
+   "bullets": [
+    "Colorado heat pump tax credit, 2026 installs: $1,000 for air-source; the contractor must pass at least $333 of it to you right on the invoice (Colorado Energy Office).",
+    "Xcel cold-climate heat pump rebate for homes heating with Xcel gas: $1,500 per heating ton since Oct 1, 2026 (was $2,250); $750 per ton for electric-heat homes (Zero Homes summary).",
+    "Xcel drops gas furnace rebates Jan 1, 2027.",
+    "Verify which utility serves his gas and electric in Grand Junction before using the Xcel number."
+   ],
+   "body": "$1,000 from Colorado plus about $1,500 a ton from Xcel if you heat with gas.\n\nThat's what I found when I started pricing a heat pump. I want to replace my old gas furnace AND the swamp cooler on my roof with one unit that heats and cools.\n\nMy gas bill last January: [$___].\nQuote #1: [$___ for ___ tons].\nAfter the credits: [$___].\n\nThe state credit has to show up right on the contractor's invoice, so you don't wait for a tax refund. And Xcel stops paying rebates on new gas furnaces in January, which tells you where this is going.\n\nAnyone in western Colorado already done this? Was it worth it in a real winter?",
+   "links": [
+    "https://energyoffice.colorado.gov/hptc",
+    "https://www.zerohomes.com/programs/xcel-energy-rebates"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Strong with his real gas bill and one real quote; follow-up to a thread people already replied to. OK (hold) until he has one real number.",
+   "window": "Tue ~noon MST.",
+   "pixel": "15 seconds by the furnace or the swamp cooler: \"This old thing and that box on the roof. One heat pump might replace both. Here's what it costs.\"",
+   "target": "Reply under his own @teslaenergy heat pump quote thread (FutureThesisX and gailalfaratx already engaged), or quote @teslaenergy again only with the new numbers.",
+   "status": "framework"
+  },
+  {
+   "id": "3",
+   "title": "$30 part that keeps a lineman alive: the generator mistake (Wed 8-9 AM)",
+   "angle": "Plain winter outage safety for older homeowners, riding the Hurricane Lana trend. One soft line on why he likes batteries. No politics, no meme.",
+   "bullets": [
+    "Plugging a generator into a dryer outlet (a \"suicide cord\") can backfeed the power lines and electrocute utility workers fixing them.",
+    "Safe route: an interlock kit (often around $30 for the part) plus a power inlet box, installed by a licensed electrician.",
+    "Simplest safe option: extension cords from the generator straight to the fridge and a lamp.",
+    "Run generators outside, away from windows; carbon monoxide is the other killer. Have him confirm the interlock price locally before posting."
+   ],
+   "body": "$30. That's about what the part costs that keeps your generator from killing a lineman.\n\nEvery storm, somebody plugs a generator into the dryer outlet. It works, so they think it's fine. But that power can run backward up the line and hit the guy up the pole trying to get your lights back on.\n\nThe fix is an interlock kit and an inlet box. Have an electrician put it in. Or just run extension cords to the fridge.\n\nMy plan this winter: [my setup ___ / I went battery because ___].\n\nWhat's your outage plan? Generator, battery, or candles and hope?",
+   "links": [
+    "https://x.com/i/trending/2116659652494553583"
+   ],
+   "ocr": "OK",
+   "ocr_why": "High save and share value, reply magnet; goes Strong if he adds his own setup or a panel photo. Keep the battery line to one sentence.",
+   "window": "Wed 8-9 AM MST (brightest cell).",
+   "pixel": "Optional, at the breaker panel: \"If you own a generator, look for this. If you don't have it, call an electrician.\"",
+   "target": "Reply under a big weather or prepper account's Hurricane Lana prep post with the short safety line.",
+   "status": "framework"
+  },
+  {
+   "id": "4",
+   "title": "$0 and out loud: talking to AI instead of typing (Tue 8-9 PM)",
+   "angle": "He told mrfundman he got Muse's voice mode and \"started talking to it. Long needed.\" Make it the you-don't-have-to-type post for people who hate tiny keyboards. AI for the masses.",
+   "bullets": [
+    "Muse added voice chat (mrfundman post, Oct 31); Brian replied he started talking to it right away.",
+    "Most phone AI apps (Grok, ChatGPT, Gemini) also have a talk button now, so this is a habit post, not a product pitch.",
+    "Only HIS first voice chat: what he asked, what it got right or wrong.",
+    "He already posted Grok-calls-customer-service this week, so no feature list."
+   ],
+   "body": "$0 and no typing.\n\nFirst time I just talked to my AI out loud like a person. I asked it [___ real question].\n\nIt said [___ short version]. [It got this right / it missed this].\n\nHonestly, typing on a phone is why a lot of people my age never try this stuff. Big thumbs, readers in the other room, autocorrect fighting you. Talking fixes all of that.\n\nIf you've been scared of AI, start here. Push the button and just ask it something you'd ask a neighbor.\n\nHave you tried talking to yours yet?",
+   "links": [
+    "https://x.com/mrfundman/status/2116699163907822057"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Strong only with his real question and answer, best on video. Weak if generic.",
+   "window": "Tue ~8-9 PM MST.",
+   "pixel": "20 seconds, phone on the kitchen table, he asks it one real question on camera. Best video in the set.",
+   "target": "Quote @mrfundman's Muse voice post: \"This is how my parents' generation finally gets in.\"",
+   "status": "framework"
+  },
+  {
+   "id": "5",
+   "title": "$61,990 for six seats: would the grandkids fit? (Mon 8-9 PM)",
+   "angle": "Grandparent lens on the trending Model Y L. Not a price ticker, a family question.",
+   "bullets": [
+    "Model Y L: $61,990, six seats (2+2+2), about 325 miles of range, 0-60 in 4.4 seconds (Electrek).",
+    "Heated third row with child-seat anchors.",
+    "Standard RWD Model Y is $39,990, so the L is about $22,000 more.",
+    "Still trending on X with owners calling it \"heavenly\"."
+   ],
+   "body": "$61,990 for six seats.\n\nMy Model Y fits [___ of the grandkids] if nobody brings a backpack. [photo: back seat with car seats]\n\nThe new long one adds a third row, heated, with car seat anchors. That's about $22,000 more than a basic Model Y.\n\nWould I pay it? [yes/no, because ___]. For a family that's hauling kids to practice every day, I get it. For two grandkids on weekends, [___].\n\nWould you pay up for the third row, or take the minivan?",
+   "links": [
+    "https://electrek.co/2026/07/02/tesla-model-y-l-us-launch-61990/",
+    "https://x.com/i/trending/2116676175300845674"
+   ],
+   "ocr": "OK",
+   "ocr_why": "OK to Strong with a real photo of his back seat full of kids or car seats; held twice, so use it Monday or retire it.",
+   "window": "Mon ~8-9 PM MST.",
+   "pixel": "Hatch open, 10 seconds: \"Here's how the grandkids fit now.\"",
+   "target": "Quote a big Model Y L owner video with his one-line grandkid take.",
+   "status": "framework"
+  }
+ ]
+}
