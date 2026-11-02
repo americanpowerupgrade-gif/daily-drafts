@@ -1,165 +1,31 @@
 {
-  "date": "2026-11-02",
-  "label": "Daily posts and optional frameworks (rewrite-before-post)",
-  "growth_bets": [
-    "F1 tonight plus a reply under @ColoradoDOT: thousands of Colorado drivers are reading those closure updates, and a kind, useful EV-owner line is the best shot at new local verified followers.",
-    "F2 Wednesday morning: \"$7.7 billion, paste it into AI\" is the kind of post adult kids save and send to parents. It only works with his real example in the blank."
-  ],
-  "held": "Held from pack: AP6 snow on panels (only when it snows on his roof), AP7 heat pump quote (only with a real quote; Sunday's heat pump framework owns Tue noon), AP8 TVA SMR (slow-day policy post). F5 home inventory: hold until he actually tries it.",
-  "drafts": [
-    {
-      "id": "ready-60plus-fraud-ai-check",
-      "title": "$7.7 billion lost to fraud by Americans 60+: the 30-second AI check",
-      "topic": "AI",
-      "body": "$7.7 billion. That's what Americans over 60 lost to fraud in 2025, up almost 60% in a year.\n\nOne free habit: before you click a weird text or email, copy it into your AI app and ask \"Is this a scam?\"\n\nShow your parents once. It takes 30 seconds.",
-      "links": [
-        "https://www.aging.senate.gov/imo/media/doc/ai_report_2026.pdf"
-      ],
-      "bullets": [
-        "Senate Aging Committee 2026 AI report citing FBI IC3: 60+ losses $7.7B in 2025, up nearly 60% from $4.8B in 2024.",
-        "Advice line is a general habit, not a claim about his own example."
-      ],
-      "status": "ready",
-      "checkedAt": "2026-11-02"
-    },
-    {
-      "id": "ready-mountain-drive-fill-up",
-      "title": "Passes closing in SW Colorado: fill up before the mountains",
-      "topic": "EVs",
-      "body": "Flooding and pass closures down in southwest Colorado this week. Praying for folks in Pagosa.\n\nIf you're crossing the mountains, gas or electric, same rule: leave with a full tank or a full charge. A closed pass can add a long detour fast.\n\nCheck COtrip before you go.",
-      "links": [
-        "https://www.cotrip.org",
-        "https://www.cpr.org/2026/11/01/southwest-colorado-pagosa-springs-flooding-san-luis-valley-november-2026/"
-      ],
-      "bullets": [
-        "CPR/Pagosa Springs Sun Nov 1: San Juan River flooding at Pagosa, evacuations, US 160 and other closures.",
-        "Check COtrip the moment before posting; closures may have changed."
-      ],
-      "status": "ready",
-      "checkedAt": "2026-11-02"
-    },
-    {
-      "id": "ready-home-inventory-phone",
-      "title": "Could you prove what's in your house? Phone walk-through for insurance",
-      "topic": "AI",
-      "body": "Watching families in Pagosa evacuate in a hurry, one question stuck with me: could I prove what's in my house if I had to file a claim?\n\nEasy fix: walk each room with your phone and record it. Save it somewhere off the house, like the cloud.\n\nTen minutes. No app to buy.",
-      "links": [
-        "https://www.ready.gov/financial-preparedness"
-      ],
-      "bullets": [
-        "Ready.gov recommends documenting belongings and keeping insurance info handy.",
-        "General advice only; the AI-list version (F5) waits until he actually tries it."
-      ],
-      "status": "ready",
-      "checkedAt": "2026-11-02"
-    },
-    {
-      "id": "F1",
-      "title": "US 160 is closed and Pagosa is flooding again. My EV rule before a mountain drive (MAIN, tonight ~8-9 PM)",
-      "angle": "Neighbors down south are flooding for the second time in about 10 days. Lead with care, then one practical rule from someone who just drove across Colorado in an EV. No EV-vs-gas fight on a disaster.",
-      "bullets": [
-        "San Juan River at Pagosa Springs forecast to crest around 19.7 to 22 ft Sunday night, above the 1911 record of 17.8 ft (NWS via Pagosa Springs Sun, CPR).",
-        "Mandatory evacuations along the San Juan, Rio Blanco, Navajo and Piedra rivers; town closed to inbound traffic.",
-        "CDOT closures: US 160 Wolf Creek Pass to South Fork, US 160 Pagosa to Bayfield, CO 17 NM line to Antonito, CO 151, CO 172, CO 41.",
-        "Flood watch to at least 11 AM Monday; 12 to 18 inches of snow above 10,000 ft. CDOT says some closures may outlast the rain because of road damage.",
-        "Check COtrip for what is still closed before posting tonight."
-      ],
-      "body": "US 160 is shut from Wolf Creek to South Fork, and Pagosa is flooding again. Praying for everybody down there.\n\nI just crossed Colorado in my Model Y, so here's my one rule before any mountain drive: [charge to ___% before I leave / never leave home under ___%].\n\nWhen a pass closes, a detour can add [___] miles fast. I'd rather sit on extra charge than sweat the last 20 miles. I also [check the stall map at ___ / keep a blanket and water in the frunk].\n\nGas or electric, same deal: fill up before the mountains.\n\nWhat's your rule before a mountain drive this time of year?",
-      "links": [
-        "https://www.cpr.org/2026/11/01/southwest-colorado-pagosa-springs-flooding-san-luis-valley-november-2026/",
-        "https://www.pagosasun.com/stories/road-closures-in-southwest-and-south-central-colorado,158309",
-        "https://www.cotrip.org"
-      ],
-      "ocr": "Strong",
-      "ocr_why": "Local, timely, kind, first-hand rule, easy reply question.",
-      "window": "Today (Mon) ~8-9 PM MST. Can go ~1 PM if closures are still the lead story.",
-      "pixel": "10 seconds by the car: \"Folks in Pagosa, stay safe. For everybody else heading over the passes, here's what I do before I leave.\"",
-      "target": "Reply under @ColoradoDOT's next closure update with the \"fill up before the mountains\" line.",
-      "status": "framework"
-    },
-    {
-      "id": "F2",
-      "title": "$7.7 billion: what Americans 60+ lost to fraud last year, and my paste-it-into-AI trick (Wed ~8-9 AM)",
-      "angle": "AI as your second opinion, not the scary story. Paste the weird text or email into your AI and ask \"is this a scam?\" before you click. Not the code-word or cloned-voice warning (retired).",
-      "bullets": [
-        "FBI IC3: losses for people 60+ hit $7.7B in 2025, up nearly 60% from $4.8B in 2024 (Senate Aging Committee 2026 AI report).",
-        "About $893M tied to AI-enabled scams across 22,000+ complaints.",
-        "FTC Sentinel: 60+ reported losses grew about 4x from 2020 to 2024 ($600M to $2.4B).",
-        "Community AI-scam classes are running this month in several states; the habit is free and takes 30 seconds."
-      ],
-      "body": "$7.7 billion. That's what Americans over 60 lost to fraud last year. Up almost 60% in one year.\n\nHere's the one habit I use now. Weird text from the \"bank\"? Email saying my package is stuck? Before I click anything, I copy it, paste it into my AI, and ask: \"Is this a scam?\"\n\nThe last one it caught: [___]. It told me [___] in plain English.\n\nIt costs nothing and takes 30 seconds. If you've got parents or grandparents, show them how to do this once. That's it.\n\nHave you tried asking AI about a suspicious text yet?",
-      "links": [
-        "https://www.aging.senate.gov/imo/media/doc/ai_report_2026.pdf"
-      ],
-      "ocr": "Strong",
-      "ocr_why": "Big dollar opener, one simple action, the kind of post adult kids save and send. Needs his real example in the blank.",
-      "window": "Wed ~8-9 AM MST (strongest slot of the week).",
-      "pixel": "Film the phone: \"Got this text. Watch what happens when I ask my AI about it.\"",
-      "target": "Quote a big verified consumer-protection or retiree-money account's scam warning with his \"paste it into AI first\" line.",
-      "status": "framework"
-    },
-    {
-      "id": "F3",
-      "title": "1 millimeter dent, whole battery gone? What I checked on my own EV (Sun ~noon)",
-      "angle": "The Finnish Mercedes EQC story is a real worry for would-be EV buyers. Turn it into a practical owner check: what does HIS insurance cover for underbody hits, and how does his battery look after the road trip?",
-      "bullets": [
-        "Finnish inspectors rejected a working Mercedes EQC over a roughly 1 mm dent in the battery housing; Mercedes guidelines allow about 0.5 mm in critical areas.",
-        "Earlier Finnish cases: about 65,000 euros for a 5.2 mm dent, and a 78,000 euro bill after hitting a stone (2021).",
-        "Others note the lower housing protects the cells and independent shops can repair for less; skid plates are the common fix people suggest."
-      ],
-      "body": "65,000 euros for a dented battery cover. That's a real Mercedes story out of Finland.\n\nSo I went and looked under my Model Y after [___ miles] of Colorado and Kentucky roads. [photo: underbody]. What I found: [___].\n\nThen I called my insurance. They said [covers it under ___ / I'd pay ___ deductible / they had no idea].\n\nEVs save me money every week. But this is the one cost nobody talks about until it happens. Five minutes on the phone and you'll know.\n\nDo you know what your policy says about the battery?",
-      "links": [
-        "https://x.com/i/trending/2117230212836675759"
-      ],
-      "ocr": "OK to Strong",
-      "ocr_why": "Big number, real buyer fear; Strong only with his own underbody look or insurance answer.",
-      "window": "Sun ~noon MST (Tue noon already holds Sunday's heat pump framework).",
-      "pixel": "Phone under the car, 10 seconds: \"This is the battery. Here's how mine looks after the road trip.\"",
-      "target": "Quote a big verified EV-owner account debating the EQC case with his insurance answer.",
-      "status": "framework"
-    },
-    {
-      "id": "F4",
-      "title": "1,548 Teslas in one month in Norway. Their gas costs more, so families did the math (Fri ~noon)",
-      "angle": "Overseas number with a US-household point: when fuel gets expensive, families switch. Gas was $4.36 in Grand Junction this weekend, so the same math is creeping in here.",
-      "bullets": [
-        "Norway October Tesla registrations 1,548, up 131%; Model Y 1,429; Tesla beat Toyota as top brand.",
-        "Sweden 463 Teslas, up 248%; battery EVs 51.1% of new cars. Denmark up 34%.",
-        "Reasons cited: higher fuel prices, incentives, easy comparison with last year.",
-        "AAA Nov 1: Grand Junction regular $4.36, up from $3.03 a year ago. Recheck the price on Friday morning."
-      ],
-      "body": "1,548 Teslas in one month in Norway. Up 131% from last October.\n\nGas costs more over there, so regular families sat down and did the math.\n\nHere in Grand Junction it's [$___] a gallon this week. A year ago it was about $3.03. My home charging works out to [___ cents a mile].\n\nI don't think Americans need a lecture about EVs. I think they need someone to show them the per-mile number. That's what changed Norway.\n\nHow high does gas have to go before you'd switch?",
-      "links": [
-        "https://x.com/i/trending/2117192817437003969",
-        "https://gasprices.aaa.com/?state=CO"
-      ],
-      "ocr": "OK",
-      "ocr_why": "Strong only with his own cents-per-mile line; without it, it's a retell.",
-      "window": "Fri ~noon MST, or quote-post the first big account that posts the Norway number any time.",
-      "pixel": "None needed.",
-      "target": "Quote @SawyerMerritt if he posts the Norway/Sweden registrations.",
-      "status": "framework"
-    },
-    {
-      "id": "F5",
-      "title": "$0 and 10 minutes: I had AI build my home inventory before I need it (Tue ~8-9 PM)",
-      "angle": "Watching Pagosa evacuate, the thing people wish they had is proof of what was in the house. Walk the house with the phone, have AI turn the photos or video into a list for the insurance folder. First-hand AI for normal people.",
-      "bullets": [
-        "Pagosa officials told evacuees to grab insurance papers and documents (Pagosa Springs Sun).",
-        "Ready.gov recommends documenting belongings and keeping insurance info handy.",
-        "The AI part is his own test: photos in, list out. Check whether his AI takes video or only photos before posting."
-      ],
-      "body": "$0 and about 10 minutes.\n\nWatching folks in Pagosa leave their homes in a hurry got me thinking: if I had to file a claim tomorrow, could I prove what was in my house?\n\nSo I walked through with my phone and asked my AI to list everything it saw. It came back with [___ items], room by room. It missed [___], so I added those.\n\nNow that list sits in my insurance folder [in the cloud / printed in the safe].\n\nNo apps to buy. No spreadsheet. Just your phone and a few minutes.\n\nDo you have a list of your stuff if you ever needed one?",
-      "links": [
-        "https://www.ready.gov/financial-preparedness",
-        "https://www.pagosasun.com/stories/flood-update-released-mandatory-evacuations-in-effect,158215"
-      ],
-      "ocr": "Strong if he does it (first-hand, kitchen-table useful)",
-      "ocr_why": "Weak as advice only.",
-      "window": "Tue ~8-9 PM MST.",
-      "pixel": "15 seconds walking the living room: \"If you ever had to leave in a hurry, could you prove what was in here? Here's the easy way.\"",
-      "target": "Standalone; if a big verified insurance or prep account posts flood-claim tips this week, quote it with his \"$0 and 10 minutes\" line.",
-      "status": "framework"
-    }
-  ]
+ "date": "2026-11-02",
+ "status": "framework/rewrite-before-post, draft-only",
+ "items": [
+  {
+   "id": "F1",
+   "title": "US 160 is closed and Pagosa is flooding again. My EV rule before a mountain drive (MAIN, tonight ~8 PM)",
+   "body": "## F1 - US 160 is closed and Pagosa is flooding again. My EV rule before a mountain drive (MAIN, tonight ~8 PM)\n**FRAMEWORK / rewrite-before-post - do not paste blindly**\n\n**Angle:** Neighbors down south are flooding for the second time in about 10 days. Lead with care, then one practical rule from someone who just drove across Colorado in an EV. No EV-vs-gas fight on a disaster.\n\n**Facts:**\n- San Juan River at Pagosa Springs forecast to crest around 19.7 to 22 ft Sunday night, above the 1911 record of 17.8 ft (NWS via Pagosa Springs Sun, CPR).\n- Mandatory evacuations along the San Juan, Rio Blanco, Navajo and Piedra rivers; town closed to inbound traffic.\n- CDOT closures: US 160 Wolf Creek Pass to South Fork, US 160 Pagosa to Bayfield, CO 17 NM line to Antonito, CO 151, CO 172, CO 41.\n- Flood watch to at least 11 AM Monday; 12 to 18 inches of snow above 10,000 ft. CDOT says some closures may outlast the rain because of road damage.\n- Check COtrip for what is still closed before posting tonight.\n\n**Draft body (FRAMEWORK):**\n\n> US 160 is shut from Wolf Creek to South Fork, and Pagosa is flooding again. Praying for everybody down there.\n>\n> I just crossed Colorado in my Model Y, so here's my one rule before any mountain drive: [charge to ___% before I leave / never leave home under ___%].\n>\n> When a pass closes, a detour can add [___] miles fast. I'd rather sit on extra charge than sweat the last 20 miles. I also [check the stall map at ___ / keep a blanket and water in the frunk].\n>\n> Gas or electric, same deal: fill up before the mountains.\n>\n> What's your rule before a mountain drive this time of year?\n\n**Links (optional reply):** https://www.cpr.org/2026/11/01/southwest-colorado-pagosa-springs-flooding-san-luis-valley-november-2026/ ; https://www.pagosasun.com/stories/road-closures-in-southwest-and-south-central-colorado,158309 ; https://www.cotrip.org\n**OCR:** Strong. Local, timely, kind, first-hand rule, easy reply question.\n**Best window:** Today (Mon) ~8 PM MST (Mon 8 PM is bright on the Nov 2 heatmap). Can go earlier if closures are still the lead story.\n**Pixel prompt:** 10 seconds by the car: \"Folks in Pagosa, stay safe. For everybody else heading over the passes, here's what I do before I leave.\"\n**Premium reply/quote target:** Reply under @ColoradoDOT's next closure update with the \"fill up before the mountains\" line.\n"
+  },
+  {
+   "id": "F2",
+   "title": "$7.7 billion: what Americans 60+ lost to fraud last year, and my paste-it-into-AI trick (Wed ~9 AM)",
+   "body": "## F2 - $7.7 billion: what Americans 60+ lost to fraud last year, and my paste-it-into-AI trick (Wed ~9 AM)\n**FRAMEWORK / rewrite-before-post - do not paste blindly**\n\n**Angle:** AI as your second opinion, not the scary story. Paste the weird text or email into your AI and ask \"is this a scam?\" before you click. Not the code-word or cloned-voice warning (retired).\n\n**Facts:**\n- FBI IC3: losses for people 60+ hit $7.7B in 2025, up nearly 60% from $4.8B in 2024 (Senate Aging Committee 2026 AI report).\n- About $893M tied to AI-enabled scams across 22,000+ complaints.\n- FTC Sentinel: 60+ reported losses grew about 4x from 2020 to 2024 ($600M to $2.4B).\n- Community AI-scam classes are running this month in several states; the habit is free and takes 30 seconds.\n\n**Draft body (FRAMEWORK):**\n\n> $7.7 billion. That's what Americans over 60 lost to fraud last year. Up almost 60% in one year.\n>\n> Here's the one habit I use now. Weird text from the \"bank\"? Email saying my package is stuck? Before I click anything, I copy it, paste it into my AI, and ask: \"Is this a scam?\"\n>\n> The last one it caught: [___]. It told me [___] in plain English.\n>\n> It costs nothing and takes 30 seconds. If you've got parents or grandparents, show them how to do this once. That's it.\n>\n> Have you tried asking AI about a suspicious text yet?\n\n**Links (optional reply):** https://www.aging.senate.gov/imo/media/doc/ai_report_2026.pdf\n**OCR:** Strong. Big dollar opener, one simple action, the kind of post adult kids save and send. Needs his real example in the blank.\n**Best window:** Wed ~9 AM MST (very bright on the Nov 2 heatmap; 7-8 AM also works).\n**Pixel prompt:** Film the phone: \"Got this text. Watch what happens when I ask my AI about it.\"\n**Premium reply/quote target:** Quote a big verified consumer-protection or retiree-money account's scam warning with his \"paste it into AI first\" line.\n"
+  },
+  {
+   "id": "F3",
+   "title": "1 millimeter dent, whole battery gone? What I checked on my own EV (Fri 3-5 PM)",
+   "body": "## F3 - 1 millimeter dent, whole battery gone? What I checked on my own EV (Fri 3-5 PM)\n**FRAMEWORK / rewrite-before-post - do not paste blindly**\n\n**Angle:** The Finnish Mercedes EQC story is a real worry for would-be EV buyers. Turn it into a practical owner check: what does HIS insurance cover for underbody hits, and how does his battery look after the road trip?\n\n**Facts (X trending summary, verify before posting):**\n- Finnish inspectors rejected a working Mercedes EQC over a roughly 1 mm dent in the battery housing; Mercedes guidelines allow about 0.5 mm in critical areas.\n- Earlier Finnish cases: about 65,000 euros for a 5.2 mm dent, and a 78,000 euro bill after hitting a stone (2021).\n- Others note the lower housing protects the cells and independent shops can repair for less; skid plates are the common fix people suggest.\n\n**Draft body (FRAMEWORK):**\n\n> 65,000 euros for a dented battery cover. That's a real Mercedes story out of Finland.\n>\n> So I went and looked under my Model Y after [___ miles] of Colorado and Kentucky roads. [photo: underbody]. What I found: [___].\n>\n> Then I called my insurance. They said [covers it under ___ / I'd pay ___ deductible / they had no idea].\n>\n> EVs save me money every week. But this is the one cost nobody talks about until it happens. Five minutes on the phone and you'll know.\n>\n> Do you know what your policy says about the battery?\n\n**Links (optional reply):** https://x.com/i/trending/2117230212836675759\n**OCR:** OK to Strong. Big number, real buyer fear; Strong only with his own underbody look or insurance answer.\n**Best window:** Fri ~3-5 PM MST (bright on the Nov 2 heatmap). Tue noon already holds Sunday's heat pump framework, and Fri noon-1 PM holds F4.\n**Pixel prompt:** Phone under the car, 10 seconds: \"This is the battery. Here's how mine looks after the road trip.\"\n**Premium reply/quote target:** Quote a big verified EV-owner account debating the EQC case with his insurance answer.\n"
+  },
+  {
+   "id": "F4",
+   "title": "1,548 Teslas in one month in Norway. Their gas costs more, so families did the math (Fri ~noon-1 PM)",
+   "body": "## F4 - 1,548 Teslas in one month in Norway. Their gas costs more, so families did the math (Fri ~noon-1 PM)\n**FRAMEWORK / rewrite-before-post - do not paste blindly**\n\n**Angle:** Overseas number with a US-household point: when fuel gets expensive, families switch. Gas was $4.36 in Grand Junction this weekend, so the same math is creeping in here.\n\n**Facts (X trending summary, verify before posting):**\n- Norway October Tesla registrations 1,548, up 131%; Model Y 1,429; Tesla beat Toyota as top brand.\n- Sweden 463 Teslas, up 248%; battery EVs 51.1% of new cars. Denmark up 34%.\n- Reasons cited: higher fuel prices, incentives, easy comparison with last year.\n- AAA Nov 1: Grand Junction regular $4.36, up from $3.03 a year ago. Recheck the price on Friday morning.\n\n**Draft body (FRAMEWORK):**\n\n> 1,548 Teslas in one month in Norway. Up 131% from last October.\n>\n> Gas costs more over there, so regular families sat down and did the math.\n>\n> Here in Grand Junction it's [$___] a gallon this week. A year ago it was about $3.03. My home charging works out to [___ cents a mile].\n>\n> I don't think Americans need a lecture about EVs. I think they need someone to show them the per-mile number. That's what changed Norway.\n>\n> How high does gas have to go before you'd switch?\n\n**Links (optional reply):** https://x.com/i/trending/2117192817437003969 ; https://gasprices.aaa.com/?state=CO\n**OCR:** OK. Strong only with his own cents-per-mile line; without it, it's a retell.\n**Best window:** Fri ~noon MST, or quote-post the first big account that posts the Norway number any time.\n**Pixel prompt:** None needed.\n**Premium reply/quote target:** Quote @SawyerMerritt if he posts the Norway/Sweden registrations.\n"
+  },
+  {
+   "id": "F5",
+   "title": "$0 and 10 minutes: I had AI build my home inventory before I need it (Tue ~9 PM)",
+   "body": "## F5 - $0 and 10 minutes: I had AI build my home inventory before I need it (Tue ~9 PM)\n**FRAMEWORK / rewrite-before-post - do not paste blindly. HOLD until he actually tries it.**\n\n**Angle:** Watching Pagosa evacuate, the thing people wish they had is proof of what was in the house. Walk the house with the phone, have AI turn the photos or video into a list for the insurance folder. First-hand AI for normal people.\n\n**Facts:**\n- Pagosa officials told evacuees to grab insurance papers and documents (Pagosa Springs Sun).\n- Ready.gov recommends documenting belongings and keeping insurance info handy.\n- The AI part is his own test: photos in, list out. Check whether his AI takes video or only photos before posting.\n\n**Draft body (FRAMEWORK):**\n\n> $0 and about 10 minutes.\n>\n> Watching folks in Pagosa leave their homes in a hurry got me thinking: if I had to file a claim tomorrow, could I prove what was in my house?\n>\n> So I walked through with my phone and asked my AI to list everything it saw. It came back with [___ items], room by room. It missed [___], so I added those.\n>\n> Now that list sits in my insurance folder [in the cloud / printed in the safe].\n>\n> No apps to buy. No spreadsheet. Just your phone and a few minutes.\n>\n> Do you have a list of your stuff if you ever needed one?\n\n**Links (optional reply):** https://www.ready.gov/financial-preparedness ; https://www.pagosasun.com/stories/flood-update-released-mandatory-evacuations-in-effect,158215\n**OCR:** Strong if he does it (first-hand, kitchen-table useful). Weak as advice only.\n**Best window:** Tue ~9 PM MST (top cell on the Nov 2 heatmap), only after he has tried it.\n**Pixel prompt:** 15 seconds walking the living room: \"If you ever had to leave in a hurry, could you prove what was in here? Here's the easy way.\"\n**Premium reply/quote target:** Standalone; if a big verified insurance or prep account posts flood-claim tips this week, quote it with his \"$0 and 10 minutes\" line.\n"
+  }
+ ]
 }
