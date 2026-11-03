@@ -8,6 +8,55 @@
  "held": "Held from pack: AP6 solar winter drop (Sun ~2 PM, needs his Enphase screenshot), AP7 Rhodium permit bill $50-78/yr (policy, after the election, Fri 3-5 PM), AP8 Robotaxi Fort Worth (Fri ~6 AM quick quote if time). Election Day: stay out of politics today.",
  "drafts": [
   {
+   "id": "ready-pothole-406",
+   "title": "$406 per pothole hit: two winter habits",
+   "topic": "EVs",
+   "body": "$406. That's AAA's average bill for one pothole repair. Drivers who hit one paid for about two in a year.\n\nWinter's coming. Check your tire pressure once it turns cold, and know your deductible. One bent rim often isn't worth a claim.",
+   "links": [
+    "https://exchange.aaa.com/automotive/automotive-trends/potholes-and-vehicle-damage/",
+    "https://www.acg.aaa.com/connect/blogs/4c/auto/avoid-pothole-damage"
+   ],
+   "bullets": [
+    "AAA (2022 survey): average pothole repair $406; about 44 million US drivers paid one, averaging two repairs.",
+    "AAA cost guide: about $200 per tire, $200 per rim, $100-200 alignment.",
+    "Pothole damage usually falls under collision coverage minus the deductible."
+   ],
+   "status": "ready",
+   "checkedAt": "2026-11-03"
+  },
+  {
+   "id": "ready-autopia-electric",
+   "title": "After 71 years, Disneyland's gas Autopia goes electric",
+   "topic": "EVs",
+   "body": "After 71 years, Disneyland's gas Autopia cars have to be retired by Feb 1, 2027, plus a $56,250 fine over their engines.\n\nDisney is testing an electric version. The first \"car\" a lot of us ever drove is about to go quiet.\n\nDid you ride it as a kid?",
+   "links": [
+    "https://ktla.com/news/california/disneyland-autopia-gas-engines-retire/",
+    "https://www.fantasylandnews.com/2026/11/02/disneyland-autopia-electric-track-bob-gurr/"
+   ],
+   "bullets": [
+    "KTLA: California Air Resources Board settlement over uncertified Honda engines; gas cars retire by Feb 1, 2027; $56,250 penalty.",
+    "Disney is testing an electric prototype; design not confirmed.",
+    "Ride opened with the park in 1955."
+   ],
+   "status": "ready",
+   "checkedAt": "2026-11-03"
+  },
+  {
+   "id": "ready-ix3-speed-range",
+   "title": "464 miles on one charge, but speed eats range",
+   "topic": "EVs",
+   "body": "464 miles on one charge. That's BMW's new iX3 in a real road test.\n\nIn another test at 75 mph, it got about 337. Speed eats range in every EV.\n\nPlan the stop, take 10 minutes, and quit sweating the last mile. How far do you really drive in one shot?",
+   "links": [
+    "https://insideevs.com/news/814122/bmw-ix3-vs-x3-range/"
+   ],
+   "bullets": [
+    "Chasing Cars test via InsideEVs: iX3 50 xDrive went 747 km (464 mi) on one charge.",
+    "Bjorn Nyland: 465 mi at a steady 56 mph, about 337 mi at 75 mph (per same InsideEVs piece)."
+   ],
+   "status": "ready",
+   "checkedAt": "2026-11-03"
+  },
+  {
    "id": "F1",
    "title": "$406 per pothole hit, and the flood just chewed up Colorado roads (MAIN, today ~noon)",
    "topic": "EVs",
