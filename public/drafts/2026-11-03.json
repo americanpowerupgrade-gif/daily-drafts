@@ -1,0 +1,122 @@
+{
+ "date": "2026-11-03",
+ "label": "Daily posts and optional frameworks (rewrite-before-post)",
+ "growth_bets": [
+  "F2 Autopia tonight at 9 PM. It's the top cell on your heatmap, pure nostalgia, and an old photo pulls replies and reposts from the 45+ crowd that verified accounts like to jump into. That's the cheapest verified-follower bump on the board today.",
+  "F1 pothole at noon. Every driver has a pothole bill, so the reply question is easy to answer, and a 10 second wheel video makes it yours instead of a news retell."
+ ],
+ "held": "Held from pack: AP6 solar winter drop (Sun ~2 PM, needs his Enphase screenshot), AP7 Rhodium permit bill $50-78/yr (policy, after the election, Fri 3-5 PM), AP8 Robotaxi Fort Worth (Fri ~6 AM quick quote if time). Election Day: stay out of politics today.",
+ "drafts": [
+  {
+   "id": "F1",
+   "title": "$406 per pothole hit, and the flood just chewed up Colorado roads (MAIN, today ~noon)",
+   "topic": "EVs",
+   "angle": "EV owner costs nobody talks about. The battery isn't what gets you, it's tires and wheels. Winter plus flood-damaged roads down south make it timely. Plus the FSD \"pothole button\" idea Tesla owners keep asking for.",
+   "bullets": [
+    "AAA: average pothole repair bill was $406 (2022 survey); about 44 million US drivers paid one, up 57% from the year before, and they averaged two repairs.",
+    "AAA cost guide: about $200 per tire, $200 per rim, $100 front alignment ($200 four-wheel), $400 to $900 per pair of shocks or struts.",
+    "Pothole damage usually falls under collision coverage minus your deductible, so a $500 to $1,000 deductible can make a claim pointless.",
+    "Tesla owners are pushing for a \"pothole / bad road\" choice in FSD intervention feedback after a Scottsdale owner reportedly blew two tires on day three (X story summary, verify before citing)."
+   ],
+   "body": "$406. That's AAA's average bill for one bad pothole. And most people who hit one end up paying twice in a year.\n\nMy Model Y [has eaten ___ / cost me $___ for a tire] on [road near GJ]. EVs are heavy and the low-profile tires don't forgive much.\n\nWith the flood damage down south, it's going to be a rough winter on Colorado roads. I check my tire pressure [every ___] once it gets cold, and I know my deductible is [$___], so a single tire isn't worth a claim.\n\nTesla folks keep asking for a \"pothole\" button in the FSD feedback screen so the car learns the bad spots. I'd use it every day.\n\nWould you?",
+   "links": [
+    "https://www.acg.aaa.com/connect/blogs/4c/auto/avoid-pothole-damage",
+    "https://exchange.aaa.com/automotive/automotive-trends/potholes-and-vehicle-damage/"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Dollar opener every driver feels, first-hand fill-in, easy yes/no reply.",
+   "window": "Today (Tue) ~noon MST.",
+   "pixel": "10 seconds kneeling by a wheel: \"This is what $200 looks like. Here's the stretch of road I dodge every week.\"",
+   "target": "Quote the biggest verified Tesla owner account posting the FSD pothole-feedback request (search \"FSD pothole\" on X before posting).",
+   "status": "framework"
+  },
+  {
+   "id": "F2",
+   "title": "$56,250 fine, and after 71 years Disneyland's gas Autopia goes electric (tonight ~9 PM, top slot)",
+   "topic": "EVs",
+   "angle": "Pure nostalgia and a smile, no sermon. A lot of us learned to \"drive\" on Autopia breathing lawnmower fumes. The grandkids get a quiet one.",
+   "bullets": [
+    "Disneyland must retire Autopia's gas cars by Feb 1, 2027 under a California Air Resources Board settlement over uncertified Honda engines, with a $56,250 penalty (KTLA).",
+    "Disney is testing an electric prototype.",
+    "Bob Gurr, who designed the original 1955 cars, says the new version will run on a powered track instead of a battery in each car; Disney hasn't confirmed the design (Fantasyland News).",
+    "The ride opened with the park in 1955, 71 years ago."
+   ],
+   "body": "$56,250 fine, and after 71 years Disneyland's gas Autopia is going electric.\n\nI rode it [in 19__ / with my grandkids in ___]. What I remember most is [the fumes / the bumper hitting the rail / my dad laughing ___].\n\nFunny thing is, the first \"car\" a lot of us ever drove was a little gas buggy on a track. Now the next generation's first car will be electric and quiet.\n\n[My Model Y is quieter than that thing ever was.]\n\nDid you ride Autopia as a kid? Got a photo?",
+   "links": [
+    "https://ktla.com/news/california/disneyland-autopia-gas-engines-retire/",
+    "https://www.fantasylandnews.com/2026/11/02/disneyland-autopia-electric-track-bob-gurr/"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Human moment, huge reply bait for 45+, zero politics. Best with an old photo.",
+   "window": "Tonight (Tue) ~9 PM MST.",
+   "pixel": "Hold up an old Disneyland photo if you have one: \"That's me on Autopia in 19__. Smelled like a lawnmower.\"",
+   "target": "Quote a big verified Disney fan account or EV account posting the KTLA story.",
+   "status": "framework"
+  },
+  {
+   "id": "F3",
+   "title": "$___ a month since the GTE days. I asked AI what I'm actually paying for (Wed ~4 PM)",
+   "topic": "AI",
+   "angle": "AI as a money tool for normal people. Snap your phone bill, cover the account number, and ask your AI what every line is, what you don't use, and what a cheaper plan would run. Starlink phone news is the hook. Builds on your public \"time to update Verizon\" reply without repeating it.",
+   "bullets": [
+    "SpaceX is in early talks with EchoStar to buy Boost Mobile or use its network for Starlink Mobile; no deal is final (Washington Post via Reuters, Axios).",
+    "AT&T, Verizon and T-Mobile reportedly turned down SpaceX's network-access requests (same reports).",
+    "The AI part is your own test. Black out account numbers and PINs before sharing a bill with any AI."
+   ],
+   "body": "$[___] a month to Verizon since it was GTE Wireless. That's [___] years.\n\nSo I took a picture of my bill, covered my account number, and asked my AI one question: \"What is every line on here for, and what am I paying for that I don't use?\"\n\nIt found [___ / $___ in fees I never noticed]. Then I asked what a cheaper plan with the same coverage would cost. Answer: [$___].\n\nAnd now Starlink is trying to buy Boost Mobile. Phones off a satellite could shake this whole thing up.\n\nI'm shopping. What do you pay a month, and who's your carrier?",
+   "links": [
+    "https://www.axios.com/2026/11/03/elon-musk-spacex-boost-mobile-wireless-market",
+    "https://www.investing.com/news/stock-market-news/spacex-in-talks-to-buy-boost-mobile-or-use-its-network-washington-post-reports-4990666"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Dollar opener, real savings, AI shown as a tool, \"what do you pay\" drives replies. Only post after you've actually run it.",
+   "window": "Wed ~4 PM MST (Wed 8-9 AM is held for the open $7.7B fraud post; swap them if you'd rather lead with this one).",
+   "pixel": "Screen-record with the account number covered: \"Here's my phone bill. Watch what happens when I ask AI what I'm paying for.\"",
+   "target": "Quote @SawyerMerritt's post on the Boost Mobile talks.",
+   "status": "framework"
+  },
+  {
+   "id": "F4",
+   "title": "$0 to get my address off people-search sites. AI did the chore (Sun ~8 PM)",
+   "topic": "AI",
+   "angle": "Not another scam warning. A \"let AI do the boring chore\" post. Sites like Spokeo and Whitepages list your address and phone; a browsing AI can find the listings and walk through each opt-out. Great thing for adult kids to do for Mom and Dad.",
+   "bullets": [
+    "AI builder Matt Shumer shared a prompt that has a browsing AI agent find people-search listings of your address and phone and submit each site's opt-out (somethingbig.ai).",
+    "Opt-outs often need an email confirmation and should be rechecked every few months, because listings come back.",
+    "Verify how your own AI handles it before posting; use your real count."
+   ],
+   "body": "$0. That's what it cost me to get my home address off sites like Spokeo and Whitepages.\n\nI searched my own name first. My house, my phone number, even [___] were sitting there for anybody to see.\n\nSo I had my AI find the listings and walk me through each opt-out. It found [___ sites] in about [___ minutes]. A couple needed an email confirm, that's it.\n\nIf your parents are older, do this one for them. Scammers start with exactly this info.\n\nHave you ever looked yourself up?",
+   "links": [
+    "https://somethingbig.ai/get-your-address-off-the-internet"
+   ],
+   "ocr": "Strong with your real number; OK if you haven't tried it yet",
+   "ocr_why": "Very save-worthy.",
+   "window": "Sun ~8 PM MST (or Wed ~7-8 AM if the week opens up).",
+   "pixel": "\"I searched my own name and found my house on ___ websites. Here's how I got it off.\"",
+   "target": "Quote Matt Shumer's (@mattshumer_) original post with your result.",
+   "status": "framework"
+  },
+  {
+   "id": "F5",
+   "title": "464 miles on one charge, and it still came up 14 miles short (Fri ~noon)",
+   "topic": "EVs",
+   "angle": "Ties to your own $171.56 drive home. Range keeps getting better, but the real lesson is the one you learned crossing the country: plan the stop and stop sweating.",
+   "bullets": [
+    "Chasing Cars test (via InsideEVs): BMW iX3 50 xDrive went 747 km (464 miles) on one charge from Sydney toward Byron Bay, beating its 434-mile rating, but stopped about 14 miles short of the 740 km route.",
+    "The gas X3 M50 finished with about 206 miles of estimated range left.",
+    "Bjorn Nyland's steady 56 mph test got 465 miles; at 75 mph it dropped to 337 miles.",
+    "US-household take: speed matters more than the sticker number."
+   ],
+   "body": "464 miles on one charge. And it still came up 14 miles short.\n\nThat's BMW's new iX3 in a real road test. Same car at 75 mph? About 337 miles. Speed eats range, every EV, every time.\n\nMy Model Y does about [___] miles at I-70 speeds. My whole drive home from Kentucky cost $171.56, and the stops were [___ minutes / a bathroom and a coffee].\n\nA 10 minute stop beats sweating the last mile every time.\n\nHow far do you really drive in one shot?",
+   "links": [
+    "https://insideevs.com/news/814122/bmw-ix3-vs-x3-range/"
+   ],
+   "ocr": "OK to Strong",
+   "ocr_why": "Strong with your real highway range number and a dash screenshot.",
+   "window": "Fri ~noon-1 PM MST.",
+   "pixel": "None needed; a dash screenshot of your range is the photo.",
+   "target": "Quote @InsideEVs' post of the test with your $171.56 line.",
+   "status": "framework"
+  }
+ ]
+}
