@@ -1,0 +1,123 @@
+{
+ "date": "2026-11-04",
+ "label": "FRAMEWORK drafts (rewrite-before-post). Draft-only; you post it yourself.",
+ "growth_bets": [
+  "F1 at 9 AM today. A timely safety tip tied to your own road trip is the most saveable and repostable thing in the set, and Wed 9 AM is one of your brightest slots. Saves and reposts from Premium accounts are what pull in verified followers.",
+  "F3 and F4 are the personal pair (what you can't lose in an outage, your own trip as scam bait). Personal stakes get Premium replies, and replying back to every one of those is the cheapest way to close the gap to 500 verified (202 as of Nov 3)."
+ ],
+ "held": "Held from pack: AP6 Walmart Base Power battery (would stack on this morning's batteries post), AP7 PA NEVI $37M (policy), AP8 Mercedes EU charging sale (Europe quote only). Spacing: your 6 AM data center post already went out, so give it room.",
+ "drafts": [
+  {
+   "id": "F1",
+   "title": "$0 and 3 seconds: look at the plug before you plug in (MAIN, today ~9 AM)",
+   "topic": "EVs",
+   "angle": "A simple road-trip habit, tied to your own Kentucky drive. A damaged charger plug can bend a pin and take out the next car's charge port. Safety plus money, zero jargon.",
+   "bullets": [
+    "IONNA pulled damaged CCS cables in Ohio, Indiana, Illinois and Missouri after reports a bad plug could bend a pin on the next car's port.",
+    "Fewer than two dozen cases out of more than 1 million IONNA sessions; Tesla-style (NACS) plugs not affected.",
+    "IONNA inspected 1,000+ connectors in four days and is running extra checks through the end of November.",
+    "Good advice on any network: if the pins look bent or the plug looks off, don't plug in. Move to the next stall."
+   ],
+   "body": "$0 and about 3 seconds. That's what it costs to look at a charger plug before you plug it in.\n\nIONNA just pulled some bad CCS plugs in four Midwest states because a damaged one could bend a pin in the next car's charge port. They say it's rare, fewer than two dozen out of a million sessions. Still, a charge port repair is a dealer trip and a bill nobody wants on the road.\n\nOn my Kentucky drive I [stopped ___ times / plugged in at ___ stations] and honestly I [did / didn't] look at the plug first. I will now. If the pins look bent, I move to the next stall.\n\nTesla-plug owners are fine on this one. But it's a good habit for everybody, and a good one to pass along to anyone new to an EV.\n\nDo you check the plug before you plug in?",
+   "links": [
+    "https://evwire.com/p/ionna-ccs-connector-bent-pin-psa-midwest"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Timely, practical, first-hand road-trip tie, easy yes/no reply, very saveable.",
+   "window": "Today (Wed) ~9 AM MST.",
+   "pixel": "Hold a charger handle up to the camera: \"Three seconds. Look at the pins. Here's why.\"",
+   "target": "A verified EV news account posting the IONNA PSA (InsideEVs-style or @evwire), or IONNA's own account if active. Add your one-line road-trip take.",
+   "status": "framework"
+  },
+  {
+   "id": "F2",
+   "title": "$50 a year from Xcel just for charging at night (today ~4 PM or Fri noon)",
+   "topic": "EVs",
+   "angle": "Colorado money you may be leaving on the table. A one-time setup pays a yearly credit. Bonus heads-up for anyone on ChargePoint about the vendor switch this month.",
+   "bullets": [
+    "Xcel Colorado \"Optimize Your Charge\": $50 annual bill credit if 80% of home charging happens in the off-peak window.",
+    "Needs a qualifying EV or charger connected to Wi-Fi so the data reaches Xcel.",
+    "The data vendor switches from ChargePoint to WeaveGrid Nov 9 to 27; Xcel says benefits stay the same.",
+    "Xcel's charger rental program (EV Accelerate at Home) closed to new signups July 14, 2026."
+   ],
+   "body": "$50 a year. That's what Xcel pays Colorado EV owners just for charging after hours.\n\nMy Tesla already charges starting at [___ PM] for about [___ cents/kWh], so I'm [already getting it / about to sign up]. It's one setting in the app and then you forget about it.\n\nIf you're on ChargePoint, heads up: Xcel switches the data company to WeaveGrid between Nov 9 and 27. They say nothing changes on your end, but watch for the email.\n\nNot on Xcel? Ask your utility. A lot of them have something like this and nobody tells you.\n\nAnyone actually seen the $50 show up on a bill yet?",
+   "links": [
+    "https://co.my.xcelenergy.com/s/residential/ev-charging/incentives/optimize-charge",
+    "https://xcelenergy-support.weavegrid.com/hc/en-us/articles/35635679677079-ChargePoint-Data-Vendor-Transition"
+   ],
+   "ocr": "Strong if you fill in your real rate and start time (dollar opener plus first-hand)",
+   "ocr_why": "OK if you're not on Xcel; frame it as \"ask your utility.\"",
+   "window": "Wed ~4 PM MST (swap with the phone bill post if you do both) or Fri noon-1 PM.",
+   "pixel": "Tesla app charge-schedule screen: \"This one setting is worth fifty bucks.\"",
+   "target": "A verified Colorado EV owner or Tesla charging account talking off-peak charging.",
+   "status": "framework"
+  },
+  {
+   "id": "F3",
+   "title": "Colorado just made using your car as home backup a simple notice (Sun ~2 PM or Fri noon)",
+   "topic": "Solar & batteries",
+   "angle": "Independence for families and older households. If the power goes out, your truck or EV can keep the essentials running, and Colorado just cut the red tape. Your personal stake: the one thing you can't lose in an outage.",
+   "bullets": [
+    "Colorado PUC approved a settlement Oct 22, 2026 (Ford, Xcel, Black Hills).",
+    "Backup-only EV home power systems now need just a short notice (name, address, permit, \"only when the grid is down\"), not a utility approval process.",
+    "No penalty for skipping it, 60 days to fix, and anything installed before Oct 22 is exempt.",
+    "EVs that only charge need nothing. EVs that send power back while the grid is on still go through the full utility process.",
+    "Ford's system waits about 90 seconds after an outage and can't feed the grid."
+   ],
+   "body": "$0 and no permission slip. Colorado just made backing up your house with an EV a simple notice to the utility.\n\nBefore, it could turn into a back-and-forth with the power company. Now, if the car only powers the house when the grid is down, you send a short form and that's it. Already have one installed? You're grandfathered in.\n\nAt my house the thing I can't lose in an outage is [___ / my overnight medical equipment]. That's why I've been pricing home batteries, and a car that does double duty might be the cheaper middle step.\n\nWould you use your car as backup power?",
+   "links": [
+    "https://evinfo.net/2026/11/colorado-clarifies-rules-for-ev-home-backup-power-systems/",
+    "https://www.vgicouncil.org/articles/colorado-joins-michigan-maryland-and-california-in-clarifying-treatment-of-ev-home-backup-power-systems"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Colorado-local, new rule, personal stake. Keep \"interconnection\" and \"settlement\" out of your rewrite.",
+   "window": "Sun ~2 PM MST or Fri noon-1 PM (not today, since your 6 AM post was already on power and batteries).",
+   "pixel": "In the garage next to the car: \"If the power goes out at 2 AM, here's what I'd want running.\"",
+   "target": "A verified F-150 Lightning or Ford EV creator, or @SawyerMerritt if he posts home-backup news.",
+   "status": "framework"
+  },
+  {
+   "id": "F4",
+   "title": "My road-trip posts could write a scam email to me (Tue ~9 PM or Sun ~8 PM)",
+   "topic": "AI",
+   "angle": "AI for the masses, scam edition. New study: everyday AI tools can turn your public posts into a personal scam email. Different from the Nov 2 paste-it-into-AI post; this one is \"what you post is the bait.\" Lands hard for 55+ and their kids.",
+   "bullets": [
+    "UT Arlington study (Nov 2): common AI tools pulled details from public posts and photos (trips, events, worries) to write personalized scam emails.",
+    "Default AI safety filters caught only 0% to 19% of those requests; with specific tuning, up to 99%.",
+    "SilverSafe: people 60+ reported about $3B lost to fraud in 2025; the typical reported loss for people 80+ was $2,000."
+   ],
+   "body": "$2,000. That's the typical scam loss for people over 80. And now AI can read your public posts and write the scam for you.\n\nResearchers at UT Arlington had everyday AI tools look at public posts and photos, then write a personal scam email. Most of the tools didn't stop them.\n\nI posted [my whole Kentucky trip ___, charging stops, prices] for anybody to see. A fake \"charging receipt\" or \"toll notice\" email that mentioned my real stops would've looked legit.\n\nMy one rule now, and the one I'm telling my family: if an email or text is about something you posted, don't click. Go to the site yourself.\n\nWould you fall for one that knew your trip?",
+   "links": [
+    "https://www.uta.edu/news/news-releases/2026/11/02/your-social-media-posts-could-fuel-the-next-ai-scam",
+    "https://news.silversafe.ai/p/scams-are-getting-harder-to-spot-one-habit-helps"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "First-hand (your own public trip), fresh angle, gives one habit people share with parents.",
+   "window": "Tue ~9 PM MST (top slot) or Sun ~8 PM.",
+   "pixel": "Scroll your own trip posts on camera: \"Everything a scammer needs is right here. Here's my one rule.\"",
+   "target": "A verified fraud or consumer reporter, or an AI-for-seniors creator posting about AI scams.",
+   "status": "framework"
+  },
+  {
+   "id": "F5",
+   "title": "+10%: Europe caps how fast FSD can go over the limit (Fri ~6 AM)",
+   "topic": "EVs",
+   "angle": "Owner opinion. Europe put a speed cap on Tesla's self-driving. You drive I-70 with FSD; would you want that here? Easy reply bait for the Tesla crowd.",
+   "bullets": [
+    "Dutch regulator RDW confirmed Tesla's update caps the speed margin at +10% over the limit (it was up to +50%), and it resets to 0 every time you start the car.",
+    "In Europe it's renamed \"Tesla Assisted Driving\" (was \"FSD Supervised\"), now recognized in 10 countries.",
+    "An EU-wide vote got pushed to December at the earliest."
+   ],
+   "body": "+10%. That's the most FSD can go over the speed limit in Europe now. And it resets to zero every time you start the car.\n\nThey also renamed it over there. It's \"Tesla Assisted Driving\" now, not FSD.\n\nOn I-70 I usually set mine to [___ over], mostly so I'm not the guy holding up traffic in the mountains. Having to reset it every single drive would drive me nuts.\n\nWould you want a cap like that here, or leave it up to the driver?",
+   "links": [
+    "https://electrek.co/2026/11/03/tesla-assisted-driving-rdw-speed-cap-10-percent-europe/"
+   ],
+   "ocr": "OK",
+   "ocr_why": "Opinion hook drives replies; no dollar opener, so your own setting and the I-70 detail do the work.",
+   "window": "Fri ~6 AM MST.",
+   "pixel": "Parked dash shot of the speed setting: \"Here's where I set it, and why.\"",
+   "target": "@SawyerMerritt or a verified FSD tester posting the RDW news; one-line opinion quote.",
+   "status": "framework"
+  }
+ ]
+}
