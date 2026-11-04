@@ -8,6 +8,53 @@
  "held": "Held from pack: AP6 Walmart Base Power battery (would stack on this morning's batteries post), AP7 PA NEVI $37M (policy), AP8 Mercedes EU charging sale (Europe quote only). Spacing: your 6 AM data center post already went out, so give it room.",
  "drafts": [
   {
+   "id": "ready-plug-check",
+   "title": "$0 and 3 seconds: look at the plug first",
+   "topic": "EVs",
+   "body": "$0 and about 3 seconds. That's what it costs to look at a charger plug before you plug in.\n\nIONNA pulled some damaged CCS plugs in four Midwest states because a bad one could bend a pin in your car's port. Rare, but if the pins look off, use the next stall.",
+   "links": [
+    "https://evwire.com/p/ionna-ccs-connector-bent-pin-psa-midwest"
+   ],
+   "bullets": [
+    "IONNA pulled damaged CCS cables in Ohio, Indiana, Illinois and Missouri after reports a bad plug could bend a pin on the next car's port.",
+    "Fewer than two dozen cases out of 1 million+ sessions; Tesla-style (NACS) plugs not affected."
+   ],
+   "status": "ready",
+   "checkedAt": "2026-11-04"
+  },
+  {
+   "id": "ready-xcel-50",
+   "title": "$50 a year from Xcel for charging at night",
+   "topic": "EVs",
+   "body": "$50 a year. That's the bill credit Xcel pays Colorado EV owners who do 80% of their home charging off-peak.\n\nOn ChargePoint? Xcel switches its data company to WeaveGrid Nov 9-27. They say nothing changes for you.\n\nNot on Xcel? Ask your utility.",
+   "links": [
+    "https://co.my.xcelenergy.com/s/residential/ev-charging/incentives/optimize-charge",
+    "https://xcelenergy-support.weavegrid.com/hc/en-us/articles/35635679677079-ChargePoint-Data-Vendor-Transition"
+   ],
+   "bullets": [
+    "Xcel Colorado Optimize Your Charge: $50 annual credit if 80% of home charging is off-peak; needs a qualifying Wi-Fi-connected EV or charger.",
+    "Data vendor switches from ChargePoint to WeaveGrid Nov 9-27; Xcel says benefits stay the same."
+   ],
+   "status": "ready",
+   "checkedAt": "2026-11-04"
+  },
+  {
+   "id": "ready-ai-scam-posts",
+   "title": "Your public posts can become the scam",
+   "topic": "AI",
+   "body": "$2,000. That's the typical scam loss reported by people over 80.\n\nResearchers just showed everyday AI tools can read public posts and photos and write a personal scam email. Most tools didn't stop it.\n\nOne rule: if a message mentions something you posted, don't click. Go to the site yourself.",
+   "links": [
+    "https://www.uta.edu/news/news-releases/2026/11/02/your-social-media-posts-could-fuel-the-next-ai-scam",
+    "https://news.silversafe.ai/p/scams-are-getting-harder-to-spot-one-habit-helps"
+   ],
+   "bullets": [
+    "UT Arlington study (Nov 2): common AI tools used public posts and photos to write personalized scam emails; default filters caught 0-19%.",
+    "SilverSafe: typical reported fraud loss for people 80+ was $2,000."
+   ],
+   "status": "ready",
+   "checkedAt": "2026-11-04"
+  },
+  {
    "id": "F1",
    "title": "$0 and 3 seconds: look at the plug before you plug in (MAIN, today ~9 AM)",
    "topic": "EVs",
