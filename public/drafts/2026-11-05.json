@@ -1,0 +1,173 @@
+{
+ "date": "2026-11-05",
+ "label": "FRAMEWORK drafts (rewrite-before-post). Draft-only; you post it yourself.",
+ "growth_bets": [
+  "F1 + F2 as a Western Slope charging pair (Fri 6 AM, then Fri noon). Local questions pull replies from Colorado and Utah EV owners; reply count is what puts you in front of verified accounts on the way to ~500 verified.",
+  "F5 Medicare scam rule. Most shareable item here for 55+ and their adult kids. \"Write these down for your parents\" saves and reposts are the Premium signal you want."
+ ],
+ "held": "Held from pack: AP6 Gemini handwritten list to PDF (try first, then Strong), AP7 UK battery 66% evening cut (soft), AP8 Wyoming coal-to-SMR (policy 1). Thursday is dim; nothing pinned to today.",
+ "drafts": [
+  {
+   "id": "ready-aspen-chargers",
+   "title": "Aspen added 14 plugs; some run 60% full",
+   "topic": "EVs",
+   "body": "Aspen just added 14 new Level 2 plugs. The city says some chargers already run over 60% full in peak season.\n\nGarfield County has 43 DC fast ports. Colorado's next fast-charger grant closes Nov 13.\n\nWhere between here and Denver do you wish had a charger?",
+   "links": [
+    "https://aspen.gov/m/newsflash/Home/Detail/1001",
+    "https://energyoffice.colorado.gov/transportation/grants-incentives/dcfc-plazas"
+   ],
+   "bullets": [
+    "City of Aspen added 7 new Level 2 stations (14 spaces) on Nov 4; Aspen now has 38 public spaces; some sites over 60% busy in peak season.",
+    "Garfield County: 43 DC fast ports (PlugShare via Garfield Clean Energy, Nov 3). Colorado DCFC plaza grant (~$14M) closes Nov 13; I-70 and Hwy 82 named corridors."
+   ],
+   "status": "ready",
+   "checkedAt": "2026-11-05"
+  },
+  {
+   "id": "ready-grand-lake",
+   "title": "$0 to vote: Grand Lake won a Supercharger",
+   "topic": "EVs",
+   "body": "$0. That's what it costs to vote for a Supercharger in your town.\n\nTesla owners just got Grand Lake, Colorado on the winners list. Hanksville, Utah made it too.\n\nThe network is past 85,000 stalls. If you could drop one Supercharger on your usual drive, where?",
+   "links": [
+    "https://www.tesla.com/supercharger-voting/overview",
+    "https://teslanorth.com/2026/11/01/supercharger-openings-roundup-nov-1/"
+   ],
+   "bullets": [
+    "Tesla Supercharger voting winners (Oct 28) include Grand Lake, CO and Hanksville, UT.",
+    "Tesla network past 85,000 stalls at 9,000 sites; 76 new stalls across 9 sites last week of October."
+   ],
+   "status": "ready",
+   "checkedAt": "2026-11-05"
+  },
+  {
+   "id": "ready-medicare-scam",
+   "title": "Medicare OE scam season + FTC $3B for 60+",
+   "topic": "AI",
+   "body": "$3 billion. That's what people 60+ reported losing to fraud last year.\n\nMedicare open enrollment runs through Dec 7. Real cards don't expire. Medicare does not cold-call for your number.\n\nOne rule: hang up, then call 1-800-MEDICARE yourself.",
+   "links": [
+    "https://iid.iowa.gov/press-release/2026-11-04/iowa-insurance-division-warns-increased-medicare-scams-targeting-iowans-during-open-enrollment",
+    "https://consumer.ftc.gov/consumer-alerts/2026/11/new-report-ftcs-work-protect-older-adults"
+   ],
+   "bullets": [
+    "Iowa Senior Medicare Patrol (Nov 4): rise in fake plan calls and \"new Medicare card\" offers during open enrollment (Oct 15–Dec 7).",
+    "FTC: fraud losses reported by people 60+ went from $600M in 2020 to about $3B in 2025. Medicare cards don't expire; Medicare won't cold-call for your number."
+   ],
+   "status": "ready",
+   "checkedAt": "2026-11-05"
+  },
+  {
+   "id": "F1",
+   "title": "Aspen just added 14 plugs, and some run 60% full (MAIN, Fri ~6 AM)",
+   "topic": "EVs",
+   "angle": "Western Slope charging is real and busy. Local Aspen/Garfield numbers plus Colorado's fast-charger grant closing Nov 13. Your fill-in is what you actually paid between Grand Junction and Glenwood.",
+   "bullets": [
+    "City of Aspen added 7 new Level 2 stations (14 charging spaces) on Nov 4; Aspen now has 38 public spaces.",
+    "Some Aspen sites run over 60% busy in peak season (city figure).",
+    "Garfield County (Glenwood, Rifle area) has 77 public stations: 135 Level 2 ports and 43 DC fast ports (PlugShare count via Garfield Clean Energy, Nov 3).",
+    "Colorado's DC fast-charging plaza grant (about $14M, 150 kW minimum, 4+ ports) closes Nov 13; I-70 and Hwy 82 are named corridors."
+   ],
+   "body": "$[___] per kWh. That's what I paid last time I charged between Grand Junction and Glenwood.\n\nAspen just added 14 new Level 2 plugs. The city says some of its chargers already run over 60% full in peak season. Out on the Western Slope, Level 2 is great when you're parked all day. On the I-70 run you want the DC fast plugs.\n\nGarfield County alone already has 43 DC fast ports. Colorado's next big fast-charger grant round closes Nov 13, and I-70 plus Hwy 82 are on the list. New sites could be coming if towns apply.\n\nWhere's the one spot between here and Denver you wish already had a charger?",
+   "links": [
+    "https://aspen.gov/m/newsflash/Home/Detail/1001",
+    "https://www.postindependent.com/opinion/garfield-clean-energy-column-overcoming-ev-uncertainty-to-realize-cost-savings/",
+    "https://energyoffice.colorado.gov/transportation/grants-incentives/dcfc-plazas"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Local, dollar opener with first-hand fill-in, clear question that pulls Colorado/Utah EV replies.",
+   "window": "Fri ~6 AM MST (or Sun ~2 PM). Skip Thursday morning; today is dim.",
+   "pixel": "At your usual I-70 stop: \"This is where I charge between here and Glenwood. Where would you put the next one?\"",
+   "target": "A verified Colorado EV owner posting local charger news, or @TeslaCharging when they post a new Western Slope site. Add your one-line I-70 take.",
+   "status": "framework"
+  },
+  {
+   "id": "F2",
+   "title": "$0 to vote: Grand Lake just won a Supercharger (Fri noon)",
+   "topic": "EVs",
+   "angle": "Simple Tesla-owner win you can actually do something about. Local Colorado result, plus fill-in for the next town you'd suggest from your own trips.",
+   "bullets": [
+    "Tesla announced Supercharger voting winners on Oct 28; Grand Lake, Colorado is on the list (so is Hanksville, Utah).",
+    "Owners vote and suggest sites on Tesla's voting page; check the page for how the next round works.",
+    "Tesla's network passed 85,000 stalls at 9,000 sites; 76 new stalls opened across 9 sites the last week of October (Albany OR, Manchester TN, East Wenatchee WA in the US)."
+   ],
+   "body": "$0. That's what it costs to vote for a Supercharger in your town.\n\nTesla owners just got Grand Lake, Colorado on the winners list. Hanksville, Utah made it too. On my trips the town I'd push next is [___] because [the nearest charger is ___ / I always end up waiting at ___].\n\nThe network is past 85,000 stalls now. Still, the gaps on the mountain routes are the ones that mess up a family trip.\n\nIf you could drop one Supercharger anywhere on your usual drive, where?",
+   "links": [
+    "https://www.tesla.com/supercharger-voting/overview",
+    "https://teslanorth.com/2026/11/01/supercharger-openings-roundup-nov-1/"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Simple, local win, easy reply bait. Fill in a real town from your trips.",
+   "window": "Fri noon-1 PM MST.",
+   "pixel": "Phone screen of the voting page: \"Here's how you get a Supercharger in your town. Takes 30 seconds.\"",
+   "target": "@TeslaCharging or @SawyerMerritt if either posts voting winners. One-line opinion quote, then your town fill-in.",
+   "status": "framework"
+  },
+  {
+   "id": "F3",
+   "title": "$1,350 cabin heater, the day the warranty ended (Sun ~2 PM)",
+   "topic": "EVs",
+   "angle": "Calm owner-to-owner winter prep. Know your dates. Not a scare post and not anti-Tesla.",
+   "bullets": [
+    "A 2018 Model 3 owner in Canada says the car quit on the exact day its 8-year battery warranty expired; repair estimate $3,825.98.",
+    "The cause looked like the cabin heater (PTC heater), about $1,350 installed; another owner paid $2,100 for the same part.",
+    "The battery warranty is separate from the basic warranty, so the timing alone doesn't mean it would have been covered.",
+    "Tesla's own cold-weather advice: precondition while plugged in, and expect less range in the cold (outside guides say about 15% to 30%)."
+   ],
+   "body": "$1,350. That's one Tesla owner's cabin heater bill, and it died the day his battery warranty ran out.\n\nMy warranty ends [___]. Before winter I'm [checking the dates in the app / looking at whether an extended plan is worth it for me]. The battery warranty and the basic warranty are different clocks, so the date alone doesn't tell the whole story.\n\nTesla's own tip still holds: precondition while you're plugged in, and expect less range when it's cold. I'm not trying to scare anybody. I just want to know my dates before the first hard freeze.\n\nDo you know when yours runs out?",
+   "links": [
+    "https://autos.yahoo.com/ownership/articles/tesla-model-3-owners-car-005453116.html",
+    "https://www.tesla.com/support/winter-driving-tips"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Real dollar, practical takeaway, owner-to-owner tone. Keep the rewrite calm.",
+   "window": "Sun ~2 PM MST (or Mon ~8 PM).",
+   "pixel": "Show the warranty screen in the Tesla app (blur VIN): \"Go look at this date tonight.\"",
+   "target": "A verified Tesla owner account running winter-prep tips. Reply with your own warranty date fill-in.",
+   "status": "framework"
+  },
+  {
+   "id": "F4",
+   "title": "$7 at home vs $25 at a Supercharger, same 40 kWh (Tue ~noon)",
+   "topic": "EVs",
+   "angle": "Pocketbook charging math. Home is where the savings live. Fill in your real Kentucky trip cheapest and priciest stops.",
+   "bullets": [
+    "DCFC Tracker (Nov 3): public fast charging averages about $0.55/kWh for non-members across 12,409 sites.",
+    "Tesla Supercharger standard rate averages $0.624/kWh; members average $0.434. Electrify America $0.613, Pilot Flying J $0.589.",
+    "Same 40 kWh: about $7 at home (18 cents), $17 at Tesla member rates, $25 at Tesla standard.",
+    "US average home rate is about 18 cents/kWh (EIA Aug 2026)."
+   ],
+   "body": "$7 vs $25. Same 40 kWh. Home rate versus a Supercharger at the standard price.\n\nOn my Kentucky trip my cheapest stop was [___ cents/kWh] and my priciest was [___]. Road charging is for getting there. Home is where the real savings live.\n\nPublic fast charging is averaging about 55 cents a kWh for non-members right now. Tesla members do better. Still nothing like plugging in the garage at about 18 cents.\n\nWhat's the most you've paid per kWh on the road?",
+   "links": [
+    "https://evcharginghelp.com/residential/costs-incentives/dc-fast-charging-cost-per-kwh-2026"
+   ],
+   "ocr": "Strong if you fill in your real trip numbers; OK without them",
+   "ocr_why": "Soft-pedal if you'd rather not do another trip-cost post this week; pairs well after F1.",
+   "window": "Tue ~noon MST.",
+   "pixel": "Hold up the Tesla app charging history: \"Here's what the road cost me vs my garage.\"",
+   "target": "A verified EV news account posting charging-price data. Add your cheapest/priciest stop in one line.",
+   "status": "framework"
+  },
+  {
+   "id": "F5",
+   "title": "Medicare open enrollment is scam season ($3B for people 60+) (Sun ~8 PM)",
+   "topic": "AI",
+   "angle": "AI-for-the-masses / 55+ land. Open enrollment scam rule you can share with family. Different from the earlier \"paste into AI\" and \"AI reads your public posts\" frameworks. No code-word line.",
+   "bullets": [
+    "Medicare open enrollment runs Oct 15 to Dec 7; Iowa's Senior Medicare Patrol (Nov 4) warns of a rise in fake plan calls and \"new Medicare card\" offers during enrollment.",
+    "Medicare cards don't expire and aren't being swapped for plastic or chip cards; Medicare won't cold-call, text or email asking for your number.",
+    "About $60 billion a year is lost to Medicare fraud nationally (cited by Iowa SMP).",
+    "FTC (Nov report): fraud losses reported by people 60+ went from $600 million in 2020 to about $3 billion in 2025."
+   ],
+   "body": "$3 billion. That's what people 60 and up reported losing to fraud last year, up from $600 million in 2020.\n\nMedicare open enrollment runs through Dec 7, and the fake \"new Medicare card\" and \"new plan\" calls are in full swing. Real Medicare cards don't expire. Medicare does not cold-call, text, or email asking for your number.\n\nI turn 65 [___], so those calls are about to find me. The one rule I'm telling my family: hang up, then call 1-800-MEDICARE yourself.\n\nHas anyone in your family gotten one of those calls this month?",
+   "links": [
+    "https://iid.iowa.gov/press-release/2026-11-04/iowa-insurance-division-warns-increased-medicare-scams-targeting-iowans-during-open-enrollment",
+    "https://consumer.ftc.gov/consumer-alerts/2026/11/new-report-ftcs-work-protect-older-adults"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "55+ land, personal stake, useful shareable rule. Not a rehash of the AI-paste or public-posts scam posts.",
+   "window": "Sun ~8 PM MST (or Tue ~9 PM).",
+   "pixel": "Talk to camera: \"Three things Medicare will never do. Write these down for your parents.\"",
+   "target": "A verified senior-finance or consumer-protection account posting open-enrollment tips. Reply with the hang-up rule in one line.",
+   "status": "framework"
+  }
+ ]
+}
