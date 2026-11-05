@@ -126,7 +126,7 @@
   },
   {
    "id": "F4",
-   "title": "$7 at home vs $25 at a Supercharger, same 40 kWh (Tue ~noon)",
+   "title": "$7 at home vs $25 at a Supercharger, same 40 kWh (Tue 8-9 PM)",
    "topic": "EVs",
    "angle": "Pocketbook charging math. Home is where the savings live. Fill in your real Kentucky trip cheapest and priciest stops.",
    "bullets": [
@@ -141,7 +141,7 @@
    ],
    "ocr": "Strong if you fill in your real trip numbers; OK without them",
    "ocr_why": "Soft-pedal if you'd rather not do another trip-cost post this week; pairs well after F1.",
-   "window": "Tue ~noon MST.",
+   "window": "Tue 8-9 PM MST.",
    "pixel": "Hold up the Tesla app charging history: \"Here's what the road cost me vs my garage.\"",
    "target": "A verified EV news account posting charging-price data. Add your cheapest/priciest stop in one line.",
    "status": "framework"
@@ -164,7 +164,7 @@
    ],
    "ocr": "Strong",
    "ocr_why": "55+ land, personal stake, useful shareable rule. Not a rehash of the AI-paste or public-posts scam posts.",
-   "window": "Sun ~8 PM MST (or Tue ~9 PM).",
+   "window": "Sun ~8 PM MST (or Mon ~9 PM).",
    "pixel": "Talk to camera: \"Three things Medicare will never do. Write these down for your parents.\"",
    "target": "A verified senior-finance or consumer-protection account posting open-enrollment tips. Reply with the hang-up rule in one line.",
    "status": "framework"
