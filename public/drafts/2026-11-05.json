@@ -2,10 +2,10 @@
  "date": "2026-11-05",
  "label": "FRAMEWORK drafts (rewrite-before-post). Draft-only; you post it yourself.",
  "growth_bets": [
-  "F1 + F2 as a Western Slope charging pair (Fri 6 AM, then Fri noon). Local questions pull replies from Colorado and Utah EV owners; reply count is what puts you in front of verified accounts on the way to ~500 verified.",
+  "F1 + F2 as a Western Slope charging pair. Local questions pull replies from Colorado and Utah EV owners; reply count is what puts you in front of verified accounts on the way to ~500 verified.",
   "F5 Medicare scam rule. Most shareable item here for 55+ and their adult kids. \"Write these down for your parents\" saves and reposts are the Premium signal you want."
  ],
- "held": "Held from pack: AP6 Gemini handwritten list to PDF (try first, then Strong), AP7 UK battery 66% evening cut (soft), AP8 Wyoming coal-to-SMR (policy 1). Thursday is dim; nothing pinned to today.",
+ "held": "Held from pack: AP6 Gemini handwritten list to PDF (try first, then Strong), AP7 UK battery 66% evening cut (soft), AP8 Wyoming coal-to-SMR (policy 1).",
  "drafts": [
   {
    "id": "ready-aspen-chargers",
@@ -57,7 +57,7 @@
   },
   {
    "id": "F1",
-   "title": "Aspen just added 14 plugs, and some run 60% full (MAIN, Fri ~6 AM)",
+   "title": "Aspen just added 14 plugs, and some run 60% full (MAIN)",
    "topic": "EVs",
    "angle": "Western Slope charging is real and busy. Local Aspen/Garfield numbers plus Colorado's fast-charger grant closing Nov 13. Your fill-in is what you actually paid between Grand Junction and Glenwood.",
    "bullets": [
@@ -74,14 +74,14 @@
    ],
    "ocr": "Strong",
    "ocr_why": "Local, dollar opener with first-hand fill-in, clear question that pulls Colorado/Utah EV replies.",
-   "window": "Fri ~6 AM MST (or Sun ~2 PM). Skip Thursday morning; today is dim.",
+   "window": "Brian picks",
    "pixel": "At your usual I-70 stop: \"This is where I charge between here and Glenwood. Where would you put the next one?\"",
    "target": "A verified Colorado EV owner posting local charger news, or @TeslaCharging when they post a new Western Slope site. Add your one-line I-70 take.",
    "status": "framework"
   },
   {
    "id": "F2",
-   "title": "$0 to vote: Grand Lake just won a Supercharger (Fri noon)",
+   "title": "$0 to vote: Grand Lake just won a Supercharger",
    "topic": "EVs",
    "angle": "Simple Tesla-owner win you can actually do something about. Local Colorado result, plus fill-in for the next town you'd suggest from your own trips.",
    "bullets": [
@@ -96,14 +96,14 @@
    ],
    "ocr": "Strong",
    "ocr_why": "Simple, local win, easy reply bait. Fill in a real town from your trips.",
-   "window": "Fri noon-1 PM MST.",
+   "window": "Brian picks",
    "pixel": "Phone screen of the voting page: \"Here's how you get a Supercharger in your town. Takes 30 seconds.\"",
    "target": "@TeslaCharging or @SawyerMerritt if either posts voting winners. One-line opinion quote, then your town fill-in.",
    "status": "framework"
   },
   {
    "id": "F3",
-   "title": "$1,350 cabin heater, the day the warranty ended (Sun ~2 PM)",
+   "title": "$1,350 cabin heater, the day the warranty ended",
    "topic": "EVs",
    "angle": "Calm owner-to-owner winter prep. Know your dates. Not a scare post and not anti-Tesla.",
    "bullets": [
@@ -119,14 +119,14 @@
    ],
    "ocr": "Strong",
    "ocr_why": "Real dollar, practical takeaway, owner-to-owner tone. Keep the rewrite calm.",
-   "window": "Sun ~2 PM MST (or Mon ~8 PM).",
+   "window": "Brian picks",
    "pixel": "Show the warranty screen in the Tesla app (blur VIN): \"Go look at this date tonight.\"",
    "target": "A verified Tesla owner account running winter-prep tips. Reply with your own warranty date fill-in.",
    "status": "framework"
   },
   {
    "id": "F4",
-   "title": "$7 at home vs $25 at a Supercharger, same 40 kWh (Tue 8-9 PM)",
+   "title": "$7 at home vs $25 at a Supercharger, same 40 kWh",
    "topic": "EVs",
    "angle": "Pocketbook charging math. Home is where the savings live. Fill in your real Kentucky trip cheapest and priciest stops.",
    "bullets": [
@@ -141,14 +141,14 @@
    ],
    "ocr": "Strong if you fill in your real trip numbers; OK without them",
    "ocr_why": "Soft-pedal if you'd rather not do another trip-cost post this week; pairs well after F1.",
-   "window": "Tue 8-9 PM MST.",
+   "window": "Brian picks",
    "pixel": "Hold up the Tesla app charging history: \"Here's what the road cost me vs my garage.\"",
    "target": "A verified EV news account posting charging-price data. Add your cheapest/priciest stop in one line.",
    "status": "framework"
   },
   {
    "id": "F5",
-   "title": "Medicare open enrollment is scam season ($3B for people 60+) (Sun ~8 PM)",
+   "title": "Medicare open enrollment is scam season ($3B for people 60+)",
    "topic": "AI",
    "angle": "AI-for-the-masses / 55+ land. Open enrollment scam rule you can share with family. Different from the earlier \"paste into AI\" and \"AI reads your public posts\" frameworks. No code-word line.",
    "bullets": [
@@ -164,7 +164,7 @@
    ],
    "ocr": "Strong",
    "ocr_why": "55+ land, personal stake, useful shareable rule. Not a rehash of the AI-paste or public-posts scam posts.",
-   "window": "Sun ~8 PM MST (or Mon ~9 PM).",
+   "window": "Brian picks",
    "pixel": "Talk to camera: \"Three things Medicare will never do. Write these down for your parents.\"",
    "target": "A verified senior-finance or consumer-protection account posting open-enrollment tips. Reply with the hang-up rule in one line.",
    "status": "framework"
