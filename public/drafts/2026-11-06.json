@@ -2,53 +2,69 @@
  "date": "2026-11-06",
  "label": "FRAMEWORK drafts (rewrite-before-post). Draft-only; you post it yourself.",
  "growth_bets": [
-  "F1 Grand Junction Xos Hub + F2 winter cost pair. Local name + dollar opener is the Premium save/reply pattern that works on this account. Western Slope EV owners answer \"temporary plug?\" and \"winter drop?\" which helps the verified-follower bottleneck toward ~500.",
-  "F5 Live Rewind useful-or-creepy. Honest 55+ and adult-kid shares and quote-replies without another scam-warning rehash."
+  "F1+F2 local GJ Hub + winter cost for Premium saves/verified replies",
+  "F5 Live Rewind useful-or-creepy for 55+ shares"
  ],
- "held": "Held from pack: AP6 Gemini handwritten list to PDF (try first, then Strong), AP7 Slate Truck $24,950 (parked while Cybertruck wind-down post cools), AP8 Wyoming coal-to-SMR (policy 1).",
+ "held": "Held from pack: AP6 Gemini handwritten list to PDF (try first, then Strong), AP7 Slate Truck $24,950 (park while Cybertruck wind-down is LIVE), AP8 Wyoming coal-to-SMR (policy 1).",
  "drafts": [
   {
-   "id": "ready-gj-mobile-charger",
-   "title": "Xcel mobile fast chargers for Grand Junction",
+   "id": "ready-xcel-hub",
+   "title": "Xcel mobile Hub coming to Grand Junction",
    "topic": "EVs",
-   "body": "33,000 kWh. That's what one mobile fast charger already pushed out for Xcel in Colorado.\n\nNow they're adding more, including Grand Junction, plus a Denver unit for street outages.\n\nWould you use a temporary fast charger if home power went out?",
+   "body": "33,000 kWh. That's what one Xcel mobile fast charger already pushed out in Colorado.\n\nNow they're adding more, including Grand Junction for fleet EVs, plus temporary charging when home power is out.\n\nWould you use a mobile fast charger if home power was out for a few hours?",
    "links": [
     "https://www.globenewswire.com/news-release/2026/08/26/3351705/0/en/xos-secures-follow-on-xos-hub-order-from-xcel-energy-to-provide-expedited-and-flexible-fast-charging-opportunities-for-evs-in-colorado.html",
     "https://www.evengineeringonline.com/battery-backed-dc-fast-charging-expands-for-colorado-fleets/"
    ],
    "bullets": [
     "Xos (Aug 26, 2026): Xcel ordered three more Xos Hub mobile energy-storage + DC fast-charging units for Colorado.",
-    "Two Hubs go to Arvada and Grand Junction service centers for fleet EVs; a third supports temporary customer charging in Denver during power outages; prior CO Hub delivered ~33,000 kWh."
+    "Two Hubs go to Xcel service centers in Arvada and Grand Junction for fleet EVs; third supports temporary customer charging in Denver when transmission work cuts home power.",
+    "Xcel's earlier Colorado Hub has delivered about 33,000 kWh of charging so far."
    ],
    "status": "ready",
    "checkedAt": "2026-11-06"
   },
   {
-   "id": "ready-aaa-winter-cost",
-   "title": "AAA winter EV cost: $32 at home vs $77 public",
+   "id": "ready-aaa-winter",
+   "title": "$77 extra per 1,000 cold miles on public chargers",
    "topic": "EVs",
-   "body": "$77 vs $32. That's the extra winter cost AAA measured per 1,000 miles at 20°F on public chargers versus plugging in at home.\n\nRange dropped about 39% in the cold. Precondition while plugged in and use seat heat first.\n\nWhat's your winter range drop?",
+   "body": "$77. That's the extra cost AAA measured per 1,000 cold miles on public chargers. At home it was closer to $32.\n\nAt 20°F they saw about a 39% range drop. The savings live in the garage.\n\nWhat's your winter range drop so far this year?",
    "links": [
     "https://newsroom.aaa.com/2026/05/aaa-study-reveals-temperature-impacts-on-ev-and-hybrid-performance-efficiency-and-costs/"
    ],
    "bullets": [
-    "AAA (May 1, 2026 lab study): at 20°F vs 75°F, EVs lost about 39% calculated range and added ~$32.11/1,000 mi at home rates vs ~$76.93 on public charging.",
-    "AAA tip: precondition cabin and battery while plugged in; use seat and wheel heat instead of blasting cabin heat."
+    "AAA (May 1, 2026): at 20°F vs 75°F, EVs lost about 39% calculated driving range and 35.6% MPGe.",
+    "Extra operating cost per 1,000 miles at 20°F: about $32.11 home rates vs about $76.93 on public charging."
    ],
    "status": "ready",
    "checkedAt": "2026-11-06"
   },
   {
-   "id": "ready-watch-live-rewind",
-   "title": "Apple Watch 15-second Live Rewind beta",
+   "id": "ready-co-highways",
+   "title": "83% of CO highways within 30 miles of a fast charger",
+   "topic": "EVs",
+   "body": "83%. That's how much of Colorado's highway network sits within 30 miles of a DC fast charger now, up from 40% in 2020.\n\nAbout 486 public fast-charging locations statewide. Grand Junction is on the open NEVI list.\n\nWhich stretch of I-70 still makes you nervous?",
+   "links": [
+    "https://www.codot.gov/news/2026/august2026news/colorado-nears-statewide-ev-fast-charging-network"
+   ],
+   "bullets": [
+    "CDOT (Aug 27, 2026): about 486 public EV fast-charging locations statewide; 83% of CO state highway network within 30 miles of a DC fast charger (was 40% in Aug 2020).",
+    "NEVI-supported stations now operating include Grand Junction, Frisco, Montrose, Durango, and Pagosa Springs."
+   ],
+   "status": "ready",
+   "checkedAt": "2026-11-06"
+  },
+  {
+   "id": "ready-apple-rewind",
+   "title": "Apple Watch Live Rewind: last 15 seconds",
    "topic": "AI",
-   "body": "15 seconds. That's how far back a new Apple Watch feature can rewind a conversation you just missed.\n\nDouble-press the Digital Crown for a text snippet, with a chime so the table knows. Unsaved bits delete fast.\n\nUseful for loud rooms, or too creepy?",
+   "body": "15 seconds. That's how far back a new Apple Watch trick can rewind a conversation you just missed.\n\nDouble-press the Crown, get a text snippet, and a chime so the table knows. Apple says it doesn't keep the raw audio.\n\nWould you turn this on for Mom, or leave it off?",
    "links": [
     "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/"
    ],
    "bullets": [
-    "TechCrunch (Nov 2, 2026): Apple Watch Series 12 Live Rewind entered developer beta with iOS 27.3; double-press Digital Crown for a 15-second text snippet.",
-    "Plays an audible chime + watch animation; Apple says raw audio isn't stored and unsaved snippets vanish after ~30 seconds."
+    "TechCrunch (Nov 2, 2026): Apple Watch Series 12 Live Rewind entered developer beta with iOS 27.3.",
+    "Double-press Digital Crown for text of last 15 seconds; audible chime; Apple says it does not store raw audio."
    ],
    "status": "ready",
    "checkedAt": "2026-11-06"
@@ -81,7 +97,7 @@
    "id": "F2",
    "title": "$77 extra per 1,000 cold miles on public chargers",
    "topic": "EVs",
-   "angle": "Cold is coming to the Western Slope. AAA put hard dollars on winter EV costs, and the garage plug wins. Not a rehash of a vague \"cold morning %\" stub.",
+   "angle": "Cold is coming to the Western Slope. AAA put hard dollars on winter EV costs, and the garage plug wins. Not a rehash of a vague cold morning % stub.",
    "bullets": [
     "AAA (May 1, 2026 lab study): at 20°F vs 75°F, EVs lost about 39% calculated driving range and 35.6% MPGe.",
     "Extra operating cost per 1,000 miles at 20°F: about $32.11 when charging at home rates, about $76.93 on public charging.",
@@ -149,10 +165,10 @@
    "id": "F5",
    "title": "Apple Watch can rewind the last 15 seconds you just missed",
    "topic": "AI",
-   "angle": "AI that helps older ears at a noisy restaurant, without turning into a spy-gadget pitch. Honest \"useful or creepy?\" question. Do not rehash the TikTok on-device AI post already LIVE.",
+   "angle": "AI that helps older ears at a noisy restaurant, without turning into a spy-gadget pitch. Honest useful-or-creepy question. Do not rehash the TikTok on-device AI post already LIVE.",
    "bullets": [
-    "TechCrunch (Nov 2, 2026): Apple Watch Series 12 \"Live Rewind\" entered developer beta with iOS 27.3.",
-    "Double-press Digital Crown -> text snippet of the last 15 seconds; save to Siri app or ask Siri; unsaved snippets vanish after about 30 seconds.",
+    "TechCrunch (Nov 2, 2026): Apple Watch Series 12 Live Rewind entered developer beta with iOS 27.3.",
+    "Double-press Digital Crown → text snippet of the last 15 seconds; save to Siri app or ask Siri; unsaved snippets vanish after about 30 seconds.",
     "Audible chime + on-watch animation so people around you know something was captured.",
     "Apple says it does not store raw audio; Siri Recaps summarize (not full transcripts), strip sensitive IDs, and auto-delete unreviewed notes in about 7 days.",
     "Aimed at missed directions, restaurant specials, parent-teacher meetings; opt-in / scheduleable."
