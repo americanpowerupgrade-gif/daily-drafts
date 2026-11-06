@@ -1,0 +1,172 @@
+{
+ "date": "2026-11-06",
+ "label": "FRAMEWORK drafts (rewrite-before-post). Draft-only; you post it yourself.",
+ "growth_bets": [
+  "F1 Grand Junction Xos Hub + F2 winter cost pair. Local name + dollar opener is the Premium save/reply pattern that works on this account. Western Slope EV owners answer \"temporary plug?\" and \"winter drop?\" which helps the verified-follower bottleneck toward ~500.",
+  "F5 Live Rewind useful-or-creepy. Honest 55+ and adult-kid shares and quote-replies without another scam-warning rehash."
+ ],
+ "held": "Held from pack: AP6 Gemini handwritten list to PDF (try first, then Strong), AP7 Slate Truck $24,950 (parked while Cybertruck wind-down post cools), AP8 Wyoming coal-to-SMR (policy 1).",
+ "drafts": [
+  {
+   "id": "ready-gj-mobile-charger",
+   "title": "Xcel mobile fast chargers for Grand Junction",
+   "topic": "EVs",
+   "body": "33,000 kWh. That's what one mobile fast charger already pushed out for Xcel in Colorado.\n\nNow they're adding more, including Grand Junction, plus a Denver unit for street outages.\n\nWould you use a temporary fast charger if home power went out?",
+   "links": [
+    "https://www.globenewswire.com/news-release/2026/08/26/3351705/0/en/xos-secures-follow-on-xos-hub-order-from-xcel-energy-to-provide-expedited-and-flexible-fast-charging-opportunities-for-evs-in-colorado.html",
+    "https://www.evengineeringonline.com/battery-backed-dc-fast-charging-expands-for-colorado-fleets/"
+   ],
+   "bullets": [
+    "Xos (Aug 26, 2026): Xcel ordered three more Xos Hub mobile energy-storage + DC fast-charging units for Colorado.",
+    "Two Hubs go to Arvada and Grand Junction service centers for fleet EVs; a third supports temporary customer charging in Denver during power outages; prior CO Hub delivered ~33,000 kWh."
+   ],
+   "status": "ready",
+   "checkedAt": "2026-11-06"
+  },
+  {
+   "id": "ready-aaa-winter-cost",
+   "title": "AAA winter EV cost: $32 at home vs $77 public",
+   "topic": "EVs",
+   "body": "$77 vs $32. That's the extra winter cost AAA measured per 1,000 miles at 20°F on public chargers versus plugging in at home.\n\nRange dropped about 39% in the cold. Precondition while plugged in and use seat heat first.\n\nWhat's your winter range drop?",
+   "links": [
+    "https://newsroom.aaa.com/2026/05/aaa-study-reveals-temperature-impacts-on-ev-and-hybrid-performance-efficiency-and-costs/"
+   ],
+   "bullets": [
+    "AAA (May 1, 2026 lab study): at 20°F vs 75°F, EVs lost about 39% calculated range and added ~$32.11/1,000 mi at home rates vs ~$76.93 on public charging.",
+    "AAA tip: precondition cabin and battery while plugged in; use seat and wheel heat instead of blasting cabin heat."
+   ],
+   "status": "ready",
+   "checkedAt": "2026-11-06"
+  },
+  {
+   "id": "ready-watch-live-rewind",
+   "title": "Apple Watch 15-second Live Rewind beta",
+   "topic": "AI",
+   "body": "15 seconds. That's how far back a new Apple Watch feature can rewind a conversation you just missed.\n\nDouble-press the Digital Crown for a text snippet, with a chime so the table knows. Unsaved bits delete fast.\n\nUseful for loud rooms, or too creepy?",
+   "links": [
+    "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/"
+   ],
+   "bullets": [
+    "TechCrunch (Nov 2, 2026): Apple Watch Series 12 Live Rewind entered developer beta with iOS 27.3; double-press Digital Crown for a 15-second text snippet.",
+    "Plays an audible chime + watch animation; Apple says raw audio isn't stored and unsaved snippets vanish after ~30 seconds."
+   ],
+   "status": "ready",
+   "checkedAt": "2026-11-06"
+  },
+  {
+   "id": "F1",
+   "title": "Grand Junction is getting a mobile fast charger from Xcel (MAIN)",
+   "topic": "EVs",
+   "angle": "When grid work kills home charging for a few hours, backup charging shows up on a truck. Local Grand Junction name, real kWh number, first-person fill-in for your usual GJ / I-70 plug.",
+   "bullets": [
+    "Xos (Aug 26, 2026): Xcel ordered three more Xos Hub mobile energy-storage + DC fast-charging units for Colorado.",
+    "Two Hubs go to Xcel service centers in Arvada and Grand Junction to charge fleet EVs.",
+    "Third Hub supports temporary customer charging in Denver when transmission work cuts home power for hours.",
+    "Hub is operable in days vs 6 to 18 months for permanent DC installs; off-peak Hub charging can cut electricity cost up to about 40% vs some standard DCFC uses.",
+    "Xcel's earlier Colorado Hub has delivered about 33,000 kWh of charging so far."
+   ],
+   "body": "33,000 kWh. That's what one mobile fast charger already pushed out for Xcel in Colorado.\n\nNow they're adding more, including Grand Junction. Two of the new units sit at Xcel service centers (Arvada and GJ) for fleet EVs. A third is meant for temporary customer charging in Denver when transmission work knocks home power out for a few hours.\n\nMy usual plug around here is [photo / what I paid per kWh at ___]. If my street went dark for half a day, I'd want a temporary stall nearby, not a dead car in the driveway.\n\nWould you use a mobile fast charger if home power was out for a few hours?",
+   "links": [
+    "https://www.globenewswire.com/news-release/2026/08/26/3351705/0/en/xos-secures-follow-on-xos-hub-order-from-xcel-energy-to-provide-expedited-and-flexible-fast-charging-opportunities-for-evs-in-colorado.html",
+    "https://www.evengineeringonline.com/battery-backed-dc-fast-charging-expands-for-colorado-fleets/"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Local Grand Junction, hard kWh number, first-person fill-in, clear owner question. Keep it practical, not anti-utility.",
+   "window": "Brian picks",
+   "pixel": "Stand near a public charger in GJ: \"If home power is out for a few hours, where do you go?\"",
+   "target": "A verified Western Slope / Colorado EV owner account, or @XcelEnergyCO if they post the Hub. One-line take on backup charging for households.",
+   "status": "framework"
+  },
+  {
+   "id": "F2",
+   "title": "$77 extra per 1,000 cold miles on public chargers",
+   "topic": "EVs",
+   "angle": "Cold is coming to the Western Slope. AAA put hard dollars on winter EV costs, and the garage plug wins. Not a rehash of a vague \"cold morning %\" stub.",
+   "bullets": [
+    "AAA (May 1, 2026 lab study): at 20°F vs 75°F, EVs lost about 39% calculated driving range and 35.6% MPGe.",
+    "Extra operating cost per 1,000 miles at 20°F: about $32.11 when charging at home rates, about $76.93 on public charging.",
+    "Same cold test: EVs were about $36 cheaper per 1,000 miles than hybrids on home power, but about $86 more expensive than hybrids on public chargers.",
+    "AAA tip: precondition cabin/battery while plugged in; use seat and wheel heat instead of blasting the cabin."
+   ],
+   "body": "$77. That's the extra cost AAA measured per 1,000 cold miles if you lean on public chargers. At home it was closer to $32.\n\nAt 20°F they saw about a 39% range drop vs a mild day. Tonight I'm [preconditioning while plugged at ___ / checking seat heat first]. Last week's home rate was about [what I paid per kWh at ___].\n\nThe savings live in the garage. Public DCFC in winter is the expensive path.\n\nWhat's your winter range drop so far this year?",
+   "links": [
+    "https://newsroom.aaa.com/2026/05/aaa-study-reveals-temperature-impacts-on-ev-and-hybrid-performance-efficiency-and-costs/"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Dollar first, actionable tip, owner-to-owner. Clear home vs public gap.",
+   "window": "Brian picks",
+   "pixel": "Show the Tesla climate precondition screen while the car is plugged in: \"Do this before you unplug.\"",
+   "target": "A verified Tesla owner posting winter tips, or quote AAA's own post if they share the study. One-line opinion on home plug vs public in cold.",
+   "status": "framework"
+  },
+  {
+   "id": "F3",
+   "title": "An 11-seat Tesla wagon that still Supercharges",
+   "topic": "EVs",
+   "angle": "Fun family-hauler conversion story. A Wisconsin shop built an 11-seat Badger on Model 3/Y guts and drove it to SEMA on Superchargers. Soft-pedal any Cybertruck price ladder (Cybertruck wind-down is LIVE this morning).",
+   "bullets": [
+    "Hoffman EV Badger debuted at SEMA 2026; drove Wisconsin to Las Vegas using Superchargers.",
+    "Uses Model 3 or Model Y hardware/software (motors, pack, dash, FSD Supervised, Supercharging).",
+    "Titled as an 11-seat bus; doors/roof/seats removable; about 8 in ground clearance; pack raised 1.5 in.",
+    "Expected price band about $26,400 to $77,000; sales eyed 2027; about 100 units/year capacity talk.",
+    "Kit or turnkey; customer can supply a donor 3/Y for the kit path."
+   ],
+   "body": "$26,400. Low end for a Wisconsin shop's 11-seat Tesla-based wagon that still Supercharges.\n\nThey drove it to SEMA from Wisconsin on the Supercharger network. Same motors, pack, and dash guts as a Model 3 or Y. My Model Y is named Grey Lightning. The part I care about is the second row for [family trips / extra passengers].\n\nKit path means you can start with a used donor car. Turnkey is the other option. Either way it's a family bus, not another luxury crossover.\n\nWould you turn a used Y into a family bus?",
+   "links": [
+    "https://insideevs.com/news/814513/tesla-custom-ev-bus-pickup-hoffman-badger/"
+   ],
+   "ocr": "OK to Strong",
+   "ocr_why": "Dollar + family hauler + Supercharger retain. Keep playful. Do not reopen Cybertruck discontinue.",
+   "window": "Brian picks",
+   "pixel": "Point at the second-row seats: \"This is the part I care about.\"",
+   "target": "Quote @InsideEVs or a verified Tesla family-hauler account posting the Badger. One-line opinion only.",
+   "status": "framework"
+  },
+  {
+   "id": "F4",
+   "title": "83% of Colorado highways are within 30 miles of a fast charger",
+   "topic": "EVs",
+   "angle": "Aspen plugs are already LIVE. The bigger story is the statewide map getting hard to poke holes in. Grand Junction is on the open NEVI list.",
+   "bullets": [
+    "CDOT (Aug 27, 2026): about 486 public EV fast-charging locations statewide.",
+    "83% of Colorado's state highway network is within 30 miles of a DC fast charger (was 40% in Aug 2020).",
+    "17 NEVI-supported stations open; 33 more awarded/under development; NEVI allocation about $56.5M over five years.",
+    "NEVI-supported stations now operating include Grand Junction, Frisco, Montrose, Durango, Pagosa Springs, and others.",
+    "20 of 26 Scenic Byways are electrified."
+   ],
+   "body": "83%. That's how much of Colorado's highway network sits within 30 miles of a DC fast charger now, up from 40% in 2020.\n\nThe state counts about 486 public fast-charging locations. Grand Junction is on the open NEVI list with Frisco, Montrose, Durango, and Pagosa. [photo: my last I-70 stop]\n\nTwenty of twenty-six Scenic Byways are electrified too. The gaps that still bug me are [___].\n\nWhich stretch of I-70 or the Western Slope still makes you nervous?",
+   "links": [
+    "https://www.codot.gov/news/2026/august2026news/colorado-nears-statewide-ev-fast-charging-network"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Strong for Colorado EV owners. Do NOT reopen Aspen plug counts; already posted.",
+   "window": "Brian picks",
+   "pixel": "Hold the car nav with a Western Slope route: \"Circle the gap that still bugs you.\"",
+   "target": "@ColoradoDOT or a verified CO EV driver account. One-line gap callout from your trips.",
+   "status": "framework"
+  },
+  {
+   "id": "F5",
+   "title": "Apple Watch can rewind the last 15 seconds you just missed",
+   "topic": "AI",
+   "angle": "AI that helps older ears at a noisy restaurant, without turning into a spy-gadget pitch. Honest \"useful or creepy?\" question. Do not rehash the TikTok on-device AI post already LIVE.",
+   "bullets": [
+    "TechCrunch (Nov 2, 2026): Apple Watch Series 12 \"Live Rewind\" entered developer beta with iOS 27.3.",
+    "Double-press Digital Crown -> text snippet of the last 15 seconds; save to Siri app or ask Siri; unsaved snippets vanish after about 30 seconds.",
+    "Audible chime + on-watch animation so people around you know something was captured.",
+    "Apple says it does not store raw audio; Siri Recaps summarize (not full transcripts), strip sensitive IDs, and auto-delete unreviewed notes in about 7 days.",
+    "Aimed at missed directions, restaurant specials, parent-teacher meetings; opt-in / scheduleable."
+   ],
+   "body": "15 seconds. That's how far back a new Apple Watch trick can rewind a conversation you just missed.\n\nDouble-press the Digital Crown, get a text snippet, and a chime so the table knows. Apple says it doesn't keep the raw audio. Unsaved bits vanish fast. Useful for [Mom at a loud restaurant / me in a meeting], or too creepy?\n\nI'm still in the \"AI that works for you vs on you\" camp. This one has a privacy switch and a sound on purpose.\n\nWould you turn this on for Mom, or leave it off?",
+   "links": [
+    "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Strong for 55+ shares if the question stays honest. Keep the privacy caveat in one short line. Not a TikTok rehash.",
+   "window": "Brian picks",
+   "pixel": "Talk to camera: \"Would you turn this on for Mom, or leave it off?\"",
+   "target": "A verified aging-tech or consumer-AI explainer account. One-line useful-or-creepy take.",
+   "status": "framework"
+  }
+ ]
+}
