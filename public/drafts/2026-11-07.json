@@ -1,0 +1,203 @@
+{
+ "date": "2026-11-07",
+ "label": "FRAMEWORK drafts (rewrite-before-post). Draft-only; you post it yourself.",
+ "growth_bets": [
+  "F1+F3 GJ gas + Supercharger-share home-mix for Premium saves/verified replies",
+  "F4+F5 WiseStep paste-check + protect-first freeze for 55+/adult-kid shares"
+ ],
+ "held": "Held from pack: AP4 Slate Truck $24,950 (soft-park while CT wind-down recent), AP6 handwritten list to PDF (try first), AP8 Wyoming coal-to-SMR (policy 1), OV1 Germany 37% EV share, G1 Revolution Wind ~$500M/yr New England.",
+ "drafts": [
+  {
+   "id": "ready-gj-gas",
+   "title": "$4.23 Grand Junction gas vs my cents per mile",
+   "topic": "EVs",
+   "body": "$4.23 a gallon. That's Grand Junction's AAA average today.\n\nMy Model Y is a few cents a mile at home. Gas at 30 mpg is about $141 per 1,000 miles.\n\nWhich number would you rather live with?",
+   "links": [
+    "https://fuelwide.com/gas-prices/usa/metro/grand-junction-co-only-co",
+    "https://gasprices.aaa.com/colorado/"
+   ],
+   "bullets": [
+    "AAA metro average for Grand Junction (CO only), Nov 7, 2026: regular $4.23/gal (midgrade $4.58, premium $4.93, diesel $6.45).",
+    "Down about 3.2% vs last week ($4.38); up about 42% vs a year ago ($2.98); GJ about $0.17 above CO state average $4.07.",
+    "At $4.23 and 30 mpg, 1,000 gas miles is about $141; home EV charging is usually a few cents per mile."
+   ],
+   "status": "ready",
+   "checkedAt": "2026-11-07",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-managed-charge",
+   "title": "Software that times your plug can save up to $400 a year",
+   "topic": "EVs",
+   "body": "$400. That's the top end a Washington trial said drivers can save a year when software times the plug for off-peak power.\n\nYou set \"full by morning.\" It waits. About 95% of charging moved off-peak in that cohort.\n\nWould you let the car pick the cheap hour?",
+   "links": [
+    "https://gcn.com/washington-state-trial-pushed-percent-electric/22994/"
+   ],
+   "bullets": [
+    "GCN (Nov 4, 2026) summarizing Brattle Group for EnergyHub: Washington cohort of 58 drivers; about 95% of charging shifted off-peak.",
+    "Drivers can save up to about $400 a year vs a flat residential rate (vendor-commissioned study; not a guarantee everywhere)."
+   ],
+   "status": "ready",
+   "checkedAt": "2026-11-07",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-sc-share",
+   "title": "46 states: Supercharger costs more per mile than 30-mpg gas",
+   "topic": "EVs",
+   "body": "46 states. That's how many places a Supercharger costs more per mile than a 30-mpg gas car.\n\nHome charging still wins everywhere. I keep road-trip stops short and most miles on the garage plug.\n\nWhat's your home-vs-trip mix?",
+   "links": [
+    "https://evchargemath.com/supercharging-vs-gas-break-even-by-state/"
+   ],
+   "bullets": [
+    "EV Charge Math (Nov 5, 2026): at Tesla standard (non-member) prices, Supercharging costs more per mile than a 30-mpg gas car in 46 of 51 states.",
+    "Typical break-even: Supercharge about 83% of miles (rest at home) and still beat gas; home charging cheaper than gas in every state."
+   ],
+   "status": "ready",
+   "checkedAt": "2026-11-07",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-wisestep",
+   "title": "Free paste-and-check for a weird text before you panic",
+   "topic": "AI",
+   "body": "$0. Free paste-and-check tool for a weird text that feels off.\n\nWiseStep AI flags urgency and odd-payment tricks before you reply. I tried it on a spam text.\n\nWould you send Mom the link, or walk her through it once?",
+   "links": [
+    "https://www.hawaiipublicradio.org/the-conversation/2026-11-02/online-tool-designed-to-detect-ai-scams-helps-kupuna-fight-fraud",
+    "https://wisestepai.com"
+   ],
+   "bullets": [
+    "Hawai'i Public Radio (Nov 2, 2026): Carol Gonsales founded WiseStep AI after her mom got ~150 calls a day after Medicare info was misused.",
+    "Free Paste & Check at wisestepai.com (confirmed live); five free checks/day; no sign-up for the checker."
+   ],
+   "status": "ready",
+   "checkedAt": "2026-11-07",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-fis-freeze",
+   "title": "57% fine with AI freezing a suspicious charge on its own",
+   "topic": "AI",
+   "body": "57%. That's how many adults in a new FIS survey are fine with AI freezing a suspicious charge on its own.\n\nOnly 3% of people 70+ want AI running day-to-day money. Protect first, spend later.\n\nWould you turn that freeze on for Mom's card?",
+   "links": [
+    "https://fisglobal.gcs-web.com/news-releases/news-release-details/us-adults-would-let-ai-protect-their-money-letting-ai-spend-it/"
+   ],
+   "bullets": [
+    "FIS Consumer Pulse Survey (Nov 5, 2026; n=2,000): 57% comfortable with AI flagging/freezing a suspicious charge without asking first.",
+    "61% of millennials vs 3% of adults 70+ ready to hand day-to-day money management to AI; refund guarantee + human override are top trust asks."
+   ],
+   "status": "ready",
+   "checkedAt": "2026-11-07",
+   "window": "Brian picks"
+  },
+  {
+   "id": "F1",
+   "title": "$4.23 Grand Junction gas vs my cents per mile (MAIN)",
+   "topic": "EVs",
+   "angle": "Pocketbook opener. Today's GJ pump average vs what his Model Y actually costs per mile at home. Not the I-70 range-anxiety story already posted overnight.",
+   "bullets": [
+    "AAA metro average for Grand Junction (CO only), Nov 7, 2026: regular $4.23/gal (midgrade $4.58, premium $4.93, diesel $6.45).",
+    "Down about 3.2% vs last week ($4.38); up about 42% vs a year ago ($2.98).",
+    "GJ sits about $0.17 above the Colorado state average of $4.07.",
+    "At $4.23 and 30 mpg, 1,000 gas miles is about $141; home EV charging is usually a few cents per mile."
+   ],
+   "body": "$4.23 a gallon. That's Grand Junction's AAA average today.\n\nMidgrade is $4.58. Premium $4.93. Diesel is sitting at $6.45. We're about 17 cents above the Colorado average, down a bit from last week, and still way up from about $2.98 a year ago.\n\nAt that pump price and 30 mpg, 1,000 gas miles is roughly $141. My Model Y is closer to [___ cents a mile] at home on [what I paid per kWh at ___]. [photo: pump board vs my charge screen]\n\nNot a range story. Just the weekly money check for Western Slope drivers.\n\nWhich number would you rather live with?",
+   "links": [
+    "https://fuelwide.com/gas-prices/usa/metro/grand-junction-co-only-co",
+    "https://gasprices.aaa.com/colorado/"
+   ],
+   "ocr": "Strong",
+   "pixel": "Pump receipt or station board next to the Tesla energy screen: Same week, two fuel bills.",
+   "premium_target": "Verified Western Slope / Colorado EV owner comparing gas vs home kWh.",
+   "status": "framework",
+   "checkedAt": "2026-11-07",
+   "window": "Brian picks"
+  },
+  {
+   "id": "F2",
+   "title": "Software that times your plug can save up to $400 a year",
+   "topic": "EVs",
+   "angle": "You set full by 7 a.m. and the car waits for cheap hours. Distinct from Xcel $50 Optimize and teslaenergy Smart Charging RT.",
+   "bullets": [
+    "GCN (Nov 4, 2026) summarizing Brattle Group for EnergyHub: Washington cohort of 58 drivers.",
+    "Active managed charging shifted about 95% of charging off-peak.",
+    "Drivers can save up to about $400 a year vs a flat residential rate (vendor-commissioned study).",
+    "Avoided grid upgrade cost cited up to about $180 per EV for all ratepayers."
+   ],
+   "body": "$400. That's the top end a Washington trial said drivers can save a year when software times the plug for off-peak power.\n\nIn that Brattle / EnergyHub cohort, about 95% of charging moved off-peak. You set \"full by morning.\" The car waits for the cheap hour. You don't babysit the outlet.\n\n[what I paid per kWh on my last off-peak night at ___]. Not another utility rebate signup post. Just set-and-forget for the garage plug.\n\nWould you let the car pick the cheap hour, or do you still plug and hope?",
+   "links": [
+    "https://gcn.com/washington-state-trial-pushed-percent-electric/22994/"
+   ],
+   "ocr": "Strong",
+   "pixel": "Show the scheduled-departure / charge-limit screen: I only set the time I need the car.",
+   "premium_target": "Verified EV owner posting off-peak or TOU wins (not Xcel Optimize rehash).",
+   "status": "framework",
+   "checkedAt": "2026-11-07",
+   "window": "Brian picks"
+  },
+  {
+   "id": "F3",
+   "title": "Most Supercharging still beats gas only if most miles stay at home",
+   "topic": "EVs",
+   "angle": "Home garage is the savings. Superchargers are for trips. Distinct from Thu $7 vs $25 per-session draft.",
+   "bullets": [
+    "EV Charge Math (Nov 5, 2026): Supercharging costs more per mile than a 30-mpg gas car in 46 of 51 states at Tesla standard prices.",
+    "Typical break-even: Supercharge about 83% of miles (rest at home) and still beat gas; Hawaii about 14%.",
+    "Only 5 states beat gas at 100% public; home charging cheaper than gas in every state."
+   ],
+   "body": "46 states. That's how many places a Supercharger costs more per mile than a 30-mpg gas car at Tesla's standard (non-member) prices.\n\nHome charging still wins everywhere. The math says you can Supercharge roughly 83% of your miles in a typical state and still beat gas, as long as the rest stays on the garage plug.\n\nI keep road-trip stops short and [___]% of my miles on the wall connector. [photo: trip energy screen vs home wall connector]\n\nWhat's your home-vs-trip mix?",
+   "links": [
+    "https://evchargemath.com/supercharging-vs-gas-break-even-by-state/"
+   ],
+   "ocr": "Strong",
+   "pixel": "Trip energy screen vs home wall connector: Trips vs Tuesday nights.",
+   "premium_target": "Verified Tesla owner posting home-vs-road charging mix.",
+   "status": "framework",
+   "checkedAt": "2026-11-07",
+   "window": "Brian picks"
+  },
+  {
+   "id": "F4",
+   "title": "Paste a weird text into a free checker before you panic",
+   "topic": "AI",
+   "angle": "Free paste-and-check that flags urgency / emotion / odd-payment costumes. Not code-word, Medicare OE, or cloned-voice rehash. Confirmed live at wisestepai.com.",
+   "bullets": [
+    "Hawai'i Public Radio (Nov 2, 2026): Carol Gonsales founded WiseStep AI after her mom got ~150 calls a day after Medicare info was misused.",
+    "Free Paste & Check at wisestepai.com; five free checks/day; no sign-up for the checker.",
+    "Tool labels costumes (urgency, love-bombing, odd payment, government impersonation)."
+   ],
+   "body": "$0. Free paste-and-check tool for a weird text that feels off.\n\nWiseStep AI (wisestepai.com) opens on a box where you paste the message. It flags urgency, love-bombing, odd-payment tricks, and fake government costumes before you reply. No sign-up for the checker. Five free checks a day.\n\nI tried it on [a spam text / ___]. Hang up and call back on a number you already know. This is a second set of eyes, not a bank.\n\nWould you send Mom the link, or walk her through it once?",
+   "links": [
+    "https://www.hawaiipublicradio.org/the-conversation/2026-11-02/online-tool-designed-to-detect-ai-scams-helps-kupuna-fight-fraud",
+    "https://wisestepai.com"
+   ],
+   "ocr": "Strong",
+   "pixel": "Phone showing a spam text next to the paste box: Before you answer.",
+   "premium_target": "Verified elder-fraud or AARP-style tip account (quote carefully).",
+   "status": "framework",
+   "checkedAt": "2026-11-07",
+   "window": "Brian picks"
+  },
+  {
+   "id": "F5",
+   "title": "Most people want AI to freeze a bad charge before it spends their money",
+   "topic": "AI",
+   "angle": "Protect first, spend later. Kitchen-table trust line for older households. Soft on scam stats already used in Medicare OE draft.",
+   "bullets": [
+    "FIS Consumer Pulse Survey (Nov 5, 2026; n=2,000): 57% comfortable with AI flagging/freezing a suspicious charge without asking first.",
+    "50% want to approve every transaction an AI assistant makes; 58% want refund guarantee; 56% want human override.",
+    "61% of millennials vs 3% of adults 70+ ready to hand day-to-day money management to AI."
+   ],
+   "body": "57%. That's how many adults in a new FIS survey are fine with AI freezing a suspicious charge on its own.\n\nHalf still want to approve every spend an AI assistant tries. Refund guarantee and a human who can override were the top trust asks. Control stays with the person.\n\nOnly 3% of people 70+ want AI running their day-to-day money. Protect first, spend later.\n\nWould you turn that freeze on for Mom's card?",
+   "links": [
+    "https://fisglobal.gcs-web.com/news-releases/news-release-details/us-adults-would-let-ai-protect-their-money-letting-ai-spend-it/"
+   ],
+   "ocr": "Strong",
+   "pixel": "Talk to camera: Freeze a weird charge automatically - yes or no?",
+   "premium_target": "Verified consumer-finance or elder-money tip account.",
+   "status": "framework",
+   "checkedAt": "2026-11-07",
+   "window": "Brian picks"
+  }
+ ]
+}
