@@ -1,0 +1,127 @@
+{
+ "date": "2026-11-08",
+ "label": "FRAMEWORK drafts (rewrite-before-post). Draft-only; you post it yourself.",
+ "growth_bets": [
+  "F1 + F2 as a first-cold-month pair: one winter habit plus one winter bill, both with your real numbers. People compare their own bills in the replies, and that's where verified owners jump in.",
+  "F4 AI shopping 43%: holiday season, useful, and calm about AI without fear. Easy repost for families, and a clean reply target on verified tech and finance accounts sharing the Visa study."
+ ],
+ "held": "Held from pack: AP6 generator $508 vs $170 per 100 kWh (needs verification beyond an X trending summary; keep US lesson up front), AP7 data centers about 4% of home price rise (policy 1; pairs with Google $17B Cheyenne pay-its-own-way lead), Crew Chief adds UK 1.40 pounds per 100 miles home charging, UK calm-morning wind 1-5%, US solar factories 47.9 GW. Carries: Wyoming SMR, handwritten PDF try-first, Slate $24,950 (CT parked).",
+ "drafts": [
+  {
+   "id": "ready-preheat",
+   "title": "70% range at 20 degrees. Warm the car on the wall, not the battery",
+   "topic": "EVs",
+   "angle": "First real cold mornings on the Western Slope. The one habit that saves winter range is preheating while plugged in, so the heat comes from the garage outlet instead of the pack. Not a repeat of the Fri AAA $32/$77 cost draft and not his I-70 commute post.",
+   "body": "70%. That's about how much range an EV keeps at 20 degrees. My fix costs [___ cents] a morning: the car warms up on the wall plug at [___ AM], not the battery. Do you schedule yours or start it from the app?",
+   "framework_body": "70%. That's about how much range an EV keeps when it's 20 degrees out.\n\nFirst real cold mornings here on the Western Slope, so here's the one habit I'd tell any new owner. Warm the car while it's still plugged in. The heat comes off the wall outlet, not the battery. My car is scheduled for [___ AM] and it costs me about [___ cents] a morning.\n\nA few other things that help: heated seat on, cabin a couple degrees cooler, and check your tires after a cold snap because they lose about a pound for every 10 degrees.\n\nThe range comes back when it warms up. It's not damage, it's just physics.\n\n[photo: app showing the schedule / frosty driveway]\n\nDo you schedule yours or start it from the app?",
+   "links": [
+    "https://ev.guru/en-us/magazine/ev-winter-range-cold-weather-tips-2026/",
+    "https://www.tesla.com/ownersmanual/modely/en_us/GUID-F907200E-A619-4A95-A0CF-94E0D03BEBEF.html"
+   ],
+   "bullets": [
+    "Recurrent US data (via ev.guru, 2026): EVs keep about 78% of their best range at 32F and about 70% at 20F. The loss is temporary and comes back when it warms up.",
+    "Tesla's Model Y owner's manual says to start climate about 30 to 45 minutes before you leave, and Scheduled Precondition can have cabin and battery warm at your departure time.",
+    "Preheating while plugged in pulls that energy from the grid instead of the battery (fueleconomy.gov, AAA, and Recurrent all say so).",
+    "Heated seats and wheel use less energy than blasting cabin heat. Tire pressure drops about 1 PSI for every 10F drop."
+   ],
+   "ocr": "Strong",
+   "pixel": "15 seconds in the cold garage: phone shows the schedule, open the door to a warm cabin. \"It's 20-something out. Car's already warm. Didn't touch the battery.\"",
+   "premium_target": "A verified cold-climate Tesla owner posting a winter range screenshot. Reply with your own preheat number.",
+   "status": "ready",
+   "checkedAt": "2026-11-08",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-xcel-gas",
+   "title": "Xcel gas went up $5.16 a month. My car's fuel didn't",
+   "topic": "Energy",
+   "angle": "First full heating bills of the season are landing. The furnace bill went up; the fuel for his car from the garage didn't. Natural setup for heat pump or solar as a next step, no sermon.",
+   "body": "$5.16 more a month. That's the average Xcel gas bump that hit Oct 6. My first heating bill this season was [$___]. My car's fuel from the garage was [$___]. Which bill is climbing at your house?",
+   "framework_body": "$5.16 more a month. That's the average Xcel gas bump that kicked in Oct 6.\n\nIt could have been worse. Xcel asked for about $7.59 and the PUC cut it down. Still, my first real heating bill of the season came in at [$___].\n\nHere's the part that gets me. Same month, my car's fuel came out of the garage outlet for about [$___]. One bill I can't do much about yet. The other one I already fixed.\n\nIf money's tight, ask Xcel about the Gas Affordability Program. There's an extra $5 million in it this time. And if your furnace is getting old, this is the winter to at least price out a heat pump.\n\n[photo: Xcel bill with account number blurred]\n\nWhich bill is climbing at your house?",
+   "links": [
+    "https://puc.colorado.gov/press-release/puc-cuts-xcel-energys-natural-gas-rate-request"
+   ],
+   "bullets": [
+    "Colorado PUC approved Xcel's gas rate settlement: residential up 8.6%, about $5.16 a month, effective Oct 6, 2026.",
+    "Xcel had asked for 11.4%, about $7.59 a month.",
+    "Revenue increase cut from $190M requested to $122.7M approved.",
+    "$5M shareholder-funded add to Xcel's Gas Affordability Program for income-qualified customers."
+   ],
+   "ocr": "Strong",
+   "pixel": "Hold up the Xcel bill (blur the account number): \"Here's the $5.16.\"",
+   "premium_target": "A verified Colorado household or energy reporter posting winter bills. One-line reply with your gas vs charging number.",
+   "status": "ready",
+   "checkedAt": "2026-11-08",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-co-ev-share",
+   "title": "Colorado EV share got cut in half. Here's why I'm still plugged in",
+   "topic": "EVs",
+   "angle": "His neighbors are going hybrid. He gives honest owner math without knocking anyone. Not used-price tracking, not lease deals.",
+   "body": "10.2%. That's Colorado's EV share of new cars this year, down from 21.8%. Lots of neighbors went hybrid. I get it. But my fuel is [$___ a month] from the garage. What would make you pick plug over pump?",
+   "framework_body": "10.2%. That's Colorado's EV share of new cars this year. Last year it was 21.8%.\n\nHybrids jumped from 13% to 19%. A lot of my neighbors went that way, and honestly I get it. The federal credit went away, rates are high, and the sticker on most EVs still runs higher.\n\nNo knock on hybrids. They're a real step up from a gas-only car.\n\nBut for somebody who already has the car and a plug in the garage, the monthly number still wins. Mine runs about [$___ a month] to fuel. No gas station on the way home.\n\n[photo: Model Y in the driveway]\n\nWhat would make you pick plug over pump?",
+   "links": [
+    "https://coloradosun.com/2026/11/04/colorado-new-car-sales-dropping-ev-plummet/"
+   ],
+   "bullets": [
+    "Colorado Sun (Nov 4, 2026), Colorado Auto Dealers Association data: EV share of new sales fell from 21.8% (first 9 months of 2025) to 10.2% (2026).",
+    "Hybrids rose from 13.1% to 19% of new sales.",
+    "Tesla Colorado sales went from 8,290 to 6,088, down about 27%, still the top EV brand.",
+    "Overall Colorado new car sales down 14.7%, blamed on lost federal EV aid, high rates, and EV price premiums; gas up since spring."
+   ],
+   "ocr": "Strong",
+   "pixel": "Standing by the Model Y with a gas station in the background: \"Colorado's buying hybrids. Here's my monthly number.\"",
+   "premium_target": "A verified Colorado or Denver reporter or EV account sharing the CADA numbers. One-line owner take.",
+   "status": "ready",
+   "checkedAt": "2026-11-08",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-ai-shopping",
+   "title": "AI shopping bots failed 43% of tests. You press Buy",
+   "topic": "AI",
+   "angle": "Holiday shopping season. Use AI to research and compare, then you press Buy yourself. Practical and calm, fits AI less scary without hype or fear.",
+   "body": "43%. That's how often AI shopping bots failed Visa's buying test. Half the misses still bought the wrong thing. I use AI to [compare ___], then I press Buy myself. Would you let a bot spend your money yet?",
+   "framework_body": "43%. That's how often AI shopping bots failed Visa's new buying test.\n\nThey ran 22 different AI models through 15 real shopping jobs like a TV or a laptop. More than half the misses still bought something that didn't fit. The best one got it right about 82% of the time. The worst, about 29%.\n\nHere's how I use it. I let AI [compare ___ / find me three options], then I look and I press Buy myself.\n\nTip for parents and grandparents: tell it your budget and your must-haves right up front. The bots that asked more questions did a lot better.\n\nAI is a great shopping helper. It's not ready to hold your wallet.\n\nWould you let a bot spend your money yet?",
+   "links": [
+    "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22936.html"
+   ],
+   "bullets": [
+    "Visa press release (Nov 5, 2026): 22 AI models from 12 labs, 15 shopping tasks (TV, laptop, personal care appliance).",
+    "Passed 57.2% of runs and failed 42.8%. Best model 82.2%, worst 28.9%.",
+    "In 54% of failed runs the AI still bought something that didn't fit the ask.",
+    "Models that asked more questions did better: 70.2% vs 44.4%."
+   ],
+   "ocr": "Strong",
+   "pixel": "Phone in hand: \"I let AI pick three TVs. I bought the one I wanted. That's the deal.\"",
+   "premium_target": "A verified tech or personal-finance account sharing the Visa benchmark. One-line \"helper, not wallet\" reply.",
+   "status": "ready",
+   "checkedAt": "2026-11-08",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-grok-tesla",
+   "title": "What I actually ask Grok in my Tesla",
+   "topic": "AI",
+   "angle": "AI for regular people, in the car. Tesla dropped the beta label on in-car Grok in the 2026.38 update. He shares the boring useful questions, not jargon. Do not mention Grok usage limits (he already replied on that).",
+   "body": "$0 extra to ask. Last drive I asked Grok in my Tesla [___] and it [___]. No typing, eyes on the road. What would you ask your car if it could answer back?",
+   "framework_body": "$0 extra to ask. Grok in my Tesla just lost its beta tag in the latest update.\n\nI don't use it for anything fancy. Last drive I asked it [___] and it told me [___]. Before that it was [what's that mountain / is this place open / how much battery to get home].\n\nNo typing. Eyes stay on the road. It's basically a passenger who knows a lot and doesn't get carsick.\n\nThat's what AI looks like for most of us. Not robots. Just answers when your hands are busy.\n\n[clip: parked, ask one question out loud, show the answer]\n\nWhat would you ask your car if it could answer back?",
+   "links": [
+    "https://www.evcompared.co.uk/news/tesla-software-update-latest/"
+   ],
+   "bullets": [
+    "In Tesla's 2026.38 software (2026.38.6 rollout from Oct 29), Grok's beta label was removed across models (EV Compared).",
+    "Same release family added Set Arrival Energy in the app: pick how much battery you want left when you get there.",
+    "It's voice Q and A while driving, separate from FSD.",
+    "Verify whether Premium Connectivity is needed on his car before adding any dollar figure besides $0 extra."
+   ],
+   "ocr": "OK",
+   "pixel": "Dash clip while parked: ask Grok one local question out loud, show the answer. \"This is the AI I actually use.\"",
+   "premium_target": "A verified Tesla owner posting a Grok-in-car clip. Reply with the most useful question you asked.",
+   "status": "ready",
+   "checkedAt": "2026-11-08",
+   "window": "Brian picks"
+  }
+ ]
+}
