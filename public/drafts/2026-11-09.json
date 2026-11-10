@@ -1,136 +1,136 @@
 {
- "date": "2026-11-09",
- "label": "FRAMEWORK drafts (rewrite-before-post). Draft-only; you post it yourself.",
- "growth_bets": [
-  "F1 $5,000-a-plug Colorado charger money: local, useful and saveable. People repost money they can actually get, and \"where would you put one\" pulls replies from Western Slope EV owners and verified Colorado accounts.",
-  "F3 AI that checks on Mom: the 35-54 son with an aging parent is the core reader. A yes/no \"would your parents let you\" question drives replies and saves, and it fits the make-AI-less-scary push."
- ],
- "held": "Held from pack: AP6 Cybercab 40 kWh pack (no timeline, keep off Cybertruck), AP7 SMR Ontario + X-energy Cascade (policy 1; no first-hand hook). Off pack: Cybertruck wind-down (LIVE Fri), Ford Fathom, BYD Han, Starlink price, data centers 4%.",
- "drafts": [
-  {
-   "id": "ready-plug-money",
-   "title": "$5,000 a plug: Colorado will pay to put chargers where you park",
-   "topic": "EV charging",
-   "angle": "Your apartment, church, shop or HOA could get up to $5,000 per Level 2 plug from the state, and most people have no idea. Renters and condo folks without home charging are the ones this helps most.",
-   "bullets": [
-    "Colorado Energy Office Fleet-ZERO grant: Level 2 up to $5,000 per port ($7,000 enhanced, $10,000 charging hub). Fast chargers 100 to 349 kW up to $35,000 per port.",
-    "Fall round opens Nov 16, 2026 and closes Jan 15, 2027. Projects asking $50,000 or less can apply any time.",
-    "Separate DCFC Plazas fast-charging round (about $14M) closes Nov 13, 2026 at 5 PM MT.",
-    "Dillon says its state and Xcel charger rebates were extended into 2027 (about $169,000).",
-    "Ridgway is moving ahead with Helio Charging fast chargers at its Visitor Center on US 550."
-   ],
-   "body": "$5,000 a plug. That's what Colorado will chip in for a Level 2 charger at a business, church or fleet lot. Round opens Nov 16. Where I charge in Grand Junction: [photo: ___]. Where would you put the next one in your town?",
-   "framework_body": "$5,000 a plug.\n\nThat's what Colorado will put toward a Level 2 charger at a business, a church, an apartment lot or a fleet yard. The new round opens Nov 16 and runs into January. Small projects under $50,000 can apply any time.\n\nWhy I care: I charge at home, but plenty of folks here rent or live in a condo and can't. A plug at the place they already park every day fixes that for them. No new trip, no waiting at a fast charger.\n\nAnd it's not just the Front Range. Ridgway is adding fast chargers on US 550, and Dillon just got its rebates pushed into 2027.\n\nIf you run a shop, a church or an HOA board, this is free money sitting on the table.\n\n[photo: where I charge in GJ ___]\n\nThe spot in my town I wish had plugs: [___]. Where would you put the next one in yours?",
-   "links": [
-    "https://energyoffice.colorado.gov/fleet-zero",
-    "https://energyoffice.colorado.gov/transportation/grants-incentives/dcfc-plazas",
-    "https://citizenportal.ai/articles/11837332/colorado/summit-county/dillon/dillon-officials-say-ev-charging-rebates-and-phase2-work-will-move-into-2027",
-    "https://civiciq.com/public-contract/town-of-ridgway-co-helio-charging-construction-2026-11-02"
-   ],
-   "ocr": "Strong",
-   "ocr_why": "Dollar opener, local and useful, and the closing question gets people naming their own town.",
-   "pixel": "Stand at a charger in GJ: \"Colorado will pay up to five grand a plug. Here's where I'd put the next one.\"",
-   "premium_target": "A verified Colorado EV or local news account posting about chargers, or a big EV account asking where chargers are missing. Reply with your GJ spot.",
-   "status": "ready",
-   "checkedAt": "2026-11-09",
-   "window": "Brian picks"
-  },
-  {
-   "id": "ready-car-first",
-   "title": "$3,100 a year: the car is the biggest savings, not the roof",
-   "topic": "EV owner costs",
-   "angle": "A new household study says switching the car saves more than solar or a battery. US lesson: if you go electric one step at a time, start with what you drive every day.",
-   "bullets": [
-    "Rewiring Australia Home Energy Savings Report (Nov 6, 2026), Australian dollars: driving an EV is the single biggest saving, about $3,100 a year for an average household.",
-    "Solar about $1,500 a year. A home battery about $1,300 a year.",
-    "Average driver saves $1,700 to $2,200 a year switching to electric.",
-    "All electric plus solar and battery: about $4,300 a year saved."
-   ],
-   "body": "$3,100 a year. A new study says the car saves more than solar or a battery. My gas spend before vs charging now: [$___ vs $___ a month]. If you could only change one thing, car or roof?",
-   "framework_body": "$3,100 a year.\n\nA big new household study from Australia ran the numbers on every electric upgrade. The car came out on top. More than solar (about $1,500) and more than a home battery (about $1,300).\n\nTheir dollars aren't ours, but the order makes sense to me. Gas is the bill you pay every single week. You feel it at the pump.\n\nHere's mine. Before: about [$___] a month in gas. Now: about [$___] a month charging at home.\n\nSolar is [my next step / what I did second / still on the list ___].\n\nIf you're trying to do this one piece at a time, I'd start with the thing you drive every day.\n\nIf you could only change one thing, car or roof?",
-   "links": [
-    "https://rewiringaustralia.org/impact/research/home-energy-savings-report-2026"
-   ],
-   "ocr": "Strong",
-   "ocr_why": "Dollar opener, your own before-and-after numbers, and an easy either/or question.",
-   "pixel": "In the Model Y: \"Everybody asks about solar first. For me the car was the big one. Here's what I spent on gas versus what I spend now.\"",
-   "premium_target": "A verified EV creator posting monthly charging costs or a gas-vs-electric comparison. Reply with your own before and after.",
-   "status": "ready",
-   "checkedAt": "2026-11-09",
-   "window": "Brian picks"
-  },
-  {
-   "id": "ready-check-on-mom",
-   "title": "$38 a month: AI that notices when Mom's routine changes, no cameras",
-   "topic": "AI for families",
-   "angle": "AI for the masses. Not a robot and not a camera. Motion sensors learn a normal day and text the family when something's off. Built for the son or daughter who worries about a parent living alone.",
-   "bullets": [
-    "Thessai (Bellevue, WA, via GeekWire Nov 2, 2026): motion sensors plus AI learn when a person wakes, moves and uses the bathroom.",
-    "It alerts family on long inactivity, unusual night movement, or the front door opening at 2 a.m.",
-    "Basic is $195 plus $38 a month. Premium (panic button, two-way voice) is $249 plus $59 a month.",
-    "Founder built it after his mother-in-law fell, didn't use her phone or button, and told no one until the next day.",
-    "The parent decides which rooms get monitored. AARP says 75% of older adults want to stay in their homes."
-   ],
-   "body": "$38 a month. AI that learns Mom's normal day and texts you if she doesn't get up. No cameras. My [mom/dad/neighbor ___] would [love it / hate it]. Would your parents let you install this?",
-   "framework_body": "$38 a month.\n\nThat's for an AI setup that learns your mom's normal day and texts you if something's off. She doesn't get up by her usual time. She's up and moving at 3 a.m. The front door opens in the middle of the night.\n\nNo cameras. Just little motion sensors. And she picks which rooms.\n\nThe guy who built it did it after his mother-in-law fell, couldn't or didn't use her phone, and didn't tell anybody until the next day. That's the part that gets me. The fall is scary. Not knowing is worse.\n\nThis is the kind of AI I want people to hear about. Not the scary stuff. Just something quiet that helps a family keep an eye on somebody they love.\n\nMy [mom / dad / neighbor ___] would [love it / hate it] because [___].\n\nWould your parents let you install this?",
-   "links": [
-    "https://www.geekwire.com/2026/startup-uses-motion-sensors-and-ai-to-tell-families-when-an-aging-parents-routine-changes/"
-   ],
-   "ocr": "Strong",
-   "ocr_why": "Kitchen-table worry with the price up front and a yes/no question that sons and daughters of aging parents answer.",
-   "pixel": "\"The scariest part isn't the fall. It's that they don't tell you. Here's an AI thing that doesn't need a camera.\"",
-   "premium_target": "A verified AI-for-everyday or caregiving account, or an aging-in-place post. Reply with the no-cameras point.",
-   "status": "ready",
-   "checkedAt": "2026-11-09",
-   "window": "Brian picks"
-  },
-  {
-   "id": "ready-robotaxi-hours",
-   "title": "5 AM to 2 AM: Robotaxi now runs 21 hours a day",
-   "topic": "Tesla / independence",
-   "angle": "Not a tech brag. For people who stopped driving in the dark, an early ride to a 6 AM appointment or a late ride home is independence. Quote-post Sawyer with one opinion line.",
-   "bullets": [
-    "Tesla Robotaxi now runs 5 AM to 2 AM, 21 hours a day (was 6 AM to 2 AM), per Sawyer Merritt.",
-    "Sawyer: \"Getting very close to 24-hour operation.\"",
-    "Service today is in the Austin area, not Grand Junction yet."
-   ],
-   "body": "5 AM. That's when Tesla Robotaxi now starts, 21 hours a day. My folks quit driving at night at [age ___]. Would you put your parents in one for an early doctor visit?",
-   "framework_body": "5 AM to 2 AM. Robotaxi now runs 21 hours a day.\n\nMost people will read that as a tech story. I read it as a family story.\n\nA lot of older folks quit driving in the dark. My [mom / dad / I ___] stopped at about [age ___]. That turns a 6 AM doctor appointment or a late flight home into a favor you have to ask somebody for.\n\nA car that shows up at 5 in the morning and doesn't need anybody to wake up for it is independence. It's not here in Grand Junction yet. I want it here.\n\nWould you put your parents in one for an early doctor visit?",
-   "links": [
-    "https://x.com/SawyerMerritt/status/2119341121809592484"
-   ],
-   "ocr": "OK",
-   "ocr_why": "Family angle lands for 55+, but there is no real dollar figure, so it works best as a short quote-post with one opinion line.",
-   "pixel": "Skip video; quote-post works best.",
-   "premium_target": "Quote @SawyerMerritt https://x.com/SawyerMerritt/status/2119341121809592484 with one line like: This is a big deal for people who stopped driving at night.",
-   "status": "ready",
-   "checkedAt": "2026-11-09",
-   "window": "Brian picks"
-  },
-  {
-   "id": "ready-battery-honest",
-   "title": "$13,482 battery, 62 years to pay off: what a home battery is really for",
-   "topic": "Batteries (first-hand)",
-   "angle": "Your own dilemma: medical gear overnight at about $0.19/kWh. Honest take that a home battery is mostly backup insurance unless you have solar or time-of-use rates. Tied to the weekend Washington windstorm outages.",
-   "bullets": [
-    "Western Washington windstorm Nov 7: over 110,000 homes lost power, gusts up to 69 mph (from an X story summary; verify the numbers before posting).",
-    "MyBigBill PG&E example math: solar plus battery saves about $1,254 a year, about a 10.8-year payback on a $13,482 battery.",
-    "Same battery charged from the grid with no solar on a basic time-of-use plan: about $218 a year, about 62 years to pay off.",
-    "You pay about $0.19/kWh and run medical equipment overnight."
-   ],
-   "body": "$13,482 battery, 62 years to pay off without solar. That's the honest math. I run [medical gear ___] overnight, so for me it's about outages, not savings. Backup or savings: why would you buy one?",
-   "framework_body": "$13,482 for a home battery. 62 years to pay it off if you don't have solar.\n\nThat's the honest math from one California example. Add solar and it drops to about 11 years. Big difference.\n\nSo why am I still looking at one? Because I run [medical gear ___] every night. I pay about 19 cents a kilowatt-hour, so for me it was never about saving money. It's about the power going out at 2 in the morning.\n\nOver 110,000 homes went dark in Washington this weekend in a windstorm. That's who batteries are really for right now.\n\nI've priced [Powerwall / FranklinWH ___] at about [$___]. Still deciding.\n\nBackup or savings: if you bought one, why?",
-   "links": [
-    "https://www.mybigbill.com/blog/home-battery-time-of-use-pge",
-    "https://x.com/i/trending/2119297018975907923"
-   ],
-   "ocr": "OK",
-   "ocr_why": "Strong first-hand hook and dollar opener, but it runs long; trim a line, and verify the outage count before posting.",
-   "pixel": "Next to the medical gear, no other faces: \"If the power goes out at 2 AM, this has to keep running. Here's what I'm weighing.\"",
-   "premium_target": "A verified account posting the Washington outage, or a Tesla Energy or Enphase backup post. Reply with your overnight-medical-gear reason.",
-   "status": "ready",
-   "checkedAt": "2026-11-09",
-   "window": "Brian picks"
-  }
- ]
+  "date": "2026-11-09",
+  "label": "FRAMEWORK drafts (rewrite-before-post). Draft-only; you post it yourself.",
+  "growth_bets": [
+    "F1 $5,000-a-plug Colorado charger money: local, useful and saveable. People repost money they can actually get, and \"where would you put one\" pulls replies from Western Slope EV owners and verified Colorado accounts.",
+    "F3 AI that checks on Mom: the 35-54 son with an aging parent is the core reader. A yes/no \"would your parents let you\" question drives replies and saves, and it fits the make-AI-less-scary push."
+  ],
+  "held": "Held from pack: AP6 Cybercab 40 kWh pack (no timeline, keep off Cybertruck), AP7 SMR Ontario + X-energy Cascade (policy 1; no first-hand hook). Off pack: Cybertruck wind-down (LIVE Fri), Ford Fathom, BYD Han, Starlink price, data centers 4%.",
+  "drafts": [
+    {
+      "id": "ready-plug-money",
+      "title": "$5,000 a plug: Colorado will pay to put chargers where you park",
+      "topic": "EV charging",
+      "angle": "Your apartment, church, shop or HOA could get up to $5,000 per Level 2 plug from the state, and most people have no idea. Renters and condo folks without home charging are the ones this helps most.",
+      "bullets": [
+        "Colorado Energy Office Fleet-ZERO grant: Level 2 up to $5,000 per port ($7,000 enhanced, $10,000 charging hub). Fast chargers 100 to 349 kW up to $35,000 per port.",
+        "Fall round opens Nov 16, 2026 and closes Jan 15, 2027. Projects asking $50,000 or less can apply any time.",
+        "Separate DCFC Plazas fast-charging round (about $14M) closes Nov 13, 2026 at 5 PM MT.",
+        "Dillon says its state and Xcel charger rebates were extended into 2027 (about $169,000).",
+        "Ridgway is moving ahead with Helio Charging fast chargers at its Visitor Center on US 550."
+      ],
+      "body": "$5,000 a plug. That's what Colorado will chip in for a Level 2 charger at a business, church or fleet lot. Round opens Nov 16. Where I charge in Grand Junction: {photo: XX}. Where would you put the next one in your town?",
+      "framework_body": "$5,000 a plug.\n\nThat's what Colorado will put toward a Level 2 charger at a business, a church, an apartment lot or a fleet yard. The new round opens Nov 16 and runs into January. Small projects under $50,000 can apply any time.\n\nWhy I care: I charge at home, but plenty of folks here rent or live in a condo and can't. A plug at the place they already park every day fixes that for them. No new trip, no waiting at a fast charger.\n\nAnd it's not just the Front Range. Ridgway is adding fast chargers on US 550, and Dillon just got its rebates pushed into 2027.\n\nIf you run a shop, a church or an HOA board, this is free money sitting on the table.\n\n[photo: where I charge in GJ ___]\n\nThe spot in my town I wish had plugs: [___]. Where would you put the next one in yours?",
+      "links": [
+        "https://energyoffice.colorado.gov/fleet-zero",
+        "https://energyoffice.colorado.gov/transportation/grants-incentives/dcfc-plazas",
+        "https://citizenportal.ai/articles/11837332/colorado/summit-county/dillon/dillon-officials-say-ev-charging-rebates-and-phase2-work-will-move-into-2027",
+        "https://civiciq.com/public-contract/town-of-ridgway-co-helio-charging-construction-2026-11-02"
+      ],
+      "ocr": "Strong",
+      "ocr_why": "Dollar opener, local and useful, and the closing question gets people naming their own town.",
+      "pixel": "Stand at a charger in GJ: \"Colorado will pay up to five grand a plug. Here's where I'd put the next one.\"",
+      "premium_target": "A verified Colorado EV or local news account posting about chargers, or a big EV account asking where chargers are missing. Reply with your GJ spot.",
+      "status": "ready",
+      "checkedAt": "2026-11-09",
+      "window": "Brian picks"
+    },
+    {
+      "id": "ready-car-first",
+      "title": "$3,100 a year: the car is the biggest savings, not the roof",
+      "topic": "EV owner costs",
+      "angle": "A new household study says switching the car saves more than solar or a battery. US lesson: if you go electric one step at a time, start with what you drive every day.",
+      "bullets": [
+        "Rewiring Australia Home Energy Savings Report (Nov 6, 2026), Australian dollars: driving an EV is the single biggest saving, about $3,100 a year for an average household.",
+        "Solar about $1,500 a year. A home battery about $1,300 a year.",
+        "Average driver saves $1,700 to $2,200 a year switching to electric.",
+        "All electric plus solar and battery: about $4,300 a year saved."
+      ],
+      "body": "$3,100 a year. A new study says the car saves more than solar or a battery. My gas spend before vs charging now: {$XX vs $XX a month}. If you could only change one thing, car or roof?",
+      "framework_body": "$3,100 a year.\n\nA big new household study from Australia ran the numbers on every electric upgrade. The car came out on top. More than solar (about $1,500) and more than a home battery (about $1,300).\n\nTheir dollars aren't ours, but the order makes sense to me. Gas is the bill you pay every single week. You feel it at the pump.\n\nHere's mine. Before: about [$___] a month in gas. Now: about [$___] a month charging at home.\n\nSolar is [my next step / what I did second / still on the list ___].\n\nIf you're trying to do this one piece at a time, I'd start with the thing you drive every day.\n\nIf you could only change one thing, car or roof?",
+      "links": [
+        "https://rewiringaustralia.org/impact/research/home-energy-savings-report-2026"
+      ],
+      "ocr": "Strong",
+      "ocr_why": "Dollar opener, your own before-and-after numbers, and an easy either/or question.",
+      "pixel": "In the Model Y: \"Everybody asks about solar first. For me the car was the big one. Here's what I spent on gas versus what I spend now.\"",
+      "premium_target": "A verified EV creator posting monthly charging costs or a gas-vs-electric comparison. Reply with your own before and after.",
+      "status": "ready",
+      "checkedAt": "2026-11-09",
+      "window": "Brian picks"
+    },
+    {
+      "id": "ready-check-on-mom",
+      "title": "$38 a month: AI that notices when Mom's routine changes, no cameras",
+      "topic": "AI for families",
+      "angle": "AI for the masses. Not a robot and not a camera. Motion sensors learn a normal day and text the family when something's off. Built for the son or daughter who worries about a parent living alone.",
+      "bullets": [
+        "Thessai (Bellevue, WA, via GeekWire Nov 2, 2026): motion sensors plus AI learn when a person wakes, moves and uses the bathroom.",
+        "It alerts family on long inactivity, unusual night movement, or the front door opening at 2 a.m.",
+        "Basic is $195 plus $38 a month. Premium (panic button, two-way voice) is $249 plus $59 a month.",
+        "Founder built it after his mother-in-law fell, didn't use her phone or button, and told no one until the next day.",
+        "The parent decides which rooms get monitored. AARP says 75% of older adults want to stay in their homes."
+      ],
+      "body": "$38 a month. AI that learns Mom's normal day and texts you if she doesn't get up. No cameras. My {mom/dad/neighbor XX} would {love it / hate it}. Would your parents let you install this?",
+      "framework_body": "$38 a month.\n\nThat's for an AI setup that learns your mom's normal day and texts you if something's off. She doesn't get up by her usual time. She's up and moving at 3 a.m. The front door opens in the middle of the night.\n\nNo cameras. Just little motion sensors. And she picks which rooms.\n\nThe guy who built it did it after his mother-in-law fell, couldn't or didn't use her phone, and didn't tell anybody until the next day. That's the part that gets me. The fall is scary. Not knowing is worse.\n\nThis is the kind of AI I want people to hear about. Not the scary stuff. Just something quiet that helps a family keep an eye on somebody they love.\n\nMy [mom / dad / neighbor ___] would [love it / hate it] because [___].\n\nWould your parents let you install this?",
+      "links": [
+        "https://www.geekwire.com/2026/startup-uses-motion-sensors-and-ai-to-tell-families-when-an-aging-parents-routine-changes/"
+      ],
+      "ocr": "Strong",
+      "ocr_why": "Kitchen-table worry with the price up front and a yes/no question that sons and daughters of aging parents answer.",
+      "pixel": "\"The scariest part isn't the fall. It's that they don't tell you. Here's an AI thing that doesn't need a camera.\"",
+      "premium_target": "A verified AI-for-everyday or caregiving account, or an aging-in-place post. Reply with the no-cameras point.",
+      "status": "ready",
+      "checkedAt": "2026-11-09",
+      "window": "Brian picks"
+    },
+    {
+      "id": "ready-robotaxi-hours",
+      "title": "5 AM to 2 AM: Robotaxi now runs 21 hours a day",
+      "topic": "Tesla / independence",
+      "angle": "Not a tech brag. For people who stopped driving in the dark, an early ride to a 6 AM appointment or a late ride home is independence. Quote-post Sawyer with one opinion line.",
+      "bullets": [
+        "Tesla Robotaxi now runs 5 AM to 2 AM, 21 hours a day (was 6 AM to 2 AM), per Sawyer Merritt.",
+        "Sawyer: \"Getting very close to 24-hour operation.\"",
+        "Service today is in the Austin area, not Grand Junction yet."
+      ],
+      "body": "5 AM. That's when Tesla Robotaxi now starts, 21 hours a day. My folks quit driving at night at {age XX}. Would you put your parents in one for an early doctor visit?",
+      "framework_body": "5 AM to 2 AM. Robotaxi now runs 21 hours a day.\n\nMost people will read that as a tech story. I read it as a family story.\n\nA lot of older folks quit driving in the dark. My [mom / dad / I ___] stopped at about [age ___]. That turns a 6 AM doctor appointment or a late flight home into a favor you have to ask somebody for.\n\nA car that shows up at 5 in the morning and doesn't need anybody to wake up for it is independence. It's not here in Grand Junction yet. I want it here.\n\nWould you put your parents in one for an early doctor visit?",
+      "links": [
+        "https://x.com/SawyerMerritt/status/2119341121809592484"
+      ],
+      "ocr": "OK",
+      "ocr_why": "Family angle lands for 55+, but there is no real dollar figure, so it works best as a short quote-post with one opinion line.",
+      "pixel": "Skip video; quote-post works best.",
+      "premium_target": "Quote @SawyerMerritt https://x.com/SawyerMerritt/status/2119341121809592484 with one line like: This is a big deal for people who stopped driving at night.",
+      "status": "ready",
+      "checkedAt": "2026-11-09",
+      "window": "Brian picks"
+    },
+    {
+      "id": "ready-battery-honest",
+      "title": "$13,482 battery, 62 years to pay off: what a home battery is really for",
+      "topic": "Batteries (first-hand)",
+      "angle": "Your own dilemma: medical gear overnight at about $0.19/kWh. Honest take that a home battery is mostly backup insurance unless you have solar or time-of-use rates. Tied to the weekend Washington windstorm outages.",
+      "bullets": [
+        "Western Washington windstorm Nov 7: over 110,000 homes lost power, gusts up to 69 mph (from an X story summary; verify the numbers before posting).",
+        "MyBigBill PG&E example math: solar plus battery saves about $1,254 a year, about a 10.8-year payback on a $13,482 battery.",
+        "Same battery charged from the grid with no solar on a basic time-of-use plan: about $218 a year, about 62 years to pay off.",
+        "You pay about $0.19/kWh and run medical equipment overnight."
+      ],
+      "body": "$13,482 battery, 62 years to pay off without solar. That's the honest math. I run {medical gear XX} overnight, so for me it's about outages, not savings. Backup or savings: why would you buy one?",
+      "framework_body": "$13,482 for a home battery. 62 years to pay it off if you don't have solar.\n\nThat's the honest math from one California example. Add solar and it drops to about 11 years. Big difference.\n\nSo why am I still looking at one? Because I run [medical gear ___] every night. I pay about 19 cents a kilowatt-hour, so for me it was never about saving money. It's about the power going out at 2 in the morning.\n\nOver 110,000 homes went dark in Washington this weekend in a windstorm. That's who batteries are really for right now.\n\nI've priced [Powerwall / FranklinWH ___] at about [$___]. Still deciding.\n\nBackup or savings: if you bought one, why?",
+      "links": [
+        "https://www.mybigbill.com/blog/home-battery-time-of-use-pge",
+        "https://x.com/i/trending/2119297018975907923"
+      ],
+      "ocr": "OK",
+      "ocr_why": "Strong first-hand hook and dollar opener, but it runs long; trim a line, and verify the outage count before posting.",
+      "pixel": "Next to the medical gear, no other faces: \"If the power goes out at 2 AM, this has to keep running. Here's what I'm weighing.\"",
+      "premium_target": "A verified account posting the Washington outage, or a Tesla Energy or Enphase backup post. Reply with your overnight-medical-gear reason.",
+      "status": "ready",
+      "checkedAt": "2026-11-09",
+      "window": "Brian picks"
+    }
+  ]
 }
