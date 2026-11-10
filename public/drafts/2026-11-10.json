@@ -1,135 +1,135 @@
 {
- "date": "2026-11-10",
- "label": "FRAMEWORK drafts (rewrite-before-post). Draft-only; you post it yourself.",
- "growth_bets": [
-  "F1 the 42.7-mile I-70 gap: a hyper-local number nobody else has, and \"where would you put it\" is the kind of question Western Slope EV owners answer and repost. It builds on your Ridgway and IONNA charging credibility.",
-  "F2 the fake veterans grant and the family code word: the Veterans Day timing, plus family-safety posts get saved and shared by 55+ readers, and the code-word question pulls replies from verified accounts. It fits the make-AI-less-scary push."
- ],
- "held": "Held from pack: AP4 Utah $0.49/kWh (third charging-cost item; keep for a road-trip day), AP7 E.ON battery-only (soft battery, UK), AP8 Dow/X-energy SMR permit (better as a one-line quote-post), AP9 cattle under solar 3% (good solar backup for tomorrow). Overnight LIVE skipped: Lemonade FSD insurance, Grand Mesa, data centers AHJ, Ridgway Helios.",
- "drafts": [
-  {
-   "id": "ready-i70-gap",
-   "title": "42.7 miles: the longest fast-charger gap from Denver to Grand Junction is our last stretch",
-   "topic": "EV charging",
-   "angle": "Denver to GJ is covered every 5 to 20 miles now, except the one stretch locals drive most: Parachute to Grand Junction through De Beque Canyon and Palisade. A hard local number nobody else is posting.",
-   "bullets": [
-    "54 DC fast-charging locations within 2 miles of I-70 from I-25 in Denver to west Grand Junction, 282 fast ports total (ChargingNear.me, built from DOE AFDC data, updated Nov 10, 2026).",
-    "Tesla has 14 of the 54 locations but 158 of the 282 ports, more than half.",
-    "Longest gap on the whole run: 42.7 miles, Parachute Supercharger to the Grand Junction Supercharger. Nothing fast in De Beque or Palisade.",
-    "Next longest: Glenwood to Rifle 23.9 mi, Gypsum to Glenwood 23.5 mi, Silverthorne/Frisco to Vail about 20 to 22 mi.",
-    "Grand Junction end: 9 fast locations, 31 ports (Tesla, Rivian, eVgo, ChargePoint)."
-   ],
-   "body": "42.7 miles. That's the longest stretch of I-70 from Denver to Grand Junction with no fast charger, and it's our backyard: Parachute to GJ. Where I'd want one: [Palisade / De Beque / ___]. Ever sweat that stretch in winter?",
-   "framework_body": "42.7 miles.\n\nThat's the longest stretch of I-70 between Denver and Grand Junction with no fast charger. And it isn't up on the pass. It's right here, Parachute to GJ, through De Beque Canyon and Palisade.\n\nThe rest of the mountain is in good shape now. 54 fast-charging stops and 282 plugs between Denver and here, most of them 5 to 20 miles apart. Tesla alone has more than half the plugs.\n\nBut the canyon is the hole. In summer nobody cares. In January, with the heat running and a headwind, that 42 miles feels longer. I [plan my stop at ___ / leave Parachute with ___%].\n\nA charger in Palisade would also feed the wineries and fruit stands. That's money staying in our valley.\n\n[photo: me at the Parachute or GJ Supercharger ___]\n\nIf you could drop one fast charger between Parachute and GJ, where would it go?",
-   "links": [
-    "https://chargingnear.me/data/colorado#i-70-corridor-denver-to-grand-junction",
-    "https://chargingnear.me/corridors/i-70-ev-charging"
-   ],
-   "ocr": "Strong",
-   "ocr_why": "Hyper-local hard number, first-hand winter fill-in, and a pick-a-town question Western Slope owners will answer.",
-   "pixel": "Parked at the GJ or Parachute Supercharger: \"From Denver to here there are 54 fast-charging stops. The longest gap is right here, 42 miles. Where would you put the next one?\"",
-   "premium_target": "A verified Colorado EV account or Xcel Colorado post about corridor charging, or reply under a Rivian Adventure Network or Electrify America Colorado post with the 42.7-mile number.",
-   "status": "ready",
-   "checkedAt": "2026-11-10",
-   "window": "Brian picks"
-  },
-  {
-   "id": "ready-va-scam-code-word",
-   "title": "$0: what a real veterans grant costs, and the fake AI one stealing VA deposits",
-   "topic": "AI safety for families",
-   "angle": "Not \"AI is scary.\" It's the one-minute family habit that beats it. Veterans Day tie-in: a fake AI-made grant post got veterans to hand over direct-deposit info.",
-   "bullets": [
-    "VA News: a fake \"Veterans & Retired Seniors Grant Program\" Facebook post, made to look government-sponsored, got veterans to hand over direct-deposit info; some lost thousands in VA payments. VA is working to make them whole.",
-    "VA's rule: Stop. Check. Then act. Report VA scams to VSAFE at 833-38V-SAFE (833-388-7233).",
-    "Greenville SC police warn of \"virtual kidnapping\" calls using AI-cloned voices of a loved one and recommend a family code word.",
-    "Vox (Nov 6): hang up and call back on the number saved in your contacts, and check how old a social account is."
-   ],
-   "body": "$0. That's what a real government grant costs to sign up for, and they never need your bank login. A fake AI-made \"veterans grant\" just stole VA deposits. Our family code word is [___, don't post it]. Does your family have one yet?",
-   "framework_body": "$0.\n\nThat's what it costs to sign up for a real government grant. And no real program ever needs your bank login to \"send\" you money.\n\nRight before Veterans Day, a fake \"Veterans & Retired Seniors Grant Program\" post on Facebook, made with AI to look official, talked veterans into handing over their direct-deposit info. Some lost thousands in VA payments.\n\nAI didn't hack anybody. It just made the lie look better. The fix is still simple, and it's free:\n\n1. Pick a family code word. Only family knows it. If \"your grandson\" calls in a panic, ask for it.\n2. Hang up and call back on the number already saved in your phone.\n3. If it says act now, it can wait.\n\nI told my [dad / brother / wife ___] about this and they said [___].\n\nVA scam line if it happens to you: 833-38V-SAFE.\n\nDoes your family have a code word yet?",
-   "links": [
-    "https://news.va.gov/149747/deepfake-phishing-dont-be-fooled/",
-    "https://www.wspa.com/news/virtual-kidnapping-scam-targets-upstate-families/amp/",
-    "https://www.vox.com/advice/509649/ai-scam-chatgpt-google-phishing-calls"
-   ],
-   "ocr": "Strong",
-   "ocr_why": "Shareable family-safety post with a Veterans Day hook; the code-word question pulls replies and saves from 55+ readers.",
-   "pixel": "Kitchen table, talk to camera: \"Veterans, a fake grant post is stealing VA deposits. Here are the three things my family does.\"",
-   "premium_target": "Quote VA's official account or a verified veteran creator posting about benefits scams with one line: the code word plus call-back habit.",
-   "status": "ready",
-   "checkedAt": "2026-11-10",
-   "window": "Brian picks"
-  },
-  {
-   "id": "ready-night-charging-30",
-   "title": "$30 a month: what one family saved just by charging the EVs at night",
-   "topic": "EV owner costs",
-   "angle": "The cheapest EV upgrade costs nothing: charge overnight on a time-of-day rate. Their step two was solar plus a battery that kept Grandma's medical gear running through 46 outages.",
-   "bullets": [
-    "Energy Trust of Oregon (Nov 5, 2026), quoting the family: \"We immediately were saving $30 a month on Time of Day just because we charged our EVs at night.\"",
-    "Their battery has covered 46 outages since 2022, from seconds to 7 hours, switching over in under a second.",
-    "It kept the heat pump, CPAP, electric lift chair, fridge and medicine running.",
-    "Three-generation home, 7 people: 27 kW solar plus 54 kWh battery; the family estimates about $8,000 a year saved on energy, plus no gas."
-   ],
-   "body": "$30 a month. That's what one family saved just by charging their EVs at night instead of the evening. My overnight rate in Grand Junction: [$___ per kWh]. Are you charging at the cheap hours, or just plugging in when you get home?",
-   "framework_body": "$30 a month.\n\nThat's what one Oregon family saved, right away, just by setting their EVs to charge at night instead of the minute they pulled in. Same cars, same driving. They just moved the charging to the cheap hours.\n\nThat's the free step. Takes two minutes in the car's app.\n\nTheir next step cost real money: solar and a home battery. Since 2022 that battery has ridden through 46 outages and kept Grandma's CPAP, her lift chair, the heat pump and the fridge running. Seven people, three generations, one house.\n\nI'm not telling everybody to go buy a battery. But the night charging part? Everybody with an EV should be doing it.\n\nMy rate at night here in GJ: [$___ per kWh]. My car is set to start at [___].\n\nAre you charging at the cheap hours, or just plugging in when you get home?",
-   "links": [
-    "https://blog.energytrust.org/how-solar-panels-and-battery-backup-keep-a-multigenerational-home-safe-and-powered/"
-   ],
-   "ocr": "Strong",
-   "ocr_why": "Dollar opener, a free action anyone can take today, a personal rate fill-in, and an easy yes/no question.",
-   "pixel": "In the garage with the charge cable: \"Free tip. Set your car to charge after [time]. One family saved thirty bucks a month doing just that.\"",
-   "premium_target": "Reply under a verified EV creator's home-charging cost breakdown, or an Xcel Colorado time-of-use post, with your overnight rate.",
-   "status": "ready",
-   "checkedAt": "2026-11-10",
-   "window": "Brian picks"
-  },
-  {
-   "id": "ready-phone-explains-bill",
-   "title": "$0 extra: your phone can already explain that confusing bill",
-   "topic": "AI for everyday people",
-   "angle": "A new AI pendant for older adults reads letters and bills out loud and explains them. Fine for folks who hate apps, but the phone already in your pocket does it today for free.",
-   "bullets": [
-    "Careflick's Oak1 wearable (pendant or clip-on) ships January 2027; reservations open at careflick.com. Price not published.",
-    "It explains letters and bills with a built-in camera, books rides and appointments, orders groceries and refills, and works with hearing aids. 15+ languages.",
-    "Careflick says it was built from 10,000+ hours of conversations with 1,000+ older adults; family updates only with the wearer's permission, and it asks before doing anything big."
-   ],
-   "body": "$0 extra. A new AI pendant for seniors reads your bills and explains them. My phone already does that. Last one I had it explain: [photo: the bill or letter, blurred ___]. What piece of mail confuses your folks the most?",
-   "framework_body": "$0 extra.\n\nA company just announced an AI pendant for older folks. You point it at a letter or a bill and it reads it out loud and tells you what it means. Ships in January.\n\nHonestly, that's a good idea for people who hate apps.\n\nBut here's the thing most people don't know: the phone already in your pocket does that today. Snap a photo of the letter. Ask it \"what does this mean, and do I owe anything?\" Ten seconds.\n\nLast one I had it explain for me: [my Medicare / Xcel / insurance letter ___]. It told me [___].\n\n[photo: the letter, blurred ___]\n\nNo jargon, no subscription, no new gadget. This is the kind of AI that actually helps.\n\nWhat piece of mail confuses your folks the most?",
-   "links": [
-    "https://www.digitalmarketreports.com/news/100848/careflick-introduces-oak1-a-personal-ai-wearable-bringing-greater-independence-to-older-adults/"
-   ],
-   "ocr": "OK",
-   "ocr_why": "Useful, zero jargon and a photo fill-in, but \"$0 extra\" is a softer opener than a hard dollar figure; your own photo carries it.",
-   "pixel": "Hold up a blurred letter, snap it, read the answer on screen: \"This is the AI I actually use. Took ten seconds.\"",
-   "premium_target": "Reply under a verified AI-for-everyone creator (Min Choi or Rowan Cheung style) posting AI gadgets for seniors: \"Your phone already does this.\"",
-   "status": "ready",
-   "checkedAt": "2026-11-10",
-   "window": "Brian picks"
-  },
-  {
-   "id": "ready-robotaxi-16-vs-23",
-   "title": "$16 vs $23: Tesla Robotaxi undercuts Waymo on day one in San Antonio",
-   "topic": "Tesla life",
-   "angle": "Price, not tech. A local reporter rode both on launch day and Tesla was cheaper. Plus a smart tip for any rider: check your own uninsured motorist coverage.",
-   "bullets": [
-    "Tesla Robotaxi launched in San Antonio Monday at 5 AM; KSAT's test trip cost $16 vs about $23 on Waymo (Uber about $16).",
-    "San Antonio is Tesla's 8th Robotaxi city; launch map about 274 sq mi on paper (Electrek) vs Waymo's 59 sq mi there. Electrek expects 160 to 210 sq mi actually bookable; the airport isn't served.",
-    "Austin zone is now 443 sq mi.",
-    "A local attorney told KSAT that in Texas the company stands in as the operator when no human intervenes; riders should check their uninsured/underinsured coverage. Terms include arbitration with a 30-day opt-out."
-   ],
-   "body": "$16 vs $23. A reporter rode Tesla Robotaxi and Waymo on the same San Antonio trip on launch day. Tesla won on price. What I'd pay to skip driving at night: [$___]. Would you ride one, or wait a year?",
-   "framework_body": "$16 vs $23.\n\nA San Antonio reporter took the same trip on Tesla Robotaxi and on Waymo on launch day. Tesla was seven bucks cheaper, about the same as an Uber with a driver.\n\nThat's city number 8 for Tesla. Waymo covers about 59 square miles there. Tesla's map is way bigger on paper, though the airport isn't in it yet.\n\nFor me this was never about the tech. It's about my folks, and someday me, getting to the doctor or home from dinner at night without having to drive or ask anybody.\n\nOne tip from a local lawyer worth stealing: before you ride any robotaxi, look at the uninsured motorist part of your own car insurance.\n\nNot in Grand Junction yet. When it gets here I'd use it for [___]. What I'd pay to skip driving at night: [$___].\n\nWould you ride one now, or wait a year?",
-   "links": [
-    "https://www.ksat.com/news/local/2026/11/09/tesla-launches-self-driving-robotaxi-service-in-san-antonio/",
-    "https://electrek.co/2026/11/09/tesla-robotaxi-san-antonio-launch-geofence/"
-   ],
-   "ocr": "Strong",
-   "ocr_why": "Two dollar figures with a clear winner, a family independence angle, and a ride-or-wait question.",
-   "pixel": "In the Model Y on FSD: \"Sixteen bucks versus twenty-three. Tesla's robotaxi just undercut Waymo in San Antonio.\"",
-   "premium_target": "Quote Sawyer Merritt's or Tesla Robotaxi's San Antonio launch post with one opinion line on price. If Monday's 21-hours Robotaxi draft already went out, run this as the follow-up, not the same day.",
-   "status": "ready",
-   "checkedAt": "2026-11-10",
-   "window": "Brian picks"
-  }
- ]
+  "date": "2026-11-10",
+  "label": "FRAMEWORK drafts (rewrite-before-post). Draft-only; you post it yourself.",
+  "growth_bets": [
+    "F1 the 42.7-mile I-70 gap: a hyper-local number nobody else has, and \"where would you put it\" is the kind of question Western Slope EV owners answer and repost. It builds on your Ridgway and IONNA charging credibility.",
+    "F2 the fake veterans grant and the family code word: the Veterans Day timing, plus family-safety posts get saved and shared by 55+ readers, and the code-word question pulls replies from verified accounts. It fits the make-AI-less-scary push."
+  ],
+  "held": "Held from pack: AP4 Utah $0.49/kWh (third charging-cost item; keep for a road-trip day), AP7 E.ON battery-only (soft battery, UK), AP8 Dow/X-energy SMR permit (better as a one-line quote-post), AP9 cattle under solar 3% (good solar backup for tomorrow). Overnight LIVE skipped: Lemonade FSD insurance, Grand Mesa, data centers AHJ, Ridgway Helios.",
+  "drafts": [
+    {
+      "id": "ready-i70-gap",
+      "title": "42.7 miles: the longest fast-charger gap from Denver to Grand Junction is our last stretch",
+      "topic": "EV charging",
+      "angle": "Denver to GJ is covered every 5 to 20 miles now, except the one stretch locals drive most: Parachute to Grand Junction through De Beque Canyon and Palisade. A hard local number nobody else is posting.",
+      "bullets": [
+        "54 DC fast-charging locations within 2 miles of I-70 from I-25 in Denver to west Grand Junction, 282 fast ports total (ChargingNear.me, built from DOE AFDC data, updated Nov 10, 2026).",
+        "Tesla has 14 of the 54 locations but 158 of the 282 ports, more than half.",
+        "Longest gap on the whole run: 42.7 miles, Parachute Supercharger to the Grand Junction Supercharger. Nothing fast in De Beque or Palisade.",
+        "Next longest: Glenwood to Rifle 23.9 mi, Gypsum to Glenwood 23.5 mi, Silverthorne/Frisco to Vail about 20 to 22 mi.",
+        "Grand Junction end: 9 fast locations, 31 ports (Tesla, Rivian, eVgo, ChargePoint)."
+      ],
+      "body": "42.7 miles. That's the longest stretch of I-70 from Denver to Grand Junction with no fast charger, and it's our backyard: Parachute to GJ. Where I'd want one: {Palisade / De Beque / XX}. Ever sweat that stretch in winter?",
+      "framework_body": "42.7 miles.\n\nThat's the longest stretch of I-70 between Denver and Grand Junction with no fast charger. And it isn't up on the pass. It's right here, Parachute to GJ, through De Beque Canyon and Palisade.\n\nThe rest of the mountain is in good shape now. 54 fast-charging stops and 282 plugs between Denver and here, most of them 5 to 20 miles apart. Tesla alone has more than half the plugs.\n\nBut the canyon is the hole. In summer nobody cares. In January, with the heat running and a headwind, that 42 miles feels longer. I [plan my stop at ___ / leave Parachute with ___%].\n\nA charger in Palisade would also feed the wineries and fruit stands. That's money staying in our valley.\n\n[photo: me at the Parachute or GJ Supercharger ___]\n\nIf you could drop one fast charger between Parachute and GJ, where would it go?",
+      "links": [
+        "https://chargingnear.me/data/colorado#i-70-corridor-denver-to-grand-junction",
+        "https://chargingnear.me/corridors/i-70-ev-charging"
+      ],
+      "ocr": "Strong",
+      "ocr_why": "Hyper-local hard number, first-hand winter fill-in, and a pick-a-town question Western Slope owners will answer.",
+      "pixel": "Parked at the GJ or Parachute Supercharger: \"From Denver to here there are 54 fast-charging stops. The longest gap is right here, 42 miles. Where would you put the next one?\"",
+      "premium_target": "A verified Colorado EV account or Xcel Colorado post about corridor charging, or reply under a Rivian Adventure Network or Electrify America Colorado post with the 42.7-mile number.",
+      "status": "ready",
+      "checkedAt": "2026-11-10",
+      "window": "Brian picks"
+    },
+    {
+      "id": "ready-va-scam-code-word",
+      "title": "$0: what a real veterans grant costs, and the fake AI one stealing VA deposits",
+      "topic": "AI safety for families",
+      "angle": "Not \"AI is scary.\" It's the one-minute family habit that beats it. Veterans Day tie-in: a fake AI-made grant post got veterans to hand over direct-deposit info.",
+      "bullets": [
+        "VA News: a fake \"Veterans & Retired Seniors Grant Program\" Facebook post, made to look government-sponsored, got veterans to hand over direct-deposit info; some lost thousands in VA payments. VA is working to make them whole.",
+        "VA's rule: Stop. Check. Then act. Report VA scams to VSAFE at 833-38V-SAFE (833-388-7233).",
+        "Greenville SC police warn of \"virtual kidnapping\" calls using AI-cloned voices of a loved one and recommend a family code word.",
+        "Vox (Nov 6): hang up and call back on the number saved in your contacts, and check how old a social account is."
+      ],
+      "body": "$0. That's what a real government grant costs to sign up for, and they never need your bank login. A fake AI-made \"veterans grant\" just stole VA deposits. Our family code word is {XX, don't post it}. Does your family have one yet?",
+      "framework_body": "$0.\n\nThat's what it costs to sign up for a real government grant. And no real program ever needs your bank login to \"send\" you money.\n\nRight before Veterans Day, a fake \"Veterans & Retired Seniors Grant Program\" post on Facebook, made with AI to look official, talked veterans into handing over their direct-deposit info. Some lost thousands in VA payments.\n\nAI didn't hack anybody. It just made the lie look better. The fix is still simple, and it's free:\n\n1. Pick a family code word. Only family knows it. If \"your grandson\" calls in a panic, ask for it.\n2. Hang up and call back on the number already saved in your phone.\n3. If it says act now, it can wait.\n\nI told my [dad / brother / wife ___] about this and they said [___].\n\nVA scam line if it happens to you: 833-38V-SAFE.\n\nDoes your family have a code word yet?",
+      "links": [
+        "https://news.va.gov/149747/deepfake-phishing-dont-be-fooled/",
+        "https://www.wspa.com/news/virtual-kidnapping-scam-targets-upstate-families/amp/",
+        "https://www.vox.com/advice/509649/ai-scam-chatgpt-google-phishing-calls"
+      ],
+      "ocr": "Strong",
+      "ocr_why": "Shareable family-safety post with a Veterans Day hook; the code-word question pulls replies and saves from 55+ readers.",
+      "pixel": "Kitchen table, talk to camera: \"Veterans, a fake grant post is stealing VA deposits. Here are the three things my family does.\"",
+      "premium_target": "Quote VA's official account or a verified veteran creator posting about benefits scams with one line: the code word plus call-back habit.",
+      "status": "ready",
+      "checkedAt": "2026-11-10",
+      "window": "Brian picks"
+    },
+    {
+      "id": "ready-night-charging-30",
+      "title": "$30 a month: what one family saved just by charging the EVs at night",
+      "topic": "EV owner costs",
+      "angle": "The cheapest EV upgrade costs nothing: charge overnight on a time-of-day rate. Their step two was solar plus a battery that kept Grandma's medical gear running through 46 outages.",
+      "bullets": [
+        "Energy Trust of Oregon (Nov 5, 2026), quoting the family: \"We immediately were saving $30 a month on Time of Day just because we charged our EVs at night.\"",
+        "Their battery has covered 46 outages since 2022, from seconds to 7 hours, switching over in under a second.",
+        "It kept the heat pump, CPAP, electric lift chair, fridge and medicine running.",
+        "Three-generation home, 7 people: 27 kW solar plus 54 kWh battery; the family estimates about $8,000 a year saved on energy, plus no gas."
+      ],
+      "body": "$30 a month. That's what one family saved just by charging their EVs at night instead of the evening. My overnight rate in Grand Junction: {$XX per kWh}. Are you charging at the cheap hours, or just plugging in when you get home?",
+      "framework_body": "$30 a month.\n\nThat's what one Oregon family saved, right away, just by setting their EVs to charge at night instead of the minute they pulled in. Same cars, same driving. They just moved the charging to the cheap hours.\n\nThat's the free step. Takes two minutes in the car's app.\n\nTheir next step cost real money: solar and a home battery. Since 2022 that battery has ridden through 46 outages and kept Grandma's CPAP, her lift chair, the heat pump and the fridge running. Seven people, three generations, one house.\n\nI'm not telling everybody to go buy a battery. But the night charging part? Everybody with an EV should be doing it.\n\nMy rate at night here in GJ: [$___ per kWh]. My car is set to start at [___].\n\nAre you charging at the cheap hours, or just plugging in when you get home?",
+      "links": [
+        "https://blog.energytrust.org/how-solar-panels-and-battery-backup-keep-a-multigenerational-home-safe-and-powered/"
+      ],
+      "ocr": "Strong",
+      "ocr_why": "Dollar opener, a free action anyone can take today, a personal rate fill-in, and an easy yes/no question.",
+      "pixel": "In the garage with the charge cable: \"Free tip. Set your car to charge after [time]. One family saved thirty bucks a month doing just that.\"",
+      "premium_target": "Reply under a verified EV creator's home-charging cost breakdown, or an Xcel Colorado time-of-use post, with your overnight rate.",
+      "status": "ready",
+      "checkedAt": "2026-11-10",
+      "window": "Brian picks"
+    },
+    {
+      "id": "ready-phone-explains-bill",
+      "title": "$0 extra: your phone can already explain that confusing bill",
+      "topic": "AI for everyday people",
+      "angle": "A new AI pendant for older adults reads letters and bills out loud and explains them. Fine for folks who hate apps, but the phone already in your pocket does it today for free.",
+      "bullets": [
+        "Careflick's Oak1 wearable (pendant or clip-on) ships January 2027; reservations open at careflick.com. Price not published.",
+        "It explains letters and bills with a built-in camera, books rides and appointments, orders groceries and refills, and works with hearing aids. 15+ languages.",
+        "Careflick says it was built from 10,000+ hours of conversations with 1,000+ older adults; family updates only with the wearer's permission, and it asks before doing anything big."
+      ],
+      "body": "$0 extra. A new AI pendant for seniors reads your bills and explains them. My phone already does that. Last one I had it explain: {photo: the bill or letter, blurred XX}. What piece of mail confuses your folks the most?",
+      "framework_body": "$0 extra.\n\nA company just announced an AI pendant for older folks. You point it at a letter or a bill and it reads it out loud and tells you what it means. Ships in January.\n\nHonestly, that's a good idea for people who hate apps.\n\nBut here's the thing most people don't know: the phone already in your pocket does that today. Snap a photo of the letter. Ask it \"what does this mean, and do I owe anything?\" Ten seconds.\n\nLast one I had it explain for me: [my Medicare / Xcel / insurance letter ___]. It told me [___].\n\n[photo: the letter, blurred ___]\n\nNo jargon, no subscription, no new gadget. This is the kind of AI that actually helps.\n\nWhat piece of mail confuses your folks the most?",
+      "links": [
+        "https://www.digitalmarketreports.com/news/100848/careflick-introduces-oak1-a-personal-ai-wearable-bringing-greater-independence-to-older-adults/"
+      ],
+      "ocr": "OK",
+      "ocr_why": "Useful, zero jargon and a photo fill-in, but \"$0 extra\" is a softer opener than a hard dollar figure; your own photo carries it.",
+      "pixel": "Hold up a blurred letter, snap it, read the answer on screen: \"This is the AI I actually use. Took ten seconds.\"",
+      "premium_target": "Reply under a verified AI-for-everyone creator (Min Choi or Rowan Cheung style) posting AI gadgets for seniors: \"Your phone already does this.\"",
+      "status": "ready",
+      "checkedAt": "2026-11-10",
+      "window": "Brian picks"
+    },
+    {
+      "id": "ready-robotaxi-16-vs-23",
+      "title": "$16 vs $23: Tesla Robotaxi undercuts Waymo on day one in San Antonio",
+      "topic": "Tesla life",
+      "angle": "Price, not tech. A local reporter rode both on launch day and Tesla was cheaper. Plus a smart tip for any rider: check your own uninsured motorist coverage.",
+      "bullets": [
+        "Tesla Robotaxi launched in San Antonio Monday at 5 AM; KSAT's test trip cost $16 vs about $23 on Waymo (Uber about $16).",
+        "San Antonio is Tesla's 8th Robotaxi city; launch map about 274 sq mi on paper (Electrek) vs Waymo's 59 sq mi there. Electrek expects 160 to 210 sq mi actually bookable; the airport isn't served.",
+        "Austin zone is now 443 sq mi.",
+        "A local attorney told KSAT that in Texas the company stands in as the operator when no human intervenes; riders should check their uninsured/underinsured coverage. Terms include arbitration with a 30-day opt-out."
+      ],
+      "body": "$16 vs $23. A reporter rode Tesla Robotaxi and Waymo on the same San Antonio trip on launch day. Tesla won on price. What I'd pay to skip driving at night: {$XX}. Would you ride one, or wait a year?",
+      "framework_body": "$16 vs $23.\n\nA San Antonio reporter took the same trip on Tesla Robotaxi and on Waymo on launch day. Tesla was seven bucks cheaper, about the same as an Uber with a driver.\n\nThat's city number 8 for Tesla. Waymo covers about 59 square miles there. Tesla's map is way bigger on paper, though the airport isn't in it yet.\n\nFor me this was never about the tech. It's about my folks, and someday me, getting to the doctor or home from dinner at night without having to drive or ask anybody.\n\nOne tip from a local lawyer worth stealing: before you ride any robotaxi, look at the uninsured motorist part of your own car insurance.\n\nNot in Grand Junction yet. When it gets here I'd use it for [___]. What I'd pay to skip driving at night: [$___].\n\nWould you ride one now, or wait a year?",
+      "links": [
+        "https://www.ksat.com/news/local/2026/11/09/tesla-launches-self-driving-robotaxi-service-in-san-antonio/",
+        "https://electrek.co/2026/11/09/tesla-robotaxi-san-antonio-launch-geofence/"
+      ],
+      "ocr": "Strong",
+      "ocr_why": "Two dollar figures with a clear winner, a family independence angle, and a ride-or-wait question.",
+      "pixel": "In the Model Y on FSD: \"Sixteen bucks versus twenty-three. Tesla's robotaxi just undercut Waymo in San Antonio.\"",
+      "premium_target": "Quote Sawyer Merritt's or Tesla Robotaxi's San Antonio launch post with one opinion line on price. If Monday's 21-hours Robotaxi draft already went out, run this as the follow-up, not the same day.",
+      "status": "ready",
+      "checkedAt": "2026-11-10",
+      "window": "Brian picks"
+    }
+  ]
 }
