@@ -1,0 +1,135 @@
+{
+ "date": "2026-11-11",
+ "label": "FRAMEWORK drafts (rewrite-before-post). Draft-only; you post it yourself.",
+ "growth_bets": [
+  "F1 Palisade grant sequel: it builds on your own live post with a real Friday deadline and a local call to action, so Western Slope locals and Colorado EV accounts have a reason to reply and repost, which is where verified replies come from.",
+  "F2 Veterans Day $1,000: one-day relevance plus a human photo makes it save-and-share material for 35-54 men and 55+ military families, and \"who's the veteran in your family\" pulls replies and tags."
+ ],
+ "held": "Held from pack: AP4 South Padre 500 kW V4 (third charging item today; keep for a road-trip or Starship day), AP5 2026.38 third-party backup cutoff (mostly Australia, soft battery), AP8 $11 voice clone (third scam angle in 8 days). Overnight LIVE skipped: I-70 gap (F1 is the sequel), Claude vs Grok, Honda Outlier, Starlink Mini, nuclear jobs, Waymo highways.",
+ "drafts": [
+  {
+   "id": "ready-palisade-grant",
+   "title": "Up to 80% paid: the money that could put a fast charger in Palisade closes Friday",
+   "topic": "EV charging",
+   "angle": "Sequel to last night's 42.7-mile Parachute-to-GJ post. You asked for a charger in Palisade; here is the state money that could build it, and the window closes Fri Nov 13 at 5 PM MT. Turn a complaint into a call to action for local business owners.",
+   "bullets": [
+    "Colorado Energy Office DCFC Plazas grant: about $14M this round (federal NEVI plus state Community Access Enterprise money).",
+    "Match varies, up to 80% of project cost covered.",
+    "Minimum 4 ports per site, each at least 150 kW.",
+    "Open to businesses, local governments and nonprofits. Applications close Nov 13, 2026, 5:00 PM MT.",
+    "Context from your live post: 42.7 miles from the Parachute Supercharger to Grand Junction with nothing fast in De Beque or Palisade."
+   ],
+   "body": "$14 million on the table and the state covers up to 80%. {photo of the Palisade lot or station I'd pick}. Colorado's fast-charger grant closes Friday. Palisade business owners, I'll be your first customer. Who should build it?",
+   "framework_body": "$14 million on the table. Up to 80% of the cost covered.\n\nLast night I posted about the 42.7-mile hole in fast charging between Parachute and Grand Junction. Nothing in De Beque. Nothing in Palisade. {one line on the replies I got}. My vote was Palisade.\n\nTurns out the money is sitting right there. Colorado's DCFC Plazas grant has about $14 million this round, and it can cover up to 80% of a fast-charging site. Four plugs minimum, each one fast enough to get you back on the road during a coffee and a peach pie.\n\nThe catch: applications close this Friday at 5 PM.\n\nSo here's my pitch to every gas station, winery, fruit stand and restaurant owner in Palisade. EV drivers stop for 20 to 30 minutes. We buy lunch. We buy wine. We come back. {my own line about where I'd stop and what I'd buy}.\n\n{photo of the exit or lot I'd pick}\n\nI'll be your first customer. Who in Palisade should build it?",
+   "links": [
+    "https://energyoffice.colorado.gov/transportation/grants-incentives/dcfc-plazas",
+    "https://x.com/UpgradeAmerican/status/2120380335125106773"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Sequel to your own live post, local, dollar opener, real deadline and a clear call to action.",
+   "pixel": "Stand at the Palisade I-70 exit: \"This is where a fast charger should go, and the state will pay for most of it. You've got till Friday.\"",
+   "premium_target": "Reply as a self-thread under your own 2120380335125106773, and quote or tag a verified Colorado EV or Western Slope local news account.",
+   "status": "ready",
+   "checkedAt": "2026-11-11",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-vets-tesla-1000",
+   "title": "Veterans Day: $1,000 off a Tesla for vets and spouses, and most don't know",
+   "topic": "EVs / Veterans Day",
+   "angle": "Thank you first, money tip second. One-day relevance plus a save-worthy fact for military families. Confirm the offer on tesla.com before posting.",
+   "bullets": [
+    "Tesla lists $1,000 off Model S, 3, X, Y and Cybertruck for active duty, retirees, veterans and spouses (Military.com roundup).",
+    "Toyota offers $500 (includes household members and Gold Star families).",
+    "Ford and Hyundai ($500) also run military programs.",
+    "Confirm current Tesla terms on tesla.com before posting; programs change."
+   ],
+   "body": "$1,000 off a Tesla if you served, or if your spouse did. A lot of vets have no idea. {photo of a veteran in my life, or my own line}. Thank you to everyone who served. Who's the veteran in your family?",
+   "framework_body": "$1,000 off a Tesla if you served. Same for your spouse.\n\nFirst things first. Happy Veterans Day, and thank you to every one of you who wore the uniform. {my own line about a veteran I know, or skip}.\n\nNow the part a lot of vets I talk to don't know. Tesla takes $1,000 off a Model 3, Y, S, X or Cybertruck for active duty, retirees, veterans and military spouses. Toyota does $500, and it covers household members and Gold Star families too. Ford and Hyundai have programs as well.\n\nIt's not life-changing money. But $1,000 is a few months of charging, or a home charger installed. {what $1,000 covers for me}.\n\nIf you're shopping, ask before you sign. They won't always bring it up.\n\nWho's the veteran in your family? Tag them.",
+   "links": [
+    "https://www.military.com/off-duty/autos/best-discounts-cars-and-motorcycles-service-members-and-veterans.html"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Today-only relevance, human moment, save-and-share material, easy reply question.",
+   "pixel": "15 seconds: \"Happy Veterans Day. One thing a lot of vets don't know about buying a car.\"",
+   "premium_target": "Quote a verified veteran creator's or Tesla news account's Veterans Day post with the $1,000 tip.",
+   "status": "ready",
+   "checkedAt": "2026-11-11",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-work-charging-30",
+   "title": "$30 for 10,000 miles because his job has a free plug",
+   "topic": "EV charging cost",
+   "angle": "One owner spent about $30 total charging over nearly 10,000 miles thanks to a free plug at work. Different from yesterday's night-rate post: this is about employers, and it invites readers to compare their own numbers.",
+   "bullets": [
+    "100-mile round-trip commute in a 260-mile-range EV; he used to spend $400+ a month on gas.",
+    "Half of the $30 was just trying out Superchargers.",
+    "US averages: home about $0.18/kWh, public Level 2 about $0.33, DC fast about $0.50 (PlugCompass, Nov 2026).",
+    "That works out to about $6.75 per 100 miles at home vs $18.55 at fast chargers."
+   ],
+   "body": "$30. That's what one guy paid to charge for 10,000 miles, because his job has a free plug. My last month: {what I paid at home} at home, {what I paid at Superchargers} on the road. Does your work have chargers, or should it?",
+   "framework_body": "$30. For almost 10,000 miles.\n\nThat's what one EV owner spent on charging, total, because his job has a free plug in the parking lot. He drives 100 miles round trip every day. On gas he was spending over $400 a month. And half of that $30 was him trying out Superchargers for fun.\n\nMost of us aren't that lucky. Average home charging runs about $6.75 per 100 miles. Fast chargers on the road are closer to $18.55.\n\nMy last month: {what I paid at home} at home and {what I paid at Superchargers} on the road. {one line on whether that beats my old gas bill}.\n\nHere's the part I keep thinking about. For an employer, a plug in the lot is a perk people use every single day. {my take on whether more GJ employers should do it}.\n\nDoes your work have chargers? Should it?",
+   "links": [
+    "https://www.thecooldown.com/green-tech/ev-owner-free-workplace-charging-costs/",
+    "https://plugcompass.com/ev-charging-cost"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Dollar shock opener, first-person fill-in, easy reply question; distinct from yesterday's night-rate angle.",
+   "pixel": "Phone in hand on the Tesla app charging stats: \"Here's what I actually paid last month. Now guess what this guy paid.\"",
+   "premium_target": "Reply or quote a verified EV owner account posting monthly charging costs.",
+   "status": "ready",
+   "checkedAt": "2026-11-11",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-ring-drone",
+   "title": "$250 for a little drone that checks the house for you",
+   "topic": "AI for families",
+   "angle": "AI for the masses, plain words. Is the stove off? Did the back door open? Useful for anyone living alone, or for kids checking on a parent. Cool or creepy is the reply hook.",
+   "bullets": [
+    "Ring Drone Cam, $249.99, indoor only.",
+    "Flies set routes, or launches when a Ring sensor trips; 2K camera with lights, up to about 8 minutes of flight.",
+    "Records only while flying; camera is covered when docked.",
+    "Ships Jan 27, 2027, pending FCC approval."
+   ],
+   "body": "$250 and a little drone flies through the house to check on things while I'm gone. {cool or creepy, my take}. For a parent living alone, I'd {use it or skip it}. Would you put one in your folks' house?",
+   "framework_body": "$250. A little drone that flies around your house and checks on things.\n\nRing just announced it. You dock it on a shelf. When a door sensor trips, or when you tap your phone, it flies a set path through the house and shows you what's going on. Stove on? Back door open? Dog in the trash? It records only while it's flying, and the camera is covered when it's parked.\n\nThis is what AI looks like for regular people. Not robots taking over. A gadget that answers the question you worry about at 10 PM from two states away.\n\nMy honest take: {cool or creepy, in my words}.\n\nFor a parent who lives alone, I'd {use it or skip it}, because {my reason}.\n\nIt ships in January. Would you put one in your folks' house?",
+   "links": [
+    "https://ring.com/products/drone-cam",
+    "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/"
+   ],
+   "ocr": "OK",
+   "ocr_why": "Hot-or-not reply bait and non-technical AI; product not shipping yet, so lean on the opinion.",
+   "pixel": "Point at a high shelf: \"Imagine a drone parked right here that checks the house when you're gone. Would you?\"",
+   "premium_target": "Quote a verified tech reviewer's Ring Drone Cam post with a one-line family take.",
+   "status": "ready",
+   "checkedAt": "2026-11-11",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-battery-labor",
+   "title": "$2,800 for labor on a 'free' warranty battery swap",
+   "topic": "Home battery (soft)",
+   "angle": "One question to ask before you sign for a home battery: who pays labor if it fails and your installer is gone? Soft battery slot; useful and save-worthy.",
+   "bullets": [
+    "Seattle-area Powerwall 3 failed after about a year; Tesla approved a warranty module swap.",
+    "The original installer had gone out of business.",
+    "Other installers quoted $2,000 to $2,800 in labor, or refused the job.",
+    "Parts warranties often exclude labor unless it is a recall."
+   ],
+   "body": "$2,800 for labor on a 'free' warranty battery swap. His installer went out of business. Before I buy a battery, I'm asking {who pays labor if it fails}. Did your installer put that in writing?",
+   "framework_body": "$2,800. That's the labor bill on a battery swap that was supposed to be free.\n\nA homeowner near Seattle had his Powerwall fail after about a year. Tesla said fine, warranty, we'll send the part. Good so far.\n\nThen the problem. The company that installed it had gone out of business. Other installers wanted $2,000 to $2,800 just to do the swap, and some wouldn't touch it.\n\nThe warranty covered the battery. Nobody covered the guy holding the wrench.\n\nI'm still on the fence about a home battery. {where I am on it}. But this goes on my list of questions before I sign anything: who pays labor if it fails, and what happens if you're gone in five years?\n\nDid your installer put that in writing?",
+   "links": [
+    "https://www.thecooldown.com/green-home/tesla-powerwall-warranty-swap-labor-costs/"
+   ],
+   "ocr": "OK",
+   "ocr_why": "Practical and save-worthy, but batteries are a soft-pedal lane, so it sits in the fifth slot.",
+   "pixel": "Stand by the electrical panel: \"Before you buy a home battery, ask this one question.\"",
+   "premium_target": "Reply to a verified solar installer or Powerwall owner account posting about warranty or service.",
+   "status": "ready",
+   "checkedAt": "2026-11-11",
+   "window": "Brian picks"
+  }
+ ]
+}
