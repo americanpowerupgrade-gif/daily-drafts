@@ -1,0 +1,137 @@
+{
+ "date": "2026-11-12",
+ "label": "FRAMEWORK drafts (rewrite-before-post). Draft-only; you post it yourself.",
+ "growth_bets": [
+  "F2 $99 lane-keeping: an owner-cost debate splits Tesla fans and skeptics, which pulls replies and quote-posts from verified Tesla accounts, the fastest path to verified follows.",
+  "F4 AI vs scammers: a big dollar number plus AI on our side for once is save-and-share material for adult kids and 55+ readers, and it fits the AI for the masses push."
+ ],
+ "held": "Held from pack: AP6 solar winter 31% (needs your real winter Enphase number; good for a snowy day), AP7 Vineyard Wind 806 MW (policy slot, New England only), AP8 Darlington SMR late (Canada, hold for a US tie). Overnight LIVE skipped: Powerwall $2,800 labor, Rivian R2, Lucid service, Grok Bot 1.0, Nvidia succession. Post-pack rescan: one off-lane RT only.",
+ "drafts": [
+  {
+   "id": "ready-aspen-chargers",
+   "title": "20,860 gallons of gas: Aspen's chargers are so busy it just added 14 more plugs",
+   "topic": "EV charging",
+   "angle": "Chargers on the Western Slope are busy, not empty. Aspen just added 14 public plugs because the old ones run 60% busy in peak season. Make it local: Garfield County is part of the 4,400 EV count, and that's the I-70 stretch you drive.",
+   "bullets": [
+    "Aspen added 7 dual-port Level 2 stations, 14 new public spaces (ARC, Golf/Nordic, Truscott, Red Brick). Network went from 12 plugs in 2021 to 38.",
+    "More than 4,400 registered EVs across Pitkin, Eagle and Garfield counties, about 6% of vehicles in Aspen Electric territory.",
+    "Several sites top 60% use in peak season; 20% is considered a strong benchmark. South Spring St: 69% of peak visits found it already in use.",
+    "2025 network delivered 231,310 kWh, about 20,860 gallons of gas displaced."
+   ],
+   "body": "20,860 gallons of gas. That's what Aspen's public chargers replaced last year. Now they added 14 more plugs because the old ones sit 60% busy in peak season. Over in Grand Junction I usually charge {where I charge most}. Ever pulled up to a full charger on the Western Slope?",
+   "framework_body": "20,860 gallons of gas.\n\nThat's how much Aspen's public chargers replaced last year. And they're so busy the city just added 14 more plugs.\n\nHere's the number that got me. A charger that's busy 20% of the time is considered a good one. Several of Aspen's run over 60% in peak season. At one spot on South Spring Street, 69% of the time somebody showed up, it was already taken.\n\nThere are now more than 4,400 EVs registered in Pitkin, Eagle and Garfield counties. Garfield is Glenwood, Rifle, Parachute. That's the I-70 stretch I drive. {my last trip up valley and where I charged}.\n\nPeople keep telling me nobody wants these cars. Then why are the chargers full?\n\nBusy chargers are a good problem. It means people bought the cars. The next step is more fast chargers between Glenwood and Grand Junction. {my one-line take on where the next one should go}.\n\n{photo of the charger I use most}\n\nEver pulled up to a full charger on the Western Slope? Where?",
+   "links": [
+    "https://www.aspentimes.com/news/aspen-adds-14-new-public-ev-charging-spaces/",
+    "https://www.aspen.gov/m/newsflash/Home/Detail/1001"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Hard number opener, local Western Slope, first-hand fill-in and a question close. Builds on your I-70 gap and Palisade posts without repeating them.",
+   "pixel": "Stand at {a GJ or valley charger}: \"Aspen says its chargers are 60% busy. Here's what it looks like where I charge.\"",
+   "premium_target": "Quote or reply to a verified Colorado EV or Tesla owner account posting about I-70 or mountain charging, keeping it to the busy-charger point; self-thread link back to your 42.7-mile gap post if it fits.",
+   "status": "ready",
+   "checkedAt": "2026-11-12",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-autosteer-99",
+   "title": "$99 a month to stay in your lane: what new Tesla buyers don't get anymore",
+   "topic": "EV ownership",
+   "angle": "Owner-cost honesty. New Model 3 and Model Y buyers in the US and Canada no longer get basic Autosteer standard; it now comes with the $99/month FSD subscription. Two things can be true: FSD is great, and a $50k car should come with lane-keeping.",
+   "bullets": [
+    "Since January 2026, new US and Canada Model 3 and Model Y ship with Traffic-Aware Cruise Control only; Autosteer moved behind FSD (Reuters, Jan 23).",
+    "FSD (Supervised) subscription is $99 a month.",
+    "Tesla reported 1.74 million active FSD users in Q3 2026; about 75% of new North America deliveries included FSD (Electrek).",
+    "Not a Tesla App reports Musk directed the cut to boost subscriptions; it's trending today."
+   ],
+   "body": "$99 a month. That's what a new Model Y buyer now pays just to get the car to steer itself in its lane. Basic Autosteer isn't standard anymore. I {what I pay for FSD, or bought it outright} and use it {how often}. Worth it, or should lane-keeping come free?",
+   "framework_body": "$99 a month.\n\nThat's what a new Model 3 or Model Y buyer now pays to get the car to steer itself in its lane. Basic Autosteer used to come with the car. Since January, new cars in the US and Canada ship with plain cruise control instead. Lane-keeping now lives inside the FSD subscription.\n\nHonest take from an owner. FSD is the best thing about my car. {one real moment where FSD helped me, not the Grand Mesa drive}. I {what I pay for FSD, or that I bought it outright}.\n\nBut my {older car or a friend's cheap car} keeps itself in the lane for free. A $50,000 car should too.\n\nTesla says 1.74 million people now pay for FSD. That tells me people like it. It doesn't tell me they should have to pay monthly for something that used to be standard.\n\nTwo things can be true. FSD is worth it to me. And basic lane-keeping should come free.\n\nIf you're shopping for a Tesla right now, would this change your mind? Or is $99 a month fair?",
+   "links": [
+    "https://www.notateslaapp.com/news/4988/exclusive-musk-cut-basic-autopilot-from-new-vehicles-to-boost-fsd-subscriptions",
+    "https://www.reuters.com/business/autos-transportation/tesla-drops-autopilot-feature-us-canada-2026-01-23/",
+    "https://electrek.co/2026/10/21/tesla-fsd-subscriptions-1-74-million-musk-pay-package/"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Dollar opener, owner first-hand, and a real debate that pulls replies from Tesla fans and skeptics alike.",
+   "pixel": "In the driver's seat: \"Here's what $99 a month gets you, and what new buyers don't get anymore.\"",
+   "premium_target": "Quote a verified Tesla owner or creator account discussing the Autopilot cut (Sawyer Merritt if he covers it) with one opinion line: great product, but lane-keeping should be standard.",
+   "status": "ready",
+   "checkedAt": "2026-11-12",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-west-bills-9",
+   "title": "$1,196 winter electric bill, and the West gets the biggest jump",
+   "topic": "Household bills",
+   "angle": "Federal forecast says the West gets the biggest jump in electric bills this winter, up 9%. Turn it into a share-your-bill thread with your own number, EV charging at home and solar included.",
+   "bullets": [
+    "EIA Winter Fuels Outlook: average all-electric home pays $1,196 Nov through Mar, up 4% nationally; electricity about 18.2 cents per kWh, up 3%.",
+    "West: electricity spending up 9% because of a colder forecast. West gas-heated homes up 7% while other regions drop.",
+    "Gas-heated homes nationally: $640, down 9%. Heating oil homes: $2,115, up 21%.",
+    "Heating is only about $542 of that $1,196; the rest is lights, appliances and water heating."
+   ],
+   "body": "$1,196. That's the average all-electric home's winter bill this year, and the West gets the biggest jump at 9%. My bill last {month} was {my number}, with the Tesla charging at home and {my solar output}. What did your November bill look like?",
+   "framework_body": "$1,196.\n\nThat's what the federal government expects the average all-electric home to pay from November through March. Up 4% nationally. Out here in the West it's worse: up 9%, because they're calling for a colder winter.\n\nAnd here's the part people miss. Heating is only about $542 of that. The rest is lights, the fridge, the water heater, the TV.\n\nSo here's my real number. Last {month} my electric bill was {my number}. That includes charging the Tesla at home. My solar covered {my solar output or percent}. {one line on how that compares to what I paid for gas back when I drove gas}.\n\nI'm not saying everybody's bill looks like mine. I'm saying it's worth knowing what yours is made of before winter hits.\n\n{photo of my Xcel bill or app screen}\n\nWhat did your November bill look like? Gas, electric, or both?",
+   "links": [
+    "https://www.eia.gov/TodayinEnergy/detail.php?id=68264",
+    "https://www.eia.gov/outlooks/steo/report/perspectives/2026/10-winterfuels/article.php"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Dollar opener, pure pocketbook, primary government source, and it invites people to share their own bill. Different from the Nov 8 Xcel gas post.",
+   "pixel": "Hold up {my Xcel bill or app screenshot}: \"Feds say Western bills go up 9% this winter. Here's mine.\"",
+   "premium_target": "Reply to a verified energy or personal-finance account posting about winter bills with your real number and the EV-plus-solar context.",
+   "status": "ready",
+   "checkedAt": "2026-11-12",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-ai-vs-scammers",
+   "title": "$3 billion lost by seniors, so now AI is answering the scam calls",
+   "topic": "AI for families",
+   "angle": "AI isn't only the scammer's tool. New AI bots pretend to be the confused victim, keep the crook talking, and pass what they learn to banks. AI for the masses: on our side for once. Keep the plain family defense in the close.",
+   "bullets": [
+    "FTC data: losses reported by people over 60 rose from about $600M in 2020 to about $3B in 2025 (via Vox).",
+    "Apate.ai runs AI agents that pose as scam victims by phone, text and email, keep scammers talking, and pass what they learn to banks; CommBank in Australia uses it (TechCrunch, Oct 14).",
+    "Apate raised US$8.15M and reincorporated in the US.",
+    "The simple family defense still wins: hang up and call back on a number you already have."
+   ],
+   "body": "$3 billion. That's what Americans over 60 reported losing to scams last year, up from $600 million in 2020. Now there's AI that answers scam calls, plays the confused victim, and wastes the crook's whole afternoon. {my reaction}. Would you let an AI pick up your spam calls?",
+   "framework_body": "$3 billion.\n\nThat's what Americans over 60 reported losing to scams last year. In 2020 it was about $600 million. Five times worse in five years.\n\nMost of what you hear is AI making it worse. Fake voices. Fake grants. Fake grandkids in trouble.\n\nSo here's one I actually like. A company called Apate built AI that answers scam calls and plays the victim. It sounds confused. It asks the scammer to repeat things. It keeps them on the line for as long as it can. Meanwhile it's collecting the bank accounts and scripts they use, and handing it to banks so they can shut them down.\n\nEvery minute a crook spends talking to a robot is a minute he isn't talking to {a neutral family member, like someone's mom}.\n\n{my reaction in one line}\n\nThe old rule still beats any app though. If someone calls about money, hang up and call back on a number you already have. Not the one they gave you.\n\nWould you let an AI pick up your spam calls?",
+   "links": [
+    "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+    "https://www.vox.com/advice/509649/ai-scam-chatgpt-google-phishing-calls"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Big dollar opener, AI for the masses with a fun twist, and save-and-share appeal for adult kids and 55+ readers. Different from the code-word and VA grant posts.",
+   "pixel": "To camera: \"AI is fighting back against scammers. Here's the one thing I'd still tell {a neutral family member} anyway.\"",
+   "premium_target": "Quote a verified AI or consumer-tech account sharing the Apate story (or an AARP or fraud-watch account) with the line: finally, AI on our side.",
+   "status": "ready",
+   "checkedAt": "2026-11-12",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-semi-chicago",
+   "title": "$300,000 a truck: a family trucking company just ordered 50 Tesla Semis",
+   "topic": "EV trucking",
+   "angle": "A family-owned trucking company, not a tech giant, is betting on electric rigs. They tested one for 4,000 miles first and it matched the promise. Close on the I-70 winter question your audience knows.",
+   "bullets": [
+    "Tesla Semi account: Chicago's first 50 Semis en route for delivery (Nov 11).",
+    "Buyer: HMD Trucking, family-owned, founded 1998, 650+ trucks, almost all diesel today.",
+    "Summer test: 4,000+ miles at 1.74 kWh per mile vs Tesla's 1.7 claim.",
+    "Deal about $15M, roughly $300,000 per truck; HMD is building its own depot chargers because Megachargers are mostly on I-5 and I-10."
+   ],
+   "body": "$300,000 a truck, and a family trucking company in Chicago just ordered 50. They ran one 4,000 miles first. It used about what Tesla promised. With diesel at {what diesel costs in GJ today}, I get why. Would you trust an electric semi on I-70 in winter?",
+   "framework_body": "$300,000 a truck. And they ordered 50.\n\nThe buyer isn't Amazon or Pepsi. It's HMD Trucking, a family-owned outfit in Chicago that started in 1998 and runs about 650 trucks. Almost all diesel.\n\nWhat I respect: they didn't just take Tesla's word for it. They ran one Semi more than 4,000 miles this summer. Tesla promised 1.7 kWh per mile. It did 1.74. Close enough to bet the business on.\n\nThey're also building their own chargers at the yard, because Tesla's big truck chargers are mostly out on I-5 and I-10. That's the honest part nobody likes to say. The trucks are ready before the chargers are.\n\nDiesel in Grand Junction is {what diesel costs in GJ today}. {my one line on what that means for a trucker's fuel bill or for prices at the store}.\n\nWould you trust an electric semi on I-70 over Vail Pass in January?",
+   "links": [
+    "https://electrek.co/2026/11/11/tesla-semi-delivery-50-trucks-chicago-hmd/",
+    "https://driveteslacanada.ca/news/hmd-trucking-first-tesla-semi-delivery/"
+   ],
+   "ocr": "OK",
+   "ocr_why": "Dollar opener and a family-business human moment; less first-hand for you, so the I-70 winter question and your diesel price carry it.",
+   "pixel": "Near a truck stop or I-70 on-ramp: \"A family trucking company just bought 50 electric semis. Would this make it over Vail Pass?\"",
+   "premium_target": "Quote the @tesla_semi Chicago delivery post (or Sawyer Merritt if he posts it) with the family-carrier line and the I-70 winter question.",
+   "status": "ready",
+   "checkedAt": "2026-11-12",
+   "window": "Brian picks"
+  }
+ ]
+}
