@@ -1,0 +1,135 @@
+{
+ "date": "2026-11-13",
+ "label": "FRAMEWORK drafts (rewrite-before-post). Draft-only; you post it yourself.",
+ "growth_bets": [
+  "F1 $61.86 fast charge vs home: a live debate where your own monthly number is the answer. First-hand owner proof pulls replies and saves from EV owners, your most engaged crowd, and invites verified quote-posts.",
+  "F2 $7.7B scam losses and the Medicare card fact: one save-and-share rule for 55+ families during open enrollment. Pulls new verified followers outside the EV crowd and fits the AI-less-scary push."
+ ],
+ "held": "Held from pack: AP3 FSD v14.3.13 collision evasion (you already posted FSD twice overnight; good once you have the update and a real first impression), AP7 Australia battery glut (foreign, battery-heavy), AP8 2wai AI grandma (reply fodder only), GM1 Bay Area water heater rule, GM2 Australia tradie power bill. Overnight LIVE skipped: $99 FSD/Autosteer, PG&E $2B delay, Grok Bot data-sharing, FSD saves the day, Robotaxi 24/7, Scout, R2, Dario. Post-pack rescan: zero new posts.",
+ "drafts": [
+  {
+   "id": "ready-fast-charge-61",
+   "title": "$61.86 for one fast charge: what charging actually costs me at home",
+   "topic": "EV charging",
+   "angle": "A $61.86 Supercharger receipt has people calling EVs a scam. The honest answer is where you charge: fast charging is the road-trip price, home is where the savings live. Your own monthly number settles it.",
+   "bullets": [
+    "Viral overnight debate: a Tesla fast-charge session of $61.86 for 91 kWh, about 68 cents per kWh, plus a Kia EV9 fast-charge alert.",
+    "The X story summary cites home charging around $0.18 per kWh, with owners reporting $13 to $40 a month.",
+    "Non-member Supercharger pricing is cited around $0.65 per kWh at premium sites and peak times.",
+    "Most EV savings come from charging at home; fast charging is what you pay on the road."
+   ],
+   "body": "$61.86 for one fast charge. That screenshot has people saying EVs are a scam. At home I pay {my price per kWh} and my last month of charging was {my monthly charging number}. Road trips cost more, sure. How many of your charges are at home vs on the road?",
+   "framework_body": "$61.86 for one fast charge.\n\nThat receipt is all over my feed this morning, and people are using it to say EVs don't save you a dime.\n\nHere's the thing nobody in that thread is saying. That's about 68 cents a kWh at a fast charger. That's the road-trip price. It's like buying gas at the airport. You do it when you have to.\n\nAt home I pay {my price per kWh}. My last full month of charging cost {my monthly charging number}. My last I-70 trip with fast charging cost {my last road trip charging cost}.\n\nSo yes, if every charge you do is at a fast charger, the math gets close to gas. If you can plug in at home most nights, it isn't close.\n\nAnd if you can't charge at home, that's an honest answer too. Renters and apartment folks have a real gap. {my one-line take on who should and shouldn't buy an EV yet}.\n\n{screenshot of my home charging stats}\n\nHow many of your charges happen at home vs on the road?",
+   "links": [
+    "https://x.com/i/trending/2121048341803139565"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Dollar opener, live debate both camps reply to, your own monthly number as proof, question close.",
+   "pixel": "In the garage at the charger: \"People are sharing $60 charge receipts. Here's my real month.\" Show {my charging stats on the phone}.",
+   "premium_target": "Quote the top verified post in the $61.86 thread with one line: \"Fast charging is the airport price. Home is where the savings live.\"",
+   "status": "ready",
+   "checkedAt": "2026-11-13",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-scam-77b-medicare",
+   "title": "$7.7 billion: what Americans over 60 lost to scams last year",
+   "topic": "AI and scams",
+   "angle": "Medicare open enrollment is scam season, now with AI voices that sound like real people. One simple fact stops a lot of it: Medicare cards don't expire, and Medicare doesn't cold-call for your number.",
+   "bullets": [
+    "FBI IC3 2025 report: Americans 60+ reported $7.748 billion in losses, up 59% from 2024; average loss $38,500; 12,444 people lost over $100,000.",
+    "Medicare open enrollment runs Oct 15 to Dec 7; the FCC lists Medicare phone scams with AI voices among the season's scams.",
+    "Iowa Senior Medicare Patrol (Nov 4): \"new chip Medicare card\" calls are fake. Medicare cards do not expire and Medicare does not call asking for your number.",
+    "International Fraud Prevention Week is Nov 15 to 21."
+   ],
+   "body": "$7.7 billion. That's what Americans over 60 lost to scams last year, up 59%. Now the calls can sound like a real person. One fact to tell your folks: Medicare cards don't expire. Nobody needs your number to send a new one. What's the best scam rule your family uses?",
+   "framework_body": "$7.7 billion.\n\nThat's what Americans over 60 reported losing to scams last year, per the FBI. Up 59% in one year. The average loss was $38,500. More than 12,000 people lost over $100,000.\n\nAnd right now is prime time. Medicare open enrollment runs through Dec 7, and the calls are getting better. Some use AI voices that sound like a real, friendly person.\n\nThe one I'd warn everybody about: \"We're sending you the new chip Medicare card, we just need to verify your number.\"\n\nThere is no new chip card. Medicare cards don't expire. Medicare doesn't call you out of the blue asking for your number. If someone does, hang up.\n\n{the scam call I got, or one someone I know got}.\n\nAI is a tool. Scammers are using it, so we should use it too: {how I'd use AI to double-check a call or letter}.\n\nShare this with whoever in your family answers every call.\n\nWhat's the best scam rule your family uses?",
+   "links": [
+    "https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf",
+    "https://www.fcc.gov/scam-alert/beware-health-care-scams-open-enrollment-scams",
+    "https://iid.iowa.gov/press-release/2026-11-04/iowa-insurance-division-warns-increased-medicare-scams-targeting-iowans-during-open-enrollment"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Big official dollar opener, one clear rule 55+ readers save and share, family angle, question close. Different from the Nov 10 code-word post.",
+   "pixel": "Talk to camera: \"If someone calls offering you a new Medicare card, hang up. Here's why.\"",
+   "premium_target": "Reply to a verified senior-finance or consumer-protection account posting about open enrollment scams, adding the Medicare-cards-don't-expire line.",
+   "status": "ready",
+   "checkedAt": "2026-11-13",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-muse-calls-20",
+   "title": "$20 a month to sit on hold for you: AI that makes the call",
+   "topic": "AI for normal people",
+   "angle": "AI for the masses. The most useful AI might be the one that waits on hold with the cable company so you don't have to. Meta just turned it on for paid users. The real question for older folks is trust.",
+   "bullets": [
+    "Nov 12: Meta's Muse AI agent can now place calls to US businesses for paid subscribers (TechCrunch, The Verge).",
+    "Uses named by Meta's Alexandr Wang: insurance, cable, DMV, dinner reservations.",
+    "Plans start at $20 a month; a $100 tier exists. Muse has 10M+ users.",
+    "Google's Gemini and startup Instinct offer similar calling; some businesses hang up on AI callers."
+   ],
+   "body": "$20 a month to have AI sit on hold with the cable company for you. Meta just turned that on. The call I'd hand off first: {the call I dread most}. Would you let AI make a call for you, or for your parents?",
+   "framework_body": "$20 a month to never sit on hold again.\n\nMeta just turned on a feature where its AI calls the business for you. The cable company. The insurance company. The DMV. A dinner reservation.\n\nThis is the kind of AI that makes sense to normal people. Not robots taking over. Just no more 45 minutes of hold music.\n\nThe call I'd hand off first: {the call I dread most}.\n\nNow the honest part. Who is the AI talking to, and what does it say about you? Some businesses already hang up on AI callers. And for older folks, the same tech scammers use can now work for you, so you need a rule. Mine would be {my rule for what I'd never let it say or share}.\n\n{my phone or the AI app I already use for this kind of thing}.\n\nWould you let AI make a call for you? For your parents?",
+   "links": [
+    "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+    "https://www.theverge.com/tech/1032816/muse-can-make-outbound-phone-calls-for-you"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Dollar opener, everyday pain everyone shares, AI-less-scary framing, family question close.",
+   "pixel": "Holding the phone: \"Who here would pay $20 a month to never sit on hold again?\"",
+   "premium_target": "Quote Alexandr Wang's Muse calls post with one line on which call you'd hand off first.",
+   "status": "ready",
+   "checkedAt": "2026-11-13",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-supercharger-business",
+   "title": "$940,000 for 8 Superchargers: your gas station could own one",
+   "topic": "EV charging",
+   "angle": "Tesla is building fewer of its own chargers and selling them to businesses that set their own price. That could fill gaps like the I-70 stretch faster than waiting on Tesla. Keep it about where drivers can charge, not corporate strategy.",
+   "bullets": [
+    "Q3 2026: Tesla added a net 2,108 Supercharger stalls, 41% fewer than a year earlier; sessions hit a record 69 million, up 29% (The Charge Sheet).",
+    "Supercharger for Business: host buys at least 4 posts and sets the price; Tesla services it and takes about $0.10 per kWh; a standard 8-post V4 site was about $940,000 installed (Electrek configurator, cited by The Charge Sheet).",
+    "Program now in 37 countries after Mexico and Colombia launched Nov 12 (EVwire). V4 posts up to 500 kW, 97% uptime guarantee.",
+    "Tesla built 34% of new US fast-charging ports in Q3; its share of all US ports slipped to 49.3% (Paren)."
+   ],
+   "body": "$940,000. That's about what a business pays to put 8 Tesla Superchargers on its lot. Tesla services them and keeps a dime per kWh. I'd love to see {a GJ or I-70 business I'd want hosting chargers} do it. Which gas stop near you should buy in?",
+   "framework_body": "$940,000.\n\nThat's about what a business pays to put 8 Tesla Superchargers on its lot.\n\nTesla is building fewer chargers itself this year, 41% fewer new stalls than last year. But people are using them more than ever, a record 69 million sessions last quarter.\n\nSo here's the new deal. A gas station, truck stop or restaurant buys the chargers, sets the price, and Tesla keeps them running for about a dime per kWh.\n\nThat's how gaps get filled. Not waiting on Tesla to pick your town. A local owner deciding EV drivers are customers.\n\nOn the I-70 stretch I drive, I'd love to see {a GJ or I-70 business I'd want hosting chargers} do it. {why that spot makes sense}.\n\nWould you stop at a gas station that had Superchargers? Which one near you should buy in?",
+   "links": [
+    "https://chargesheet.io/blog/tesla-is-franchising-superchargers/",
+    "https://evwire.com/p/tesla-supercharger-for-business-colombia-mexico-launch-37-countries"
+   ],
+   "ocr": "OK",
+   "ocr_why": "Dollar opener and a local fill-in; slightly business-y, so the I-70 tie and question carry it to Strong.",
+   "pixel": "At a local gas station or truck stop: \"What if this place had Superchargers? Tesla now sells them to businesses.\"",
+   "premium_target": "Reply to Sawyer Merritt or a verified charging tracker posting Q3 Supercharger numbers with the local-owner angle.",
+   "status": "ready",
+   "checkedAt": "2026-11-13",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-solar-battery-62",
+   "title": "62% off the power bill: solar plus a battery, even in December",
+   "topic": "Solar and batteries",
+   "angle": "A real randomized trial, not a sales pitch: solar plus a battery cut bills 62%, and the battery kept cutting evening grid use in December. US-household lesson: the rate plan matters as much as the hardware. Your own roof number carries it.",
+   "bullets": [
+    "Centre for Net Zero and Octopus Energy trial: 708 lower-income UK households given solar and batteries.",
+    "Bills fell about 62%, about 681 pounds a year; net grid imports down 77%.",
+    "The battery cut 4 PM to 8 PM grid use 66%, and it held in December.",
+    "Half the households stayed on flat rates, which wasted much of the battery's value; the battery alone was worth about 148 pounds a year."
+   ],
+   "body": "62% off the power bill. That's what solar plus a battery did for 708 homes in a real trial. The battery still cut evening use 66% in December. My roof did {my solar production this month} and my bill was {my last bill}. Are you on a time-of-use plan?",
+   "framework_body": "62% off the power bill.\n\nThat's what solar plus a battery did for 708 lower-income homes in a real trial in the UK. Not a sales pitch. A study with a control group.\n\nThe part that surprised me: the battery kept cutting evening power use 66% even in December, when the sun barely shows up.\n\nBut here's the catch. Half those homes stayed on a flat rate. A battery on a flat rate leaves money on the table. The savings come from charging cheap and using it when power costs the most.\n\nMy roof did {my solar production this month} and my last bill was {my last bill}. {whether I'm on time-of-use with my utility}.\n\nIf you're shopping solar, ask about your rate plan before you ask about panels.\n\nAre you on a time-of-use plan?",
+   "links": [
+    "https://www.centrefornetzero.org/papers/the-impact-of-residential-solar-and-battery-storage-on-energy-demand-and-the-grid"
+   ],
+   "ocr": "OK",
+   "ocr_why": "Strong number but a UK study; your own bill and production fill-ins plus the rate-plan tip make it useful for US households.",
+   "pixel": "Phone showing {my Enphase app winter production}: \"A study says solar plus battery cut bills 62%. Here's my December.\"",
+   "premium_target": "Reply to a verified US home-solar owner account posting winter production numbers, with the flat-rate vs time-of-use point.",
+   "status": "ready",
+   "checkedAt": "2026-11-13",
+   "window": "Brian picks"
+  }
+ ]
+}
