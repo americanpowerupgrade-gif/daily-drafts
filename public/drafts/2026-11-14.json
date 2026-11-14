@@ -1,0 +1,135 @@
+{
+ "date": "2026-11-14",
+ "label": "FRAMEWORK drafts (rewrite-before-post). Draft-only; you post it yourself.",
+ "growth_bets": [
+  "F1 Carbondale Supercharger: local and first-hand. A photo from the stalls pulls Western Slope EV owners, your most engaged crowd, into replies with their own gaps and saves.",
+  "F2 Cybercab $299 a month: the hottest EV debate today. The at-what-price question pulls verified EV accounts into replies and quotes, which feeds the push toward 500 verified (216 last known, 284 to go). Backup: F3 $20 senior credit as a 55+ save and share."
+ ],
+ "held": "Held from pack: AP4 Powerwall Smart Charging any EV (soft battery, narrow audience), AP7 SpaceX Arizona 10-40% lower bills (policy, good if you want one bills-vs-data-center take), AP8 Valar Utah reactors (contentious, second policy item). Overnight LIVE skipped: Model Y AWD price drop, ChatGPT Health, ChatGPT Wallet, Starlink V3, Rivian UI, IONNA, ID. Buzz robotaxi, Fathom vs Slate. Post-pack rescan: zero new posts.",
+ "drafts": [
+  {
+   "id": "ready-carbondale-supercharger",
+   "title": "$0.57 per kWh: new 8-stall Supercharger in Carbondale",
+   "topic": "EV charging",
+   "angle": "The Western Slope just got another fast stop. A new 8-stall, 325 kW Supercharger at City Market in Carbondale makes Highway 82 and Aspen trips easier, and you can charge while you grab groceries.",
+   "bullets": [
+    "Tesla Supercharger at City Market, Carbondale CO opened Nov 13, 2026: 8 stalls, up to 325 kW, NACS and CCS listed (DCFC Tracker).",
+    "Listed price at that site: $0.57 per kWh.",
+    "Colorado now shows 407 DC fast sites, 1,783 stalls, average $0.53 per kWh (DCFC Tracker).",
+    "Same week, Colorado's DCFC Plazas grant round (about $14M, up to 80% match) closed Nov 13."
+   ],
+   "body": "$0.57 per kWh. That's the new 8-stall Supercharger at City Market in Carbondale, open as of Nov 13. {photo of the stalls or the map pin} From Grand Junction that's {my miles to Carbondale}. Aspen trips just got easier. Where's the next gap on the Western Slope you want filled?",
+   "framework_body": "$0.57 per kWh.\n\nThat's the price at the brand new Supercharger at City Market in Carbondale. Eight stalls, up to 325 kW, opened Nov 13.\n\n{photo of the stalls or the map pin in the app}\n\nWhy I care: Highway 82 up to Aspen has been a spot where you watch the battery number more than the scenery in winter. Now you can top off while you grab groceries and be back on the road in {my typical charge time} minutes.\n\nFrom Grand Junction that's {my miles to Carbondale}. Last time I charged in that valley I paid {what I paid at Glenwood or Aspen}.\n\nColorado now has 407 fast-charging sites and about 1,800 stalls. The Western Slope is finally catching up, one stop at a time.\n\nWhere's the next gap on the Western Slope you want filled?",
+   "links": [
+    "https://dcfctracker.com/states/co",
+    "https://energyoffice.colorado.gov/transportation/grants-incentives/dcfc-plazas"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Local, dollar opener, first-hand photo potential, ends with a question Western Slope EV owners will answer.",
+   "pixel": "Stand at the stalls or show the app map: \"New one in Carbondale. Eight stalls. Here's what it costs.\"",
+   "premium_target": "Quote or reply to @TeslaCharging's new-site post if they announce Carbondale; otherwise reply under Sawyer Merritt's next Supercharger count post with the Carbondale pin.",
+   "status": "ready",
+   "checkedAt": "2026-11-14",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-cybercab-299",
+   "title": "$29,990 Cybercab, then $299 a month or it won't move",
+   "topic": "EVs / autonomy",
+   "angle": "Cheapest Tesla ever, but it's a subscription car. Even Musk says the fee is too high. Who is it really for, and at what monthly price would you buy?",
+   "bullets": [
+    "Tesla invited select customers Nov 13 to order Cybercab for personal use: $29,990 before tax, $1,000 non-refundable deposit, estimated December 2026 delivery in Austin.",
+    "A $299 per month Autonomy Subscription is required to operate it (first month included). That's $3,588 a year.",
+    "Only works inside Robotaxi service areas (Texas and Florida cities to start). Personal use only, no ride-hail.",
+    "Musk said \"the monthly fee is too high\" and suggested closer to FSD plus connectivity, about $115 a month (Reuters, per pack)."
+   ],
+   "body": "$29,990 for a Tesla with no steering wheel. Then $299 a month or it won't move. That's $3,588 a year before insurance. Musk himself says the fee is too high. My Model Y costs me {my monthly FSD or charging number}. At what monthly price would you buy one?",
+   "framework_body": "$29,990 for a Tesla with no steering wheel.\n\nThen $299 a month, or it doesn't move. That's $3,588 a year before insurance and charging.\n\nTesla opened personal Cybercab orders to select customers this week. $1,000 down, delivery in Austin as soon as December. Catch: it only works inside Robotaxi zones, so Texas and Florida cities first. Out here in Colorado it would be a very expensive lawn ornament for now.\n\nEven Musk says the monthly fee is too high and floated something closer to $115.\n\nHere's who I think this is really for once it spreads: folks who can't or shouldn't drive anymore, and families juggling a teen and two jobs. For them, a car that drives itself could mean staying independent longer.\n\nFor me today, my Model Y costs {my monthly FSD or charging number}. {my one-line take: would I buy one}\n\nAt what monthly price would you buy one?",
+   "links": [
+    "https://insideevs.com/news/815473/tesla-cybercab-pricing-sales-announced/",
+    "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Hottest EV debate of the day, dollar opener, clean poll-style price question, independence angle for 55+.",
+   "pixel": "Quick talk-to-camera: \"Thirty grand plus three hundred a month. Here's who I think it's for.\"",
+   "premium_target": "Quote Sawyer Merritt's Cybercab order post with one line: \"$299 a month is the real price tag. Who's it for?\"",
+   "status": "ready",
+   "checkedAt": "2026-11-14",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-xcel-senior-credit",
+   "title": "$20 a month: Xcel credit for Coloradans 65+, and bills dipped 3%",
+   "topic": "Home energy bills",
+   "angle": "Rare good news on a power bill, plus money seniors may be leaving on the table. A save-and-share for anyone with parents in Colorado.",
+   "bullets": [
+    "Xcel Colorado Q4 2026 fuel adjustment fell to $0.02520 per kWh; average residential bill (601 kWh) went from $101.96 to $98.89, down 3.01%.",
+    "The PUC rate case (Aug 2026) created a $20 per month bill credit for income-qualified seniors 65 and up.",
+    "Winter flat rate base is $0.0857 per kWh plus a $7.10 service charge and riders.",
+    "Xcel Optimize Your Charge pays EV owners a $50 yearly credit if 80% of charging lands in the 12 AM to 2 PM window."
+   ],
+   "body": "$20 a month. That's a new Xcel credit for income-qualified Coloradans 65 and up. Average bills also dipped 3% this quarter. My bill with an EV in the garage: {my monthly number}. Know someone 65+ who should check if they qualify?",
+   "framework_body": "$20 a month.\n\nThat's a bill credit most Colorado seniors have never heard of. The PUC created it this year for income-qualified Xcel customers 65 and up. That's $240 a year back.\n\nAnd a rare bit of good news for everybody else: the average Xcel residential bill dipped about 3% this quarter, from $101.96 to $98.89, because fuel costs came down.\n\nIf you drive an EV, there's another one. Xcel pays $50 a year if most of your charging happens overnight or midday.\n\nMy own bill with an EV in the garage: {my monthly number} on {my utility}. {photo of my bill with the account number blurred}\n\nThis is the kind of thing that never gets mailed to you in plain English. Call Xcel or check your account and ask about the senior credit.\n\nKnow someone 65+ in Colorado who should check if they qualify?",
+   "links": [
+    "https://www.xcelenergy.com/company/rates_and_regulations/rates/electric_commodity_adjustment",
+    "https://puc.colorado.gov/press-release/puc-cuts-xcel-energys-electric-rate-request-and-expands-consumer-protections"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Pocketbook, 55+ audience, tell-your-parents save and share, dollar opener.",
+   "pixel": "Hold up the bill with the account number blurred: \"Here's my bill with an EV. And here's a credit seniors should ask about.\"",
+   "premium_target": "Reply to a verified Colorado news or energy-bill thread (Denver7, Colorado Sun, CPR) with the $20 senior credit tip.",
+   "status": "ready",
+   "checkedAt": "2026-11-14",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-gemini-subscriptions",
+   "title": "{$XX a month} in forgotten subscriptions: I asked my phone",
+   "topic": "AI for normal people",
+   "angle": "AI for normal people: your phone can now tell you what you're still paying for and what went up. It can read your spending but can't move a dime.",
+   "bullets": [
+    "Google, Nov 13: all US Gemini app users can connect Google Wallet; bank and card accounts link via Plaid.",
+    "Ask \"what subscriptions am I still paying for, and did any go up this year?\" and it flags recurring charges and price hikes.",
+    "Read-only: Google says Gemini can't move, manage, or invest your money. Opt-in, turn off anytime.",
+    "It can also help set a holiday budget from last year's spending."
+   ],
+   "body": "{$XX a month} in subscriptions I forgot about. That's what my Pixel found when I asked Gemini. It can read your spending now, but it can't move a dime. What's the one subscription you'd bet you're still paying for?",
+   "framework_body": "{$XX a month}.\n\nThat's what I was paying for subscriptions I forgot about. I found it by asking my phone one question.\n\nAs of this week, Gemini on any US phone can connect to Google Wallet and your bank accounts. I asked it: what subscriptions am I still paying for, and did any go up this year?\n\nIt came back with {what it found, e.g. number of subscriptions and the biggest surprise}.\n\nThe part that matters for anyone nervous about AI: it's read-only. It can look, it can't move a dime. You opt in and can shut it off anytime.\n\nThis is what AI for regular people should look like. Not a robot taking over. A helper that finds the $12 charge you forgot about in 2023.\n\nIf you help a parent with their bills, this could be a 5-minute holiday project.\n\nWhat's the one subscription you'd bet you're still paying for?",
+   "links": [
+    "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Strong if he actually tries it (first-hand result). Fits the AI-less-scary push. Distinct from his ChatGPT Wallet post: read-only budgeting, not AI shopping.",
+   "pixel": "Screen-record the question on the Pixel: \"I asked my phone what I forgot to cancel. Here's what it said.\"",
+   "premium_target": "Quote Google's or a big verified Android/Pixel account's Gemini Wallet launch post with your found number.",
+   "status": "ready",
+   "checkedAt": "2026-11-14",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-thanksgiving-gas",
+   "title": "$3.84 gas and a record Thanksgiving: what my trip costs",
+   "topic": "EV road trip / money",
+   "angle": "72.9 million Americans will drive for Thanksgiving with gas still on a record pace for the holiday. Your own trip charging cost is the honest compare.",
+   "bullets": [
+    "AAA: 81.5M Americans travel 50+ miles Nov 24 to Nov 30; 72.9M by car.",
+    "AAA national average $3.84 on Nov 14; first dip under $4 since July came Nov 12.",
+    "Highest Thanksgiving Day average ever was $3.58 (2022, AAA). This year is on track to beat it.",
+    "AAA took 500k+ roadside calls last Thanksgiving (flats, dead batteries, fuel delivery)."
+   ],
+   "body": "$3.84 a gallon is the national average today, and Thanksgiving is still on pace for a record. My road trip in the Tesla costs about {my kWh cost for the trip}. {photo of trip planner or charge screen} Driving this year? What are you paying to get to the turkey?",
+   "framework_body": "$3.84 a gallon.\n\nThat's the national average this morning. Under $4 for the first time since July, and still on pace for the most expensive Thanksgiving drive on record. The old record was $3.58 in 2022.\n\nAAA says 72.9 million of us will drive for the holiday.\n\nHere's my honest compare. Grand Junction to {destination} and back is {round-trip miles}. In a gas car at {local gas price} that's about {gas cost for the trip}. In my Tesla it's about {my charging cost for the trip}, with {number of stops} stops of 10 to 20 minutes each.\n\n{photo of trip planner or charge screen}\n\nThe stops are real. So is the money. {my one-line take on whether the stops bother me}\n\nDriving this year? What are you paying to get to the turkey?",
+   "links": [
+    "https://www.midstates.aaa.com/thanksgiving-travel-forecast-2026",
+    "https://gasprices.aaa.com/2026/"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Holiday-timely money post, invites gas and EV drivers to reply with their own number.",
+   "pixel": "In the driver seat with the trip planner open: \"Here's what Thanksgiving costs me to get there.\"",
+   "premium_target": "Reply to a verified EV account's Thanksgiving road-trip thread (Sawyer Merritt or Tesla Owners Silicon Valley) with your trip number.",
+   "status": "ready",
+   "checkedAt": "2026-11-14",
+   "window": "Brian picks"
+  }
+ ]
+}
