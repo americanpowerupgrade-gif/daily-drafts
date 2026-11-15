@@ -1,0 +1,139 @@
+{
+  "date": "2026-11-15",
+  "label": "FRAMEWORK drafts (rewrite-before-post). Draft-only; you post it yourself.",
+  "growth_bets": [
+    "F1 Winter on I-70: first-hand, local, saveable winter tips. EV owners are your most engaged crowd and winter range posts pull verified EV accounts into replies with their own numbers.",
+    "F2 Family safe word: share and save magnet for families and 55+, Thanksgiving hook, AI made less scary with a free fix. Reposts reach verified non-EV audiences, feeding the push toward 500 verified (219 last known, 281 to go)."
+  ],
+  "held": "Held from pack: AP6 Germany power 653 euros (overseas, battery-heavy), AP7 Oklo/Centrus/Meta Ohio reactors (policy; good if you want one who-pays take), AP8 tribal fire station flow battery (institutional, not independently verified). Overnight LIVE skipped: Carbondale, Cybercab math, Lockhart Solar, Pew AI doctors, EV pickup search. Post-pack rescan: zero new posts.",
+  "drafts": [
+    {
+      "id": "ready-winter-i70",
+      "title": "Winter on I-70: 46 fast-charge stops, one 43-mile gap home",
+      "topic": "EV charging / winter",
+      "angle": "Winter is here. Real numbers on what cold does to range, and why the Denver to Grand Junction drive is no longer scary in an EV.",
+      "bullets": [
+        "Denver to Grand Junction is 243 miles on I-70; DOE data shows 46 DC fast-charge locations and 258 ports within 3 miles of the road (ChargingNear.me, updated Nov 12).",
+        "Longest gap on the route: 43 miles, Parachute to Grand Junction.",
+        "Recurrent (30,000-car study): EVs keep about 78% of range at 32F and about 70% at 20F; Teslas rank among the best.",
+        "DOE: preconditioning while plugged in can save up to 20% battery energy on short trips at 20F.",
+        "Colorado has about 486 public fast-charging locations; 83% of state highways are within 30 miles of one (CDOT, Aug 2026)."
+      ],
+      "body": "{my winter range drop}% less range on my Tesla this week. Normal for cold. Denver to Grand Junction now has 46 fast-charge stops on I-70. Longest gap: 43 miles, Parachute to home. My trick: warm it up while plugged in. {app photo} What is your winter range hit?",
+      "framework_body": "{my winter range drop}% less range on my Tesla this week.\n\nThat is normal. Cold batteries hold less. A big study of 30,000 cars found EVs keep about 78% of their range at freezing and about 70% at 20 degrees.\n\nHere is why I do not sweat it anymore. Denver to Grand Junction is 243 miles on I-70 and there are now 46 fast-charge stops along the way. The longest gap is 43 miles, Parachute to home.\n\nMy winter routine:\n1. Warm the car up while it is still plugged in. Uses wall power, not battery.\n2. Heated seat and wheel before cabin heat.\n3. Navigate to the charger so the battery warms on the way.\n4. Leave it plugged in overnight at {my charge limit}%.\n\n{photo of frost on the car or the app preconditioning}\n\nWhat is your winter range hit?",
+      "links": [
+        "https://chargingnear.me/routes/denver-to-grand-junction/ev-charging-stations",
+        "https://www.recurrentauto.com/research/winter-ev-range-loss",
+        "https://www.codot.gov/news/2026/august2026news/colorado-nears-statewide-ev-fast-charging-network"
+      ],
+      "ocr": "Strong",
+      "ocr_why": "First-hand and local, number opener, saveable winter tips, closing question EV owners answer.",
+      "pixel": "Standing by the car on a cold morning, phone in hand: \"Here is what cold does to my range, and the one thing I do every morning.\"",
+      "premium_target": "Quote a verified Tesla Charging or winter-range post: \"{my number}% in Grand Junction this week. Preconditioning plugged in is the move.\"",
+      "status": "ready",
+      "checkedAt": "2026-11-15",
+      "window": "Brian picks"
+    },
+    {
+      "id": "ready-family-safe-word",
+      "title": "Pick a family safe word before Thanksgiving",
+      "topic": "AI for normal people",
+      "angle": "AI can copy a voice from a few seconds of video. The fix is free and takes two minutes at the Thanksgiving table.",
+      "bullets": [
+        "FBI: Americans lost more than $893M to AI-related scams last year, including voice cloning (via KRCU consumer handbook).",
+        "INTERPOL's new campaign: \"Wait. Validate. Don't take the bait.\" Red flags: urgency, secrecy, gift cards, crypto, wire transfers. Advice includes a family safe word.",
+        "How it works: pick a word only family knows, share it in person, and if a caller cannot say it, hang up and call back on a number you already have.",
+        "Nov 13 five used FBI 60+ numbers, so keep this one about the safe word, not the stats."
+      ],
+      "body": "$893 million lost to AI scams last year. A lot of it was fake voices of family. The fix is free: a family safe word. Pick it at Thanksgiving. Say it out loud, never text it. No word, hang up and call back. Does your family have one yet?",
+      "framework_body": "$893 million.\n\nThat is what Americans lost to AI scams last year, per the FBI. A lot of it started with a phone call that sounded exactly like a son, a daughter, a grandkid.\n\nAI can copy a voice from a few seconds of video. That part is scary. The fix is not.\n\nPick a family safe word. One word only your family knows.\n\nRules:\n1. Pick it in person. Thanksgiving dinner is perfect.\n2. Never text it or post it.\n3. If someone calls in a panic and cannot say it, hang up and call them back on the number you already have.\n\nTakes two minutes. Costs nothing. {my one-line reason this matters to me}\n\nDoes your family have one yet?",
+      "links": [
+        "https://www.interpol.int/en/News-and-Events/News/2026/INTERPOL-launches-public-awareness-campaign-highlighting-risk-of-AI-deepfake-scams",
+        "https://www.krcu.org/2026-08-26/consumer-handbook-ai-scam-calls-voice-cloning",
+        "https://aiprotection.org/stay-safe/printables/family-safe-word-en.pdf"
+      ],
+      "ocr": "Strong",
+      "ocr_why": "Save and share magnet for 55+ and their kids, seasonal hook, makes AI less scary with a simple free fix.",
+      "pixel": "Kitchen table: \"Before Thanksgiving, do this one thing with your family. Takes two minutes.\"",
+      "premium_target": "Quote any verified creator posting a voice-clone scam story: \"This is why every family needs a safe word. Free, two minutes.\"",
+      "status": "ready",
+      "checkedAt": "2026-11-15",
+      "window": "Brian picks"
+    },
+    {
+      "id": "ready-rivian-point-to-point",
+      "title": "Truck shopping: Rivian hands-free address-to-address starts in December",
+      "topic": "EV trucks",
+      "angle": "Brian is shopping EV pickups (live post last night). Rivian's Point to Point is the R1T feature to watch. A buyer's question, not a spec sheet.",
+      "bullets": [
+        "Rivian Autonomy Early Access opens in December for select Gen 2 R1 and R2 owners in California and Florida with paid Autonomy+ (AutoGuide, Oct 15).",
+        "Point to Point: supervised, hands-free, follows navigation through turns, merges and surface streets. Driver must stay attentive.",
+        "Invite-only; testers sign an NDA. Broad rollout to all Autonomy+ subscribers targeted for 2027. Rivian Autonomy & AI Day is Dec 9.",
+        "Price: a Rivian email lead says Autonomy+ is $49.99/mo vs Tesla FSD $99/mo. Confirm on Rivian's page before posting."
+      ],
+      "body": "{Rivian Autonomy+ monthly price} for Rivian hands-free vs $99 for Tesla FSD. Rivian starts address-to-address testing in December. California and Florida only for now. I am shopping for an EV truck. {my R1T vs Cybertruck thought} Would hands-free change which truck you buy?",
+      "framework_body": "{Rivian Autonomy+ monthly price} a month for Rivian hands-free. $99 for Tesla FSD.\n\nIn December Rivian starts letting some owners test address-to-address driving. Turns, merges, surface streets, hands off the wheel, eyes on the road. California and Florida only for now, invite only, wider rollout in 2027.\n\nWhy I care: I am shopping for an EV truck. {my short list}\n\nFor me it comes down to {what matters most to me in a truck}. Hands-free on long Western Slope drives would be a big deal. {my R1T vs Cybertruck thought}\n\nWould hands-free change which truck you buy?",
+      "links": [
+        "https://www.autoguide.com/auto/manufacturers/rivian/rivian-opens-invite-only-access-to-self-driving-features-44640436",
+        "https://rivian.com/support/article/autonomy-early-access-program"
+      ],
+      "ocr": "Strong",
+      "ocr_why": "Ties to his live truck search, price comparison, Rivian and Tesla fans both reply.",
+      "pixel": "In the driveway by the Tesla: \"I am truck shopping. Here is the one feature that might decide it.\"",
+      "premium_target": "Reply to @RivianTrackr (already engages with him) with the price-vs-FSD question.",
+      "status": "ready",
+      "checkedAt": "2026-11-15",
+      "window": "Brian picks"
+    },
+    {
+      "id": "ready-uk-fast-charge-pound",
+      "title": "A $1-plus per kWh fast-charge warning, and why home charging still wins",
+      "topic": "EV charging costs",
+      "angle": "A UK report warns fast charging could hit about 1 pound per kWh in 2027 while home overnight there is 6.5p. US lesson: the savings live in your garage.",
+      "bullets": [
+        "Report \"Reverse the Charge\" (The Fast Charge + Zest, Nov 11): fixed grid charge on one rapid charger up 616% since 2021; modeled cost 1.03 pounds/kWh at a quiet charger. A model, not an announced price.",
+        "Zapmap average UK rapid price today: 82p/kWh. Home overnight tariff: 6.5p (Octopus).",
+        "Per mile: about 1.9p at home vs 23.4p at 82p (EV Compared math). Home charging is not hit by these grid charges.",
+        "Nov 13 five did a $61.86 fast-charge receipt; lead with the UK number as the fresh hook, not a rehash."
+      ],
+      "body": "{$XX per kWh} is what I pay at home in Grand Junction. Fast chargers here run {$XX per kWh}. Britain warns fast charging could hit about {UK price in dollars} a kWh. Home there is about {UK home price in cents}. Same lesson: plug in at home. Home or on the road for you?",
+      "framework_body": "{UK price in dollars} a kWh.\n\nThat is what a new UK report says fast charging could cost there by 2027 if grid fees keep climbing. One fixed fee on a single fast charger is up 616% since 2021.\n\nMeanwhile, charging at home overnight in the UK runs about {UK home price in cents} a kWh. Roughly 12 times cheaper.\n\nHere is my side of it. At home in Grand Junction I pay {$XX per kWh}. On the road I pay {$XX per kWh}. {my monthly charging number} a month, mostly at home.\n\nIf you are thinking about an EV, the real savings are in your garage, not at the fast charger.\n\nDo you mostly charge at home or on the road?",
+      "links": [
+        "https://www.evcompared.co.uk/news/rapid-charging-1-pound-per-kwh-2027-grid-charges-report/"
+      ],
+      "ocr": "OK",
+      "ocr_why": "Strong dollar hook, but overseas story; keep it on the US-household lesson and convert pounds at today's rate before posting.",
+      "pixel": "At the home charger: \"Britain just got a warning about fast-charge prices. Here is why I barely care.\"",
+      "premium_target": "Quote a verified EV reporter sharing the 1 pound/kWh story: \"Home charging is the whole ballgame. {my monthly number} a month here.\"",
+      "status": "ready",
+      "checkedAt": "2026-11-15",
+      "window": "Brian picks"
+    },
+    {
+      "id": "ready-diesel-grocery-bill",
+      "title": "Diesel is still $6.13. That is in your grocery bill.",
+      "topic": "Pocketbook / electric trucks",
+      "angle": "Gas is falling, diesel is not. Every truck that stocks the store pays it. Electric semis are the quiet fix.",
+      "bullets": [
+        "EIA (Nov 9 week): US diesel $6.127/gal, up $2.29 from a year ago. Rocky Mountain $6.206.",
+        "Same week: Colorado regular gas $3.746, down 32 cents in a week.",
+        "Einride is deploying 500 Tesla Semis for Amazon and other shippers: about 75 by end of 2026, the rest by end of 2027 (Einride press release Aug 18; CEO to FreightWaves).",
+        "Shippers say the sweet spot is 150 to 300-mile daily routes; fuel and maintenance savings beat diesel after about three years (Fast Company, Sep)."
+      ],
+      "body": "$6.13 a gallon. That is diesel right now, up $2.29 in a year. Gas in Colorado just fell to {$X.XX at my station}. Diesel did not. Every truck that stocks our grocery store pays that. 500 Tesla Semis are headed to Amazon routes. Seeing it in your grocery bill?",
+      "framework_body": "$6.13 a gallon.\n\nThat is the national average for diesel right now. Up $2.29 from a year ago. Out here in the Rockies it is $6.21.\n\nGas is finally coming down. I paid {$X.XX at my station} this week. Diesel did not follow.\n\nWhy that matters to your family: every truck that stocks the grocery store, delivers your packages, and hauls the lumber runs on it. That cost lands on the shelf price.\n\nThe quiet fix is already rolling. 500 Tesla Semis are headed to Amazon and other shipping routes, about 75 by the end of this year. Shippers say they beat diesel on cost in about three years.\n\n{my grocery bill observation}\n\nSeeing it in your grocery bill?",
+      "links": [
+        "https://www.eia.gov/petroleum/gasdiesel/",
+        "https://www.einride.tech/press/3346668",
+        "https://evwire.com/p/einride-75-tesla-semis-2026-rest-2027"
+      ],
+      "ocr": "OK",
+      "ocr_why": "Pocketbook link is strong and gas-vs-diesel split is fresh, but trucking is one step removed from his own life.",
+      "pixel": "At the gas station sign or grocery cart: \"Gas came down. This number did not, and you are paying it.\"",
+      "premium_target": "Quote Sawyer Merritt on any Semi delivery post: \"Diesel at $6.13 is why this matters to your grocery bill.\"",
+      "status": "ready",
+      "checkedAt": "2026-11-15",
+      "window": "Brian picks"
+    }
+  ]
+}
