@@ -1,0 +1,136 @@
+{
+ "date": "2026-11-16",
+ "label": "FRAMEWORK drafts (rewrite-before-post). Draft-only; you post it yourself.",
+ "growth_bets": [
+  "F1 Thanksgiving Supercharging 0.76%: first-hand I-70 detail plus a checklist people save and repost before travel week; EV owners are your most engaged crowd and it invites verified EV accounts to reply with their own waits.",
+  "F2 AI fake holiday stores: protect-your-parents share that 35 to 54 men send to family; keeps the AI-for-normal-people lane fresh (stores, not the safe-word call scam) and reposts reach verified non-EV audiences toward 500 verified (222 last known, 278 to go)."
+ ],
+ "held": "Held from pack: AP6 New Jersey PowerUp $960/yr home battery (battery soft-pedal; good if you want one battery post), AP7 Revolution Wind 9 cents/kWh (soft, earlier leftover), AP8 solar 10x (quote-reply only). Overnight LIVE skipped: AI detectors flag human writing, Rivian Autonomy+ $49.99 vs FSD $99. Post-pack rescan: replies only, zero new in-lane posts.",
+ "drafts": [
+  {
+   "id": "ready-thanksgiving-supercharging",
+   "title": "Thanksgiving Supercharging: 2 million stops, 0.76% waited",
+   "topic": "EV charging / holiday travel",
+   "angle": "The holiday road-trip fear is the line at the charger. Tesla's own numbers say almost nobody waits. My I-70 trips make it real, plus a simple checklist people save before travel week.",
+   "bullets": [
+    "Thanksgiving 2025 (Wed to Sun): 2M+ US Supercharger sessions, 70+ GWh delivered, only 0.76% of drivers waited (Tesla figures via TSLNA and EVCStations).",
+    "Thanksgiving 2026 is Thu Nov 26; the busy travel stretch is Wed Nov 25 to Sun Nov 29.",
+    "Paren data: the worst charging crunch on peak days is late morning to early afternoon; overnight is quietest.",
+    "Tesla runs demand pricing at about 550 US sites; no free holiday Supercharging announced for 2026.",
+    "Easy habits: leave full from home, navigate to the charger so the battery warms, unplug at 70 to 80%, skip the obvious stop."
+   ],
+   "body": "0.76%. That is how many Tesla drivers waited for a charger last Thanksgiving, out of 2 million stops. My I-70 trips: {how long I usually wait at Glenwood or Silverthorne}. Leave full from home, warm the battery on the way, unplug at 80%. Driving anywhere for Thanksgiving in an EV?",
+   "framework_body": "0.76%.\n\nThat is how many Tesla drivers had to wait for a charger last Thanksgiving. Out of more than 2 million charging stops over the holiday weekend.\n\nI hear the same worry every year from friends who are thinking about an EV: what about the holiday lines? I get it. Nobody wants to sit in a parking lot while the turkey gets cold.\n\nHere is my real life. On my I-70 trips between Grand Junction and Denver, my usual wait at {Glenwood or Silverthorne} has been {my real wait time}. {one honest sentence about the worst wait I ever had}.\n\nMy simple holiday checklist:\n1. Charge full at home the night before. Cheapest power you will buy all week.\n2. Put the charger in the navigation so the battery warms up on the way. It charges faster.\n3. Unplug at 70 to 80%. The last bit is the slowest, and the next person will thank you.\n4. Skip the obvious stop. The one 20 miles further is often empty.\n5. Bring a snack. It is a 20 minute stop, not a 5 minute one. That is the trade.\n\nThanksgiving is Thursday Nov 26 this year. If you are driving an EV to see family, save this.\n\nDriving anywhere for Thanksgiving in an EV? Where to?",
+   "links": [
+    "https://tslna.com/en/tesla-holiday-supercharger-wait-times-thanksgiving-christmas/",
+    "https://evcstations.com/reports/thanksgiving-ev-road-trip-charging/"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Number opener, first-hand I-70 detail, seasonal, saveable checklist, easy closing question.",
+   "pixel": "At a Supercharger stall, phone in hand: \"Everybody asks me about holiday lines. Here is what actually happens.\"",
+   "premium_target": "Quote a verified Tesla Charging or EV-creator Thanksgiving post: \"Under 1% waited last year. On I-70 my longest wait was {my number}.\"",
+   "status": "ready",
+   "checkedAt": "2026-11-16",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-ai-fake-stores",
+   "title": "AI fake holiday stores: about 500 new ones a day",
+   "topic": "AI for normal people / scams",
+   "angle": "AI made fake stores look perfect. The fix is old-school: never buy from the ad, type the store yourself. A protect-your-parents share before holiday shopping.",
+   "bullets": [
+    "Scamwise (via Detroit Free Press, Nov 11): fake holiday-themed stores up 5x in 60 days; about 500 new fake stores a day; about 85% vanish within two weeks.",
+    "Visa's Jonathan Polk: very few shoppers can spot one just by looking; no more misspellings or blurry photos.",
+    "AARP 2026 holiday report (Nov 11): 47% got a fake shipping alert and 44% a fake toll text in the past year; nearly 40% hit fraud after buying from an online ad.",
+    "Habits that work: type the store's address or open its app yourself, pay by credit card, never share a one-time code, wait a day on big too-good deals."
+   ],
+   "body": "500 fake stores pop up online every day right now. Most vanish in two weeks with your money. AI makes them look perfect. So I never buy from an ad. I type the store's name myself. {the scam ad or text I got this month} Has a fake deal ever fooled someone in your family?",
+   "framework_body": "500 fake stores pop up online every single day right now.\n\nMost of them disappear within two weeks. With your money.\n\nThe old tells are gone. No more bad spelling, no more blurry photos. AI builds a store that looks exactly like the real thing in minutes. Even Visa's fraud people say most shoppers cannot spot one by looking.\n\nAARP says nearly 4 in 10 people who bought something from an online ad ran into fraud. Almost half got a fake shipping text this year.\n\nSo here are my house rules for the holidays:\n1. Never buy from the ad. I close it and type the store's name myself, or open the real app.\n2. Pay with a credit card, not a debit card or a gift card.\n3. Nobody gets a one-time code. Not the bank, not the store, not \"delivery.\"\n4. If the deal is crazy good, I wait a day. Real deals are still there tomorrow. Fake stores are not.\n\n{the scam ad or text I got this month}\n\nAI is not the scary part. Not knowing the rules is. Send this to the person in your family who shops on their phone.\n\nHas a fake deal ever fooled someone in your family?",
+   "links": [
+    "https://www.freep.com/story/money/personal-finance/susan-tompor/2026/11/11/holiday-shopping-scams-is-that-store-you-just-spotted-online-real/92612451007/",
+    "https://www.aarp.org/press/releases/2026-11-11-how-to-avoid-fraud-and-scams-this-holiday-season-aarp-breaks-down-what-to-watch-out-for.html"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Big number, protect-your-parents share, saveable rules, family question; stores, not the Nov 15 voice-call safe word.",
+   "pixel": "Holding his phone up to an ad: \"This looks real. Here is the one thing I do before I buy anything this month.\"",
+   "premium_target": "Quote a verified consumer-protection or scam-alert account: \"Rule in my house: never buy from the ad. Type the store yourself.\"",
+   "status": "ready",
+   "checkedAt": "2026-11-16",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-set-arrival-energy",
+   "title": "Tell the car how much battery you want left when you get there",
+   "topic": "EV / Tesla software",
+   "angle": "A small new Tesla app setting that kills range worry for older drivers: pick a destination, pick how much charge you want left on arrival.",
+   "bullets": [
+    "Tesla software 2026.38 (release notes dated Nov 13, 2026) adds Set Arrival Energy: enter a destination in the Tesla app and choose how much battery you want left on arrival (Not a Tesla App).",
+    "Needs Tesla app 4.58.0 or later (EV Compared notes on the same package).",
+    "Same build adds Supercharger Site Maps and Emergency Drive Away.",
+    "Confirm the update is on your car before posting; rollouts are staged."
+   ],
+   "body": "{XX}% battery left when I pull into the driveway. I set that number before I leave now. New Tesla app setting: pick a destination, pick how much charge you want left. The car plans the stops. {photo of the setting on my phone} Would that end range worry for your parents?",
+   "framework_body": "{XX}% battery left when I pull into my driveway. I pick that number before I even leave now.\n\nTesla just added a setting called Set Arrival Energy. You put in where you are going, then tell it how much charge you want left when you get there. The car plans the charging stops around that.\n\nWhy this matters to normal people: range worry is not about miles. It is about not knowing. My {parent, friend, or neighbor} asked me {the range question I always get}. This answers it with one number you choose yourself.\n\nFor the drive home from Denver I set {my arrival number}%. {one line on how the trip went}.\n\nIt came in software 2026.38 and you need the Tesla app 4.58 or newer. Same update adds maps of Supercharger sites, which helps at the big confusing ones.\n\n{photo of the setting on my phone}\n\nWould a setting like this end range worry for your parents?",
+   "links": [
+    "https://www.notateslaapp.com/software-updates/version/2026.38.5.13/release-notes",
+    "https://www.evcompared.co.uk/news/tesla-software-update-latest/"
+   ],
+   "ocr": "OK",
+   "ocr_why": "Strong if he has the feature and a screenshot; OK without. First-hand Tesla life, practical for 55+.",
+   "pixel": "Phone screen recording plus his voice: \"This is the one setting I would show my parents first.\"",
+   "premium_target": "Quote a verified Tesla software account (Not a Tesla App style): \"{my arrival number} is my setting for the drive home from Denver.\"",
+   "status": "ready",
+   "checkedAt": "2026-11-16",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-night-charging-pay",
+   "title": "$120 a year to charge at night; Hyundai and Kia apps next",
+   "topic": "EV / bills",
+   "angle": "You set leave at 7 a.m., 80%, and the car picks the cheapest hours. Some utilities already pay for it; Hyundai and Kia are building it into their apps.",
+   "bullets": [
+    "WeaveGrid will run Hyundai and Kia's US smart charging through the myHyundai and Kia Access apps (announced Nov 12); no launch date yet.",
+    "Driver sets departure time and charge level; charging shifts to lower-cost hours.",
+    "Car-to-grid power is planned later, as hardware and utility rules allow.",
+    "North Carolina co-op version (EVConnectNC) is live: members earn up to $120 a year for charging at least 90% off-peak; Tesla, Toyota, Jeep and others eligible.",
+    "WeaveGrid works with utilities serving more than half of US EVs."
+   ],
+   "body": "$120 a year just for charging overnight. That is what one North Carolina co-op pays EV owners. Now Hyundai and Kia are building the same thing into their apps. I pay {$XX per kWh} overnight at home vs {$XX per kWh} in the day. Does your utility pay you to charge at night?",
+   "framework_body": "$120 a year just for plugging in at night.\n\nThat is what one North Carolina electric co-op pays EV owners who do at least 90% of their charging off-peak. Tesla, Toyota, Jeep, lots of brands qualify.\n\nNow Hyundai and Kia are building the same idea right into their phone apps. You tell the car \"I leave at 7 a.m. and I want 80%.\" The car picks the cheapest hours on its own. No timers, no math.\n\nThis is the easiest money an EV owner makes. You are asleep anyway.\n\nMy numbers: I pay {$XX per kWh} overnight at home vs {$XX per kWh} during the day. That works out to about {my monthly savings} a month for doing nothing different.\n\nIf you are thinking about an EV and worried about the electric bill, ask your utility one question: do you have a night rate or an off-peak credit?\n\nDoes your utility pay you to charge at night?",
+   "links": [
+    "https://theduckcurve.com/posts/weavegrid-hyundai-kia-zaptec-million-nevoya-meta-i10-roundup"
+   ],
+   "ocr": "OK",
+   "ocr_why": "Dollar opener and household savings; first-hand only once he adds his own rates. Lead with Hyundai/Kia and the co-op, not Xcel (done Nov 4).",
+   "pixel": "By his home charger at night: \"My car charges while I sleep at the cheapest price. Here is what that saves me.\"",
+   "premium_target": "Reply to a verified Hyundai/Kia owner or EV reporter covering the news: \"Night charging is the easiest money an EV owner makes. {my monthly number} here.\"",
+   "status": "ready",
+   "checkedAt": "2026-11-16",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-apple-health-ai",
+   "title": "Apple is testing whether regular people trust AI with health questions",
+   "topic": "AI for normal people / light health",
+   "angle": "Free study, real medical sources, and the goal is walking into your appointment better prepared. AI as a prep tool, not your doctor.",
+   "bullets": [
+    "Apple Health AI Usage Study launched Nov 15 in the US with OpenEvidence; up to 200,000 people.",
+    "Answers cite NEJM, JAMA and other peer-reviewed sources in plain language.",
+    "Age 21+, iPhone 15 Pro or later on iOS 26 or later. Apple says study data is not used to train AI. Not for diagnosis.",
+    "Explores helping people prepare for visits with their own doctors."
+   ],
+   "body": "200,000 people. Apple is testing whether regular folks trust AI with health questions. Answers come with real medical sources, and the point is showing up to your doctor with better questions. {how I use AI before my own appointments} Would you use AI to prep for a doctor visit?",
+   "framework_body": "200,000 people.\n\nThat is how many Americans Apple wants in a new study on one simple question: do regular folks trust AI with health questions?\n\nA few things I like about how they set it up:\n1. Answers come with real sources, like the big medical journals, written in plain English.\n2. Apple says the study data is not used to train AI.\n3. It is not trying to diagnose you. The goal is helping you walk into your own doctor's office with better questions.\n\nThat last part is the whole thing for me. AI is not my doctor. It is the friend who helps me write my list before I go in.\n\n{how I use AI before my own appointments}\n\nLots of people my age are uneasy about doctors using AI, and that is fair. A tool that cites its sources and sends you back to your doctor is how AI earns trust.\n\nYou need an iPhone 15 Pro or newer and you have to be 21 or older.\n\nWould you use AI to prep for a doctor visit?",
+   "links": [
+    "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/"
+   ],
+   "ocr": "OK",
+   "ocr_why": "Calm AI-is-a-tool message for 55+; health detail stays his own fill-in choice. Light HOT-adjacent, so one per day max.",
+   "pixel": "Sitting at the kitchen table: \"I do not let AI be my doctor. I let it help me ask my doctor better questions.\"",
+   "premium_target": "Quote a verified health-tech or Apple-news account: \"Prep tool, not a replacement. That is how AI earns trust with people my age.\"",
+   "status": "ready",
+   "checkedAt": "2026-11-16",
+   "window": "Brian picks"
+  }
+ ]
+}
