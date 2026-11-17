@@ -1,0 +1,134 @@
+{
+  "date": "2026-11-17",
+  "label": "FRAMEWORK drafts (rewrite-before-post). Draft-only; you post it yourself.",
+  "growth_bets": [
+    "F1 winter home vs public charging: real dollar gap plus your own Grand Junction winter number; EV owners are your most engaged crowd, they save it and reply with their own hacks, pulling verified EV accounts into the replies toward 500 verified (226 last known, 274 to go).",
+    "F2 $12 tire rotation vs $20,000 battery case: big dollar contrast and a practical owner warning that EV accounts repost and save; keep it helpful, not anti-EV."
+  ],
+  "held": "Held from pack: AP2 Holiday Update 2026.44.1 charger map/price alerts (too close to last night's live update post; price alert is only code hints), AP6 hang up and call back $7.75B (scam fatigue after Nov 13 and Nov 15), AP8 Dairyland SMR (policy, no household dollar). Overnight LIVE skipped: Tesla update no FSD v14.3.13, Scout Traveler quote, RT Enphase C80, FL router quote. Post-pack rescan: one reply (Denza Z9GT 1MW charging), zero new in-lane posts.",
+  "drafts": [
+    {
+      "id": "ready-winter-home-vs-public",
+      "title": "Winter EV math: $1,056 at home vs $2,520 public",
+      "topic": "EV charging / winter costs",
+      "angle": "Winter costs more for every EV. Where you plug in matters way more than the cold. Real dollar gap plus my own winter number.",
+      "bullets": [
+        "AAA testing at 20F: about 8.8 cents/mile charging at home vs about 21 cents/mile on public chargers.",
+        "Over 12,000 winter-rate miles that is about $1,056 at home vs about $2,520 public.",
+        "Price per kWh does not change with cold; you just use more kWh for cabin heat and battery warming.",
+        "EVChargeCosts illustration: 30% more use is about $20.53/month extra at the 18.16 cent US average rate.",
+        "Easy habits: precondition while plugged in, heated seat over blasting cabin heat, garage parking helps."
+      ],
+      "body": "$1,056 vs $2,520. A winter year of EV miles charged at home vs on public chargers, per AAA's 20 degree testing. My Model Y in the Grand Junction cold: {my cents per mile this month}. Precondition while plugged in. Heated seat, not cabin blast. What's your winter hack?",
+      "framework_body": "$1,056 vs $2,520.\n\nSame EV. Same cold winter. Same 12,000 miles. The only difference is where you plug in.\n\nAAA tested EVs at 20 degrees. Charging at home worked out to about 8.8 cents a mile. Public chargers, about 21 cents a mile. That is more than double.\n\nHere is the part people miss. The price of electricity does not go up because it is cold. You just use more of it, to heat the cabin and warm the battery. So the cold costs you a little. Where you charge costs you a lot.\n\nMy real number this winter in Grand Junction: {my cents per mile or my kWh this month}. My last fast charge stop on I-70 was {my last fast charge total}.\n\nWhat I do on cold mornings:\n1. Leave it plugged in overnight and set a departure time so it warms up on house power, not the battery.\n2. Heated seat and steering wheel first. Cabin blast last.\n3. {my garage or driveway detail}.\n\nIf you are thinking about an EV and worried about winter, the answer is mostly a plug at home.\n\nWhat's your winter EV hack?",
+      "links": [
+        "https://cleantechjournal.com/how-much-does-it-cost-to-charge-an-ev-at-home-vs-a-public-charger/",
+        "https://evchargecosts.com/guides/cold-weather-ev-charging-cost/"
+      ],
+      "ocr": "Strong",
+      "ocr_why": "Dollar opener, first-hand winter number, every EV owner can answer the closing question.",
+      "pixel": "In the garage on a cold morning, show the app warming the car while plugged in. Say what winter costs you per month at home vs your last fast-charge stop.",
+      "premium_target": "Quote a verified EV creator (Sawyer Merritt-type) posting winter range loss: \"Range drops. Cost doesn't have to. Charge at home.\"",
+      "status": "ready",
+      "checkedAt": "2026-11-17",
+      "window": "Brian picks"
+    },
+    {
+      "id": "ready-tire-rotation-battery",
+      "title": "$12 tire rotation, possible $20,000 battery bill",
+      "topic": "EV ownership tip",
+      "angle": "EV owners, the tire shop lift matters. Tell them where to lift, then watch. Helpful warning, not anti-EV.",
+      "bullets": [
+        "Houston-area owner, 2024 Silverado EV Work Truck, about 94,000 miles, paid $12 for rotate and balance at Sam's Club and told techs the lift points.",
+        "A short-arm lift put the rear pads under the battery: two saucer-size dents about half an inch deep.",
+        "Dealer says the enclosure is part of the pack: about $8,000 net plus a $45,000 refundable core charge; owner estimates $15,000 to $20,000 all-in. Claim pending.",
+        "GM bulletin calls for a 12,000 lb hoist with three-stage arms. Battery warranty 8 yr/100,000 mi; he is about 6,000 miles short."
+      ],
+      "body": "$12 tire rotation. Possible $20,000 battery bill. A Silverado EV owner says the shop lift pressed right into his battery case. On my Model Y I {use lift pucks or go to Tesla service or watch them lift it}. Where do you get your EV tires done?",
+      "framework_body": "$12 tire rotation.\n\nPossible $20,000 battery bill.\n\nA Silverado EV owner near Houston took his truck in for a cheap rotate and balance. He even told the techs where to lift it. The lift arms went under the battery anyway. Two dents about the size of a saucer, half an inch deep.\n\nThe dealer says the battery case is part of the pack. He is looking at roughly $8,000 out of pocket plus a big refundable core charge, and he figures $15,000 to $20,000 all-in. His claim is still pending.\n\nThis is not an EV problem. It is a lift problem. The battery is the floor of the car, and not every tire shop has the right lift or knows the jack points.\n\nWhat I do with my Model Y: {use lift pucks or go to Tesla service or stand there and watch}. {one line about a shop experience I had}.\n\nIf you own an EV, ask before they lift it. Then watch them do it. Thirty seconds of awkward beats a five-figure repair.\n\nWhere do you get your EV tires done?",
+      "links": [
+        "https://www.motorbiscuit.com/a-12-tire-rotation-dented-his-silverado-evs-battery-he-says-it-could-cost-20000/"
+      ],
+      "ocr": "Strong",
+      "ocr_why": "Huge dollar contrast, practical owner warning, everyone has a tire shop story.",
+      "pixel": "Crouch by the car and point at the jack points (or show {my lift pucks}): \"Show the shop this before they lift it.\"",
+      "premium_target": "Quote a verified EV creator or Torque News-type account on the story: \"Ask the shop where they lift. Then watch.\"",
+      "status": "ready",
+      "checkedAt": "2026-11-17",
+      "window": "Brian picks"
+    },
+    {
+      "id": "ready-machE-battery-92",
+      "title": "Ford: Mach-E batteries at 92% after 5 years",
+      "topic": "EV battery life / fear-buster",
+      "angle": "\"Won't the battery die?\" Real fleet data says not so fast. Calms the number one fear for 55+ buyers. Not a used-price post.",
+      "bullets": [
+        "Ford studied 36,000+ 2021 Mach-Es: average battery health 92% after just over five years; typical owner about 55,000 miles.",
+        "2,000+ cars over 100,000 miles: 91%. Over 200,000 miles: about 88%.",
+        "95% of cars landed between 87% and 97%.",
+        "Ford says its EV lineup overall stays above 90% at 100,000 miles."
+      ],
+      "body": "92% after five years. That is Ford's average battery health across 36,000 Mach-Es. Even past 100,000 miles: 91%. My Tesla at {my miles}: {my battery health or range now vs new}. Was battery life your biggest worry before going EV?",
+      "framework_body": "92% after five years.\n\nThat is the average battery health Ford found across more than 36,000 Mustang Mach-Es from 2021.\n\nThe cars with over 100,000 miles? 91%. Over 200,000 miles? About 88%.\n\nThe question I get most from people my age about EVs is not range. It is \"won't the battery die and cost me a fortune?\" I get it. Nobody wants a $15,000 surprise.\n\nBut the real data keeps saying the same thing. These batteries fade slowly, a few percent over years, not all at once.\n\nMy own car at {my miles}: {my battery health or my range at 100% now vs new}.\n\nIf battery fear is the only thing keeping you out of an EV, that fear is mostly old news.\n\nWas battery life your biggest worry before going EV? Owners, drop your miles and your battery health below.",
+      "links": [
+        "https://thedriven.io/2026/11/16/ford-mustang-mach-e-batteries-retain-over-91-per-cent-of-capacity-after-160000-km/"
+      ],
+      "ocr": "Strong",
+      "ocr_why": "Number-first, calms the top fear for older buyers, owners reply with their own battery health.",
+      "pixel": "Show your car's range at 100% today vs what it was new {my numbers}: \"This is what years of driving did to my battery.\"",
+      "premium_target": "Quote a verified Ford or EV-data creator posting the Mach-E study: \"The battery fear is mostly old news.\"",
+      "status": "ready",
+      "checkedAt": "2026-11-17",
+      "window": "Brian picks"
+    },
+    {
+      "id": "ready-ionna-autocharge",
+      "title": "Teslas can now just plug in at IONNA + 6 new Supercharger sites",
+      "topic": "EV charging network",
+      "angle": "Fewer apps, more plugs. Charging on the road is getting less annoying. Frame as giving IONNA another shot.",
+      "bullets": [
+        "IONNA (the automaker-backed network) turned on Autocharge for Teslas: plug in and the session starts and bills automatically after one-time Presto app setup (VIN scan plus one manual session).",
+        "Nov 16: Tesla opened 6 Supercharger sites, including Murfreesboro TN Buc-ee's (24 stalls, 500 kW).",
+        "Cloverdale CA (8 stalls) talks to PG&E's grid so it could open faster.",
+        "Carbondale CO already posted Nov 14; do not rehash."
+      ],
+      "body": "{$XX per kWh at my usual stop}. Now Teslas can plug in at IONNA and it just starts charging. No card, no tapping. I've had {my IONNA experience or never tried one}. More options on the road, or still stick with Superchargers?",
+      "framework_body": "Plug in. It just starts. That is how charging should work.\n\nIONNA, the charging network the big automakers built together, just turned on Autocharge for Teslas. You set up their app once, scan your VIN, do one normal session, and after that you just plug in and it bills you. No card, no tapping around on a screen in the cold.\n\nAnd Tesla opened 6 more Supercharger sites this week, including a 24-stall Buc-ee's in Tennessee.\n\nI'll be honest, my IONNA experience so far has been {my IONNA experience or never tried one}. But more plugs and fewer apps is good for every EV driver, especially folks who just want it to work like a gas pump.\n\nMy usual stop costs {$XX per kWh at my usual stop}. {would I give IONNA another shot on I-70}.\n\nMore options on the road, or do you still stick with Superchargers?",
+      "links": [
+        "https://insideevs.com/news/815544/tesla-autocharge-ionna-app/",
+        "https://teslanorth.com/2026/11/17/tesla-cloverdale-supercharger-pge-flex-connect/"
+      ],
+      "ocr": "OK",
+      "ocr_why": "Practical and reply-friendly for EV owners; dollar opener depends on his own fill-in.",
+      "pixel": "Optional; skip unless you visit an IONNA site.",
+      "premium_target": "Quote a verified EV-charging reporter on IONNA Autocharge: \"Plug and go is how it should work everywhere.\"",
+      "status": "ready",
+      "checkedAt": "2026-11-17",
+      "window": "Brian picks"
+    },
+    {
+      "id": "ready-gemini-training-switch",
+      "title": "Gemini: keep your chat history, stop it training AI",
+      "topic": "AI for normal people / privacy",
+      "angle": "A plain-English privacy switch most people don't know exists. The one setting to tell your family about.",
+      "bullets": [
+        "Google, Nov 16: a new Gemini setting lets you keep chat history while opting out of model training.",
+        "You can still set how long history is saved and delete it manually.",
+        "If you turn History off, future chats are still kept about two months for safety and responding.",
+        "Rolling out globally in the coming weeks."
+      ],
+      "body": "$0 to fix. Gemini is adding a switch: keep your chat history but stop it being used to train their AI. I'm turning it {on or off} because {my reason}. Do you care if AI learns from your chats?",
+      "framework_body": "$0 to fix, and most people will never know it is there.\n\nGoogle is adding a new switch to Gemini. You can keep your chat history, so you can go back and find that recipe or that letter it helped you write, but stop your chats from being used to train their AI.\n\nBefore, it was kind of all or nothing. Now you get to pick.\n\nA couple of plain-English notes:\n1. You can still choose how long your history is kept, and delete it yourself.\n2. If you turn history off completely, Google still keeps chats for about two months for safety.\n3. It is rolling out over the next few weeks, so you may not see it yet.\n\nI am turning it {on or off} because {my reason}.\n\nAI does not have to be scary. Half the battle is knowing where the settings are. If your parents use Gemini, this is the one to show them.\n\nDo you care if AI learns from your chats?",
+      "links": [
+        "https://blog.google/innovation-and-ai/products/gemini-app/updated-controls/"
+      ],
+      "ocr": "OK",
+      "ocr_why": "Simple non-scary AI explainer for older users; $0 opener is weaker than a real dollar figure.",
+      "pixel": "Show the phone settings screen once it rolls out: \"Here's the one setting I'd tell my family about.\"",
+      "premium_target": "Quote a verified AI news account posting this: \"Good change. Most people never open settings, so tell them.\"",
+      "status": "ready",
+      "checkedAt": "2026-11-17",
+      "window": "Brian picks"
+    }
+  ]
+}
