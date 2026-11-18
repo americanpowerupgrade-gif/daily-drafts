@@ -1,0 +1,134 @@
+{
+ "date": "2026-11-18",
+ "label": "FRAMEWORK drafts (rewrite-before-post). Draft-only; you post it yourself.",
+ "growth_bets": [
+  "F2 deepfake Elon scam: hits your Tesla crowd and the protect-your-parents save/share reflex, and the verified @CoinbaseSupport quote target is the kind of post verified accounts reply under, pulling them toward you (226 verified last known, 274 to 500).",
+  "F1 Thanksgiving charging plan: your own dollar number plus a holiday question invites EV owners, your most engaged audience, to reply with their own trips; quote the @MdeZegher post for verified EV-account reach."
+ ],
+ "held": "Held from pack: AP6 Duke NC data center rate class (policy, rate figures differ across outlets), AP7 UK +26% (overseas, only works with your own solar number), AP8 Palisades SMR permit (paperwork, no household dollar). Overnight LIVE skipped per overnight-live-2026-11-18.md. Post-pack rescan since 2122942352369062169: zero new posts.",
+ "drafts": [
+  {
+   "id": "ready-thanksgiving-charging-plan",
+   "title": "My Thanksgiving charging plan: 138 new Supercharger sites in 90 days",
+   "topic": "EV road trip / holiday charging",
+   "angle": "Tesla is racing to open chargers before Thanksgiving. Here is what my own holiday drive will really cost, in dollars, not a site list.",
+   "bullets": [
+    "138 new US Supercharger sites and 1,625 stalls opened in the last 90 days (since Aug 20), per the teslasupercharge.me tracker.",
+    "Nov 16-17 openings include Murfreesboro TN Buc-ee's (24 stalls), Barstow CA (16), Vacaville CA (16), Spanish Fort AL Cracker Barrel (8).",
+    "Cloverdale CA (8 stalls, up to 500 kW) opened early through PG&E Flex Connect: it takes a little less power at busy grid hours instead of waiting on upgrades.",
+    "Tesla's Max de Zegher: big push from the US Supercharger team to open new sites before Thanksgiving travel (Elon reposted)."
+   ],
+   "body": "{$XX} in charging. That's what my Thanksgiving drive from Grand Junction to {destination} should cost. Tesla opened 138 new Supercharger sites in 90 days, a bunch this week. My stops: {where I stop on I-70}. Where are you driving for Thanksgiving, and are you going electric?",
+   "framework_body": "{$XX} in charging.\n\nThat's what my Thanksgiving drive from Grand Junction to {destination} should cost me. Same trip in a gas car would be about {what the same trip costs in gas}.\n\nTesla has opened 138 new Supercharger sites in the last 90 days. A bunch of them opened just this week, right on the holiday routes. Buc-ee's in Tennessee got 24 stalls. Barstow and Vacaville in California got 16 each.\n\nOne I liked: a site in California opened months early because it agreed to slow down a little when the power grid is busy. Instead of waiting a year for the utility, it just shares nicely at rush hour. That's the kind of common sense I want more of.\n\nMy plan for the drive:\n1. Leave full from home, charged on my own power.\n2. Stop at {my first charging stop} while we grab {coffee or food}.\n3. {my second stop or arrival charging plan}.\n\nTen years ago a holiday drive in an EV was an adventure. Now it's a pit stop.\n\nWhere are you driving for Thanksgiving, and are you going electric?",
+   "links": [
+    "https://teslasupercharge.me/new-superchargers",
+    "https://teslanorth.com/2026/11/17/tesla-cloverdale-supercharger-pge-flex-connect/",
+    "https://x.com/MdeZegher/status/2122839416591057223"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Dollar opener, his own trip, holiday question every EV owner can answer; not a site roundup.",
+   "pixel": "In the car at a Supercharger: \"Here's my Thanksgiving charging plan and what it costs me.\" Show the trip planner on screen.",
+   "premium_target": "Quote @MdeZegher's Supercharger push post (2122839416591057223): one line on what new stalls mean for families on the road.",
+   "status": "ready",
+   "checkedAt": "2026-11-18",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-deepfake-elon-giveaway",
+   "title": "$4.7 million almost went to a fake Elon",
+   "topic": "AI scams / Tesla fans",
+   "angle": "Tesla fans were the target. A fake Elon on a fake livestream. Nobody got hacked; people sent the money themselves. Protect-your-parents save.",
+   "bullets": [
+    "During Tesla's flying car demo, scammers ran a fake YouTube livestream with a deepfake Elon promising to double any crypto sent.",
+    "500,000+ people watched; hundreds of Coinbase customers tried to send millions in about two hours.",
+    "Coinbase says its AI scam defenses stopped about 91%, $4.7 million, automatically (Coinbase blog, Nov 17).",
+    "No passwords stolen, no accounts broken into. The scam worked on trust."
+   ],
+   "body": "$4.7 million almost went to a fake Elon. Deepfake livestream, fake Tesla giveaway, send crypto and get double back. 500,000 people watched. My rule: {my one rule for anything that promises to double money}. Would your parents spot this one?",
+   "framework_body": "$4.7 million almost went to a fake Elon.\n\nDuring Tesla's big demo, scammers ran their own YouTube livestream. It looked real. It sounded real. It was an AI copy of Elon telling people to send crypto and he'd send double back.\n\nMore than 500,000 people watched it. Hundreds of people tried to send money in about two hours.\n\nCoinbase says its own AI caught about 91% of it and stopped $4.7 million before it left. Good for them. But think about the other 9%.\n\nHere's the part that matters: nobody got hacked. No passwords stolen. People pushed the button themselves because they trusted the face on the screen.\n\nSo here's what I'm telling {an older family member or friend} this week:\n1. Elon is not giving away money. Nobody is.\n2. Anything that says send money first, get double back, is a scam. Every time.\n3. {my one rule for anything that promises to double money}.\n\nAI can fake a face and a voice now. It can't fake common sense.\n\nWould your parents spot this one?",
+   "links": [
+    "https://www.coinbase.com/blog/consumer-protection-tuesday-how-we-leveraged-ai-to-stop-a-popular-tesla-scam",
+    "https://x.com/CoinbaseSupport/status/2122799300996428103"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Dollar opener, hits his Tesla audience, built-in share-to-family save; fresh angle vs Nov 15 safe word.",
+   "pixel": "Face to camera: \"Elon is never giving away crypto. Here's how I'd explain this to {an older family member or friend}.\"",
+   "premium_target": "Quote @CoinbaseSupport (verified) post 2122799300996428103: \"The real Elon doesn't double your money. Share this with your parents.\"",
+   "status": "ready",
+   "checkedAt": "2026-11-18",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-gemini-makes-calls",
+   "title": "$0 to have AI sit on hold for you",
+   "topic": "AI for everyday people",
+   "angle": "The sit-on-hold job just got handed to AI, free on your phone. Practical time saver, no jargon.",
+   "bullets": [
+    "Google made Gemini Tasks free on Nov 17 in the US, Canada, Japan, Korea, Australia and India; no paid plan needed.",
+    "Google's example: Gemini called the two nearest dealerships for a service appointment, checked the calendar and booked it in under five minutes.",
+    "Google says Gemini tells the business up front that it's an AI.",
+    "WSJ's Joanna Stern joked that Google already has an app called Google Tasks."
+   ],
+   "body": "$0 to have AI sit on hold for you now. Gemini will call the shop, find a time and put it on your calendar. First call I'd hand it: {the call I dread most}. What call would you give away?",
+   "framework_body": "$0 to have AI sit on hold for you now.\n\nGoogle just made this free on your phone. You tell Gemini what you need, like a service appointment, and it calls the places for you. It finds an open time and puts it on your calendar.\n\nGoogle's own example: it called the two closest dealerships, checked the calendar and booked the appointment in under five minutes. And it tells the business right away that it's an AI, so nobody's being tricked.\n\nThis is the kind of AI I want people to know about. Not robots. Not scary headlines. Just getting back the 40 minutes you spend listening to hold music.\n\nFirst call I'm handing it: {the call I dread most}.\n\nIf you've got a parent who hates phone trees, {how I'd set it up for them}.\n\nWhat call would you give away?",
+   "links": [
+    "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+    "https://x.com/JoannaStern/status/2122892446187299132"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Plain-English time and money saver for older and busy households; different from Nov 17 privacy toggles.",
+   "pixel": "Try it live on your phone: \"I asked Gemini to book {an appointment}. Here's what happened.\"",
+   "premium_target": "Quote @JoannaStern post 2122892446187299132, light and friendly: \"Name aside, my mom would actually use this.\" (swap in {who I'd set it up for})",
+   "status": "ready",
+   "checkedAt": "2026-11-18",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-eg4-homestead-60",
+   "title": "$20,499 for 14.4 kW of solar and a 60 kWh battery",
+   "topic": "Solar + battery / independence",
+   "angle": "First big whole-homestead solar plus battery kit under $2 a watt. Built for ranches, farms, rural homes. Independence angle.",
+   "bullets": [
+    "EG4 debuted Homestead 60 at RE+ 2026 (Nov 17): 14.4 kW of solar plus 60 kWh of usable battery, prewired and preassembled.",
+    "Priced from $20,499, about $1.20 per watt; ships Q1 2027 (press release).",
+    "Pitched for high-use homes, rural properties, farms, ranches and small businesses.",
+    "Press-release price, before install, permits and any local rebates."
+   ],
+   "body": "$20,499 for 14.4 kW of solar and a 60 kWh battery. That battery is bigger than {my car's battery or my Powerwall}. Out here on the Western Slope that's {what it would mean for my place}. Would you trust a prewired kit or want a local installer?",
+   "framework_body": "$20,499.\n\nThat's the starting price on a new kit with 14.4 kW of solar panels and a 60 kWh battery, all prewired and ready to go. It was just shown at the big solar trade show this week.\n\nFor scale, that battery holds more than {my car's battery or my Powerwall}. That's days of normal house power for a lot of homes.\n\nIt's aimed at ranches, farms, rural homes and small shops. The people who lose power first and get it back last.\n\nI paid {what I paid for my solar} for my setup. This works out to about $1.20 a watt before install and permits, which is a number that would have sounded crazy a few years ago.\n\nWhat I'd want to know before buying:\n1. What install really costs where I live: {my guess or quote}.\n2. Who services it if something breaks.\n3. {my own question}.\n\nOut here on the Western Slope, owning your own power is about independence as much as the bill.\n\nWould you trust a prewired kit, or do you want a local installer?",
+   "links": [
+    "https://www.globenewswire.com/news-release/2026/11/17/3405106/0/en/eg4-debuts-homestead-60-the-first-complete-solar-plus-storage-system-to-break-the-2-per-watt-barrier-for-solar.html"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Dollar opener, independence angle for rural 55+ households, simple closing question. Flag it's a press-release price.",
+   "pixel": "Standing by your panels or IQ8 setup: \"Here's what I paid versus this new kit.\"",
+   "premium_target": "Quote a verified solar creator's RE+ show-floor post on Homestead 60 if one pops; otherwise reply to @EG4Electronics if they post it.",
+   "status": "ready",
+   "checkedAt": "2026-11-18",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-fsd-day-quote",
+   "title": "Quote: a car dealer spends a day on FSD",
+   "topic": "EV / Tesla FSD first-hand",
+   "angle": "Car-dealer YouTuber spends a day being driven by a Tesla and says the industry isn't ready. Brian answers with his own FSD miles.",
+   "bullets": [
+    "@GuyDealership (437k followers): I spent a day being driven by a Tesla. I don't think the auto industry fully understands what's coming. 230k views, 514 bookmarks.",
+    "FSD Supervised v14.3.13 is the current build.",
+    "X story: five driving profiles from Chill to Mad Max."
+   ],
+   "body": "{how many miles I let FSD drive this month} miles on FSD this month, and he's right. Dealers sell the car once. The software keeps getting better in my driveway. What would it take for you to trust it?",
+   "framework_body": "{how many miles I let FSD drive this month} miles this month with my Model Y doing the driving.\n\nAnd I agree with him.\n\nHere's what a car dealer gets that most of the car business doesn't. They sell you the car once. Then it's done. Mine keeps getting better sitting in my driveway, with updates that cost me {what I pay for FSD per month or nothing extra}.\n\nWhere it surprised me: {a drive where FSD impressed me}.\n\nWhere I still keep my hands close: {one place I still take over}.\n\nFor older drivers especially, this is the part nobody talks about. It's not about gadgets. It's about staying independent and still getting where you need to go.\n\nWhat would it take for you to trust it?",
+   "links": [
+    "https://x.com/GuyDealership/status/2122703044760719786"
+   ],
+   "ocr": "OK",
+   "ocr_why": "Big creator quote plus first-hand number; Strong if he leads with {what I pay for FSD per month}.",
+   "pixel": "Short clip from the driver seat, hands near the wheel: \"Here's what FSD did on my {drive in Grand Junction} today.\"",
+   "premium_target": "Quote @GuyDealership post 2122703044760719786 directly (this item is the quote).",
+   "status": "ready",
+   "checkedAt": "2026-11-18",
+   "window": "Brian picks"
+  }
+ ]
+}
