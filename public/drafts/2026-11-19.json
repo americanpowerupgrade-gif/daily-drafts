@@ -1,0 +1,135 @@
+{
+ "date": "2026-11-19",
+ "label": "FRAMEWORK drafts (rewrite-before-post). Draft-only; you post it yourself.",
+ "growth_bets": [
+  "F3 $1.50 package text scam: tiny dollar opener, everybody has a package coming, and it is the kind of post people save and send to their parents, which drives Premium saves and reposts (226 verified last known, 274 to 500).",
+  "F1 no-app charging: a universal EV pain point from your most engaged audience; quote a verified EV account and invite charger war stories, which pulls verified owners into your replies."
+ ],
+ "held": "Held from pack: AP6 BAAJA nuclear permits (policy, no household dollar yet), AP7 Waymo highway pause (secondary source, robotaxi; reply-only). Overnight LIVE skipped per overnight-live-2026-11-19.md. Post-pack rescan since 2123188300060238071: one RT (R1Stephanie, Lucid Arizona) and one off-lane reply; nothing in lane to avoid.",
+ "drafts": [
+  {
+   "id": "ready-plug-and-charge-no-app",
+   "title": "$0.39 per kWh and no app: Plug & Charge comes to IONNA and Electrify America",
+   "topic": "EV public charging / no-app charging",
+   "angle": "The best charger upgrade this year is boring. You plug in and it just bills you, like a Supercharger. That matters most for drivers who hate phone apps.",
+   "bullets": [
+    "IONNA turned on Plug & Charge for Tesla drivers, with Stellantis 'coming soon' (Electrek, Nov 18).",
+    "IONNA's new 22-bay, 400 kW Westminster CA site: promo $0.20/kWh for the first weeks, then standard $0.39/kWh.",
+    "GM enabled Plug & Charge at Electrify America for Blazer EV, Equinox EV, Sierra EV, Lyriq and Optiq (GM Energy Pass members).",
+    "The pain it fixes: fumbling with apps, card readers and bad cell signal at a cold charger."
+   ],
+   "body": "$0.39 per kWh and no app to fight with. IONNA now lets Teslas just plug in and charge. GM drivers got the same thing at Electrify America. My worst charger moment: {my app or card reader story}. What's the most annoying part of public charging for you?",
+   "framework_body": "$0.39 per kWh, and no app to fight with.\n\nThat's the news I've been waiting on. IONNA just turned on Plug & Charge for Teslas. You plug in, the car and charger talk to each other, and it bills you. No app, no card reader, no hunting for cell signal in a cold parking lot.\n\nGM drivers got the same thing this week at Electrify America. Blazer, Equinox, Sierra, Lyriq and Optiq owners can plug in and walk away.\n\nMy worst charger moment: {my app or card reader story}.\n\nAt home I pay about {what I pay per kWh at home}, so public charging is never my cheapest option. But on the road, the price is only half of it. The other half is whether the thing just works.\n\nThis matters most for older drivers. A lot of folks I talk to aren't scared of EVs. They're scared of standing at a charger with five apps and none of them working.\n\nPlug in. Walk away. That's how every charger should work.\n\nWhat's the most annoying part of public charging for you?",
+   "links": [
+    "https://electrek.co/2026/11/18/ionna-enables-plug-charge-for-tesla-opens-22-bay-site-in-westminster-ca/",
+    "https://tbb.ceo/ev/daily/2026-11-18"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Dollar opener, universal pain point, invites charger war stories from verified EV owners in replies.",
+   "pixel": "At a charger, phone in pocket: \"This is how charging should work. Plug in. Done.\"",
+   "premium_target": "Quote @ionnaofficial or Electrek's Plug & Charge post: one line on why no-app charging matters for normal drivers. Keep it about Plug & Charge, not the Westminster site you already posted.",
+   "status": "ready",
+   "checkedAt": "2026-11-19",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-ford-fathom-michigan-battery",
+   "title": "$3 billion plant, one goal: a cheaper electric pickup",
+   "topic": "EV pickups / US-made batteries",
+   "angle": "The small electric pickup I keep waiting for got one step closer. The battery is made in Michigan, and price is the only spec that matters.",
+   "bullets": [
+    "Ford's $3B Marshall, Michigan plant started LFP battery cell production last month; cells are now shipping (CNBC, Nov 18).",
+    "First use: prototypes of the Fathom small electric pickup, which Ford CEO Jim Farley pitches against Tesla and Chinese rivals.",
+    "Capacity: 40 cells a minute, about 20 GWh a year (cut from an earlier 40 GWh plan).",
+    "LFP is the cheaper, long-life battery chemistry; Ford licenses the tech from CATL."
+   ],
+   "body": "$3 billion plant, one goal: a cheaper electric pickup. Ford just started shipping batteries out of Michigan for its Fathom small truck. My truck wish list: {price I'd pay} and {range I need in winter}. Would you buy a small electric pickup if it was priced like a gas one?",
+   "framework_body": "$3 billion plant, one goal: a cheaper electric pickup.\n\nFord's battery plant in Marshall, Michigan is now shipping cells. The first ones are going into prototypes of the Fathom, Ford's small electric pickup.\n\nThese are LFP batteries. Plain English: the cheaper kind that lasts a long time and doesn't mind being charged to full every day. That's the battery you want in a work truck.\n\nI've been shopping for a small truck for a while. My wish list is simple:\n1. Priced around {price I'd pay}, not luxury money.\n2. {range I need in winter} of real winter range out here in western Colorado.\n3. A bed that fits {what I haul}.\n\nI don't need 0 to 60 in three seconds. I need it to haul stuff and not cost more than a gas truck.\n\nIf Ford gets the price right, a lot of working families are going to look at an electric pickup for the first time.\n\nWould you buy a small electric pickup if it was priced like a gas one?",
+   "links": [
+    "https://www.cnbc.com/2026/11/18/ford-us-battery-cells-catl-tech.html"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Dollar opener, ties to your own truck hunt, big pickup audience in the 35-54 lane.",
+   "pixel": "Next to your car or driveway: \"Here's what I'd need from a small electric truck.\"",
+   "premium_target": "Quote @MikeWayland's (CNBC) Ford battery post: one line on price being the only spec that matters. Skip the China politics angle.",
+   "status": "ready",
+   "checkedAt": "2026-11-19",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-package-text-scam",
+   "title": "$1.50: the fake delivery text that wants your card",
+   "topic": "AI for normal people / holiday scams",
+   "angle": "Everybody has a package coming this month. Scammers know it, and AI makes their texts look perfect now. Share-to-your-parents save.",
+   "bullets": [
+    "US Treasury issued its annual holiday scam advisory Nov 18, warning crooks use AI to impersonate trusted people, businesses and loved ones.",
+    "Common play: a text says your parcel is stuck until you pay a tiny fee (Swiss NCSC example: CHF 1.50) or confirm your address. The link steals your card.",
+    "Barclays survey (Nov 13): 76% say AI makes scams more convincing, but only 36% check a site is real before buying, and 34% feel confident spotting an AI scam.",
+    "Fix: never tap the link. Open the carrier's app or site yourself and type in the tracking number."
+   ],
+   "body": "$1.50. That's all the fake delivery text asks for. It's not about the $1.50. It's your card number. My rule: {my rule for package texts}. Have you or your parents gotten one of these yet?",
+   "framework_body": "$1.50.\n\nThat's all the fake delivery text asks for. Your package is stuck, pay a small fee or confirm your address.\n\nIt's not about the $1.50. It's your card number.\n\nThe Treasury Department just put out its holiday scam warning, and the big change this year is AI. These texts used to have bad spelling and weird grammar. Now they look exactly like the real thing.\n\nA Barclays survey found 76% of people say AI makes scams more convincing. Only about a third feel confident they could spot one.\n\nMy rule: {my rule for package texts}.\n\nHere's the simple version for your parents:\n1. Never tap the link in a delivery text.\n2. Open the UPS, FedEx, USPS or Amazon app yourself.\n3. Type in the tracking number. If there's a real problem, it'll be there.\n\nNo real carrier holds your package hostage for a dollar fifty.\n\nHave you or your parents gotten one of these yet?",
+   "links": [
+    "https://home.treasury.gov/news/press-releases/sb0694",
+    "https://home.barclays/news/press-releases/20260/110/shoppers-worry-about-black-friday-ai-scams--but-drop-their-guard/"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Tiny dollar opener, everyone has a package coming, and it is a save-and-send-to-family post.",
+   "pixel": "Holding phone: \"If a text says your package is stuck for a dollar fifty, do this instead.\"",
+   "premium_target": "Reply or quote a verified bank or consumer-fraud account posting holiday scam tips: \"Never tap the link. Open the app yourself.\" Different from the Nov 16 fake stores and Nov 15 safe word posts.",
+   "status": "ready",
+   "checkedAt": "2026-11-19",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-ai-medicare-open-enrollment",
+   "title": "AI explains Medicare. Medicare.gov picks the plan. Deadline Dec 7.",
+   "topic": "AI for 55+ / Medicare open enrollment",
+   "angle": "AI is great at explaining Medicare jargon. It is not the place to pick your plan. Use both the right way before Dec 7.",
+   "bullets": [
+    "Medicare open enrollment ends Dec 7, 2026.",
+    "AI chatbots can explain terms (Part D, deductible, formulary) and help write questions, but they can't reliably confirm current local plan prices, networks or drug coverage.",
+    "The real numbers: Medicare.gov Plan Finder by ZIP code, with your actual prescriptions and pharmacy.",
+    "Free human help: SHIP counselors and 1-800-MEDICARE."
+   ],
+   "body": "{$XX a month} is what the wrong drug plan could cost someone I know. AI helped me understand the Medicare words. The plan check still goes on Medicare.gov with real prescriptions. Deadline is Dec 7. Has anyone in your family checked their plan this year?",
+   "framework_body": "{$XX a month}.\n\nThat's what the wrong drug plan could cost {someone I know}.\n\nMedicare open enrollment ends December 7. And this is a place where AI really helps, if you use it right.\n\nWhat AI is great at:\n1. Explaining the words. Part D, formulary, deductible, out-of-pocket max. Ask it like you'd ask a patient friend.\n2. Writing your questions down before you call anyone.\n3. Making a simple checklist of your prescriptions and doctors.\n\nWhere AI stops:\nIt can't reliably tell you this year's price for a plan in your ZIP code, or whether your pharmacy and your exact drugs are covered. Plans change every year.\n\nThat part goes on Medicare.gov Plan Finder, with your real prescriptions typed in. If you want a human, SHIP counselors are free, and so is 1-800-MEDICARE.\n\nAI explains. You verify.\n\nHas anyone in your family checked their plan this year?",
+   "links": [
+    "https://www.medicare.gov/plan-compare/",
+    "https://healthjournalism.org/blog/2026/10/ai-medicare-enrollment-advice-risks/"
+   ],
+   "ocr": "OK",
+   "ocr_why": "Deadline urgency and a strong 55+ save; OK not Strong because it can read like a PSA, so keep your own voice and the {someone I know} number.",
+   "pixel": "\"Here's how I'd use AI to get ready for Medicare enrollment, and where I'd stop and check the real numbers.\"",
+   "premium_target": "Quote a verified AI or seniors-finance creator posting about open enrollment: one line, \"AI explains, you verify.\" Do not claim your own coverage.",
+   "status": "ready",
+   "checkedAt": "2026-11-19",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-home-batteries-no-credit",
+   "title": "$21,000 home battery, no tax credit, and people are still buying",
+   "topic": "Home batteries / outages (soft battery, use once)",
+   "angle": "The federal credit is gone and people are still putting batteries on their houses. The reason is outages and bills, not politics.",
+   "bullets": [
+    "US home batteries added 746 MWh in Q3 2026, the best Q3 ever (SEIA/Benchmark via Electrek, Nov 18). Year-to-date home installs still down 12% after the federal residential credit ended Dec 31, 2025.",
+    "Colorado is one of 11 states that already broke its annual storage record with three months to go.",
+    "Total US battery storage passed 200 GWh.",
+    "Pittsburgh homeowner example: battery cost over $21,000; she says she doesn't even notice short outages now (WESA, Nov 18)."
+   ],
+   "body": "$21,000 for a home battery with no tax credit, and people are still buying. Outages and bills beat politics. My setup: {my solar and backup setup at home}. Would a battery be worth it at your house without the credit?",
+   "framework_body": "$21,000 for a home battery. No tax credit. And people are still buying.\n\nThe federal credit for home solar and batteries ended last year. Everyone figured sales would crash. Instead, home batteries just had their best summer ever in the US.\n\nColorado is one of 11 states that already broke its yearly storage record, with three months still to go.\n\nOne homeowner in Pittsburgh spent over $21,000 on hers. Her line stuck with me: she doesn't even notice the short outages anymore.\n\nThat's the whole pitch. It's not politics. It's the lights and the fridge staying on.\n\nMy setup: {my solar and backup setup at home}.\n\nWould I do it without the credit? {my honest take on battery cost vs peace of mind}.\n\nWould a battery be worth it at your house without the credit?",
+   "links": [
+    "https://electrek.co/2026/11/18/us-battery-storage-just-topped-200-gwh-heres-where-it-is/",
+    "https://www.wesanews.org/environment-energy/2026-11-18/residential-solar-panels-pittsburgh-cost"
+   ],
+   "ocr": "OK",
+   "ocr_why": "Dollar opener and an easy question; battery lane is soft-pedal for you, so this is a one-time use.",
+   "pixel": "In front of your Enphase gear: \"Here's what my solar does when the power goes out.\" Only if true for your setup.",
+   "premium_target": "Quote @Enphase or @teslaenergy on home backup: one line on families wanting the lights on, not specs. Do not claim you own a battery unless you do; keep the {fill-in}.",
+   "status": "ready",
+   "checkedAt": "2026-11-19",
+   "window": "Brian picks"
+  }
+ ]
+}
