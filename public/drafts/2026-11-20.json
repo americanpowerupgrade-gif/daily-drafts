@@ -1,0 +1,135 @@
+{
+ "date": "2026-11-20",
+ "label": "FRAMEWORK drafts (rewrite-before-post). Draft-only; you post it yourself.",
+ "growth_bets": [
+  "F1 GM V2G $16,099: 'your car pays you back' is a fresh money angle EV owners will save and argue about, and it pulls verified EV accounts into replies (232 verified last known, 268 to 500).",
+  "F3 AI books your trip: AI for everyday people, not scary, tied to travel week; the 'book it or just find it' question pulls replies from older followers and gets saved and shared with family."
+ ],
+ "held": "Held from pack: AP3 Kia EV1 $22-24K (US launch and pricing not confirmed), AP7 MA free batteries (Brian already saw it twice), AP8 Tesla Megacharger TX/UT (policy/infrastructure; reply-only). Overnight LIVE skipped per 2026-11-20-overnight-live.md. Post-pack rescan since 2123552996319744270: zero new posts.",
+ "drafts": [
+  {
+   "id": "ready-gm-v2g-16099",
+   "title": "$16,099 to let your EV power your house: GM V2G pilot in California",
+   "topic": "EV as home battery / vehicle-to-grid",
+   "angle": "The EV in the garage is turning into the biggest battery in the house, and now a utility pilot will help pay for it and pay you to use it. The next step for EV owners after solar.",
+   "bullets": [
+    "GM Energy and WeaveGrid are launching a vehicle-to-grid pilot with Southern California Edison customers (Electrek, Nov 19).",
+    "Eligible drivers can get up to $8,000 toward a GM Energy V2H system plus up to $8,099 toward installation through the California Energy Commission, over $16,000 total.",
+    "Drivers can be paid for taking part in demand-response events when the grid is tight; savings depend on rate plan and use.",
+    "Pilot covers Chevy, GMC and Cadillac EVs. GM already offers managed charging through 13 utilities."
+   ],
+   "body": "$16,099. That's the help California is offering some GM EV owners to let the car power the house and get paid when the grid is tight. My car sits parked {how many hours a day my car sits}. If your car could pay you back, would you hook it up to your house?",
+   "framework_body": "$16,099.\n\nThat's how much help some GM EV owners in California can get to let their car power the house. Up to $8,000 for the equipment and up to $8,099 for the install.\n\nAnd when the grid gets tight on a hot afternoon, the utility pays you to send a little power back.\n\nMost of us bought an EV to stop buying gas. Turns out the car is the biggest battery in the house. Mine sits parked {how many hours a day my car sits}.\n\nMy solar already covers {my monthly number}. If the car could keep the fridge and the furnace fan running during an outage and earn a few bucks on the side, that's not a science project. That's independence.\n\nRight now it's a California pilot for Chevy, GMC and Cadillac owners. I want to see it come to Colorado.\n\nIf your car could pay you back, would you hook it up to your house?",
+   "links": [
+    "https://electrek.co/2026/11/19/gms-v2g-pilot-wants-to-pay-california-drivers-for-power-from-parked-evs/"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Dollar opener, new 'your car pays you back' money angle for his most engaged EV audience, easy yes/no question.",
+   "pixel": "Standing by your car and home charger: \"My car sits here {hours} a day. What if it paid me back?\"",
+   "premium_target": "Quote Electrek's or Sawyer Merritt's post on the GM V2G pilot if one is up (none confirmed yet); one line: \"The car is the biggest battery in the house. Pay me to use it.\"",
+   "status": "ready",
+   "checkedAt": "2026-11-20",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-gas-372-vs-charging",
+   "title": "Gas fell to $3.72. Does my EV still win?",
+   "topic": "EV vs gas cost / Thanksgiving travel",
+   "angle": "Gas is dropping before Thanksgiving. First-hand check: his own real charging cost on a trip vs the gas math. Not anti-gas, just run your own numbers.",
+   "bullets": [
+    "AAA national average for regular: $3.72 on Nov 19, down 18 cents in a week; could fall about another 15 cents by Thanksgiving.",
+    "Still more than 60 cents higher than a year ago.",
+    "AAA national average at public EV chargers: 42 cents per kWh, unchanged on the week.",
+    "AAA expects nearly 73 million road trips for Thanksgiving."
+   ],
+   "body": "$3.72 gas, says AAA. Public charging averages 42 cents a kWh. My last run on I-70 cost {my charging cost for the trip}. Same miles on gas: {what gas would have cost}. Gas dropping 18 cents doesn't change my math. Does it change yours?",
+   "framework_body": "$3.72 a gallon. That's the national average, per AAA, down 18 cents in a week.\n\nGood news for everybody hitting the road for Thanksgiving. So does an EV still make sense?\n\nAAA says public charging averages 42 cents a kWh. Most of my charging happens at home for {$XX per kWh}.\n\nMy last run on I-70 cost {my charging cost for the trip}. The same miles in a gas car would have been {what gas would have cost}.\n\nRoad trips are where people think EVs lose. {my honest take on a Glenwood or Rifle charging stop}.\n\nI'm not here to tell anybody what to drive. I just want people to run their own numbers instead of guessing.\n\nGas dropping 18 cents doesn't change my math. Does it change yours?",
+   "links": [
+    "https://newsroom.aaa.com/2026/11/gas-prices-keep-dropping-as-thanksgiving-approaches/"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "First-hand numbers, pocketbook, timely, and invites people to post their own math in replies.",
+   "pixel": "At a Supercharger or your home charger: \"Gas is $3.72. Here's what my trip actually cost.\"",
+   "premium_target": "Standalone post. If a verified EV owner posts a Thanksgiving trip cost today, quote it with your own number.",
+   "status": "ready",
+   "checkedAt": "2026-11-20",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-ai-books-trip",
+   "title": "AI that books your trip, and shows the refund rules first",
+   "topic": "AI for everyday people / travel",
+   "angle": "AI for normal people right before Thanksgiving travel. Useful and not scary, but you stay in charge of the final click.",
+   "bullets": [
+    "Grok Bot announced on Nov 18 that it can now book flights, hotels and rental cars.",
+    "Its Nov 16 update shows bag, change and refund rules before booking, and says which filters it relaxed if there's no exact match.",
+    "Nov 18 update: if a final purchase can't be confirmed, it sends you the link instead of clicking again, to avoid double tickets.",
+    "Launch demo showed a Southwest fare at $142.80 (demo only, not a real booking).",
+    "Not yet stated: which plans get booking."
+   ],
+   "body": "$142.80 for a flight, in the demo. Grok Bot can now book flights, hotels and rental cars from one sentence, and it shows the bag and refund rules before you pay. {what I'd let it book for me}. Would you let AI book your trip, or just find it?",
+   "framework_body": "$142.80 for a flight. That was the demo.\n\nGrok Bot can now book flights, hotels and rental cars. You tell it where and when in plain English, and it lays out the bag fees, change rules and refund rules before you pay.\n\nIf it can't confirm the purchase, it sends you the link instead of trying again. No double tickets.\n\nThis is the kind of AI I want my friends and neighbors to know about. Not robots taking over. Just help with the stuff that eats an hour of your evening.\n\nI use AI every day. Here's what I'd let it do for me: {what I'd let it book for me}.\n\nMy rule: {my rule for AI and my credit card}. I still check the final total on the airline's own page. That's not fear, that's common sense.\n\nWould you let AI book your trip, or just find it?",
+   "links": [
+    "https://superchargeddaily.com/dispatch/grok-bot-books-travel.html",
+    "https://x.ai/changelog/bot"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Non-technical AI-for-everyone, timely with travel week, easy reply question for older followers.",
+   "pixel": "Phone to camera: \"I asked AI to find me a flight. Here's the one thing I still check myself.\"",
+   "premium_target": "Quote the official @bot Nov 18 travel announcement (find it in the app; URL not confirmed here).",
+   "status": "ready",
+   "checkedAt": "2026-11-20",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-ca-balcony-solar",
+   "title": "California lets renters plug solar into a balcony outlet starting January",
+   "topic": "Renter solar / plug-in balcony solar",
+   "angle": "Solar for people without a roof of their own. US angle only (Europe was covered elsewhere). Should Colorado copy it?",
+   "bullets": [
+    "SB 868, the Plug and Play Solar Act, lets Californians install plug-in solar on balconies, railings, patios or ground stands starting January (NY Post, Nov 19).",
+    "One or two panels plus a microinverter, capped at 1,200 watts per home; must be UL or equivalent certified.",
+    "Landlords and HOAs still get a say; the exemption expires Jan 1, 2030.",
+    "Early online estimates put savings around $250 to $400 a year depending on sun and rates (estimates, not official).",
+    "Only two certified devices on the market so far, per Will Prowse as cited by NY Post."
+   ],
+   "body": "$250 to $400 a year. That's what folks figure a balcony solar kit could save under California's new plug-in law, starting January. My roof makes {what my panels make on a sunny day}. Renters can't do that. Should Colorado let renters plug in?",
+   "framework_body": "$250 to $400 a year.\n\nThat's the rough savings people are figuring for a balcony solar kit under California's new plug-in solar law. It starts in January.\n\nOne or two panels on a railing or a patio, plugged into a regular outlet. Capped at 1,200 watts, has to be certified, and landlords and HOAs still get a say.\n\nIt won't run the house. But it chips away at the bill every single month.\n\nI've got panels on my own roof and they make {what my panels make on a sunny day}. A lot of folks rent, or live in an apartment, and never get a piece of that.\n\n{my take on renters and solar}.\n\nColorado has plenty of sun and plenty of renters. Should we let them plug in too?",
+   "links": [
+    "https://nypost.com/2026/11/19/lifestyle/new-california-law-allows-solar-panels-on-balconies-with-a-few-stipulations/"
+   ],
+   "ocr": "OK",
+   "ocr_why": "Good renter and family-budget angle with a dollar opener; savings range is estimates, not official.",
+   "pixel": "\"If you rent, would you hang two solar panels on your balcony to cut the bill?\"",
+   "premium_target": "None confirmed. If Will Prowse has a post on certified balcony kits, quote it with one line on renters.",
+   "status": "ready",
+   "checkedAt": "2026-11-20",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-mesa-county-solar-setback",
+   "title": "Mesa County cuts the big-solar setback from 500 feet to 150",
+   "topic": "Local solar / landowners",
+   "angle": "His own county. Landowners and family farms vs neighbors. He's a rooftop solar owner here; keep it neighborly, not political.",
+   "bullets": [
+    "Mesa County commissioners unanimously adopted a land development code overhaul on Tuesday, Nov 17 (KJCT, Nov 18).",
+    "Setback for large-scale solar from residential areas cut from a proposed 500 feet to 150 feet.",
+    "About 150 public comments came in; supporters said solar leases could help save a family farm.",
+    "Commissioner JJ Fletcher cited past solar companies not following permit conditions.",
+    "The code also drops the 180-day limit on living in an RV on your own property."
+   ],
+   "body": "{$XX my panels saved me this year} on my own roof here in Mesa County. Commissioners just cut the setback for big solar farms from 500 feet to 150. Landowners say a solar lease can save a family farm. Fair to neighbors or not?",
+   "framework_body": "My panels saved me {$XX my panels saved me this year} on my own roof here in Mesa County.\n\nThis week our commissioners cut the setback for big solar farms. It was proposed at 500 feet from homes. Now it's 150.\n\nAbout 150 people weighed in. Landowners said a solar lease can be the thing that keeps a family farm in the family. One commissioner pointed out that some solar companies haven't followed their permits in the past.\n\nI'm a rooftop guy, so this isn't about me. It's about a farmer with land and bills, and a neighbor who wants a say in what goes up next door.\n\n150 feet, plus companies that actually follow their permits, sounds like a fair middle to me. {my take}.\n\nNeighbors, is 150 feet fair or not?",
+   "links": [
+    "https://www.kjct8.com/2026/11/18/land-developer-code-overhaul-mesa-county-sparks-debate-solar-panels-glade-park-protections/"
+   ],
+   "ocr": "OK",
+   "ocr_why": "First-hand local solar owner with a family-farm money angle; local reach is smaller and the topic can turn political, so keep it neighborly.",
+   "pixel": "In front of your panels: \"My county just changed the rules for solar farms. Here's my take.\"",
+   "premium_target": "None (local story). Reply under KJCT's post if they shared it on X.",
+   "status": "ready",
+   "checkedAt": "2026-11-20",
+   "window": "Brian picks"
+  }
+ ]
+}
