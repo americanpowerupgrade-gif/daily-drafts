@@ -1,0 +1,133 @@
+{
+ "date": "2026-11-21",
+ "label": "FRAMEWORK drafts (rewrite-before-post). Draft-only; you post it yourself.",
+ "growth_bets": [
+  "F1 IONNA $0.20 Thanksgiving: a real holiday money number at the same Fruita charger that was your best post this week. EV owners save and share it, and it pulls verified EV road-trip accounts into the replies (232 verified last known, 268 to 500).",
+  "F3 phone-bot tip swap: everybody has a 'get me a human' story. The question reaches a broad 35-54 and 55+ crowd outside the EV niche and makes AI feel less scary, not more."
+ ],
+ "held": "Held from pack: AP5 Jackery NYC renter battery (soft, batteries soft-pedaled), AP7 Colorado EV share 10.2% (Nov 4, downer, reply context only). Post-pack rescan since 2124011485202374900: zero new posts.",
+ "drafts": [
+  {
+   "id": "ready-ionna-020-thanksgiving",
+   "title": "$0.20 a kWh at IONNA for Thanksgiving week",
+   "topic": "EV charging / holiday road trip",
+   "angle": "Holiday drive math at his own Fruita charger. He only replied about the special last night; a standalone first-hand post is new. Confirm the price in the IONNA app before posting.",
+   "bullets": [
+    "IONNA Thanksgiving special: $0.20/kWh plus tax, Nov 25 to Nov 29 (owner forum post; confirm in the IONNA app before posting).",
+    "Normal IONNA price is up to $0.39/kWh plus tax (ionna.com), so roughly half off.",
+    "IONNA's Fruita, CO Rechargery is on the I-70 route; Plug & Charge for Tesla is live (Electrek, Nov 18).",
+    "Brian's first Presto app session at Fruita on Nov 20 was $0.10/kWh (his own live post)."
+   ],
+   "body": "$0.20 a kWh. That's what @ionnaofficial is charging Nov 25 to 29 for Thanksgiving week, down from $0.39. My first session at the Fruita Rechargery was $0.10 with the Presto app. {photo of my Model Y at IONNA Fruita} Anybody planning their holiday drive around this? ⚡",
+   "framework_body": "$0.20 a kWh.\n\nThat's what @ionnaofficial is running Thanksgiving week, Nov 25 to 29. Normal price is up to $0.39, so it's about half off.\n\nI stopped at the Fruita Rechargery this week and my first session with the Presto app was $0.10. Plugged in, charged, paid. No fumbling around in the cold.\n\nIf I drive {my Thanksgiving trip miles} and add about {kWh I expect to add}, that's roughly {my charging cost at $0.20}. The same trip on gas would run me {gas cost for the same trip}.\n\nThat's how you get regular families to try an EV road trip. Make it cheap and make it easy.\n\nAnybody planning their holiday drive around this? {photo of my Model Y at IONNA Fruita}",
+   "links": [
+    "https://www.ionna.com/ev-charging-cost/",
+    "https://lucidowners.com/threads/ionna-thanksgiving-holiday-special.17466/",
+    "https://electrek.co/2026/11/18/ionna-enables-plug-charge-for-tesla-opens-22-bay-site-in-westminster-ca/"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Dollar opener at his own local charger, same shape as his best post this week, holiday trip question.",
+   "pixel": "At the Fruita Rechargery, show the price screen: \"Here's what Thanksgiving week costs to charge.\"",
+   "premium_target": "Quote or reply to @ionnaofficial's post on the special, or a verified EV road-trip account sharing holiday charging tips.",
+   "status": "ready",
+   "checkedAt": "2026-11-21",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-co-ev-backup-no-approval",
+   "title": "Colorado: EV home backup with no utility approval",
+   "topic": "EV as home backup / Colorado",
+   "angle": "Your truck can keep the lights on, and Colorado just cut the red tape. Local, independence, money. Do not claim his Model Y does this.",
+   "bullets": [
+    "Colorado PUC approved a settlement Oct 22, 2026 (Ford, Xcel Energy, Black Hills Colorado Electric).",
+    "EVs set up as backup-only (power to the house only when it's cut off from the grid) are not interconnection resources: no application, no utility approval.",
+    "Simple optional notification (name, address, local permit); no penalty for skipping it.",
+    "Systems that push power while still grid-connected still follow interconnection rules. Colorado joins Michigan, Maryland and California."
+   ],
+   "body": "$0 in utility paperwork. Colorado now says an EV used only as home backup, when the grid's down, doesn't need interconnection approval. My last outage lasted {how long my power was out}. Would you use your truck or car to keep the lights on?",
+   "framework_body": "No application. No utility approval.\n\nColorado's PUC just signed off on a deal with Ford, Xcel and Black Hills. If your EV only powers your house when the grid is down, it's not treated like a power plant anymore. A simple optional notice is it.\n\nIf you want to send power back while still on the grid, that's still the old rules. Fair enough.\n\nMy last outage lasted {how long my power was out}. I've got Enphase solar on the roof and {what my solar does in an outage}.\n\nA truck in the driveway that keeps the fridge and furnace running is real independence. Michigan, Maryland and California already did this. Glad Colorado's on the list.\n\nWould you use your truck or car to keep the lights on?",
+   "links": [
+    "https://evinfo.net/2026/11/colorado-clarifies-rules-for-ev-home-backup-power-systems/"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Local Colorado independence story with a clear rule change and an easy yes/no question.",
+   "pixel": "Standing by your panel or solar gateway: \"Colorado just made this easier. Here's what I'd want in an outage.\"",
+   "premium_target": "Verified F-150 Lightning / Ford EV owner account, or a Colorado energy reporter covering the PUC decision.",
+   "status": "ready",
+   "checkedAt": "2026-11-21",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-phone-bot-92pct",
+   "title": "92% give a phone bot under 10 minutes",
+   "topic": "AI for everyday people / customer service",
+   "angle": "AI for normal people. Everyone hates the bot maze; share the trick to reach a person, and say AI isn't the enemy, a bot with no exit is.",
+   "bullets": [
+    "Five9 survey of 3,000 consumers (US/UK/Germany): 92% give AI customer service under 10 minutes before asking for a person.",
+    "Trust more than doubles (55% vs 26%) when a human option is visible (Five9).",
+    "AnswerConnect/OnePoll survey of 6,000 adults (Nov 19): 55% less likely to become a customer when a bot answers; 31% would hang up."
+   ],
+   "body": "92% of people give a customer service bot less than 10 minutes before they want a human. I last about {how long I last with a phone bot}. My trick is {my go-to phrase to reach a person}. What's yours?",
+   "framework_body": "92%.\n\nThat's how many people give a customer service bot less than 10 minutes before they want a real person. I'm in that group. I last about {how long I last with a phone bot}.\n\nHere's the thing. I use AI every day. It helps me {one way I use AI at home}. AI isn't the problem. A bot with no way out is.\n\nOne survey found trust more than doubles when a human option is right there on the screen. Makes sense. Give me the exit and I'll actually try the bot.\n\nMy trick is {my go-to phrase to reach a person}. Some folks press 0 or ask for a callback.\n\nWhat's yours? Share it so somebody's mom doesn't spend an hour on hold.",
+   "links": [
+    "https://www.five9.com/news/news-releases/new-five9-research-reveals-consumers-embrace-ai-customer-service-trust-still",
+    "https://www.prnewswire.com/news-releases/the-hidden-cost-of-ai-on-the-phone-55-of-consumers-less-likely-to-buy-when-a-bot-answers-302945004.html"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Universal pain point, tip-swap question pulls replies and saves from a broad 35-54 and 55+ crowd.",
+   "pixel": "\"Here's how I get past the phone robot\" plus your actual trick.",
+   "premium_target": "Verified consumer-tech or AI-explainer account posting about chatbot frustration.",
+   "status": "ready",
+   "checkedAt": "2026-11-21",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-fsd-deer-quote",
+   "title": "The car saw the deer first",
+   "topic": "FSD / night driving safety",
+   "angle": "Quote-post @kyfloyd's clip with a Western Slope deer-season take. Safety for families, not specs.",
+   "bullets": [
+    "@kyfloyd, driving home late on FSD in a Model Y: \"I didn't see the deer. But my car did.\" 30-second clip.",
+    "About 1.87M views, 4.1K likes, 674 bookmarks (X public metrics, Nov 21).",
+    "Viewers noted matrix headlights dimmed for oncoming traffic, leaving the deer in shadow.",
+    "@kyfloyd shows as not verified: a quote for the video, not a verified-reply play."
+   ],
+   "body": "I've driven thousands of miles on FSD, and this is the clip I'd show anybody who drives I-70 or US-50 after dark out here. {my own deer close call} Has your car ever spotted something before you did? 🦌",
+   "framework_body": "\"I didn't see the deer. But my car did.\"\n\nAnybody who drives I-70 or US-50 after dark on the Western Slope knows this is real. Late fall, they're everywhere.\n\nI've driven thousands of miles on FSD. {my own deer close call}\n\nA deer hit is a deductible, a rental, and weeks in the body shop. My deductible is {my deductible}. A car that sees in the dark better than I do is worth a lot more than a spec sheet.\n\nHas your car ever spotted something before you did?",
+   "links": [
+    "https://x.com/kyfloyd/status/2122884601312125319"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Viral clip plus local roads and a human moment; story question invites replies.",
+   "pixel": "In the driver's seat at dusk: \"Here's what deer season looks like on my drive.\"",
+   "premium_target": "A verified Tesla owner account resharing the clip (reply there with your Western Slope take).",
+   "status": "ready",
+   "checkedAt": "2026-11-21",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-alabama-power-160m",
+   "title": "Alabama Power cuts rates $160M, says data centers pay full freight",
+   "topic": "AI data centers / household electric bill",
+   "angle": "Data centers don't have to raise your bill. Here's a utility saying they lower it. Keep it about the bill, no politicians.",
+   "bullets": [
+    "Alabama Power filed Nov 20, 2026 with the Alabama PSC to cut rates $160 million, starting with January 2027 bills.",
+    "Main reason given: expected revenue from large data centers that pay the full cost of their service.",
+    "A typical home using 1,000 kWh a month saves more than $50 a year."
+   ],
+   "body": "$50 a year back. Alabama Power filed to cut rates $160 million starting January 2027, and says data centers paying their full cost is the main reason. My bill this month was {my electric bill this month}. Should every utility make data centers pay their own way?",
+   "framework_body": "$160 million.\n\nThat's how much Alabama Power just asked to cut rates, starting with January 2027 bills. A typical home saves a little over $50 a year.\n\nThe reason surprised me. They say it's mostly the big data centers coming in and paying the full cost of their own power.\n\nThat's the way it should work. Let tech pay for its own power and let the rest of us share in it.\n\nMy bill this month was {my electric bill this month}, and my solar covers {my monthly number}.\n\nShould every utility make data centers pay their own way?",
+   "links": [
+    "https://www.alabamapower.com/press-releases/company/alabama-power-to-lower-rates-in-2027.html",
+    "https://www.alreporter.com/2026/11/20/alabama-power-160-million-rate-cut-2027"
+   ],
+   "ocr": "OK",
+   "ocr_why": "Real pocketbook number and a clear opinion, but out-of-state and policy-flavored.",
+   "pixel": "Holding your latest electric bill: \"Here's a utility that says AI is lowering bills.\"",
+   "premium_target": "Verified energy/business reporter covering data-center power costs.",
+   "status": "ready",
+   "checkedAt": "2026-11-21",
+   "window": "Brian picks"
+  }
+ ]
+}
