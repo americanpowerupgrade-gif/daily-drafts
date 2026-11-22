@@ -1,0 +1,136 @@
+{
+ "date": "2026-11-22",
+ "label": "FRAMEWORK drafts (rewrite-before-post). Draft-only; you post it yourself.",
+ "growth_bets": [
+  "F1 home fill-up before Thanksgiving: his own garage number against near-record gas in the biggest driving week of the year. Same first-hand dollar shape as the Fruita $0.10 post, save-and-share material for EV owners and their curious relatives, and it pulls verified EV road-trip accounts into the replies (232 verified last known, 268 to 500).",
+  "F2 Colorado's 22 unbuilt charger sites: a where-do-we-need-one question is easy reply bait for Colorado and I-70 drivers, including verified local accounts, which is exactly the verified-reply growth we need."
+ ],
+ "held": "Held from pack: AP3 Supercharger 80% cap (overlaps F1 holiday charging and the Nov 18 Thanksgiving Supercharger five; reply context only), AP6 Harbinger FedEx trucks (soft), AP8 Cybertruck turning (reply only, overlaps his live Cybertruck post). Post-pack rescan since 2124354723138674690: zero new posts.",
+ "drafts": [
+  {
+   "id": "ready-home-fillup-thanksgiving",
+   "title": "$3.64 gas vs my garage fill-up before Thanksgiving",
+   "topic": "EV home charging / holiday drive",
+   "angle": "Biggest driving week of the year with gas near a Thanksgiving record. His cheapest fill-up is in his own garage before he leaves. Different from Nov 20 (public charging vs gas) and Nov 18 (Supercharger plan): this one is home charging before the trip.",
+   "bullets": [
+    "AAA: 72.9 million Americans will drive for Thanksgiving (Nov 24 to 30), 81.5 million traveling total.",
+    "AAA national average regular was $3.6448 on Nov 22. The Thanksgiving Day record is $3.58 (2022). A year ago it was about $3.09.",
+    "Xcel Colorado time-of-use (Nov 2026, per GreenCalculus summary of the rate book): 12.72 cents per kWh off-peak vs 31.56 cents on-peak, 5 to 9 p.m. weekdays.",
+    "Tesla owner guidance: leaving at 100% is fine if you head out soon after it finishes."
+   ],
+   "body": "$3.64 a gallon this morning and 72.9 million of us are driving for Thanksgiving. My Model Y fills up in my garage for about {my cost per kWh at home} before I ever hit I-70. {photo of my car plugged in at home} You charging at home or stopping on the road this week?",
+   "framework_body": "$3.64 a gallon.\n\nThat's the national average this morning, and AAA says 72.9 million of us are driving for Thanksgiving. A year ago it was about $3.09.\n\nMy fill-up happens in my garage the night before. Off-peak on Xcel here is about 12.7 cents a kWh, and I pay {my cost per kWh at home}.\n\nMy trip is {my trip miles}. That's about {kWh I'll use}, or roughly {what that costs at home}. A gas car at {mpg} would burn {gas cost for the same trip} at today's price.\n\n{what my Enphase panels made this month, if I want to add it}\n\nCheapest stop on the whole trip is the one before you leave.\n\nYou charging at home or stopping on the road this week? {photo of my car plugged in at home}",
+   "links": [
+    "https://newsroom.aaa.com/2026/11/aaa-thanksgiving-holiday-travel-forecast/",
+    "https://gasprices.aaa.com/gas-prices-keep-dropping-as-thanksgiving-approaches/",
+    "https://greencalculus.com/data/xcel-energy-colorado-electricity-rates/"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Dollar opener, his own garage and his own road, holiday week, closing question.",
+   "pixel": "In the garage next to the plugged-in Model Y: \"Here's my Thanksgiving fill-up and what it cost me.\"",
+   "premium_target": "Reply or quote under a verified EV road-trip creator posting holiday charging tips, with his home number.",
+   "status": "ready",
+   "checkedAt": "2026-11-22",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-colorado-22-unbuilt-chargers",
+   "title": "22 Colorado fast-charger sites funded, not signed",
+   "topic": "Colorado charging / I-70",
+   "angle": "The money is there, the plugs aren't all there yet. Crowdsource where the Western Slope and I-70 need one.",
+   "bullets": [
+    "CDOT told its Transportation Commission Nov 18: 18 NEVI-funded charging plazas open, 24 in development, 22 awarded but not yet contracted (64 total).",
+    "CDOT says Colorado's NEVI money is fully obligated; Round 10 applications due Dec 5, 2026; remaining awards hoped for by mid-2027.",
+    "State DCFC Plazas grant this round is about $14 million; ports must deliver at least 150 kW, minimum four per site.",
+    "Lyons opened four Level 3 chargers at Sandstone Park Nov 20, battery-backed, run by Jule."
+   ],
+   "body": "22. That's how many Colorado fast-charging sites have the money but no signed contract yet. 18 are open. I charge at {my usual I-70 stop} and I'd love one in {town that needs one}. Where on I-70 or the Western Slope do you wish there was a fast charger?",
+   "framework_body": "22.\n\nThat's how many Colorado fast-charging sites have been awarded money but still don't have a signed contract, per CDOT this week. 18 are open and 24 more are being built.\n\nOver here on the Western Slope I mostly use {my usual I-70 stop}. A good stop to me is simple: a fast plug, a clean restroom, and somewhere to grab food. Fruita does that right.\n\nWhere I'd put the next one: {town that needs one}, because {why}.\n\nFunded isn't the same as plugged in.\n\nWhere on I-70 or the Western Slope do you wish there was a fast charger?",
+   "links": [
+    "https://www.atthecharger.com/article/colorado-nevi-22-awarded-uncontracted-18-open",
+    "https://energyoffice.colorado.gov/transportation/grants-incentives/dcfc-plazas",
+    "https://www.timescall.com/2026/11/21/lyons-ev-charging/"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Number opener, local to him, and a where-do-we-need-one question Colorado EV drivers will answer.",
+   "pixel": "Roadside on I-70 or at a charger: \"Colorado has 22 charging sites paid for but not built. Here's where I'd put one.\"",
+   "premium_target": "Reply under a verified Colorado EV or charging account (for example @ionnaofficial or a Colorado EV reporter) with his pick.",
+   "status": "ready",
+   "checkedAt": "2026-11-22",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-enphase-8m-us-made",
+   "title": "8 million US-made Enphase micros (I've got IQ8+)",
+   "topic": "Solar hardware he owns",
+   "angle": "Owner's take on the company behind his own roof: made here, and what he wants from any solar company years later.",
+   "bullets": [
+    "Enphase (Nov 9): more than 8 million IQ microinverters and nearly 500 MWh of IQ Batteries shipped from US contract manufacturing since 2023.",
+    "About 90.8 million microinverters shipped total; 5.3 million+ systems in 165+ countries.",
+    "Enphase is also building power modules for AI data centers in Arlington, Texas.",
+    "Leave out the reported 8-K restructuring unless he confirms it in the filing himself."
+   ],
+   "body": "8 million. That's how many @Enphase microinverters have come off US lines since 2023. My IQ8+ system has been on my roof since 2023 and {how it's held up for me}. Does made in America matter to you when you buy solar?",
+   "framework_body": "8 million.\n\nThat's how many Enphase microinverters have been built in the US since 2023, per the company.\n\nMine are IQ8+ and they've been on my roof since 2023. So far {how it's held up for me}. The app says {my lifetime kWh}.\n\nHere's what I care about as a customer: the panels make power, the app tells me what's going on, and somebody picks up the phone years later. {any service call I've had}\n\nMade here is a plus. Support is the deal.\n\nDoes made in America matter to you when you buy solar? {screenshot of my Enphase app}",
+   "links": [
+    "https://www.globenewswire.com/news-release/2026/11/09/3398358/0/en/enphase-energy-announces-more-than-8-million-iq-microinverters-and-nearly-500-mwh-of-iq-batteries-have-shipped-from-u-s-manufacturing-facilities.html"
+   ],
+   "ocr": "OK",
+   "ocr_why": "Hardware he owns and a brand tag, but the number is corporate, so his own app numbers have to carry it.",
+   "pixel": "Phone showing his Enphase app: \"Here's what my panels did this year.\"",
+   "premium_target": "@Enphase's own post, or a verified solar installer account.",
+   "status": "ready",
+   "checkedAt": "2026-11-22",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-ai-black-friday-price",
+   "title": "43% would use AI to find the best Black Friday price",
+   "topic": "AI for normal people",
+   "angle": "Use AI to check the price, then check the AI. Broad 35-54 and 55+ reach outside the EV niche. Not a scam post (those went live Nov 21).",
+   "bullets": [
+    "YouGov via EMARKETER: 30% of US Black Friday/Cyber Monday shoppers have used AI to help them shop; 27% more would consider it.",
+    "43% would use AI to find the best price, 37% to track price changes; only 5% would let it complete a purchase even with approval.",
+    "Blue Yonder: 46% of US shoppers have returned something bought after an AI recommendation; 36% because it wasn't as described.",
+    "BCG (Nov 4): only 54% trust Black Friday discounts are actually lower than normal."
+   ],
+   "body": "43% of shoppers say they'll use AI to find the best Black Friday price. I asked {Grok or ChatGPT} to check {item I'm shopping for} and it found {what it found}. Still read the return policy yourself. Would you let an AI hit the buy button for you?",
+   "framework_body": "43%.\n\nThat's how many Black Friday shoppers say they'd use AI to find the best price. Only 5% would let it actually buy something.\n\nI tried it. I asked {Grok or ChatGPT} about {item I'm shopping for}. It told me {what it found}, and {whether the deal was real}.\n\nBCG says only about half of us trust Black Friday prices are really lower. That matches my gut.\n\nMy rule: let AI do the digging, then I check the price and the return policy myself before I click anything.\n\nWould you let an AI hit the buy button for you?",
+   "links": [
+    "https://www.emarketer.com/content/ai-shopping-gains-traction-black-friday-trust-remains-hurdle",
+    "https://www.bcg.com/press/4november2026-consumer-trust-black-friday-discounts-promotion-fatigue"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Broad, useful, real-life try-it with a yes/no question that pulls replies.",
+   "pixel": "Holding the phone with the AI price check on screen: \"Here's how I checked a deal with AI, and the one thing I still do myself.\"",
+   "premium_target": "A verified tech or deals creator posting AI shopping tips this week.",
+   "status": "ready",
+   "checkedAt": "2026-11-22",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-smr-tva-45m-homes",
+   "title": "4.5 million homes from small reactors with TVA (policy)",
+   "topic": "SMRs in plain English",
+   "angle": "What a small reactor plant is and who it's for, in kitchen-table terms. Honest about what isn't built yet. No politics.",
+   "bullets": [
+    "ENTRA1 (NuScale's commercialization partner) signed Sargent & Lundy Nov 18 to engineer NuScale SMR plants.",
+    "Each module is 77 MW; a 12-module plant is 924 MW.",
+    "TVA program: up to 6 GW, which the companies say could power about 4.5 million homes or about 60 data centers.",
+    "No VOYGR plant has been built yet; cost and build time are still estimates. NuScale cancelled its first Utah project in 2023."
+   ],
+   "body": "4.5 million homes. That's what up to 6 GW of small reactors planned with TVA could power, per the companies. None of these plants exist yet and cost is the big question. Would you want a small reactor powering your town?",
+   "framework_body": "4.5 million homes.\n\nThat's what up to 6 GW of small nuclear reactors planned with TVA could power, according to the companies. Or about 60 data centers.\n\nPlain version: each module is 77 MW, and a full plant stacks 12 of them for 924 MW.\n\nHere's the catch. None of these plants have been built yet. NuScale's first project in Utah got cancelled in 2023 over cost.\n\nI like the idea of steady power that isn't burning anything. I just want to see what it does to {my monthly electric bill} before I cheer.\n\nWould you want a small reactor powering your town?",
+   "links": [
+    "https://energynews.biz/entra1-sargent-lundy-nuscale-924-mw/"
+   ],
+   "ocr": "OK",
+   "ocr_why": "Clear number and a fair take, but no first-hand hook, so it leans on the question.",
+   "pixel": "",
+   "premium_target": "A verified nuclear or energy explainer account posting about SMRs.",
+   "status": "ready",
+   "checkedAt": "2026-11-22",
+   "window": "Brian picks"
+  }
+ ]
+}
