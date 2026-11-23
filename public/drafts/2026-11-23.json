@@ -1,133 +1,133 @@
 {
- "date": "2026-11-23",
- "label": "FRAMEWORK drafts (rewrite-before-post). Draft-only; you post it yourself.",
- "growth_bets": [
-  "F1 Supercharger Waitlist: holiday week, first-hand, and every EV owner has a charger-line story. Best shot at Premium replies and saves from verified EV road-trip accounts (232 verified last known, 268 to 500).",
-  "F2 tap-to-pay card readers: a simple yes/no with an EU-to-US lesson and his own IONNA stop. Easy for verified EV accounts to quote and argue with."
- ],
- "held": "Held from pack: AP2 16 Supercharger sites / 212 stalls (too close to Nov 22 CO NEVI post), AP4 Briggs 16 kWh battery (battery soft-pedal, no price), AP8 Korea-US-Japan SMR talks (no household number, SMR posted Nov 22). Post-pack rescan since 2124721766409146817: zero new posts.",
- "drafts": [
-  {
-   "id": "ready-supercharger-waitlist-300",
-   "title": "Supercharger Waitlist at 300 US sites, 3 minutes to plug in",
-   "topic": "EV charging / holiday road trip",
-   "angle": "No more circling the lot guessing who's next. The car holds your place in line now, right before the busiest charging week of the year. He RT'd the pilot on Nov 19; this is the 300-site rollout and his own Thanksgiving stops, not a repeat.",
-   "bullets": [
-    "Tesla turned on Supercharger Waitlist at 300 US sites (announced Nov 19). The pilot started in May at 5 sites in CA and NY.",
-    "Join from the Tesla app (v4.62.3 or newer) or the touchscreen (software 2026.38 or newer). Navigating to the site in a Tesla can add you automatically as you get close.",
-    "When it's your turn you get a stall and 3 minutes to plug in, with an option to add 30 seconds. Tapping Can't Charge on a blocked stall keeps your turn.",
-    "Older Tegra-screen Teslas use the app. Non-Tesla EVs can join through the Tesla app too."
-   ],
-   "body": "300 Superchargers now have a waitlist, right before the busiest charging week of the year. When it's your turn you get 3 minutes to plug in. {does my local Supercharger show Join Waitlist yet} I'm hoping this ends the who-was-here-first standoff. Would you trust the line or just wait it out?",
-   "framework_body": "300 Superchargers just got a waitlist.\n\nTesla turned it on a week before Thanksgiving. You join from the app or the screen, and when it's your turn you get a stall and 3 minutes to plug in. Blocked stall? Tap Can't Charge and you keep your spot.\n\nMy stops this week: {my planned stops on I-70}. {does Grand Junction or Glenwood show Join Waitlist yet}\n\nLongest I've ever sat waiting: {my longest Supercharger wait}. Nobody knew who was next.\n\nFair line, fewer arguments. 👍\n\nWould you trust the line or just wait it out?",
-   "links": [
-    "https://teslanorth.com/2026/11/19/tesla-supercharger-waitlist-300-us-sites/"
-   ],
-   "ocr": "Strong",
-   "ocr_why": "His car, his holiday trip, number opener, a friction every EV owner has felt, closing question.",
-   "pixel": "In the Model Y at a Supercharger, phone on the screen: \"Here's the new waitlist, and here's how many cars are ahead of me.\"",
-   "premium_target": "Quote Tesla Charging's official rollout post, or reply under a verified Tesla road-trip creator posting a holiday charger line.",
-   "status": "ready",
-   "checkedAt": "2026-11-23",
-   "window": "Brian picks"
-  },
-  {
-   "id": "ready-tap-to-pay-chargers",
-   "title": "Europe makes fast chargers take a plain bank card by Jan 1",
-   "topic": "EV charging / payments",
-   "angle": "Europe says fast chargers have to take a regular bank card, no app. We should want the same here. Different from Nov 19 Plug & Charge (auto pay): this is the card reader as the universal backup.",
-   "bullets": [
-    "EU AFIR rule (Regulation 2023/1804): new public chargers since Apr 13, 2024 must allow ad hoc payment with no contract or sign-up.",
-    "Chargers 50 kW and up can't rely on a QR code alone. They need a card reader or contactless terminal.",
-    "Starting Jan 1, 2027 the rule reaches existing high-power chargers on major routes too.",
-    "US: no federal card-reader rule for every charger, and most networks still push their own app."
-   ],
-   "body": "Europe's making fast chargers take a plain bank card by Jan 1. No app, no account. My best stop this month was {$0.10 per kWh at IONNA Fruita} through an app that worked great, but I've got {how many charging apps are on my phone} on my phone. Should US chargers take a tap-to-pay card like a gas pump?",
-   "framework_body": "Europe's making fast chargers take a plain bank card by Jan 1.\n\nNo app. No account. Tap and charge, like a gas pump. New chargers there already had to do it, and starting Jan 1 the big highway ones have to catch up.\n\nHere I've got {how many charging apps are on my phone} on my phone. My IONNA stop in Fruita was {$0.10 per kWh} and the app worked great. Not every app does.\n\n{who in my life won't download a charging app}\n\nApps are fine. A card reader should be the backup everywhere.\n\nShould US chargers have to take a tap-to-pay card?",
-   "links": [
-    "https://transport.ec.europa.eu/transport-themes/clean-transport/alternative-fuels-sustainable-mobility-europe/alternative-fuels-infrastructure/questions-and-answers-regulation-deployment-alternative-fuels-infrastructure-eu-20231804_en",
-    "https://www.accessories-tesla.com/ev-charging-card-payment-rules-europe-afir"
-   ],
-   "ocr": "Strong",
-   "ocr_why": "EU fact with a clear US-household lesson, his own IONNA stop, easy yes/no question.",
-   "pixel": "Hold up the phone with the charging-app folder open: \"This is how many apps it takes to charge an EV in America.\"",
-   "premium_target": "Quote a verified EV reporter or creator posting about tap-to-pay at chargers.",
-   "status": "ready",
-   "checkedAt": "2026-11-23",
-   "window": "Brian picks"
-  },
-  {
-   "id": "ready-solar-credit-owners-vs-leases",
-   "title": "Buying solar in 2026? The 30% credit is gone if you own it",
-   "topic": "Home solar / money",
-   "angle": "The tax break flipped. Leases still get it, owners don't. Know which deal you're being sold before you sign.",
-   "bullets": [
-    "The federal 30% residential clean energy credit (25D) ended for homeowner-owned systems installed after 2025 (IRS).",
-    "Leased or third-party-owned systems can still use the business credit through the installer (Solar Power World, Nov 16).",
-    "Some installers say owning is still the better long-run deal; leases can cost more over 25 years.",
-    "Get at least two quotes and read transfer terms before signing (Michigan AG consumer warning, Nov 10)."
-   ],
-   "body": "I put Enphase IQ8+ solar on my roof in 2023 and {what my system has saved me so far}. If you're shopping now, the 30% credit's gone for owners. Leases still get it. {would I lease or buy today} Anyone here buy solar this year without the credit?",
-   "framework_body": "I put Enphase IQ8+ solar on my roof in 2023. So far it's {what my system has saved me so far}.\n\nIf you're shopping now, the rules changed. The 30% federal credit is gone if you own the system. Leases still get it, through the installer.\n\nSo the door-knocker's lease pitch might look better on paper. Read the whole thing. Ask what it costs over 25 years and what happens when you sell the house.\n\nThe quote I'd want to see: {quote I'd want to see}. Payback I'd accept: {payback years}.\n\nOwn it if you can. Read every page if you lease. ☀️\n\nAnyone here buy solar this year without the credit?",
-   "links": [
-    "https://www.irs.gov/credits-deductions/residential-clean-energy-credit",
-    "https://www.solarpowerworldonline.com/2026/11/solar-lease-holdouts-still-see-value-in-privately-owned-residential-projects/"
-   ],
-   "ocr": "Strong",
-   "ocr_why": "His own hardware, a money rule most people don't know changed, closing question invites replies.",
-   "pixel": "Phone on the Enphase app: \"Here's what my panels made this month, and here's what I'd tell a buyer in 2026.\"",
-   "premium_target": "Reply under a verified solar installer or home-energy account fielding lease questions.",
-   "status": "ready",
-   "checkedAt": "2026-11-23",
-   "window": "Brian picks"
-  },
-  {
-   "id": "ready-ai-reads-xcel-bill",
-   "title": "Have AI read your Xcel bill: two increases since August",
-   "topic": "AI for normal people / utility bills",
-   "angle": "Two Xcel increases in two months. Snap a photo of the bill, cover the account number, and ask AI what changed.",
-   "bullets": [
-    "Xcel Colorado residential bills up about 4.77% (about $5 a month) starting Aug 29, 2026 (Xcel rate review page).",
-    "Another 0.70% (about 77 cents a month) starting Oct 19, 2026, from a transmission-cost change.",
-    "The PUC also approved bill credits and more help for income-qualified households. Xcel help line 800-895-4999.",
-    "Safety: never paste account or bank numbers into a chatbot."
-   ],
-   "body": "$5 a month in August, another 77 cents in October. That's Xcel's math for an average Colorado home. I gave AI a photo of my bill (account number covered) and asked what changed. {what it found on my bill} Have you looked at yours since August?",
-   "framework_body": "$5 a month in August. Another 77 cents in October.\n\nThat's two Xcel increases for an average Colorado home in two months. My bill's on auto draft, so honestly I don't look at it much.\n\nSo I tried this. Took a photo of the bill, covered the account number first, and asked AI: what are these line items and what went up?\n\nWhat it found: {what it found on my bill}\n\nThen I checked it against Xcel's own rate page. {did it match}\n\nTen minutes, and now I know where my money goes. Just don't paste account or bank numbers into any chatbot.\n\nHave you looked at yours since August?",
-   "links": [
-    "https://www.xcelenergy.com/company/rates_and_regulations/rates/rate_cases/2025_colorado_electric_rate_review"
-   ],
-   "ocr": "Strong",
-   "ocr_why": "AI for normal people, his own utility, dollar opener, useful safety line.",
-   "pixel": "Kitchen table, bill on the counter with the account number covered: \"Here's how I had AI explain my electric bill.\"",
-   "premium_target": "Reply under a verified Colorado news or consumer-money account covering utility rates.",
-   "status": "ready",
-   "checkedAt": "2026-11-23",
-   "window": "Brian picks"
-  },
-  {
-   "id": "ready-ri-wind-bill-credit",
-   "title": "$2.61 a month back: Rhode Island's wind contracts flip to a bill credit",
-   "topic": "Wind as bills (soft policy)",
-   "angle": "A charge on the bill flips to a credit. That's what wind looks like when it actually shows up on the statement. Keep it bill-focused, no climate talk.",
-   "bullets": [
-    "Rhode Island Energy filed Nov 13 to turn a 0.353-cent/kWh renewable-contract charge into a 0.148-cent credit starting Jan 1, 2027.",
-    "Typical 500 kWh home: $179.97 down to $177.36 a month, which is $2.61 less.",
-    "Revolution Wind is among the contracts covered.",
-    "Still needs PUC approval (Docket 26-51-EL)."
-   ],
-   "body": "$2.61 a month back. Rhode Island's wind contracts are about to show up as a credit on the electric bill instead of a charge. Small, but it's real money. {what I'd like to see on my Xcel bill} Would you notice $2.61?",
-   "framework_body": "$2.61 a month back.\n\nRhode Island's wind contracts used to be a charge on the electric bill. Starting in January, if regulators sign off, they flip to a credit. A typical home goes from $179.97 to $177.36.\n\nSmall. But it's the first time I've seen wind show up as money back on the statement.\n\n{what I'd like to see on my Xcel bill}\n\nWould you notice $2.61?",
-   "links": [
-    "https://sixstatesignal.com/articles/rhode-island-energy-seeks-0-148-cent-renewable-contract-credit-cutting-bill-2-61-a-month"
-   ],
-   "ocr": "OK",
-   "ocr_why": "Wind-as-bills for families is in his lane, but it's a small out-of-state number, so it's a filler.",
-   "pixel": "",
-   "premium_target": "Reply under a verified energy reporter covering Revolution Wind.",
-   "status": "ready",
-   "checkedAt": "2026-11-23",
-   "window": "Brian picks"
-  }
- ]
+  "date": "2026-11-23",
+  "label": "FRAMEWORK drafts (rewrite-before-post). Draft-only; you post it yourself.",
+  "growth_bets": [
+    "F1 Supercharger Waitlist: holiday week, first-hand, and every EV owner has a charger-line story. Best shot at Premium replies and saves from verified EV road-trip accounts (232 verified last known, 268 to 500).",
+    "F2 tap-to-pay card readers: a simple yes/no with an EU-to-US lesson and his own IONNA stop. Easy for verified EV accounts to quote and argue with."
+  ],
+  "held": "Held from pack: AP2 16 Supercharger sites / 212 stalls (too close to Nov 22 CO NEVI post), AP4 Briggs 16 kWh battery (battery soft-pedal, no price), AP8 Korea-US-Japan SMR talks (no household number, SMR posted Nov 22). Post-pack rescan since 2124721766409146817: zero new posts.",
+  "drafts": [
+    {
+      "id": "ready-supercharger-waitlist-300",
+      "title": "Supercharger Waitlist at 300 US sites, 3 minutes to plug in",
+      "topic": "EV charging / holiday road trip",
+      "angle": "No more circling the lot guessing who's next. The car holds your place in line now, right before the busiest charging week of the year. He RT'd the pilot on Nov 19; this is the 300-site rollout and his own Thanksgiving stops, not a repeat.",
+      "bullets": [
+        "Tesla turned on Supercharger Waitlist at 300 US sites (announced Nov 19). The pilot started in May at 5 sites in CA and NY.",
+        "Join from the Tesla app (v4.62.3 or newer) or the touchscreen (software 2026.38 or newer). Navigating to the site in a Tesla can add you automatically as you get close.",
+        "When it's your turn you get a stall and 3 minutes to plug in, with an option to add 30 seconds. Tapping Can't Charge on a blocked stall keeps your turn.",
+        "Older Tegra-screen Teslas use the app. Non-Tesla EVs can join through the Tesla app too."
+      ],
+      "body": "300 Superchargers now have a waitlist, right before Thanksgiving travel. When it's your turn you get 3 minutes to plug in. {does my local Supercharger show Join Waitlist yet} Hoping this ends the who-was-here-first standoff. Would you trust the line or just wait it out?",
+      "framework_body": "300 Superchargers just got a waitlist.\n\nTesla turned it on a week before Thanksgiving. You join from the app or the screen, and when it's your turn you get a stall and 3 minutes to plug in. Blocked stall? Tap Can't Charge and you keep your spot.\n\nMy stops this week: {my planned stops on I-70}. {does Grand Junction or Glenwood show Join Waitlist yet}\n\nLongest I've ever sat waiting: {my longest Supercharger wait}. Nobody knew who was next.\n\nFair line, fewer arguments. 👍\n\nWould you trust the line or just wait it out?",
+      "links": [
+        "https://teslanorth.com/2026/11/19/tesla-supercharger-waitlist-300-us-sites/"
+      ],
+      "ocr": "Strong",
+      "ocr_why": "His car, his holiday trip, number opener, a friction every EV owner has felt, closing question.",
+      "pixel": "In the Model Y at a Supercharger, phone on the screen: \"Here's the new waitlist, and here's how many cars are ahead of me.\"",
+      "premium_target": "Quote Tesla Charging's official rollout post, or reply under a verified Tesla road-trip creator posting a holiday charger line.",
+      "status": "ready",
+      "checkedAt": "2026-11-23",
+      "window": "Brian picks"
+    },
+    {
+      "id": "ready-tap-to-pay-chargers",
+      "title": "Europe makes fast chargers take a plain bank card by Jan 1",
+      "topic": "EV charging / payments",
+      "angle": "Europe says fast chargers have to take a regular bank card, no app. We should want the same here. Different from Nov 19 Plug & Charge (auto pay): this is the card reader as the universal backup.",
+      "bullets": [
+        "EU AFIR rule (Regulation 2023/1804): new public chargers since Apr 13, 2024 must allow ad hoc payment with no contract or sign-up.",
+        "Chargers 50 kW and up can't rely on a QR code alone. They need a card reader or contactless terminal.",
+        "Starting Jan 1, 2027 the rule reaches existing high-power chargers on major routes too.",
+        "US: no federal card-reader rule for every charger, and most networks still push their own app."
+      ],
+      "body": "Europe's making fast chargers take a plain bank card by Jan 1. No app. My best stop this month was {$0.10 per kWh at IONNA Fruita} on an app, but I've got {how many charging apps are on my phone} on my phone. Should US chargers take tap-to-pay like a gas pump?",
+      "framework_body": "Europe's making fast chargers take a plain bank card by Jan 1.\n\nNo app. No account. Tap and charge, like a gas pump. New chargers there already had to do it, and starting Jan 1 the big highway ones have to catch up.\n\nHere I've got {how many charging apps are on my phone} on my phone. My IONNA stop in Fruita was {$0.10 per kWh} and the app worked great. Not every app does.\n\n{who in my life won't download a charging app}\n\nApps are fine. A card reader should be the backup everywhere.\n\nShould US chargers have to take a tap-to-pay card?",
+      "links": [
+        "https://transport.ec.europa.eu/transport-themes/clean-transport/alternative-fuels-sustainable-mobility-europe/alternative-fuels-infrastructure/questions-and-answers-regulation-deployment-alternative-fuels-infrastructure-eu-20231804_en",
+        "https://www.accessories-tesla.com/ev-charging-card-payment-rules-europe-afir"
+      ],
+      "ocr": "Strong",
+      "ocr_why": "EU fact with a clear US-household lesson, his own IONNA stop, easy yes/no question.",
+      "pixel": "Hold up the phone with the charging-app folder open: \"This is how many apps it takes to charge an EV in America.\"",
+      "premium_target": "Quote a verified EV reporter or creator posting about tap-to-pay at chargers.",
+      "status": "ready",
+      "checkedAt": "2026-11-23",
+      "window": "Brian picks"
+    },
+    {
+      "id": "ready-solar-credit-owners-vs-leases",
+      "title": "Buying solar in 2026? The 30% credit is gone if you own it",
+      "topic": "Home solar / money",
+      "angle": "The tax break flipped. Leases still get it, owners don't. Know which deal you're being sold before you sign.",
+      "bullets": [
+        "The federal 30% residential clean energy credit (25D) ended for homeowner-owned systems installed after 2025 (IRS).",
+        "Leased or third-party-owned systems can still use the business credit through the installer (Solar Power World, Nov 16).",
+        "Some installers say owning is still the better long-run deal; leases can cost more over 25 years.",
+        "Get at least two quotes and read transfer terms before signing (Michigan AG consumer warning, Nov 10)."
+      ],
+      "body": "I put Enphase IQ8+ solar on my roof in 2023 and {what my system has saved me so far}. If you're shopping now, the 30% credit's gone for owners. Leases still get it. {would I lease or buy today} Anyone here buy solar this year without the credit?",
+      "framework_body": "I put Enphase IQ8+ solar on my roof in 2023. So far it's {what my system has saved me so far}.\n\nIf you're shopping now, the rules changed. The 30% federal credit is gone if you own the system. Leases still get it, through the installer.\n\nSo the door-knocker's lease pitch might look better on paper. Read the whole thing. Ask what it costs over 25 years and what happens when you sell the house.\n\nThe quote I'd want to see: {quote I'd want to see}. Payback I'd accept: {payback years}.\n\nOwn it if you can. Read every page if you lease. ☀️\n\nAnyone here buy solar this year without the credit?",
+      "links": [
+        "https://www.irs.gov/credits-deductions/residential-clean-energy-credit",
+        "https://www.solarpowerworldonline.com/2026/11/solar-lease-holdouts-still-see-value-in-privately-owned-residential-projects/"
+      ],
+      "ocr": "Strong",
+      "ocr_why": "His own hardware, a money rule most people don't know changed, closing question invites replies.",
+      "pixel": "Phone on the Enphase app: \"Here's what my panels made this month, and here's what I'd tell a buyer in 2026.\"",
+      "premium_target": "Reply under a verified solar installer or home-energy account fielding lease questions.",
+      "status": "ready",
+      "checkedAt": "2026-11-23",
+      "window": "Brian picks"
+    },
+    {
+      "id": "ready-ai-reads-xcel-bill",
+      "title": "Have AI read your Xcel bill: two increases since August",
+      "topic": "AI for normal people / utility bills",
+      "angle": "Two Xcel increases in two months. Snap a photo of the bill, cover the account number, and ask AI what changed.",
+      "bullets": [
+        "Xcel Colorado residential bills up about 4.77% (about $5 a month) starting Aug 29, 2026 (Xcel rate review page).",
+        "Another 0.70% (about 77 cents a month) starting Oct 19, 2026, from a transmission-cost change.",
+        "The PUC also approved bill credits and more help for income-qualified households. Xcel help line 800-895-4999.",
+        "Safety: never paste account or bank numbers into a chatbot."
+      ],
+      "body": "$5 a month in August, another 77 cents in October. That's Xcel's math for an average Colorado home. I gave AI a photo of my bill (account number covered) and asked what changed. {what it found on my bill} Have you looked at yours since August?",
+      "framework_body": "$5 a month in August. Another 77 cents in October.\n\nThat's two Xcel increases for an average Colorado home in two months. My bill's on auto draft, so honestly I don't look at it much.\n\nSo I tried this. Took a photo of the bill, covered the account number first, and asked AI: what are these line items and what went up?\n\nWhat it found: {what it found on my bill}\n\nThen I checked it against Xcel's own rate page. {did it match}\n\nTen minutes, and now I know where my money goes. Just don't paste account or bank numbers into any chatbot.\n\nHave you looked at yours since August?",
+      "links": [
+        "https://www.xcelenergy.com/company/rates_and_regulations/rates/rate_cases/2025_colorado_electric_rate_review"
+      ],
+      "ocr": "Strong",
+      "ocr_why": "AI for normal people, his own utility, dollar opener, useful safety line.",
+      "pixel": "Kitchen table, bill on the counter with the account number covered: \"Here's how I had AI explain my electric bill.\"",
+      "premium_target": "Reply under a verified Colorado news or consumer-money account covering utility rates.",
+      "status": "ready",
+      "checkedAt": "2026-11-23",
+      "window": "Brian picks"
+    },
+    {
+      "id": "ready-ri-wind-bill-credit",
+      "title": "$2.61 a month back: Rhode Island's wind contracts flip to a bill credit",
+      "topic": "Wind as bills (soft policy)",
+      "angle": "A charge on the bill flips to a credit. That's what wind looks like when it actually shows up on the statement. Keep it bill-focused, no climate talk.",
+      "bullets": [
+        "Rhode Island Energy filed Nov 13 to turn a 0.353-cent/kWh renewable-contract charge into a 0.148-cent credit starting Jan 1, 2027.",
+        "Typical 500 kWh home: $179.97 down to $177.36 a month, which is $2.61 less.",
+        "Revolution Wind is among the contracts covered.",
+        "Still needs PUC approval (Docket 26-51-EL)."
+      ],
+      "body": "$2.61 a month back. Rhode Island's wind contracts are about to show up as a credit on the electric bill instead of a charge. Small, but it's real money. {what I'd like to see on my Xcel bill} Would you notice $2.61?",
+      "framework_body": "$2.61 a month back.\n\nRhode Island's wind contracts used to be a charge on the electric bill. Starting in January, if regulators sign off, they flip to a credit. A typical home goes from $179.97 to $177.36.\n\nSmall. But it's the first time I've seen wind show up as money back on the statement.\n\n{what I'd like to see on my Xcel bill}\n\nWould you notice $2.61?",
+      "links": [
+        "https://sixstatesignal.com/articles/rhode-island-energy-seeks-0-148-cent-renewable-contract-credit-cutting-bill-2-61-a-month"
+      ],
+      "ocr": "OK",
+      "ocr_why": "Wind-as-bills for families is in his lane, but it's a small out-of-state number, so it's a filler.",
+      "pixel": "",
+      "premium_target": "Reply under a verified energy reporter covering Revolution Wind.",
+      "status": "ready",
+      "checkedAt": "2026-11-23",
+      "window": "Brian picks"
+    }
+  ]
 }
