@@ -1,0 +1,134 @@
+{
+  "date": "2026-11-24",
+  "label": "FRAMEWORK drafts (rewrite-before-post). Draft-only; you post it yourself.",
+  "growth_bets": [
+    "F1 Thanksgiving badge: his own car and Thursday plan, holiday moment, light question. Easy save and reply bait for Premium Tesla owners (verified last known 232, 268 to 500).",
+    "F2 quote of @TeslaCharging: one-line opinion on a big verified post already moving (900+ likes), with his own bad-stall story. Puts him in front of verified Tesla owners."
+  ],
+  "held": "Held from pack: AP6 in-app Supercharger voting (not live yet), AP7 Starlink in every Tesla by 2027 (a promise, not a product), AP8 Dow/X-energy permit (policy, two weeks old). Post-pack rescan since 2124979705778770337: zero new posts.",
+  "drafts": [
+    {
+      "id": "ready-thanksgiving-supercharger-badge",
+      "title": "Supercharge on Thanksgiving Day, get a badge (MAIN)",
+      "topic": "EV charging / holiday",
+      "angle": "Tesla is handing out a Thanksgiving badge. His car, his plan for Thursday, and a light question. Not a rehash of his IONNA $0.20 post; this is Tesla's own holiday perk.",
+      "bullets": [
+        "Tesla app 4.63.0 (Nov 18) adds a Thanksgiving charging badge (per Not a Tesla App).",
+        "To earn it: Supercharge at a US Supercharger on Thanksgiving Day, Thu Nov 26.",
+        "It sits with the other charging badges in the app (Charging, then Badges).",
+        "The same app build has code for in-app Supercharger voting and a manual battery precondition button, neither live yet."
+      ],
+      "body": "Tesla's handing out a badge for Supercharging on Thanksgiving Day 🦃⚡ My plan Thursday: {where I'm charging or why I'm staying home}. {photo of my Model Y at the stall or my badge screen} Anybody sneaking out between turkey and pie to grab it?",
+      "framework_body": "Tesla's handing out a badge for Supercharging on Thanksgiving Day. 🦃⚡\n\nIt came in app update 4.63. Plug in at any US Supercharger on Thursday and it shows up with your charging badges.\n\nMy plan Thursday: {where I'm charging or why I'm staying home}.\n\nAt home I pay {my home rate per kWh}. My closest Supercharger runs {local Supercharger price per kWh}. So this badge costs me a little.\n\n{photo of my Model Y at the stall or my badge screen}\n\nWorth it for a badge? Probably not. Am I doing it anyway? {yes or no}.\n\nAnybody sneaking out between turkey and pie to grab it?",
+      "links": [
+        "https://www.notateslaapp.com/tesla-app-updates/version/4.63.0/release-notes",
+        "https://x.com/NotATeslaApp/status/2125033341422571776"
+      ],
+      "ocr": "Strong",
+      "ocr_why": "Short, his car, his plan, a fun human moment, easy reply question.",
+      "pixel": "10 seconds in the garage or at a stall: \"Tesla's giving out a Thanksgiving badge. Here's whether I'm going for it.\"",
+      "premium_target": "Quote @NotATeslaApp's badge screenshot post (2125033341422571776) with one line on his Thursday plan.",
+      "status": "ready",
+      "checkedAt": "2026-11-24",
+      "window": "Brian picks"
+    },
+    {
+      "id": "ready-tesla-report-an-issue",
+      "title": "Broken stall? Report it from the Tesla app now",
+      "topic": "EV charging / practical tip",
+      "angle": "One tap fixes the charger for the next guy. Quote-post a big verified account that's already moving, with his own bad-stall story.",
+      "bullets": [
+        "@TeslaCharging (verified): Report an Issue in the Tesla app now has more categories for Superchargers, Megachargers and Destination Chargers.",
+        "Categories include broken chargers, blocked stalls, cleanliness and weather problems. You can add the stall number and photos, even without charging.",
+        "Reports go to Tesla's 24/7 Operations team.",
+        "The @TeslaCharging post had about 71.8K impressions, 911 likes and 88 reposts when the pack pulled it."
+      ],
+      "body": "Last bad stall I hit was {where and what was wrong}. Now the Tesla app lets you report broken chargers, blocked stalls, even a dirty site, with a photo, straight to their 24/7 team. That's how it should work. Would you take 30 seconds to report one?",
+      "framework_body": "Last bad stall I hit was {where and what was wrong}. I just drove off and hoped somebody else told them.\n\nNow the Tesla app has a real Report an Issue menu. Broken charger, blocked stall, dirty site, weather trouble. Add the stall number and a photo and it goes to their 24/7 team. You don't even have to be charging.\n\nThat's how it should work. 30 seconds from me saves the next guy a dead stall on a holiday trip. 👍\n\n{screenshot of the Report an Issue screen}\n\nWould you take 30 seconds to report one, or just pull to the next stall?",
+      "links": [
+        "https://x.com/TeslaCharging/status/2125020182821421322"
+      ],
+      "ocr": "Strong",
+      "ocr_why": "First-hand fill-in, practical tip, quote-post of a big verified account.",
+      "pixel": "Show the Report an Issue screen on the Pixel: \"Here's where you report a broken charger. Takes 30 seconds.\"",
+      "premium_target": "Quote @TeslaCharging 2125020182821421322: \"Wish every charging network did this. Ever had a stall eat your whole stop?\"",
+      "status": "ready",
+      "checkedAt": "2026-11-24",
+      "window": "Brian picks"
+    },
+    {
+      "id": "ready-i70-thanksgiving-ev-check",
+      "title": "I-70 this Thanksgiving week, EV road check",
+      "topic": "EV road trip / Colorado",
+      "angle": "CDOT says busy, not crazy. Dry through Thursday, weekend snow is the wild card. Local, useful, and his Colorado followers can answer the question.",
+      "bullets": [
+        "CDOT (Summit Daily, Nov 23): expect I-70 backups the Wednesday before Thanksgiving and Saturday through Monday after, but a weak snow year so far means not gangbusters.",
+        "Mostly dry on the I-70 mountain corridor Tuesday through Thursday (OpenSnow); some weekend snow possible, low confidence.",
+        "Eastbound sun-glare detours possible near Idaho Springs, sunrise to 8:30 a.m.",
+        "Traction law still applies; check COTrip.org before heading out."
+      ],
+      "body": "Driving I-70 this week? CDOT says Wednesday and the weekend after will back up. Roads look dry through Thursday. My EV checklist: {charge to what %}, {where I'm stopping to charge}, preheat the cabin while plugged in. What's your must-stop on the Western Slope?",
+      "framework_body": "Driving I-70 this week? CDOT says Wednesday and Saturday through Monday after Thanksgiving will back up. Roads look mostly dry through Thursday. Weekend snow is the wild card.\n\nMy EV checklist before I go over the hill:\n🔋 Leave with {what % I charge to}\n⚡ Stop at {where I charge between Grand Junction and Denver}\n❄️ Preheat the cabin while it's still plugged in\n\nHeading east early? Watch for sun-glare detours near Idaho Springs. Check COTrip before you leave. Traction law still applies.\n\n{photo of my Model Y loaded up or the I-70 view}\n\nWhat's your must-stop between Grand Junction and Denver?",
+      "links": [
+        "https://www.summitdaily.com/news/thanksgiving-holiday-i-70-busy-ski-season/",
+        "https://www.cotrip.org"
+      ],
+      "ocr": "Strong",
+      "ocr_why": "Local, first-hand, useful, ends on a question Colorado followers can answer.",
+      "pixel": "In the car before a trip: \"Here's my three-step EV check before I hit I-70.\"",
+      "premium_target": "Reply under CDOT or a verified Colorado weather or traffic account posting holiday I-70 updates.",
+      "status": "ready",
+      "checkedAt": "2026-11-24",
+      "window": "Brian picks"
+    },
+    {
+      "id": "ready-plug-in-solar-11-states",
+      "title": "$300 plug-in solar, now legal in 11 states",
+      "topic": "Solar / renters",
+      "angle": "You don't need a $30,000 roof job to start making your own power. Renter angle, led by the 11-state number (not California, which was Nov 20). Keep his own roof to one line since he posted his 24-panel bills post Nov 23.",
+      "bullets": [
+        "Bloomberg (via Spokesman-Review, Nov 23): 11 states now allow small plug-in balcony solar without utility permission; 24+ more are considering it.",
+        "Most cap it at 1,200 watts, enough for a fridge, electronics and lights; savings of several hundred dollars a year.",
+        "Kits run about $300 to $2,000 vs about $30,000 for rooftop.",
+        "California enacted its law in September; New York's bill awaits Gov. Hochul. The article doesn't say where Colorado stands, so don't claim it."
+      ],
+      "body": "$300 to $2,000 for a solar panel you plug into a wall outlet. 11 states allow it now. I've got panels on my roof, but a renter can't do that. This they can take with them. Would you put one on your balcony?",
+      "framework_body": "$300 to $2,000. That's a solar panel you plug straight into a wall outlet. 11 states now allow it without asking the utility, and 24 more are looking at it.\n\nMost cap it at 1,200 watts. Enough for the fridge, lights and the TV during the day. Figure a few hundred bucks a year off the bill.\n\nI've got panels on my roof. Rooftop runs around $30,000 and a renter can't do it anyway. This they can unplug and take with them when they move. ☀️\n\nIf I were renting I'd {what I'd do with one}.\n\n{is Colorado on the list yet, check before posting}\n\nWould you put one on your balcony?",
+      "links": [
+        "https://www.spokesman.com/stories/2026/nov/23/guerrilla-solar-makes-mainstream-push-in-us-as-mor/"
+      ],
+      "ocr": "OK",
+      "ocr_why": "Dollar opener and renter angle work; overlaps the Nov 20 California balcony solar item, so lead with 11 states.",
+      "pixel": "Point at his roof: \"Mine cost a lot more than $300. Here's who the plug-in kind is for.\"",
+      "premium_target": "Quote a verified solar or energy reporter sharing the Bloomberg plug-in solar story.",
+      "status": "ready",
+      "checkedAt": "2026-11-24",
+      "window": "Brian picks"
+    },
+    {
+      "id": "ready-wharton-ai-80-percent",
+      "title": "People took the AI's wrong answer about 80% of the time",
+      "topic": "AI for normal people",
+      "angle": "AI is a helper, not the boss. Check it on anything with money in it. Number opener, plain-English lesson.",
+      "bullets": [
+        "Wharton study (Shaw and Nave), 1,372 participants on reasoning puzzles.",
+        "People used the AI on over half the problems and went with its answer about 80% of the time, even when it was rigged to be wrong.",
+        "Wrong AI dropped accuracy 15 points below no-AI; right AI raised it 25 points.",
+        "People felt more confident after using AI, even when it misled them."
+      ],
+      "body": "1,372 people. When the AI was wrong on purpose, they went with it about 80% of the time. I use AI for {what I use it for} every week. I still check the number before I pay anything. Do you double-check it or just trust it?",
+      "framework_body": "1,372 people. When the AI was rigged to give the wrong answer, they went with it about 80% of the time.\n\nThat's a Wharton study. Wrong AI dropped people 15 points below doing it on their own. Right AI bumped them up 25. And folks felt more sure of themselves either way.\n\nI use AI for {my bills, paperwork, whatever I use it for} every week. It's a helper, not the boss. I still check the number before I pay anything.\n\nMy rule: {my one rule with AI and money}.\n\nDo you double-check it or just trust it?",
+      "links": [
+        "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646",
+        "https://magazine.wharton.upenn.edu/issues/fall-winter-2026/is-ai-hijacking-our-brains/"
+      ],
+      "ocr": "Strong",
+      "ocr_why": "Number opener, plain-English AI lesson for normal people, natural reply bait.",
+      "pixel": "Talking to camera: \"Here's my one rule with AI and money.\"",
+      "premium_target": "Quote a verified AI commentator posting about the Wharton study or cognitive surrender.",
+      "status": "ready",
+      "checkedAt": "2026-11-24",
+      "window": "Brian picks"
+    }
+  ]
+}
