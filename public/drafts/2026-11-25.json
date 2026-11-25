@@ -1,0 +1,136 @@
+{
+  "date": "2026-11-25",
+  "label": "FRAMEWORK drafts (rewrite-before-post). Draft-only; you post it yourself.",
+  "growth_bets": [
+    "F1 winter range with his real number: first-hand Model Y data the day before the biggest travel day is exactly what won (IONNA Fruita $0.10): a number, his car, a plain verdict, a question every EV owner can answer. Reply bait for verified EV owners (verified last known 232, 268 to 500).",
+    "F3 AI fake stores, $394 opener: protective checklist his 55+ followers and their kids save and repost; fresh vs his earlier scam-text posts."
+  ],
+  "held": "Held from pack: AP6 Holiday Update / Santa Mode (too close to his live FSD v15 post and NotATeslaApp RT), AP7 GM Korea Superchargers (foreign, needs his stall observation), AP8 wind approvals (policy, partisan source). Post-pack rescan since 2125443446731362442: zero new posts. Followers 515.",
+  "drafts": [
+    {
+      "id": "ready-winter-range-thanksgiving",
+      "title": "Winter range on the Thanksgiving drive (MAIN)",
+      "topic": "EV / winter road trip",
+      "angle": "Cold knocks range down. What his Model Y actually does in the cold and how he plans around it, the day before the biggest drive of the year. Different from his Nov 22 fill-up-at-home post and Nov 24 I-70 check: this is about cold-weather range, not gas price or traffic.",
+      "bullets": [
+        "Rule of thumb for a cold holiday drive: plan on about 70% of normal range at 20F and keep a 15 to 20% reserve at each stop (Omnux Thanksgiving EV guide, Nov 14).",
+        "Warm the battery and cabin while still plugged in at home; navigate to the charger so the battery preconditions on the way (KBB).",
+        "Heated seats and wheel use less energy than blasting cabin heat (KBB).",
+        "Gas today: Colorado $3.35/gal, national $3.59 (AAA, Nov 25)."
+      ],
+      "body": "Gas is $3.35 in Colorado today. My Model Y doesn't need gas, it just needs a plan in the cold 🥶 At {temp outside} I'm seeing about {my winter range} miles, so I {charge to what % and where I stop}. Preheat while plugged in. Heated seat over cabin heat. What range do you actually get in winter?",
+      "framework_body": "Gas is $3.35 in Colorado today. My Model Y doesn't need any of it. It just needs a plan in the cold. 🥶\n\nThis morning it was {temp outside} in Grand Junction. My range showed {my winter range} miles. In summer I see about {my summer range}.\n\nThat's normal. Cold batteries give up some range, and the heater eats some too.\n\nHere's what I do before a winter road trip:\n1. Preheat the car while it's still plugged in at home.\n2. Put the charger in the nav so the battery warms up on the way.\n3. Heated seat and wheel instead of cranking the cabin heat.\n4. {charge to what % and where I stop}\n\nA full charge at home costs me about {my home cost per full charge}. A tank of gas at $3.35 would be {my old tank cost}.\n\nCold costs me some miles. It doesn't cost me the trip.\n\nWhat range do you actually get in winter?",
+      "links": [
+        "https://www.kbb.com/car-advice/ev-charging-winter/",
+        "https://travel.omnux.com/blog/2026/11/14/seventy-percent-at-twenty-degrees-planning-a-thanksgiving-ev-drive-around-winter-range-and-holiday-charger-lines/",
+        "https://gasprices.aaa.com/state-gas-price-averages/"
+      ],
+      "ocr": "Strong",
+      "ocr_why": "Dollar opener, his own car and real winter number, easy question every EV owner can answer. Same shape as the IONNA Fruita winner.",
+      "pixel": "In the garage by the screen: Here's my winter range this morning, and the three things I do before a cold road trip.",
+      "premium_target": "Big verified EV accounts posting Thanksgiving road-trip or winter-range threads; reply with his real number and one tip.",
+      "status": "ready",
+      "checkedAt": "2026-11-25T06:35:00-07:00",
+      "window": "Brian picks"
+    },
+    {
+      "id": "ready-black-friday-power-station",
+      "title": "$470 plug-in battery for outages this Black Friday",
+      "topic": "Solar / backup power / renters",
+      "angle": "A battery you plug in: no permit, no electrician, no roof. Easy button for renters and anyone who can't do solar. Deal-week household item, not a storage or VPP story.",
+      "bullets": [
+        "Anker Solix C1000 Gen 2: 1,024 Wh, 2,000 W, $469.99 (41% off) per Business Insider's Black Friday list (Nov 20).",
+        "Anker Solix C2000 Gen 2: 2,048 Wh, $849.99 (same list).",
+        "EcoFlow Delta 3 Ultra: 3,072 Wh, 3,600 W, $1,369; EcoFlow's sale runs Nov 19 to 30.",
+        "These recharge from a wall plug or portable solar panels, so they work for renters who can't put panels on the roof."
+      ],
+      "body": "$470 gets you a 1,000 Wh plug-in battery this Black Friday 🔋 I've got {my backup setup or my solar}, but for a renter this is the easy button. Fridge, Wi-Fi, phones through an outage. Would you buy one, or just run the generator?",
+      "framework_body": "$470 gets you a 1,000 Wh plug-in battery this Black Friday. 🔋\n\nNo permit. No electrician. No roof. You charge it from the wall or a portable solar panel and roll it out when the power goes.\n\nWhat about 1,000 Wh actually keeps going: Wi-Fi and phones for days, a fridge for {how many hours I think}, lamps and a laptop overnight.\n\nI've got {my backup setup or my solar} at my house. But if you rent, or your HOA won't let you put panels up, this is the easy button.\n\nThe bigger ones are on sale too, around $850 for 2,000 Wh and $1,369 for 3,000 Wh through Nov 30.\n\nLast time our power went out: {last outage I had}.\n\nWould you buy one of these, or just run the generator?",
+      "links": [
+        "https://www.businessinsider.com/guides/deals/black-friday-power-station-generator-deals-2026-11-20",
+        "https://us.ecoflow.com/pages/black-friday"
+      ],
+      "ocr": "Strong",
+      "ocr_why": "Dollar opener, timely deal week, renter angle, clean either-or question.",
+      "pixel": "Hold the phone up: If you rent and can't do solar, here's the one thing I'd look at this weekend.",
+      "premium_target": "Verified gadget, deal, or off-grid creators posting power-station deals; one line on what it would keep running at his place.",
+      "status": "ready",
+      "checkedAt": "2026-11-25T06:35:00-07:00",
+      "window": "Brian picks"
+    },
+    {
+      "id": "ready-ai-fake-stores",
+      "title": "$394: AI-built fake stores this Black Friday",
+      "topic": "AI pocketbook / scams",
+      "angle": "AI can fake a whole store in an afternoon. His own quick check before buying from a store he's never heard of. Fresh vs his earlier scam-text posts: this is fake stores, not texts or voice.",
+      "bullets": [
+        "Norton survey of 1,000 US adults: 16% said they'd been scammed shopping online during the holidays; 88% of those lost money, average $394 (CNBC, Nov 20).",
+        "Norton's scam research head says scammers use AI to spin up thousands of fake e-shops with fake product photos and reviews.",
+        "FTC data: over 40% of people who lost money to a social media scam said it started with an ad they ordered from (via Guardio).",
+        "Tips: skip past sponsored results, search the seller name plus the word scam, type the store address yourself, pay by credit card, never gift card, wire, or crypto."
+      ],
+      "body": "$394. That's the average hit when people get scammed shopping online for the holidays. AI can build a whole fake store in an afternoon now. My rule: {my own check before I buy}. Credit card only. What's the sketchiest deal you've seen this week?",
+      "framework_body": "$394. That's the average hit when people get scammed shopping online over the holidays.\n\nAnd it's getting easier for the crooks. AI can build a whole fake store in an afternoon now. Fake photos, fake reviews, a slick checkout page.\n\nA lot of these start with an ad in your feed. The deal looks too good because it is.\n\nMy check before I buy from a store I've never heard of:\n1. Search the store name plus the word scam.\n2. Type the address myself instead of tapping the ad.\n3. {my own check before I buy}\n4. Credit card only. Never a gift card, wire, or crypto.\n\nTakes two minutes. Cheaper than $394.\n\nWhat's the sketchiest deal you've seen this week?",
+      "links": [
+        "https://www.cnbc.com/2026/11/20/ai-holiday-shopping-scams.html",
+        "https://guard.io/blog/beware-of-black-friday-and-cyber-monday-scams-how-to-avoid-falling-victim"
+      ],
+      "ocr": "Strong",
+      "ocr_why": "Dollar opener, protects his 55+ followers, shareable checklist, fun reply prompt.",
+      "pixel": "Hold up the Pixel: Before I buy from a store I've never heard of, I do this.",
+      "premium_target": "Verified consumer or cybersecurity reporters posting Black Friday scam tips; add his two-minute check.",
+      "status": "ready",
+      "checkedAt": "2026-11-25T06:35:00-07:00",
+      "window": "Brian picks"
+    },
+    {
+      "id": "ready-colorado-bill-help-40",
+      "title": "Colorado bill-help requests up 40%, $750 behind",
+      "topic": "Local bills / solar",
+      "angle": "Bills are squeezing families here. What his solar does to his own bill, plus who to call if you're behind. Keep it about families, not the PUC fight. Different from his Nov 23 AI-reads-my-Xcel-bill post.",
+      "bullets": [
+        "Households seeking utility bill help in Colorado are up 40% from a year ago (Colorado Sun, Nov 20).",
+        "Energy Outreach Colorado is paying out about $1 million a week; the average household asking for help is $750 behind.",
+        "The Colorado PUC opened an investigation Nov 4 into service disconnections.",
+        "Separately, Xcel's invite-only winter heat-pump pilot cuts off-peak power from 6.79c to 4.09c per kWh but raises the monthly charge from $7.10 to $20 (Elephant Energy)."
+      ],
+      "body": "$750. That's how far behind the average Colorado family asking for bill help is right now. Requests are up 40%. My Xcel bill this month: {my bill with solar}. If you're behind, call Energy Outreach Colorado. What's your bill doing this winter?",
+      "framework_body": "$750. That's how far behind the average Colorado family asking for help with their power bill is right now.\n\nRequests for help are up 40% from last year. Energy Outreach Colorado is paying out about a million dollars a week.\n\nThat's real people, right here.\n\nMy Xcel bill this month: {my bill with solar}. Before solar the same month ran about {my before-solar bill}. My Enphase panels {what they made this month}.\n\nSolar isn't for everybody, and it won't fix a bill you're already behind on. If that's you, call Energy Outreach Colorado and ask Xcel about budget billing. No shame in it.\n\nWhat's your bill doing this winter?",
+      "links": [
+        "https://coloradosun.com/2026/11/20/utility-bills-gas-electricity-energy-outreach-colorado-puc-probe/",
+        "https://www.elephantenergy.com/blog/xcel-energys-new-pilot-winter-electricity-rate-designed-for-heat-pumps-in-colorado"
+      ],
+      "ocr": "OK",
+      "ocr_why": "Local and helpful with a first-hand bill number; Strong if he shows his real Xcel or Enphase screen.",
+      "pixel": "Show the Xcel or Enphase app: Here's my bill this month with solar, and here's who to call if you're behind.",
+      "premium_target": "Colorado Sun or verified Colorado energy reporters on the bill-assistance story.",
+      "status": "ready",
+      "checkedAt": "2026-11-25T06:35:00-07:00",
+      "window": "Brian picks"
+    },
+    {
+      "id": "ready-ioniq-3-spotted-us",
+      "title": "Hyundai IONIQ 3 spotted in the US, no US plans (soft)",
+      "topic": "EV / new models",
+      "angle": "The small, 300-plus-mile EV we can't buy here. His price line and verdict. New-model curiosity, not used-price tracking. Keep it from becoming a cheap-EV pile-on after his Fathom vs Slate reply.",
+      "bullets": [
+        "Electrek (Nov 24): an IONIQ 3 N Line was photographed driving in the US.",
+        "On sale in Europe and the UK with over 300 miles of range on the European rating; a smaller sibling to the IONIQ 5.",
+        "Hyundai UK says more people registered interest before launch than for any new Hyundai there.",
+        "Hyundai has announced no US launch plans."
+      ],
+      "body": "Over 300 miles of range in a small Hyundai, and we can't buy it here. The IONIQ 3 just got spotted on US roads 👀 If it came here at {price I'd pay}, I'd {buy it or pass and why}. Would you take one over a used Model 3?",
+      "framework_body": "Over 300 miles of range in a small Hyundai, and we can't buy it here.\n\nThe IONIQ 3 just got spotted driving on US roads. It's on sale in Europe and the UK. Little brother to the IONIQ 5.\n\nHyundai says no US plans. Not yet anyway.\n\nHere's my take. If it showed up here at {price I'd pay}, I'd {buy it or pass and why}.\n\nWe keep hearing nobody wants a small EV in America. I think {my one-line opinion}.\n\nWould you take one over a used Model 3?",
+      "links": [
+        "https://electrek.co/2026/11/24/hyundai-ioniq-3-spotted-us-affordable-ev-images/"
+      ],
+      "ocr": "OK",
+      "ocr_why": "Curiosity plus his price line and opinion; weaker without his own take, and foreign-market.",
+      "pixel": "Optional: I wouldn't film this one. Use the Electrek spy photo in a quote post instead.",
+      "premium_target": "Quote-post Electrek or a verified car spotter sharing the IONIQ 3 photos with his one-line verdict.",
+      "status": "ready",
+      "checkedAt": "2026-11-25T06:35:00-07:00",
+      "window": "Brian picks"
+    }
+  ]
+}
