@@ -1,0 +1,135 @@
+{
+ "date": "2026-11-26",
+ "label": "FRAMEWORK drafts (rewrite-before-post). Draft-only; you post it yourself.",
+ "growth_bets": [
+  "F1 Wall Connector $635 + F2 Cyberbeast $114,990: two dollar-opener owner-cost posts tied to his own garage and his live Cybertruck/Powershare thread. Those draw replies and saves from EV owners and are easy quote targets for verified Tesla accounts (verified last known 232, 268 to 500).",
+  "F3 $1.45 turkey: a today-only household number with a small human moment and his own solar fill-in; the kind of easy, friendly post 55+ followers reply to and repost."
+ ],
+ "held": "Held from pack: AP5 AI Black Friday deal check (too close to Nov 22 F4, 43% AI price check), AP7 NJ storm outages (overlaps his overnight Powershare/Storm Watch), AP8 Radiant Kaleidos (Oct 29, policy). Post-pack rescan since 2125835211351142415: 6 new, all replies or RTs (Tesla Holiday Update RT, evAdvocate Mercedes 25% off charging RT, FSD v14 Kentucky express-lane reply, Lucid/Scout reply, AI reply, birthday reply). No conflict with picks. Followers 520.",
+ "drafts": [
+  {
+   "id": "ready-wall-connector-635",
+   "title": "$635 Tesla Wall Connector vs Black Friday chargers (MAIN)",
+   "topic": "EV / home charging",
+   "angle": "Tesla's home charger keeps going up. What I paid, what it saves me, and what the Black Friday alternatives cost. Every new EV owner asks this.",
+   "bullets": [
+    "Tesla standard Wall Connector now $635 (was $585); Universal Wall Connector $660 to $720. Fourth US increase this year (Not a Tesla App, Nov 12).",
+    "Tesla's store requires a Tesla account to buy the standard Wall Connector.",
+    "Emporia 48A Level 2: $449 on Amazon as of Nov 25 (Amp & Adapter).",
+    "Grizzl-E Classic Connect 40A $299.99; ChargePoint Home Flex plug-in about $599, down from $657.99 (Amp & Adapter, Level Two Club)."
+   ],
+   "body": "$635 for a Tesla Wall Connector now. Fourth price bump this year. Mine cost {what I paid and when}, plus {my install cost} to put in. Black Friday has 48 amp chargers around $449. Would you pay the Tesla price or go third party? 🔌",
+   "framework_body": "$635 for a Tesla Wall Connector now. That's the fourth price bump this year. It was $585 not long ago.\n\nMine cost {what I paid and when}. The install ran {my install cost}.\n\nWas it worth it? A full charge at home costs me about {my home cost per full charge}. At a Supercharger it's {my Supercharger cost}. That gap pays for the charger in {my rough months}.\n\nBut you don't have to buy Tesla's. Black Friday has a 48 amp Emporia around $449 and a Grizzl-E 40 amp around $300.\n\nOne thing I'd do first: get an electrician quote before you buy any charger. The install can cost more than the box.\n\nWould you pay the Tesla price or go third party? 🔌",
+   "links": [
+    "https://www.notateslaapp.com/news/4997/tesla-raises-wall-connector-price-again-now-635",
+    "https://ampandadapter.com/home-chargers/best",
+    "https://leveltwoclub.com/holiday/black-friday-cyber-monday-ev-charger-deals"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Dollar opener, his own garage and real cost, practical Black Friday hook, easy debate question.",
+   "pixel": "Standing at his charger: This is my home charger. Here's what it cost me, and what I'd buy today.",
+   "premium_target": "Verified Tesla news accounts (Not a Tesla App, @DennisCW_) on Wall Connector price posts; reply with what he paid.",
+   "status": "ready",
+   "checkedAt": "2026-11-26",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-cyberbeast-114990",
+   "title": "Cyberbeast up $5,000 to $114,990",
+   "topic": "EV / Cybertruck",
+   "angle": "He said he'd look hard at a Cybertruck for Powershare. The only trim you can order just got $5K pricier. Builds on his live Nov 25 Cybertruck posts without repeating them.",
+   "bullets": [
+    "Tesla raised the Cyberbeast from $109,990 to $114,990 on Tue Nov 24 (GetTesla, TeslaNorth; Sawyer Merritt flagged it on X).",
+    "Cyberbeast is the only Cybertruck trim a new US buyer can order; Premium AWD shows $97,490 but can't be selected.",
+    "New orders estimate delivery as late as June 2027. Canada pricing unchanged.",
+    "Continues his live Save the Cybertruck and looked-at-a-Cybertruck-for-Powershare posts (Nov 25)."
+   ],
+   "body": "$114,990. That's the Cyberbeast now, up $5,000 this week. I said I'd look hard at a Cybertruck for Powershare. At this price I'm {still in, out, or waiting}. It's the only trim you can even order. What would get you to buy one? 🤔",
+   "framework_body": "$114,990. That's the Cyberbeast now. Up $5,000 this week.\n\nAnd it's the only Cybertruck trim you can actually order. The cheaper AWD shows on the site but you can't pick it. New orders say delivery as late as June 2027.\n\nI said I'd look hard at a Cybertruck for one reason: Powershare. A truck that can run my house when the power's out.\n\nAt this price I'm {still in, out, or waiting}. {one line on what a home battery or generator would cost me instead}\n\nI still want Tesla to sell a lot of these. But $115K is a lot of truck for a backup plan.\n\nWhat would get you to buy one? 🤔",
+   "links": [
+    "https://gettesla.com/articles/tesla-cybertruck-price-cyberbeast-rises-to-114-990",
+    "https://teslanorth.com/"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Dollar opener, continues his own Cybertruck thread with an honest decision, debate question.",
+   "pixel": "I wanted a Cybertruck for one reason: it can power my house. Here's what this price does to that plan.",
+   "premium_target": "@SawyerMerritt's Cyberbeast price post or Cybertruck owner accounts; one line on whether Powershare is worth it.",
+   "status": "ready",
+   "checkedAt": "2026-11-26",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-turkey-145-electric",
+   "title": "$1.45 to roast the turkey on electric",
+   "topic": "Solar / household costs",
+   "angle": "The grocery bill went up 6%. The power to cook it is almost nothing, and on solar it's less. Timely today, light human moment.",
+   "bullets": [
+    "AFBF 2026: classic Thanksgiving dinner for 10 is $58.63, up about 6% from 2025, first increase since 2022. West region $58.74.",
+    "Plug & Penny (Nov 20): a 14 to 18 lb turkey in an electric oven costs about $1.36 to $1.54 at the US average 18.16 cents/kWh (about 2 kWh an hour for 3.75 to 4.25 hours).",
+    "Hawaii's rate pushes the same bird to $3.54 to $4.01; Nevada's to under $1.10."
+   ],
+   "body": "$58.63 for Thanksgiving dinner for 10, up 6%. The power to roast the turkey? About $1.45 in an electric oven. At my house the panels made {what my solar made today} while {what I cooked} was in. Biggest Thanksgiving cost for you, the food or the drive? 🦃",
+   "framework_body": "$58.63. That's what Thanksgiving dinner for 10 costs this year, per the Farm Bureau. Up 6%, first jump since 2022.\n\nThe power to roast the turkey? About $1.45 in an electric oven. Around 2 kWh an hour for 4 hours at the average US rate.\n\nAt my house, the panels made {what my solar made today} while {what I cooked} was in the oven. So the cooking was {mostly free or close to it}.\n\nThe food costs more every year. The power to cook it is the cheap part.\n\nBiggest Thanksgiving cost for you, the food or the drive? 🦃",
+   "links": [
+    "https://www.fb.org/news-release/cost-of-thanksgiving-dinner-increases-remains-below-2022-record-high",
+    "https://www.plugandpenny.com/guides/cost-to-cook-a-turkey/"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Dollar opener, today-only timing, small human moment, easy question. Fill-ins keep it honest (cut the turkey line if it wasn't turkey).",
+   "pixel": "In the kitchen or holding the Enphase app: Here's what my panels made while dinner cooked.",
+   "premium_target": "Verified food or household-cost accounts posting the AFBF $58.63 number; one line on the power cost.",
+   "status": "ready",
+   "checkedAt": "2026-11-26",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-gj-solar-short-days",
+   "title": "Short days, real solar: my late-November number",
+   "topic": "Solar / first-hand",
+   "angle": "Solar people only post June. Here's my honest worst-month number from Grand Junction. Production post, not a battery pitch (his live Enphase battery-skeptic post stays separate).",
+   "bullets": [
+    "Grand Junction daylight is about 9h 38m on Dec 1 and bottoms out at 9h 25m on the Dec 21 solstice (Sunrise Almanac).",
+    "December sunrise around 7:14 to 7:33 AM, sunset around 4:52 to 5:02 PM.",
+    "His Enphase IQ8+ system (installed 2023) logs daily production in the Enphase app; use real app numbers only."
+   ],
+   "body": "9 hours 25 minutes. That's our shortest day of sunlight here in Grand Junction. My panels made {my kWh yesterday} yesterday vs {my best summer day} on a good summer day. Still {covering my bill or not} this month. Solar folks, what's your worst month number? ☀️",
+   "framework_body": "9 hours 25 minutes. That's all the daylight we get on the shortest day here in Grand Junction.\n\nEverybody posts their solar in June. Here's my November.\n\nYesterday my panels made {my kWh yesterday}. On a good summer day they make {my best summer day}.\n\nThis month I'm {covering my bill or not}. Over the whole year it {how my year evens out}.\n\nThat's the honest part of solar. Winter's short, summer carries it.\n\nSolar folks, what's your worst month number? ☀️",
+   "links": [
+    "https://sunrisealmanac.com/us/colorado/grand-junction/2026/december/"
+   ],
+   "ocr": "OK",
+   "ocr_why": "Local place opener and first-hand data; strong only if he pulls real Enphase app numbers.",
+   "pixel": "Screen-record the Enphase app: Here's a short November day on my roof.",
+   "premium_target": "Verified solar owners posting production screenshots; reply with his number.",
+   "status": "ready",
+   "checkedAt": "2026-11-26",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-holiday-charging-checkin",
+   "title": "Holiday weekend charging check-in (soft, quote-post)",
+   "topic": "EV / charging",
+   "angle": "Crowdsource it: who's charging this weekend and how long was the wait. Best as a quote of @TeslaCharging. Soft overlap with his live Supercharger speed post, so keep it a check-in, not a retell.",
+   "bullets": [
+    "AAA: 72.9 million Americans driving for Thanksgiving, down slightly from 73.1 million last year.",
+    "Tesla (@TeslaCharging): 1,027 stalls at 91 US sites in 56 days, plus 29 mobile stalls for Thanksgiving.",
+    "Mobile stalls at Firebaugh and two Bakersfield sites in California, plus Holbrook, Arizona; each trailer is a 3 MWh Megapack with eight 250 kW stalls (EVwire, Nov 26).",
+    "Holiday guides flag Sunday Nov 29 as the next heavy charging day."
+   ],
+   "body": "72.9 million Americans driving this Thanksgiving. I {charged today at where, or stayed home}. Tesla parked Megapack trailers at some of the busiest stops. A battery charging cars. Wild. Charging anywhere this weekend? How long was your wait? ⚡",
+   "framework_body": "72.9 million Americans on the road this Thanksgiving.\n\nI {charged today at where, or stayed home}. {how long I waited, or no wait}.\n\nTesla parked Megapack trailers at some of the busiest stops in California and Arizona. Eight stalls off one big battery. A battery charging cars. Wild.\n\nSunday's supposed to be the next busy day on the way home.\n\nCharging anywhere this weekend? How long was your wait? ⚡",
+   "links": [
+    "https://x.com/TeslaCharging/status/2125674840363250019",
+    "https://evwire.com/p/tesla-29-mobile-supercharger-stalls-thanksgiving-1027-new-stalls",
+    "https://newsroom.aaa.com/2026/11/aaa-thanksgiving-holiday-travel-forecast/"
+   ],
+   "ocr": "OK",
+   "ocr_why": "Big number opener and strong reply question, but overlaps his live Supercharger speed post; best as a one-line quote with his own stop.",
+   "pixel": "At a charger if he's out: Thanksgiving charging check. Here's the line right now.",
+   "premium_target": "Quote @TeslaCharging 2125674840363250019 with one line plus his own stop.",
+   "status": "ready",
+   "checkedAt": "2026-11-26",
+   "window": "Brian picks"
+  }
+ ]
+}
