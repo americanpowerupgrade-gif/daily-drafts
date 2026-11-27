@@ -1,0 +1,135 @@
+{
+ "date": "2026-11-27",
+ "label": "FRAMEWORK drafts (rewrite-before-post). Draft-only; you post it yourself.",
+ "growth_bets": [
+  "F1 Western Slope price board: real place names, a 20 to 57 cent spread, and the fresh 54.5 cent national average draw replies from Colorado EV drivers and give verified charging accounts (@ionnaofficial, Rivian trackers) a reason to quote or reply. Local first-hand numbers were his best post format (IONNA Fruita $0.10 stop). Verified last known 232, 268 to 500.",
+  "F3 $0 USPS redelivery: a protect-your-parents post on the day Black Friday orders ship. Easy saves and reposts from 55+ followers, and a natural reply under verified scam-warning accounts like @stockmom."
+ ],
+ "held": "Held from pack: AP1 national 54.5c folded into F1 (pack says pair, not two posts), AP3 Enphase IQ Battery G5 (too close to his live Nov 25 Enphase battery skeptic post, and storage is soft-pedal), AP8 gas $3.55 (gas ran Nov 22 and Nov 25). Post-pack rescan since 2126189977361125378: zero new. Followers 516.",
+ "drafts": [
+  {
+   "id": "ready-western-slope-price-board",
+   "title": "20 cents in Fruita, 57 in Montrose, US avg 54.5 (MAIN)",
+   "topic": "EV / public charging",
+   "angle": "His backyard price board next to the brand-new national average. Same state, same week, almost 3x spread. Local place names plus his own last receipt.",
+   "bullets": [
+    "DCFC Tracker (advertised peak rates, pulled Nov 27): Fruita IONNA Rechargery, 10 stalls, 400 kW, $0.20/kWh Thanksgiving-week rate (Nov 25-29). Rifle Tesla Supercharger $0.52. Glenwood Springs Electrify America $0.48.",
+    "Rivian Adventure Network Montrose went from $0.51 to $0.57/kWh on Nov 25; Lakewood and Broomfield went to $0.55. Colorado average across 313 priced sites: $0.53.",
+    "US average advertised non-member fast-charge price: $0.545/kWh, up 2.8% in a year (Transportation Energy Institute Q3 Pulse Check).",
+    "US fast-charge sessions hit 50.3 million in Q3 2026, up 26%; 80,547 ports at 14,565 stations; first-try success 94.4%."
+   ],
+   "body": "20 cents a kWh in Fruita. 57 cents in Montrose. US average is 54.5. Same week, same Western Slope. My last stop was {my price per kWh} at {which charger}. Rivian just bumped Montrose 6 cents. IONNA's cheap through the weekend. What are you paying near you? ⚡",
+   "framework_body": "20 cents a kWh in Fruita. 57 cents in Montrose. Same week, same Western Slope.\n\nThe national number just came out too. The average fast charge in the US is 54.5 cents. So Fruita is running way under and Montrose is over.\n\nMy last stop was {my price per kWh} at {which charger}.\n\nHere's my local board this week:\nFruita IONNA, 20 cents (Thanksgiving rate through Sunday)\nGlenwood Electrify America, 48 cents\nRifle Supercharger, 52 cents\nMontrose Rivian, 57 cents, up 6 cents on Wednesday\n\nAt home I pay about {my home cost per kWh with solar and Xcel}. Home still wins.\n\n50 million fast charges in the US last quarter, up 26%. Somebody's using these things.\n\nCheck the app before you drive, prices move. What are you paying near you? ⚡",
+   "links": [
+    "https://dcfctracker.com/states/co",
+    "https://www.convenience.org/stay-current/news/2026/november/20/u-s-ev-fast-charging-sessions-surpass-50-million",
+    "https://www.transportationenergy.org/wp-content/uploads/2026/11/TEI-CAP_EV-Fast-Charging-Pulse-Check_US_Q326.pdf"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Number opener, real local place names, his own receipt, and an easy what-do-you-pay reply question.",
+   "pixel": "In the Model Y with the charging map up: Here's what fast charging costs on the Western Slope this week, and the national average is 54 and a half cents.",
+   "premium_target": "@ionnaofficial (verified) on its holiday pricing, or verified Rivian accounts (@RivianTrackr) on Adventure Network prices; reply with the Montrose bump and his Fruita number.",
+   "status": "ready",
+   "checkedAt": "2026-11-27",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-tesla-black-friday-zero",
+   "title": "$0 off a Tesla on Black Friday",
+   "topic": "EV / buying",
+   "angle": "People ask every year. There's no Tesla Black Friday sale; the real offers are the standing ones. Owner heads-up, not a deal ladder.",
+   "bullets": [
+    "As of Nov 22, no Tesla Black Friday or Thanksgiving vehicle deal was verified (TeslaRefCodes week-ahead, Nov 23).",
+    "Tesla US Current Offers: trade in a gas car, get 2,000 free Supercharging miles.",
+    "Same page: $500 off for military, first responders, healthcare workers, teachers and students; FSD (Supervised) $99/mo with a 30-day trial on delivery.",
+    "Financing listed: Model Y from 2.99% APR, Model 3 from 1.99% APR (up to 72 months); all promos subject to change. Recheck the page the morning he posts."
+   ],
+   "body": "$0 off a Tesla on Black Friday. There's no sale. What's on the page: 2,000 free Supercharging miles if you trade in a gas car, and $500 off for teachers, nurses and first responders. I bought mine {when and why I didn't wait for a sale}. Wait for a deal or just buy? 🤔",
+   "framework_body": "$0 off a Tesla on Black Friday. There's no sale. I looked.\n\nWhat's actually on the page right now:\n2,000 free Supercharging miles if you trade in a gas car\n$500 off for military, first responders, healthcare, teachers and students\nModel Y financing from 2.99%\n\nI bought mine {when and why I didn't wait for a sale}.\n\nIf a neighbor asked me today, I'd say {my one piece of buying advice}. Take a test drive, ask which date the offer counts on, and get it in writing.\n\nWould you wait for a deal or just buy? 🤔",
+   "links": [
+    "https://www.tesla.com/current-offers",
+    "https://www.teslarefcodes.com/blog/tesla-week-ahead-november-23-2026"
+   ],
+   "ocr": "OK",
+   "ocr_why": "Black Friday search traffic and a dollar opener with plain owner advice; check the Tesla page first in case Tesla drops something today.",
+   "pixel": "Next to his Model Y: Everybody asks if Tesla does Black Friday. Here's what I found.",
+   "premium_target": "Verified Tesla news accounts (@SawyerMerritt, @NotATeslaApp) if they post a holiday offer; reply with the owner take.",
+   "status": "ready",
+   "checkedAt": "2026-11-27",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-usps-zero-redelivery",
+   "title": "$0 USPS redelivery fee, so that text is fake",
+   "topic": "AI and scams / household",
+   "angle": "Black Friday orders ship today and fake package-on-hold texts come right behind them. One rule people remember, plus how he checks a weird text. Different from his WhatsApp/Telegram group warning yesterday.",
+   "bullets": [
+    "USPS does not charge a redelivery fee; its tracking texts only come if you signed up, and they have no links (FCC; Fox News citing USPS).",
+    "Forward suspicious texts to 7726 (SPAM); emails to spam@uspis.gov (FCC).",
+    "Fake package delivery problems were the most reported text scam in 2024 (FTC, cited by Fox News).",
+    "Non-payment and non-delivery scams cost people more than $503 million last year (FBI IC3, FBI Boston, Nov 24, 2026). New twist: texts saying your order is stuck in customs until you pay a tariff (FCC)."
+   ],
+   "body": "$0. That's what USPS charges to redeliver a package. So the text saying I owe {$X} to release my Black Friday order? Fake. Real USPS tracking texts don't even have links. I forward those to 7726 and {how I check a weird text first}. Gotten one yet? 📦",
+   "framework_body": "$0. That's what USPS charges to redeliver a package.\n\nSo the text saying I owe {$X} to release my Black Friday order? Fake.\n\nReal USPS tracking texts only come if you signed up. And they don't have links.\n\nThe new one going around says your package is stuck in customs until you pay a tariff. Also fake.\n\nWhat I do: forward it to 7726, delete it, and check the order in the store's own app. {how I check a weird text first, like pasting it into Grok and asking if it's real}\n\nThese scams took more than $503 million from people last year.\n\nIf you've got parents who shop online, send them this one.\n\nGotten one yet? 📦",
+   "links": [
+    "https://www.fcc.gov/how-identify-and-avoid-package-delivery-scams",
+    "https://www.fbi.gov/contact-us/field-offices/boston/news/fbi-boston-urges-consumers-to-beware-of-holiday-shopping-and-charity-scams"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Dollar opener, timely today, protect-the-family share that lands with 55+ too.",
+   "pixel": "Holding his Pixel with a scam text on screen, number covered: Got this one this week. Here's how I know it's fake.",
+   "premium_target": "Verified consumer-safety or tech accounts posting Black Friday scam warnings (@stockmom, who he already amplified on scams).",
+   "status": "ready",
+   "checkedAt": "2026-11-27",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-xcel-large-load-50mw",
+   "title": "50 MW: who pays for data center power on the Xcel bill (policy)",
+   "topic": "AI pocketbook / utility bill",
+   "angle": "Colorado regulators decide before year end how 50 MW+ customers like data centers pay for the lines and plants they need. His line: let tech pay its own way, not my bill.",
+   "bullets": [
+    "Colorado PUC finished the evidentiary hearing on Xcel's Large Load Tariff, Proceeding 26AL-0137E (PUC November newsletter, Nov 10).",
+    "It sets how customers needing 50 MW or more pay for transmission, substations, interconnection upgrades and new generation built for them.",
+    "A decision hearing is to be scheduled before the end of the calendar year.",
+    "Separately, Xcel's 2027-2028 resource adequacy plan has a proposed settlement, also up for decision before year end."
+   ],
+   "body": "50 megawatts. That's the line for Colorado's new rule on who pays for big power users like data centers. Decision's due before New Year's. I'm on Xcel with {my solar setup}. I'm fine with AI, but {who I think should pay for the new lines}. Should they pay their own way? 🤔",
+   "framework_body": "50 megawatts. That's the line for Colorado's new rule on who pays for big power users like data centers.\n\nThe PUC already held the hearing on Xcel's Large Load Tariff. Decision's due before New Year's.\n\nIt decides who pays for the new lines, substations and power plants these places need. Them, or the rest of us on our monthly bill.\n\nI'm on Xcel with {my solar setup}. I use AI every day and I'm fine with it. But {who I think should pay for the new lines}.\n\nMy bill runs about {my average Xcel bill}. I'd like it to stay that way.\n\nShould data centers pay their own way? 🤔",
+   "links": [
+    "https://content.govdelivery.com/accounts/CODORA/bulletins/4324ebf"
+   ],
+   "ocr": "OK",
+   "ocr_why": "Bill impact for every Xcel customer and his own take, but a pending decision with no dollar figure yet.",
+   "pixel": "At his Xcel meter or Enphase gateway: Colorado's about to decide who pays for data center power. Here's where I stand.",
+   "premium_target": "Verified energy reporters posting data-center bill stories; one line on who should pay.",
+   "status": "ready",
+   "checkedAt": "2026-11-27",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-lafayette-outage-plan",
+   "title": "300 homes dark for Thanksgiving: what's my outage plan (soft)",
+   "topic": "Home energy / backup",
+   "angle": "Front Range neighbors lost power for the holiday from one bad underground cable. What his own backup plan is. Neighborly, no utility bashing.",
+   "bullets": [
+    "Nearly 300 Xcel customers in Lafayette, CO lost power Wednesday morning, mostly in Centaur Village West (Denver7).",
+    "An underground cable failed, was repaired, then failed again; crews replaced about 600 feet of cable.",
+    "Xcel expected restoration Thursday evening and brought in a generator for up to 30 customers.",
+    "One family packed food into coolers and moved Thanksgiving to a relative's house."
+   ],
+   "body": "300 homes in Lafayette spent Thanksgiving without power. One cable, failed twice. If that was my street, my plan is {what I'd actually do: Model Y, solar, cooler, or nothing yet}. Solar alone doesn't keep the lights on when the grid's down. What's your outage plan? 🔦",
+   "framework_body": "300 homes in Lafayette spent Thanksgiving without power. One underground cable, failed twice.\n\nOne family packed the food in coolers and moved dinner to a relative's house. That's a rough holiday.\n\nIf that was my street, my plan is {what I'd actually do: Model Y, solar, cooler, or nothing yet}.\n\nThing a lot of people don't know: regular grid-tied solar shuts off when the grid goes down. My panels {what my setup does in an outage}.\n\nNo knock on the crews, they replaced 600 feet of cable on a holiday.\n\nWhat's your outage plan? 🔦",
+   "links": [
+    "https://www.denver7.com/news/local-news/hundreds-in-lafayette-spend-thanksgiving-without-power-after-xcel-energy-underground-cable-fails"
+   ],
+   "ocr": "OK",
+   "ocr_why": "Colorado and Xcel tie with a real human moment, but a day old and not his town; skip if restoration has moved on.",
+   "pixel": "In the garage: If the power went out at my house today, here's what I've got.",
+   "premium_target": "Verified Denver news accounts posting the outage update.",
+   "status": "ready",
+   "checkedAt": "2026-11-27",
+   "window": "Brian picks"
+  }
+ ]
+}
