@@ -1,0 +1,136 @@
+{
+ "date": "2026-11-28",
+ "label": "FRAMEWORK drafts (rewrite-before-post). Draft-only; you post it yourself.",
+ "growth_bets": [
+  "F1 winter range with his own screen: Model Y owners screenshot and reply with their numbers, and verified EV data accounts (Recurrent, InsideEVs) repost real-owner data. Best save/reply bait today. Verified last known 232, 268 to 500.",
+  "F2 Colorado 2027 credit: useful money info people save and forward to someone shopping, which pulls in local verified followers and replies from Colorado shoppers."
+ ],
+ "held": "Held from pack: AP4 I-70 snow return (soft, overlaps Nov 24 I-70 item), AP6 Ontario Bolt cable shock (soft, Canadian, fear-adjacent), AP8 SpaceX Arizona 6 GW (policy, too close to Nov 27 F4 Xcel large-load tariff). Post-pack rescan since 2126560470207524952: zero new. Followers 510.",
+ "drafts": [
+  {
+   "id": "ready-winter-range-84",
+   "title": "84% of summer range at 32°F. Here's my Model Y (MAIN)",
+   "topic": "EV / winter range",
+   "angle": "Fresh Recurrent winter-range data the same weekend snow hits I-70. His own screen next to the study. New data, so it builds on the Nov 25 winter-drive frame instead of repeating it.",
+   "bullets": [
+    "Recurrent studied real-world data from 59,000+ EVs (InsideEVs, Nov 25).",
+    "Tesla Model Y keeps 84% of its ideal range at 32°F and 75% at 20°F.",
+    "Model S 90%, Cybertruck 89%, Polestar 2 88%, Model X 87%, Model 3 85% at 32°F.",
+    "Rivian R1S, VW ID.4, Kia EV6 and Nissan Ariya land around 80% at 32°F."
+   ],
+   "body": "84%. That's how much summer range a Model Y keeps at 32°F, per Recurrent's look at 59,000 EVs. At 20°F it's 75%.\n\nMine this morning: {range on my screen} at {temp in my town}.\n\nWhat's winter doing to yours? ❄️",
+   "framework_body": "84%. That's how much of its summer range a Model Y keeps at 32°F. Recurrent looked at real data from 59,000 EVs. At 20°F it drops to 75%.\n\nMine this morning showed {range on my screen} at {temp in my town}. In summer I see {my summer number}.\n\nWhat I do different in winter: I precondition before I leave, {what else I do}, and I plan stops a little closer on I-70.\n\nCybertruck held 89%, Model S 90%. Most of the rest sit around 80%.\n\nWinter costs you some range. It doesn't cost you the trip.\n\nWhat's winter doing to yours? ❄️",
+   "links": [
+    "https://insideevs.com/news/816753/ev-winter-range-loss-2026-ranking/",
+    "https://www.recurrentauto.com/research/winter-ev-range-loss"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Number opener, his own screen, Tesla crowd, and an easy post-your-number reply.",
+   "pixel": "In the car with the range on screen and frost outside: Study says a Model Y keeps 84% of its range at freezing. Here's mine today.",
+   "premium_target": "Quote Recurrent or InsideEVs (verified) posting the winter ranking, with his Model Y number.",
+   "status": "ready",
+   "checkedAt": "2026-11-28",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-colorado-credit-2027",
+   "title": "Colorado EV credit goes to $2,000 in 2027. Buy now or wait?",
+   "topic": "EV / Colorado incentives",
+   "angle": "A real Colorado money question for anyone shopping this month. Owner's take, not a deal ladder.",
+   "bullets": [
+    "Today: $750 Colorado credit for new EVs up to $80,000 MSRP, plus $2,500 more up to $35,000 MSRP (Colorado Energy Office).",
+    "2027 tax year: credit rises to $2,000 for new EVs up to $50,000 MSRP.",
+    "2027: the extra $2,500 applies under $40,000 MSRP.",
+    "The 2027 note only lists EVs up to $50K MSRP, so pricier EVs should check before waiting.",
+    "Some dealers let buyers assign the credit for a discount at the point of sale."
+   ],
+   "body": "$2,000. That's Colorado's EV tax credit in 2027, up from $750, for new EVs up to $50K MSRP. Under $40K adds $2,500 more.\n\nIf I were shopping now I'd {buy now or wait, and why}.\n\nAnybody holding off until January? 🤔",
+   "framework_body": "$2,000. That's what Colorado's EV tax credit goes to in 2027. Right now it's $750.\n\nThe catch: the 2027 credit is for new EVs up to $50K MSRP. Under $40K you get $2,500 more on top. Today the line is $80K for the $750.\n\nSo if you're eyeing something pricey, the math may say buy now. If it's under $50K, waiting a month could be real money.\n\nWhat I'd tell a neighbor: check the MSRP against that $50K line and ask the dealer if you can assign the credit at the counter.\n\nMe? {buy now or wait, and why}.\n\nAnybody holding off until January? 🤔",
+   "links": [
+    "https://energyoffice.colorado.gov/transportation/grants-incentives/electric-vehicle-tax-credits",
+    "https://www.atthecharger.com/guides/incentives/colorado-ev-tax-credit-2026-2027"
+   ],
+   "ocr": "Strong",
+   "ocr_why": "Dollar opener, local and useful, people save it and send it to someone shopping.",
+   "pixel": "In the driveway by the Model Y: Colorado's EV credit almost triples in January. Here's who should wait.",
+   "premium_target": "Reply to a verified Colorado local news or EV account covering the 2027 credit.",
+   "status": "ready",
+   "checkedAt": "2026-11-28",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-denver-waymo-eggs",
+   "title": "30 egg attacks on Denver Waymos. Robotaxis are coming anyway",
+   "topic": "EV / robotaxi",
+   "angle": "Colorado's first robotaxis keep getting egged. FSD owner's calm take, no politics.",
+   "bullets": [
+    "Waymo says it counted at least 30 egg attacks on its robotaxis in Denver (Electrek, Nov 26).",
+    "The man allegedly boxes cars in with orange cones first; police say he drove a Corolla from a Lyft-leased fleet.",
+    "Detailing on the egged cars came to about $2,000, no permanent damage.",
+    "The Denver DA declined charges but is gathering evidence with the city attorney to stop it.",
+    "Waymo opened Denver service about two months ago."
+   ],
+   "body": "30 times. That's how often one guy in Denver boxed in a Waymo with cones and egged it. Detailing ran about $2,000 and the DA passed on charges.\n\nRobotaxis are coming anyway. {my take as an FSD owner}\n\nWould you ride in one? 🚕",
+   "framework_body": "30 times. That's how many egg attacks Waymo says it's counted in Denver. The guy boxes the car in with orange cones first, then eggs it.\n\nAbout $2,000 in detailing so far. The DA passed on charges, but the city's working on a way to stop it.\n\nI use FSD on my Model Y {how often}. {what it's like for me}.\n\nOut here on the Western Slope, a car that drives itself could mean {who it could help}.\n\nYou can egg a robotaxi. You can't egg it out of existence.\n\nWould you ride in one? 🚕",
+   "links": [
+    "https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/",
+    "https://denverite.com/2026/11/24/denver-waymo-egging-laws/"
+   ],
+   "ocr": "OK",
+   "ocr_why": "Odd local story with a number opener; robotaxi debate drives replies, but it's news not first-hand.",
+   "pixel": "Some guy in Denver has egged Waymos 30 times. Here's why I'm not worried about robotaxis.",
+   "premium_target": "Quote Electrek (verified) or a verified FSD/robotaxi creator on the story with one opinion line.",
+   "status": "ready",
+   "checkedAt": "2026-11-28",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-ai-deal-check",
+   "title": "$7.1B online on Thanksgiving. AI shopping traffic up 162%",
+   "topic": "AI pocketbook",
+   "angle": "AI for normal people: have it check a deal before you buy. Cyber Monday is two days out, so his own example is the hook.",
+   "bullets": [
+    "US shoppers spent a record $7.1 billion online on Thanksgiving Day, up 10.4% (Adobe Analytics, Nov 27).",
+    "Traffic from AI tools like ChatGPT, Gemini and Claude was up 162% and converted 74% better.",
+    "Mobile was a record 63.2% of Thanksgiving online sales.",
+    "Adobe forecast $12.9 billion for Black Friday, up 9.2%."
+   ],
+   "body": "$7.1 billion spent online on Thanksgiving Day. Shoppers coming from AI tools were up 162%, per Adobe.\n\nI had AI check {the deal I was looking at} and it {what it found}.\n\nDid you let AI check a deal this week? 🛒",
+   "framework_body": "$7.1 billion. That's what we spent online on Thanksgiving Day, a record. The part that got me: shoppers coming from AI tools were up 162%, and they bought 74% more often.\n\nI did it too. I asked AI about {the deal I was looking at}. It {what it found}.\n\nFor anybody 55 and up, here's the easy way: paste the link and ask \"is this the real price, and is this store legit?\"\n\nCyber Monday is Monday. Let it check before you click buy.\n\nDid you let AI check a deal this week? 🛒",
+   "links": [
+    "https://www.digitalcommerce360.com/article/thanksgiving-ecommerce-sales/"
+   ],
+   "ocr": "OK",
+   "ocr_why": "Number opener plus a first-person AI example; strong only if he fills in a real deal he checked.",
+   "pixel": "Phone in hand: I asked AI if this was really a deal. Here's what it told me.",
+   "premium_target": "Quote a verified AI creator posting about AI shopping or deal-checking.",
+   "status": "ready",
+   "checkedAt": "2026-11-28",
+   "window": "Brian picks"
+  },
+  {
+   "id": "ready-cranberry-solar",
+   "title": "Cranberries harvested under solar panels. Palisade peaches next?",
+   "topic": "Solar / farms",
+   "angle": "Solar that helps farm families, with a Western Slope hook and his own solar numbers as proof.",
+   "bullets": [
+    "Massachusetts has two cranberry bogs harvested under working solar panels, believed to be the first in the US (Canary Media).",
+    "Kingston: 4.4 MW of solar with a 13.5 MWh battery; Plymouth: 1 MW.",
+    "Panels are raised so farm equipment fits under them; pilings went far deeper than usual in bog ground.",
+    "A state farm official called it a farm viability opportunity."
+   ],
+   "body": "4.4 megawatts of solar over a cranberry bog in Massachusetts. They harvested the berries right under the panels.\n\nPalisade peaches next? {my take on Western Slope farms and solar}\n\nWould you put panels over a crop? ☀️",
+   "framework_body": "4.4 megawatts of solar over a cranberry bog in Massachusetts. They raised the panels high enough for the equipment and harvested the berries right underneath.\n\nThe farm keeps farming and gets a power check too.\n\nMy panels made {my solar numbers} last month here in Rifle. The sun works on the Western Slope.\n\nSo why not over Palisade orchards or hay ground? {my take}\n\nFarmers don't need one more bill. They could use one more crop.\n\nWould you put panels over a crop? ☀️",
+   "links": [
+    "https://www.canarymedia.com/articles/food-and-farms/cranberry-bogs-side-of-solar"
+   ],
+   "ocr": "OK",
+   "ocr_why": "Fun visual and a local twist; weaker without a dollar figure.",
+   "pixel": "By his panels: They're growing cranberries under solar back east. Here's why that could work here.",
+   "premium_target": "Quote Canary Media (verified) or a verified solar/ag account sharing the cranberry project.",
+   "status": "ready",
+   "checkedAt": "2026-11-28",
+   "window": "Brian picks"
+  }
+ ]
+}
